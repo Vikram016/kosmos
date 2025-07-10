@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kosmos Society</title>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+   
+</head>
+<body>
+
+  <header>
+    <img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=80&q=80" alt="Kosmos Logo" style="height:60px;width:60px;border-radius:50%;vertical-align:middle;margin-right:16px;">
+    <h1 style="display:inline;vertical-align:middle;">Kosmos Society</h1>
+    <p>Liberty, Equality, Fraternity, Evolution</p>
+  </header>
+
+  <!--<nav>-->
+  <!--  <a href="#intro">Introduction</a>-->
+  <!--  <a href="#tech">Tech Projects</a>-->
+  <!--  <a href="#principles">Principles</a>-->
+  <!--  <a href="#constitution">Same Water</a>-->
+  <!--  <a href="#join">Join</a>-->
+  <!--</nav>-->
+
+  <section class="hero">
+    <h2>We are humanity’s first space company enabling potentially any human to go to space and live in space using simplified technologies and natural social systems.</h2>
+    <div class="cta-buttons">
+      <button onclick="alert('Join Page Coming Soon')">Join the Mission</button>
+      <button onclick="alert('Yuri Plan Coming Soon')">Explore the Yuri Plan</button>
+    </div>
+  </section>
+
+
+  <section class="chapter-grid">
+    <div class="chapter-card" data-chapter="introduction">01. Introduction</div>
+    <div class="chapter-card" data-chapter="principles">02. Product Principles</div>
+    <div class="chapter-card" data-chapter="projects">03. Techno Projects</div>
+    <div class="chapter-card" data-chapter="constitution">04. Same Water Constitution</div>
+    <div class="chapter-card" data-chapter="join">05. Join Us</div>
+    <div class="chapter-card" data-chapter="credits">06. Credits</div>
+  </section>
+
+  <!-- Modal Structure -->
+  <div id="chapterModal" class="modal" style="display:none;">
+    <div class="modal-content">
+      <span class="close" id="closeModal" style="float:right;font-size:2em;cursor:pointer;">&times;</span>
+      <div id="modalText"></div>
+    </div>
+  </div>
+
+  <footer>
+    Kosmos Society &copy; 2025 | Last updated: July 10, 2025 – 18:58 hrs
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
