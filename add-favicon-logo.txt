@@ -1,0 +1,8 @@
+<!-- Add this to the <head> section of your index.html -->
+<link rel="icon" type="image/png" href="assets/favicon.png">
+<link rel="shortcut icon" href="assets/favicon.png">
+<link rel="apple-touch-icon" href="assets/favicon.png">
+
+<!-- Logo for header or navigation -->
+<!-- Example: Place this inside your header or nav -->
+<img src="assets/logo.png" alt="Kosmos Logo" style="height:48px;width:auto;display:inline-block;vertical-align:middle;">
