@@ -74,14 +74,14 @@ body {
 }
 
 #modalText {
-  color: #ffe066;
+  color: #ffffc5;
   flex: 1;
   overflow-y: auto;
   padding-right: 1rem;
 }
 
 #modalText p, #modalText ul, #modalText ol, #modalText div, #modalText section {
-  margin-bottom: 2em;
+  margin-bottom: 10px;
 }
 
 #modalText ul {

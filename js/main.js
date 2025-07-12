@@ -236,8 +236,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               font-family: Poppins,sans-serif;
             }
           </style>
-          <h2 style="color:#fff;text-align:center;margin-bottom:1.5em;">Introduction :</h2>
-          <div style="color:#FFFF00;font-size:1.1em;white-space:pre-line;">
+          <h2 style="color:#fff;text-align:center;margin-bottom:10px;">Introduction :</h2>
+          <div style="color:#FFFFc5;font-size:1.1em;white-space:pre-line;">
             We present “Same Water”, a draft of a progressive pan-human constitution for Space. This 
             draft is not a full preparation but still substantial and we will further it by discussions in 
             progressive forums and join it with others’ drafts for this purpose. 
@@ -908,8 +908,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               scrollbar-color: #fff #222;
             }
           </style>
-          <h2 style="color:#fff;text-align:center;margin-bottom:1.5em;margin-top:20px;font-family:Poppins,sans-serif;">Introduction</h2>
-          <div style="color:#FFFF00;font-size:1.1em;font-family:Roboto,sans-serif;">
+          <h2 style="color:#fff;text-align:center;margin-bottom:10px;margin-top:20px;font-family:Poppins,sans-serif;">Introduction</h2>
+          <div style="color:##FFFFc5;font-size:1.1em;font-family:Roboto,sans-serif;">
             <p style='margin-bottom:2em;'>We are humanity’s first space company enabling potentially any human to go to space and live in space using simplified technologies and natural social systems.</p>
             <p style='margin-bottom:2em;'>The disappointed 100,000 people desiring space travel :</p>
             <p style='margin-bottom:1em;'>Now in 2025 there must be at least 100,000 people in the world desiring to go to space right now for the below reasons :</p>
@@ -1001,8 +1001,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               scrollbar-color: #fff #222;
             }
           </style>
-          <h2 style="color:#fff;text-align:center;margin-bottom:1.5em;">Our progressive product design principles</h2>
-          <div style="color:#FFFF00;font-size:1.1em;">
+          <h2 style="color:#fff;text-align:center;margin-bottom:10px;">Our progressive product design principles</h2>
+          <div style="color:##FFFFc5;font-size:1.1em;">
             <p style='margin-bottom:1em;'>&gt;&gt; Liberty, Equality, Fraternity, Humanism, Simplicity, Human safety as much as possible, Respect for Nature including reversing Climate Change on Earth</p>
             <p style='margin-bottom:1em;'>&gt;&gt; Readiness to explore sensible methods that are from old times or are unusual</p>
             <p style='margin-bottom:1em;'>&gt;&gt; We won’t do a technology just because there are a hundred other companies doing it or it has been done for a hundred years or just because it has been proposed by some celebrated scientist but the idea is not sensible, for example the concept called Dyson Sphere aka Dyson Swarm</p>
@@ -1046,17 +1046,17 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               scrollbar-color: #fff #222;
             }
           </style>
-          <h2 style="color:#fff;text-align:center;margin-bottom:1.5em;">Introduction :</h2>
-          <div style="color:#FFFF00;font-size:1.1em;white-space:pre-line;">
-            Join us in the journey to explore the universe and evolve humanity. We will be a 
+          <h2 style="color:#fff;text-align:center;margin-bottom:10px;">Introduction :</h2>
+          <div style="color:#FFFFc5;font-size:1.1em;white-space:pre-line;">
+            <p> Join us in the journey to explore the universe and evolve humanity. We will be a 
             transnational non-profit design house who will engage with potential co-workers, investors, 
-            other private organizations and national governments in these ways : 
-            >> B2G and B2B collaborations. 
-            >> Potential co-workers investing ideas and labor and joining our team on salary basis in 
-            context of their democratic involvement as described below. 
-            >> Combination of the above. 
-            B2G and B2B collaborations : 
-            >> B2G and B2B collaboration via government and private investors investing money and 
+            other private organizations and national governments in these ways:</p>
+            <p> >> B2G and B2B collaborations. </P> 
+            <p> >> Potential co-workers investing ideas and labor and joining our team on salary basis in 
+            context of their democratic involvement as described below. </p
+           <p> >> Combination of the above. </p>
+            B2G and B2B collaborations: 
+            <p> >> B2G and B2B collaboration via government and private investors investing money and 
             other resources in us so that we will be able to produce our prototypes and license them out 
             to governments. The investors’ return on investment will be share from our license fee we 
             ask from the manufacturer governments. Once you invest in us for the first time your return 
@@ -1066,28 +1066,28 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             approached to license our designs to them and this situation will exist as long as the system 
             of money remains. The return on investment will also be the satisfaction of enabling and 
             seeing an evolved space industry and the evolved collective human society which no 
-            reasonable person can disagree with. 
-            >> B2G and B2B collaboration for us to obtain the components in our designs. 
-            >> B2G collaboration via we licensing out our product designs, engineering details and 
+            reasonable person can disagree with. </p
+            <p> >> B2G and B2B collaboration for us to obtain the components in our designs. <p>
+           <p> >> B2G collaboration via we licensing out our product designs, engineering details and 
             prototypes to manufacturer organizations of national governments. This license fee will be 
             for the package of an entire human space program with its associated systems at a 
             reasonably cheap license fee and this fee includes continued development by us. We will 
             provide these governments the means to create the cheapest and simplest human space 
             program so that every citizen of theirs can go to space and live in space either by being 
-            charged a minimal fee or ideally no fees. 
+            charged a minimal fee or ideally no fees. </p>
             You as our co-worker : 
-            This collaboration will be on the basis of natural social equality and natural intelligence. We 
-            look for people ideally with the following attributes : 
-            >> You can be a school 10th class fail but if you have ideas, knowledge, willingness to work 
-            and maybe experience in tinkering and other areas then most welcome. 
-            >> You do innovative and simplifying thinking even if going against traditions, industry 
-            standards and fashions. 
-            >> You are simple, gentle and not given to spouting corporate buzzwords. 
-            >> You have no love for money, feudalism and classist thinking. 
-            >> You desire a largely secular borderless unification of humanity on Earth and in Space. 
-            >> You consider the cat as the most perfect animal in the universe, heh heh. 
-            >> You consider tea as one of the main human gifts giveable to alien cultures, heh heh. 
-            We are not a typical profiteering and feudalist corporate organization which works on 
+            <p> This collaboration will be on the basis of natural social equality and natural intelligence. We 
+            look for people ideally with the following attributes: </p> 
+            <p> >> You can be a school 10th class fail but if you have ideas, knowledge, willingness to work 
+            and maybe experience in tinkering and other areas then most welcome. </p>
+            <p> >> You do innovative and simplifying thinking even if going against traditions, industry 
+            standards and fashions. </p> 
+           <p> >> You are simple, gentle and not given to spouting corporate buzzwords. </p>
+           <p> >> You have no love for money, feudalism and classist thinking. </p>
+           <p> >> You desire a largely secular borderless unification of humanity on Earth and in Space. </p>
+           <p> >> You consider the cat as the most perfect animal in the universe, heh heh. </p>
+           <p> >> You consider tea as one of the main human gifts giveable to alien cultures, heh heh. </p>
+           <p> We are not a typical profiteering and feudalist corporate organization which works on 
             fashionable and senseless technologies and uses senseless corporate lingo in every 
             sentence ( “verticals”, “market fit”, “cost to company”, “we are letting you go”, “due diligence” 
             etc ). We are a techno-social organization set up to evolve humanity in multiple senses 
@@ -1096,50 +1096,50 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Fraternity” is after all one of our credos. So our company-internal organization of people 
             employs the Workers Cooperative concept which is described in the “Same Water…” 
             chapter on this website. Please read that chapter and return to this point. Additionally in our 
-            company : 
-            >> For the sake of current company formation rules the company equity is divided in three 
+            company : </p>
+            <p> >> For the sake of current company formation rules the company equity is divided in three 
             parts : one part for the founders ( as at the time of formal registration of the company ), the 
             second part for the investors, and the third part for any new co-workers where the founders 
-            will dilute their equity equally to spread equity equally among all the workers. 
-            >> There will be no “boss cabin”. 
-            >> Salary will be an equal amount for all that is comfortable for all our workers in all our 
-            regions but the salary will be based on an Indian number since we will be HQed in India. 
-            >> The organization is arranged as a set of work groups which will be for the various 
-            research groups and maintenance groups. 
-            >> The organization will be headed by a General Coordinator ( GC ) who for some years to 
+            will dilute their equity equally to spread equity equally among all the workers. </p>
+           <p>  >> There will be no “boss cabin”.  </p>
+           <p> >> Salary will be an equal amount for all that is comfortable for all our workers in all our 
+            regions but the salary will be based on an Indian number since we will be HQed in India. </p>
+           <p> >> The organization is arranged as a set of work groups which will be for the various 
+            research groups and maintenance groups. </p>
+            <p> >> The organization will be headed by a General Coordinator ( GC ) who for some years to 
             come will be Sameer who is described just below. The General Coordinator will be 
             approachable to every worker, will be the interface within the organization and externally, 
             and every worker if necessary can arrange to call a discussion circle with a notification sent 
             to the GC. Further, each of our branches in other countries or regions ( other than India ) will 
-            have a Regional Coordinator. 
-            The industry of space travel is a permanent one and involves science of every kind except 
+            have a Regional Coordinator. </p>
+            <p> The industry of space travel is a permanent one and involves science of every kind except 
             for sciences with no real basis in a simplified, non-trend-following and democracy-oriented 
             organization, so with us you will be in permanent employment. You will have a comfortable 
-            salary as long as the system of money remains. 
-            Please note that we are just starting out so it will be some time before you start getting 
+            salary as long as the system of money remains. </p>
+           <p> Please note that we are just starting out so it will be some time before you start getting 
             salary and we all get salaries so please be patient and look at the big picture and the long 
-            term. 
+            term. </p>
             Our founding team : 
-            Mohammed Sameer - General Coordinator 
+           <p> Mohammed Sameer - General Coordinator 
             [ Description : Sameer is originally from computing background but he considers himself a 
             general researcher with interests ranging from generation of electricity to organization of 
             society, like those "polymaths" of old like Hasan Ibn al-Haytham, Leonardo da Vinci and 
             Jagadish Chandra Bose ] 
-            [ linkedin.com/in/sameer-kosmos-society ] 
-            Prof. Dr. Gajendran Chandran - Chief Advisor 
+            [ linkedin.com/in/sameer-kosmos-society ] </p>
+            <p> Prof. Dr. Gajendran Chandran - Chief Advisor 
             [ Description : Dr. Gajendran is a veteran aerospace scientist but his interests are many - 
             from philosophy to nano tech to power generation and other fields in a nuanced and 
             humanist way. He has been an advisor to Sameer for years and brings a practised, practical 
             and also system-level thinking to the organization not only about technology but the human 
             condition too ] 
-            [ https://in.linkedin.com/in/prof-dr-gajendran-chandran-79866320 ] 
-            Prof. Dr. Siddharth Dabhade - Advisor 
+            [ https://in.linkedin.com/in/prof-dr-gajendran-chandran-79866320 ] </p>
+           <p> Prof. Dr. Siddharth Dabhade - Advisor 
             [ Description : Dr. Siddharth has been a patient supporter of the organization for more than 
             two years. He joined our more little group when we didn’t have this organization and our sole 
             project was the Kosmos microprocessor+OS. Presently, he has been an advisor in a 
             system-level way ] 
-            [ https://in.linkedin.com/in/siddharth-dabhade-a6392025 ] 
-            Afzal - Advisor 
+            [ https://in.linkedin.com/in/siddharth-dabhade-a6392025 ] </p>
+           <p> Afzal - Advisor 
             [ Description : Afzal is a practical person but also philosophical. He has been a patient 
             supporter of the organization from the time it was thought up in early 2023. He contributes 
             presently to our electricity generator project, our spaceship projects and the 
@@ -1147,12 +1147,12 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Mahmoud Hosny - Regional Coordinator, Africa and West Asia  
             [ Description : Mahmoud is based in Cairo and will manage liaison to the administrations and 
             the masses in the vast regions that are Africa and West Asia. He is a straight-talking person 
-            and patient including the time it took for the organization to come to this level ] 
-            Syed Athiq Jeelani - Advisor 
+            and patient including the time it took for the organization to come to this level ]  </p>
+            <p> Syed Athiq Jeelani - Advisor 
             [ Description : Athiq dabbles in various fields like power adapter design, ready-to-cook foods 
             and management of a school. Athiq is inquisitive, patient and provides a practical side to 
             things. He is our electrical expert ] 
-            [ https://in.linkedin.com/in/saj-iot ] 
+            [ https://in.linkedin.com/in/saj-iot ] </p> 
             [ “Contact info” pic here ]
           </div>
         </div>
@@ -1183,8 +1183,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               scrollbar-color: #fff #222;
             }
           </style>
-          <h2 style="color:#fff;text-align:center;margin-bottom:1.5em;">Credits</h2>
-          <div style="color:#FFFF00;font-size:1.1em;">
+          <h2 style="color:#fff;text-align:center;margin-bottom:10px;">Credits</h2>
+          <div style="color:#FFFFc5;font-size:1.1em;">
             <p style='margin-bottom:1em;'>&gt;&gt; Vikram J for the logo and website design.</p>
             <p style='margin-bottom:1em;'>&gt;&gt; Apoorva JR for presenting to us an Instagram page ( forgot the page name ) in 2023 which contained reports on eco-friendly ways of generating electricity and which led to our discovery of the “sand battery” which we use in our design of the Faradn generator. Apoorva’s LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#FFFF00;">https://www.linkedin.com/in/apoorvajr</a> ]. We also thank the owner of that Insta page and the company Polar Night Energy who thought of applying the sand battery in a real life setting and this news was listed on that Insta page.</p>
             <p style='margin-bottom:1em;'>&gt;&gt; Vishal Bhimrao Zuluk for the idea about doing computation using sound.</p>
@@ -1194,16 +1194,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p style='margin-bottom:1em;'>&gt;&gt; Background picture for the website is from the DeviantArt website’s DreamUp AI picture generation facility.</p>
             <p style='margin-bottom:1em;'>&gt;&gt; In general all the good thinkers of the past and present whose thoughts and works we use in our projects.</p>
           </div>
-          <div style="color:#FFFF00;font-size:1.1em;">
-            <p style='margin-bottom:1em;'>&gt;&gt; Vikram J for the logo and website design.</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; Apoorva JR for presenting to us an Instagram page ( forgot the page name ) in 2023 which contained reports on eco-friendly ways of generating electricity and which led to our discovery of the “sand battery” which we use in our design of the Faradn generator. Apoorva’s LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#FFFF00;">https://www.linkedin.com/in/apoorvajr</a> ]. We also thank the owner of that Insta page and the company Polar Night Energy who thought of applying the sand battery in a real life setting and this news was listed on that Insta page.</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; Vishal Bhimrao Zuluk for the idea about doing computation using sound.</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, made using an electro-magnetic relay. This vid called “1026 The easiest inverter you will ever make” is on this page [ <a href="https://www.youtube.com/watch?v=L-vC9SvU2Lo" target="_blank" style="color:#FFFF00;">https://www.youtube.com/watch?v=L-vC9SvU2Lo</a> ]. This we use in our design of the Faradn generator.</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; The YouTube channel “The Action Lab” for the idea about using heat to run a piston engine. This vid called “This engine runs on sound waves” is on this page [ <a href="https://www.youtube.com/watch?v=xCnxsoXtlmY" target="_blank" style="color:#FFFF00;">https://www.youtube.com/watch?v=xCnxsoXtlmY</a> ]. This we use in our design of the Faradn generator.</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; Coke Studio Bangla Season One for presenting the song “Shob Lokey Koy” which we use to name our constitution for space. The song is available on YouTube on this page [ <a href="https://www.youtube.com/watch?v=L-arhlgPiy8" target="_blank" style="color:#FFFF00;">https://www.youtube.com/watch?v=L-arhlgPiy8</a> ] and there are other songs there too.</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; Background picture for the website is from the DeviantArt website’s DreamUp AI picture generation facility.</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; In general all the good thinkers of the past and present whose thoughts and works we use in our projects.</p>
-          </div>
+          
         </div>
       `;
       modal.style.display = 'flex';
@@ -1232,15 +1223,15 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               scrollbar-color: #fff #222;
             }
           </style>
-          <div style="color:#FFFF00;font-size:1.1em;">
-            <h3 style="color:#fff;">Faradn electricity generator</h3>
+          <div style="color:#FFFFc5;font-size:1.1em;">
+            <h2 style="color:#fff;margin-bottom:10px;text-align:center;">Faradn electricity generator</h2>
             <p>Advancement in electricity generation is not to make the generators huge, centralized, complicated, unsafe, polluting and needless like nuclear, hydropower dams, on-sea wind turbines etc along with their complicated and huge system controls, power controls and power delivery mechanisms and all these stretched hundreds of kilometers or even millions of kilometers like the idiotic concept Dyson Swarm There’s even an unspoken nefarious element here like promotion of Space-based Solar Power where huge photovoltaic panels will sit in Earth orbit and convert the abundant sunlight there to electricity, convert the electricity to high-power microwaves and send down the microwaves to certain large-focus spots on Earth where on those spots on the ground the microwaves are converted back to electricity by rectennas to be supplied to the grid The nefarious element here is the potential of this system to be used to zap humans and other things using the high-power microwaves by moving these power satellites over targets</p>
             <p>Advancement then in electricity generation is to make generators simple, compact, safe and decentralized, where the generator sits within the small and large machines needing electricity or just outside them Making generators compact will also enable redundancy, easy replacement and easy placement in any place which needs electricity instead of centralized single points of failure This also contributes to democracy where the individual user freely owns the electricity generation mechanism and its produced electricity</p>
             <p>Faradn generator system will be such a generator which is very non-nuclear and will power all our non-micro-sized products by sitting within them or just outside them Once this generator has been supplied with a “start heat” it will use thermo-mechanical method to generate electricity and will include a “sand battery” to store heat to enable a self-sustaining energy loop It will produce 24 volts DC which is neither too low a current nor dangerously high and can be amplified by external systems like a motor-generator for larger or high-voltage applications Most systems will work with DC</p>
             <p>The name of this system, Faradn, refers to two things : an acknowledgement to Michael Faraday and a nod to the Dune story which has the character Farad’n</p>
             <p>Please check the “Credits” chapter to see where we derive some of our ideas for the generator</p>
             <p>There can be a rechargeable battery included within this system or outside this system to provide short-duration backup and enable generator switchover when one generator fails But this battery will have to be eco-friendly and socially harmonious in terms of its electricity storage materials, electrodes and packaging</p>
-            <h3 style="color:#fff;">About both Alef-A and Alef-F spaceships</h3>
+            <h2 style="color:#fff;text-align:center;">About both Alef-A and Alef-F spaceships</h2>
             <p>The name “Alef” is a joined word with the below meaning :</p>
             <ul>
               <li>&gt;&gt; The “lef” comes from the slogan “Liberty, Equality, Fraternity” which is a slogan in multiple progressive thought streams including the Preamble ( introduction ) to the Indian Constitution</li>
@@ -1256,13 +1247,13 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               <li>&gt;&gt; Our steam-based propulsion uses a simple heating mechanism to turn water to steam instead of having other complex and unsafe propulsion mechanisms like plasma or nuclear power</li>
             </ul>
             <p>It may be possible to form these two spaceships to have artificial gravity generation using spin by spinning sections of the craft This enabling will allow humans to live in healthy Earth-like gravity for most of their space journeys and also configure lower or higher gravity to prepare the human travellers for the gravity of other worlds like the Moon or Red One</p>
-            <h3 style="color:#fff;">Frema computer networking system</h3>
+            <h2 style="color:#fff;text-align:center;">Frema computer networking system</h2>
             <p>Frema is our own in-design wireless internet system for Space and Earth which will be used by our Dune Buk wearable computer Frema will use radio-frequency for normal communication The system will be based on peer-to-peer architecture which among other things will require very few transmission relay towers The system will also do signaling using light or magnetic pulse / field or infrasound as per situation The signaling system and the communication protocol will factor-in the delay-included conditions of long-distance communication in space Further, the wearable will be directly able to connect from the ground to low orbiting communication satellites to enable live voice, video, text and other data communication There will be a messaging system where different kinds of data will be played in the same type of window The data can be text, still pic, vid, just voice and other data Text will be displayed like paper book pages The played data can be locally stored or can come from another Dune Buk comp and in case of the latter, if there are multiple participants in a chat the data will be forwarded to all the participants' comps in a peer-to-peer forwarding way The wearable will be connectable to the current internet using bridge computers</p>
-            <h3 style="color:#fff;">Ra-D mini drone</h3>
+            <h2 style="color:#fff;text-align:center;">Ra-D mini drone</h2>
             <p>The Ra-D will be a heater-equipped drone small enough to fit on top of the Dune Buk wearable computer This drone will be powered electrically and have the ability to fly, to wheel along the ground and swim In flight mode it can be launched from the hand and return to the hand This drone when flying will be used for vlogging, searching, communications relay, emergencies and as a forward scout when people travel in ground vehicles on unknown territory Similar cases for its wheeling mode and swimming mode This drone will be usable on air-having worlds like Earth, in airless low-gravity places like the Moon, on water worlds etc</p>
-            <h3 style="color:#fff;">Iceworm ice-boring drones carrier</h3>
+            <h2 style="color:#fff;text-align:center;">Iceworm ice-boring drones carrier</h2>
             <p>Iceworm will be a heater-equipped ice borer and drone carrier that will carry a swarm of weight-attached Ra-D drones down into the ice-covered water sea of some ice moon or ice planet by melting / “boring” through the ice  The name Iceworm derives from the Sandworm animal in the Dune stories but here for ice</p>
-            <h3 style="color:#fff;">Biology researches</h3>
+            <h2 style="color:#fff;text-align:center;">Biology researches</h2>
             <ul>
               <li>&gt;&gt; The ideal plants to derive biocoal for the coal needed to propel the Alef spaceships and the Ra vehicles These plants should be growable in space</li>
               <li>&gt;&gt; Strengthened and fire-proof wood for structures in the spaceships, spacesuits and habitations Such wood is preferable to metal in many cases The trees for the wood should be growable in space</li>
@@ -1283,7 +1274,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p>The simple solution for hunger is not only social enlightenment but also a technological combination of bio-engineered and regular production of not only plant-based foods but also nutritious originally animal products like sheep milk, chicken egg and honey, and these productions be done in decentralized, neighborhood-level indoor farms which can include vertical farming We of Kosmos Society will produce these solutions both for current cities and new cities, by ourselves or in collaboration</p>
             <p>Bio-engineered animal food products relate to another interesting thing : synthetic wombs for growing human organs and cat organs and entire living humans and this is important not only for solving diseases like blindness and kidney failure but also for populating space with humans and also protecting the desirable Earthen lifeforms in case of global devastations Please read more on this in the “Same Water…” chapter of this website</p>
             <p>Engineered bacteria can perhaps be used to construct useful matter from other existent matter For example to get the helium gas which our Alef-A airships require as their main lift gas, or to obtain nutrients for plants, or to construct water The raw material matter can be asteroid rock etc This will remove the need for a lot of mineral processing factories and their attendant pollution and human physical labor</p>
-            <h3 style="color:#fff;">Habitat construction on other worlds</h3>
+            <h2 style="color:#fff;text-align:center;">Habitat construction on other worlds</h2>
             <p>Habitat construction methods and systems for habitations on the Moon, Red One etc which at least partially use local materials ( like local soil ) Other construction methods can be :</p>
             <ul>
               <li>(a) Building most of the habitation underground for protection against space radiation, low temperature, high temperature and space dust / small rocks The topside will be accessed by a pressurized tunnel which is topped with local soil including radiation-stopping volcanic soil, and connected to the outside by an airlock</li>
@@ -1296,7 +1287,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               <li>(h) All this construction has to be quake-proof</li>
               <li>(i) All this construction has to be aesthetic No need to discard aesthetics just because we are in space Form and function, both are important</li>
             </ul>
-            <h3 style="color:#fff;">Machines for water</h3>
+            <h2 style="color:#fff;text-align:center;">Machines for water</h2>
             <ul>
               <li>&gt;&gt; Portable extractors of water from ice, open water and air</li>
               <li>&gt;&gt; Water purifiers</li>
@@ -1314,7 +1305,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p>For the swarm of Serf satellites to begin work in the first instance, the swarm is released into safe Earth orbit by an Alef-A craft</p>
             <p>This is the current thinking of us about this cleaner satellite but there may be additions later to the satellite</p>
             <p>The Serf satellite is called so in honor of the oppressed serfs of Earth, in history and present, who toil in dangerous or demanding occupations, doing things the controlling feudals will never do themselves and many times the products and services that are made by the serfs, are not of useful usage but are made only to increase the clink of the coin in the bank accounts of the feudals but the serfs will never hear these coins clink in their own pockets The serf toils to survive in an artificially created wrong situation</p>
-            <h3 style="color:#fff;">Other projects</h3>
+            <h2 style="color:#fff;text-align:center;">Other projects</h2>
             <ul>
               <li>Exoskeleton</li>
               <li>Terraforming</li>
