@@ -223,9 +223,9 @@ body {
 
 
 
-  .banner-header {
+  /* .banner-header {
     padding: 0.75rem 0.25rem;
-  }
+  } */
 
 /* Banner header logo responsiveness */
 @media (max-width: 600px) {
@@ -262,15 +262,15 @@ body {
     object-fit: cover;
     border-radius: 8px;
   }
-  .cta-buttons {
+  /* .cta-buttons {
     flex-direction: column;
     gap: 10px;
     align-items: stretch;
-  }
+  } */
 }
 /* End mobile responsiveness */
 
-    nav {
+    /* nav {
       display: flex;
       justify-content: center;
       gap: 2rem;
@@ -286,7 +286,7 @@ body {
       color: #c9d1ff;
       text-decoration: none;
       font-weight: 600;
-    }
+    } */
 
     section.hero {
       padding: 4rem 2rem;
@@ -322,9 +322,9 @@ body {
       transition: background 0.3s;
     }
 
-    .hero .cta-buttons button:hover {
+    /* .hero .cta-buttons button:hover {
       background: #1a28b7;
-    }
+    } */
 
     .chapter-grid {
       display: grid;
@@ -444,7 +444,7 @@ section.hero {
   flex-wrap: wrap;
 }
 
-.hero .cta-buttons button {
+/* .hero .cta-buttons button {
   background: #3345ff;
   color: white;
   border: none;
@@ -468,7 +468,7 @@ section.hero {
 
 .hero .cta-buttons button:active {
   transform: translateY(0);
-}
+} */
 
 /* Mobile Specific Styles (up to 480px) */
 @media (max-width: 480px) {
@@ -484,7 +484,7 @@ section.hero {
     padding: 0 0.25rem;
   }
 
-  .hero .cta-buttons {
+  /* .hero .cta-buttons {
     margin-top: 1.5rem;
     gap: 0.5rem;
     max-width: 100%;
@@ -496,7 +496,7 @@ section.hero {
     min-width: 120px;
     max-width: 150px;
     border-radius: 25px;
-  }
+  } */
 }
 
 /* Small Mobile Styles (up to 320px) */
@@ -544,7 +544,7 @@ section.hero {
     padding: 0.75rem 0.25rem;
   }
   .kosmos-logo {
-    width: 160px;
+    width: 200px;
     max-width: 90vw;
     height: auto;
     object-fit: contain;
