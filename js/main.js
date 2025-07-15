@@ -2,208 +2,10 @@
 const modal = document.getElementById('chapterModal');
 const modalText = document.getElementById('modalText');
 const closeModal = document.getElementById('closeModal');
+   
 
-const introText = `The disappointed 100,000 people desiring space travel : <br><br>
-Now in 2025 there must be at least 100,000 people in the world desiring to go to space right <br>
-now for the below reasons : <br>
-&gt;&gt; Tourism i.e. just the simple natural act of experiencing the cosmos. <br>
-&gt;&gt; Mining moons, asteroids and other space bodies. <br>
-&gt;&gt; Research including to find life and to try to terraform other worlds to set up new homes <br>
-for humans. <br>
-But in the context of the current space industry most people will never be able to go to space <br>
-because the space industry imposes technological restrictions and anti-democratic social <br>
-restrictions which we list below : <br>
-<b>Technological restrictions of the current space industry :</b> <br>
-The current means of going to space is the Tall Rocket which is an inefficient, expensive, <br>
-complicated and unsafe system in the following ways : <br>
-(a). Inefficient because the rocket has to expend a lot of non-recoverable chemical fuel to <br>
-rise even one centimeter off the launch pad and then to keep rising through the atmosphere. <br>
-And once in orbital space it has to keep pushing out the non-recoverable fuel to give it the <br>
-push and the direction towards the destination and then for any course corrections and then <br>
-for braking once it is very near the destination. This requires lot of fuel and thus very large <br>
-fuel tanks and these tanks increase the weight of the rocket and that creates a wrong cycle <br>
-which in the end leaves very less mass of the rocket for the cargo, say to carry even one <br>
-human. This disadvantage remains even when the rocket makers “stage” the rocket i.e. <br>
-divide it in at least two separate parts where the part which goes to space ( the spaceship ) <br>
-will have its own fuel and engine and this part is pushed through most of the atmosphere by <br>
-a booster rocket and in the upper atmosphere the parts separate and the booster falls or <br>
-does powered descent towards the ground both so that some mass is lessened and the <br>
-spaceship fires its own engines to go further out into space. For even slightly farther <br>
-distances like the Moon, a very small cargo like a single human becomes a very small <br>
-carryable part of the original massive rocket. Some may think “Why not make the rocket <br>
-huge to be able to carry more humans ?” but the huge rocket will also need a massive <br>
-launch and recovery tower and other infrastructure and that simply feels neither clean nor <br>
-practical. An orbital spaceship should be able to launch and descend in most places without <br>
-any special infrastructure. <br>
-(b). Inefficient also because even before the rocket leaves the launch pad, it is associated <br>
-with massive infrastructure, even just to hold the massive rocket steady till it is ready to <br>
-launch. And that requires the efforts of a very large number of people who may have been <br>
-doing other works if the spacecraft system was an efficient system… even by themselves <br>
-going to space. Attached with this inefficiency is high expensiveness of the rocket and its <br>
-infrastructure, including the material required to form the rocket and including the fuel <br>
-because every time the rocket launches and travels in space, its fuel is fully expended and <br>
-thus another launch of the rocket requires new fuel, and the fuel usually is at least two forms <br>
-coming together later and this means more expenditure of money or more obtainment of the <br>
-fuels. Finally, if many more people have to go to space and if their means is the tall rocket <br>
-then the above inefficiency and expensiveness will add up a lot. These negative factors <br>
-remain even in the modern trend of reusable tall rockets having legs to descend on and <br>
-made ready to take flight again. <br>
-(c). Complicatedness : The American phrase “As complicated as rocket science” would not <br>
-have existed if people, to go to space, were not using tall rockets which inherently are very <br>
-complicated to make in terms of fuel tanks, their plumbing, their electrical and other control <br>
-systems, the engine system, their staged structure, their landing system like legs and their <br>
-difficultyness to make them safe for humans. Associated complicatedness is also in the <br>
-launch infrastructure. <br>
-(d). Non-safety : Other than the above point about complicateness, there is the direct fact of <br>
-non-safety starting from when the tall rocket starts to launch. Most of the mass of the rocket <br>
-is fuel and thus the rocket can explode spectacularly when launching or after launching or <br>
-then on in space. Within an atmosphere if the rising rocket stops the fuel supply to the <br>
-engine for even one second, even because of error, it will crash to the ground and destroy <br>
-the humans within it and also a large area where it crashes. That is why rocket launch <br>
-stations are set up in isolated places, whether near the sea or in deserted lands or in remote <br>
-forests or in remote mountains. And especially when a lot more rockets have to be built to <br>
-take a lot more humans to space, the inefficiency and complicatedness will contribute to <br>
-making them even more unsafe for humans. Another non-safety situation about the tall <br>
-rocket is that since it is vertically very large it can easily topple during quakes in the ground it <br>
-is standing on using its legs. This say on the Moon. What is the point of the space industry <br>
-saying “Travel in space is risky” when the most immediate risk is on Earthen rocket launch <br>
-stations ? <br>
-Thus the Tall Rocket is an obsolete method of travel to space. There is another type of <br>
-launch system which is the Space-plane and this is under design by some organizations. <br>
-This system has the spaceship formed like a regular aeroplane and takes off from the <br>
-ground from a runway like a regular aeroplane usually using jet engines but when it reaches <br>
-higher atmosphere it fires another set of engines which are a multiple of small rocket <br>
-engines which push the space-plane to orbit and then farther into not-distant space. A <br>
-variation has a single type of engines which operate both as the takeoff engines and then <br>
-the space-taking engines. However, the space-plane has the following disadvantages : <br>
-(a). The space-plane requires a dedicated airport / spaceport system including a lengthy <br>
-runway and this adds greatly to complicatedness, expensiveness and inconvenience. <br>
-(b). A space-plane airport / spaceport on Earth is one thing but what about places without <br>
-spaceports, which is any other world except for Earth. For example, if we are using a <br>
-space-plane to go to the Moon where there is no spaceport and runway, how will this <br>
-infrastructure be built so that the space-plane is able to land for the first time ? If we build a <br>
-separate lander craft for such situations, carried as cargo on the space-plane, the entire <br>
-system will become complicated just to travel nearer distances in space like to the Moon. <br>
-This leads to inefficient economics, expensiveness and compromise on human safety. <br>
-(c). The space-plane airport / spaceport / runway is as easily affected by natural calamities <br>
-and other situations like regular aeroplane airports are prone to. This is inconvenient to say <br>
-the least. <br>
-So the space-plane is also not the solution. <br>
-Therefore the Tall Rocket and the Space-plane are not good enough to take humans farther <br>
-than the Moon in a shorter time, like weeks. <br>
-<b>Social restrictions of the current space industry :</b> <br>
-Aspiring space travellers either have to be very rich to pay for a single ticket ( at least 20 <br>
-millions dollars ) to launch on the rockets or in-development space-planes of the world’s very <br>
-few humans-to-space programs of government space agencies and private space agencies; <br>
-or the aspiring travelers must be associated with these governments or allied governments <br>
-to travel for free by being military pilots, professional scientists etc; or the aspiring space <br>
-travellers must win seat lottery in some private space-trip arrangement program associated <br>
-with those governments or private space agencies and this lottery will be won by only one <br>
-person per year in the entire world. Most ordinary space travel aspirers have no chance. But <br>
-it is not Nature / Universe denying most people access to the cosmos, it is anti-democratic <br>
-systems among humans doing so. <br>
-Also, the very workers who build these current human launch systems are excluded from <br>
-going to space on the space systems they built with their sweat, sleepless nights and risk of <br>
-serious injury or death !!! All they are allowed to do is clap in the control rooms whose <br>
-screens show the launches of those space systems taking to space the rich and the other <br>
-privileged. A ridiculous and undemocratic situation just like two other situations in the <br>
-“Democratic World” : <br>
-&gt;&gt; The poor daily-wage construction laborers who build mansions, penthouses and <br>
-two-bedroom flats for the rich and the middle class, never get to live in them and will be <br>
-chased away from the gate if they happen to visit later and they instead have to live in <br>
-slums. <br>
-&gt;&gt; The few billion ordinary fans of sports stars, who make these sports stars millionaires and <br>
-adored for years, will never get replied for their long passionate loyalty with a million dollars <br>
-in their bank accounts each and neither will these sports stars speak up about issues their <br>
-ordinary fans face in their daily lives or even if the loyal fans die in stampede in the stadiums <br>
-or outside the stadiums where these sports stars descend royally to play or get felicitated, <br>
-nor will the cherished sports stars speak about global issues like Climate Change, <br>
-techno-feudalism and the traditional feudalism in the cities and the villages which includes <br>
-the wrongs against farmers, white-collar workers, students, daily-wagers and women. <br>
-<b>The techno-social restrictions coming together :</b> <br>
-So all this hurry-burry and artificial glamor of the current space industry is pointless in the <br>
-end for the at least 100,000 other desirers of space travel who will never leave Earth and the <br>
-very rich owners of most current space agencies will keep profiting from this hurry-burry and <br>
-from the complicated, expensive and unsafe current launch systems yet the ordinary <br>
-desirers and humanity in general are encouraged to glorify this industry and its feudal <br>
-owners. These are fake heroes. <br>
-<b>Our solution : The Yuri Plan :</b> <br>
-This plan is named after Yuri Gagarin, the Soviet cosmonaut who was the first human in <br>
-space. There is an entire universe to explore and settle to the max extent possible by <br>
-humans and we must do this in a way that is simple, gentle, safe, humanist and respectful of <br>
-Nature and Nature’s laws. Space travel must become as common as bus travel, and space <br>
-living as common as hotel stay, and these should flow into evolving human society on Earth <br>
-too. Potentially every human should be able to access space, live in space and attain their <br>
-potential in space, whenever he or she desires, with a minimal usage fee or no fee at all, in <br>
-the now and in the far far future. <br>
-Towards this, we of Kosmos Society will build all the systems, whether the spaceships or the <br>
-computers or the electricity generators or the spacesuits or the habitation systems or the <br>
-social system and every other necessary thing, and all this in a simplified and straightforward <br>
-manner. <br>
-Starting 2035 our-designed spaceships will be able to carry humans and goods safely <br>
-throughout the Inner Solar System and Outer Solar System and our other technologies will <br>
-enable living in those regions. “Inner Solar System” means to safely near the Sun in one <br>
-direction and the Asteroid Belt in the other direction, and “Outer” means beyond the Asteroid <br>
-Belt to Pluto and beyond. This will be just the start. <br>
-Most of our systems will be usable on Earth either directly or in derivation, and all our <br>
-systems will be simplified, manufacturable cheaply, operable cheaply and repairable cheaply, <br>
-and the manufacturers will be national governments who will purchase from us the designs <br>
-and engineering details of our systems for a reasonable license fee and they will be able to <br>
-set up the factories in their own countries. Once these systems are built by the governments <br>
-they should charge the masses minimal fees or no fees at all for personal ownership of <br>
-some of these systems ( say our wearable computer ) or when being passengers ( say on <br>
-our spaceships ) or when living in space habitats. For example, an individual’s trip to the <br>
-Moon should have a max seat price of 100 dollars or ideally free. <br>
-Our systems include : <br>
-&gt;&gt; A compact, non-nuclear, simple and self-sustaining electricity generator called Faradn <br>
-which will power all our smaller machines and not-smaller machines by being installed within <br>
-them or just outside them. This is decentralized electricity generation instead of the current <br>
-centralized methods. <br>
-&gt;&gt; A reusable space-going airship called Alef-A which will be our ascent / descent system <br>
-on worlds and it will also be the means to travel short distances in space like Earth to Moon. <br>
-This airship will be lifted in atmosphere worlds by helium gas and hot air and will use three <br>
-eco-friendly and sustainable propulsion methods : electric rotors, coal combustion, water <br>
-steam jets. “World ascent / descent” can mean for an air-filled space object ( Earth, perhaps <br>
-Titan etc ) or an airless space object ( Moon, large asteroids etc ). The cargo can be humans <br>
-and goods. The Alef-A airship-spaceship will be shaped like an upturned teacup without the <br>
-handle. The first full version will be able to carry 20 humans to the Moon. <br>
-&gt;&gt; A large in-space long-distance ferry called Alef-F which will be large enough to carry five <br>
-Alef-A crafts and a hundred humans and a hundred tons of other cargo and will be propelled <br>
-primarily by water steam jets. This ferry will be able to travel throughout the Inner Solar <br>
-System and the Outer Solar System and will always be in space, never to descend on any <br>
-world. <br>
-&gt;&gt; A hybrid vehicle called Ra-H which will be a combination of hovercraft, wheelcraft and <br>
-aircraft, able to carry humans and small cargo and to be used on the surface and air of <br>
-air-having space bodies such as Red One ( Mars ) and Titan, and the surface of larger <br>
-airless space bodies such as the Moon and asteroids. In air propulsion mode it will use <br>
-electric rotors and coal combustion depending on the situation and will allow for vertical <br>
-takeoff and landing ( VTOL ). Each Ra-H will carry three non-suited people in a pressurized <br>
-cabin. A single Ra-H will be carried down to those worlds by a Alef-A craft. <br>
-&gt;&gt; A spacesuit called Stillsuit with short-distance flying ability. The suit will be a hard suit and <br>
-will use bio-mimicry for self-sealing in case of punctures. The suit will have a water system to <br>
-recycle water from sweat and urine, and facility to collect defecation and render it non-smelly <br>
-and non-toxic. Also will be other conveniences like a simple mechanical system to scratch all <br>
-of the face and dab it of sweat. <br>
-&gt;&gt; A wearable computer called Dune Buk which will be operable in space conditions. It will <br>
-be worn on the back of the upper arm and will use novel methods for computation, <br>
-electromagnetic frequency reception, data storage and projected-display system where <br>
-sound will play a major role. The file system will be non-hierarchical and <br>
-categories-recording. The networking system is called Frema. This computer will be <br>
-aesthetic for the stylish person and will be wearable on all kinds of clothing including factory <br>
-clothes and the Stillsuit spacesuit. <br>
-&gt;&gt; Space habitation construction. <br>
-&gt;&gt; Engineered biology researches for food production, human body tolerance for space <br>
-conditions, mining and other things. <br>
-&gt;&gt; An autonomous satellite called Serf to clear Earth orbit from the satellite debris and other <br>
-space debris which are currently polluting Earth orbit and may soon make human journey <br>
-through Earth orbit very dangerous because of risk of these debris crashing into their <br>
-spaceships. <br>
-&gt;&gt; Our progressive pan-human constitution for space called “Same Water”. <br>
-By 2031 two people will go to Low Earth Orbit in our Alef-A airship-spaceship, orbit Earth <br>
-and return gently through the atmosphere by powered craft re-entry to the launch place. By <br>
-2035 our spaceships will carry humans and goods from the Inner Solar System to the Outer <br>
-Solar System.`;
 
+// Our draft constitution for Space
 document.querySelectorAll('.chapter-card').forEach(card => {
   card.addEventListener('click', function() {
     const chapter = card.getAttribute('data-chapter');
@@ -235,30 +37,45 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             h2, h3 {
               font-family: Poppins,sans-serif;
             }
+              p {
+               font-family: Roboto,sans-serif;
+              }
+
+              span {
+              color:#fff;
+              font-weight: bold;
+              }
+              
           </style>
-          <h2 style="color:#fff;text-align:center;margin-bottom:10px;">Introduction :</h2>
-          <div style="color:#FFFFc5;font-size:1.1em;white-space:pre-line;">
-            We present “Same Water”, a draft of a progressive pan-human constitution for Space. This 
-            draft is not a full preparation but still substantial and we will further it by discussions in 
-            progressive forums and join it with others’ drafts for this purpose. 
-            This social system is for simple, harmonious and Nature-ordained organization of humans in 
+          <h2 style="color:#fff;text-align:center;margin-bottom:10px;"> Our draft constitution for Space :</h2>
+          <div style="color:#FFFFc5;font-size:1.1em;">
+            <p> 
+            We present “Same Water”, a draft of a progressive pan-human 
+            constitution for Space. 
+            This draft is not a full preparation but still substantial and we will further it by discussions in 
+            progressive forums and join it with others’ drafts for this purpose.</P> 
+
+            <p> This social system is for simple, harmonious and Nature-ordained organization of humans in 
             Space so that groups in Space operate harmoniously within themselves and with other 
             individuals or groups in space; and individuals and groups as a whole in Space do their 
             sightseeing or research or mining or living and are able to contribute to the collective 
             learnings and continued experience of humanity in Space such that in 12 years from now ( 
             by 2037 ) humans have at least started living in the Asteroid Belt which sits in the space 
-            between Red One and Jupiter. 
-            The name “Same Water” is derived from a line in the wonderful Bengali and Hindi languages 
-            song called “Shob Lokey Koy” which appeared in the music series Coke Studio Bangla 
-            Season One. The song is a celebration of two past South Asian humanitarian mystics, Lalon 
-            Fakir and Kabir Das, and calls for unity of humans because they all are the waters from the 
-            same well except for some differences in the vessels which then contain the waters, and this 
-            is what we Kosmos Society want through our constitution draft - a harmonious unity of 
-            humankind in Space, removed of all the artificial unpleasantnesses and tragedies  that 
-            humans do or endure presently on Earth. Below are some points from the Same Water draft 
-            : 
-            The Universe and human nations on Earth : 
-            The Universe / Space has existed forever, much before some human scientists foolishly 
+            between Red One and Jupiter.</P>  
+
+            <p> The name “Same Water” is derived from a line in the wonderful Bengali and Hindi languages
+            song called “Shob Lokey Koy” which appeared in the music series Coke Studio Bangla
+            Season One. The song is a celebration of two past South Asian humanitarian mystics, Lalon
+            Fakir and Kabir Das, and calls for unity of humans because they all are the waters from the
+            same well except for some differences in the vessels which then contain the waters, and this
+            is what we Kosmos Society want through our constitution draft - a harmonious unity of
+            humankind in Space, removed of all the artificial unpleasantnesses and tragedies that
+            humans do or endure presently on Earth. Below are some points from the Same Water draft.
+            Some of these are “To be done” </p>
+
+            <h2 style="color:#fff;">The Universe and human nations on Earth : </h2>
+
+            <p>The Universe / Space has existed forever, much before some human scientists foolishly 
             affixed an age to it on the basis of misguided mathematics i.e. the Big Bang Theory and now 
             there are two Big Bang theories. Space has existed before human nations existed on Earth, 
             in fact before Earth itself existed. The concept of Earthen Nations / Nation States comes 
@@ -273,8 +90,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             maimed. The king lived grand and a single jewelled necklace of his would have cost more 
             than the collective multi-generation income of a peasant family. The king lived in multiple 
             mansions and the peasants lived in dirty slums. Such was the injustice and inequality the 
-            French Revolution came about to replace. 
-            Therefore the intellectuals from various social classes of France spoke of revolt and were 
+            French Revolution came about to replace. </P>
+
+            <p>Therefore the intellectuals from various social classes of France spoke of revolt and were 
             supported by the passionate who believed in the intellectuals. There were various streams of 
             that movement, including direct democracy and abolition of tax and then was the slogan 
             “Liberty, Equality, Fraternity” which no gentle, sensitive and reasonable human will disagree 
@@ -284,11 +102,13 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             However, this great idea later got corrupted in other societies and the previous kings there 
             used the concept of the democratic Republic to continue rule in disguise by convincing the 
             citizens they have democracy because they now have personal motor vehicles, elections 
-            and such stuff. 
-            And these modern kings enabled profiteering corporations to exploit the citizens and destroy 
+            and such stuff. </P>
+
+           <p> And these modern kings enabled profiteering corporations to exploit the citizens and destroy 
             the natural ecosystems and the citizens were told to be proud of this and to feel superior to 
-            other nations and in fact hate them. 
-            However, as per natural laws no human from one nation is automatically superior in the 
+            other nations and in fact hate them. </P>
+
+            <P>However, as per natural laws no human from one nation is automatically superior in the 
             grandness of Universe / Space than a human from another nation. A socially-advantaged 
             human from one “superpower wealthy nation” will be burned up in the Sun as easily as a 
             money-poor human from another “superpower wealthy nation”... to believe otherwise is 
@@ -298,8 +118,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             nations bounded by the seas but that is besides the point. It is then unwise to be fanatic 
             nationalists in Space when just the Sun can fit in itself a million Earths and the Sun being 
             just a medium-sized star, and in reality the Sun instantly burning up those million Earths and 
-            all the nations within them. A human is a tiny “zarra” / speck in the infinite Universe. 
-            Secondly, the human technological advancements of now and the social advancements 
+            all the nations within them. A human is a tiny “zarra” / speck in the infinite Universe. </p>
+
+           <P> Secondly, the human technological advancements of now and the social advancements 
             have come from developments from people of various parts and cultures of Earth, whether 
             those people acting individually or by group efforts and these people taking inspiration from 
             elsewhere or even being helped by others. Even the French Revolution previously 
@@ -318,12 +139,14 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Nikator. Helena’s mother was Irani. Helena was aged 15-17 and Chandragupta was 40 and 
             it is said that both liked each other at first sight even though theirs was a political marriage 
             proposed by Helena’s father. It is possible that Helena’s son by Chandragupta was 
-            Bindusara whose son was Ashoka so Ashoka may have had Greek and Irani genes. 
-            So it will be irrational, immoral and ungrateful for a group from Earth to claim national or 
+            Bindusara whose son was Ashoka so Ashoka may have had Greek and Irani genes. </P>
+
+            <p>So it will be irrational, immoral and ungrateful for a group from Earth to claim national or 
             cultural exclusive superiority on Earth and act in an ultranationalist way while not 
             acknowledging the shared history of humanity and not acknowledging they using 
-            technologies and social philosophies that may have had origins elsewhere on Earth. 
-            It is then natural, rational, automatic and moral to expect that Space be a place of a united 
+            technologies and social philosophies that may have had origins elsewhere on Earth.</p>
+
+            <P> It is then natural, rational, automatic and moral to expect that Space be a place of a united 
             humanity instead of carrying the needless artificial hates and divides on Earth. The 
             timelessly existent Space and Space objects should not be divided up by humans by way of 
             selective ownerships by Earthen nations and not be introduced with militarization to defend 
@@ -331,13 +154,19 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             bickerings and tragedies on Earth to be carried over into Space. Space should be the 
             peaceful exploration medium, mining place and settlement place of a collective humanity 
             under a truly democratic framework. National boundaries are artificial but human fraternity is 
-            natural. 
-            Natural equality in accessing Space and living in Space : 
-            The current human-transport space industry is feudal where aspiring Space travelers have to 
-            fit either of three categories : 
-            (a). Be associated with the government. 
-            (b). Have huge monies to pay for a seat to Space… at least 20 million dollars. 
-            (c). Be a regular person picked by the very few sponsored-trip space programs in a lottery 
+            natural.</p> 
+
+            <h2 style= "color:#fff;">Natural equality in accessing Space and living in Space : </h2>
+            <P>The current human-transport space industry is feudal where aspiring Space travelers 
+            have to</P> 
+            
+            <h2 style= "color:#fff;">fit either of three categories : </h2>
+
+           <P style="margin-left:1em; margin-bottom:10px";> <span>(a).</span> Be associated with the government. </p>
+           
+           <P style="margin-left:1em; margin-bottom:10px";> <span>(b).</span> Have huge monies to pay for a seat to Space… at least 20 million dollars. </P>
+           
+           <P style="margin-left:1em; margin-bottom:10px";> <span>(c).</span> Be a regular person picked by the very few sponsored-trip space programs in a lottery 
             system and this does not come true for almost all. 
             Other people simply don’t have a chance and this is unfair as it is only human social 
             constructs which are doing this preventing and not the Universe through some celestial 
@@ -349,54 +178,85 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             from charging huge monies to take people to Space and these huge monies will go into the 
             pockets of a very few and maintain an unfair system where these very rich few will not 
             enable cheap or free Space travel just so that these huge monies continue. A cycle of 
-            unfairness. 
-            The simple answer is to enable a cheaper, simpler and safer Space industry which also 
+            unfairness. </p>
+
+            <P>The simple answer is to enable a cheaper, simpler and safer Space industry which also 
             propagates true liberty, equality, fraternity and progressive pan-humanism. We of Kosmos 
             Society will do this enabling. On Earth and in Space, manufacturers and deployers of 
             Kosmos Society’s simplified and cheaper Space systems and other systems should collect 
-            minimal fees or no fees for : 
-            (a). Providing and repairing the personal systems ( like the Dune Buk wearable computer ). 
-            (b). Transporting people 
-            (c). Providing food, communication, health support and rescue in Space. 
-            (d). Transporting any habitation equipment in Space not makeable via ISRU ( In-situ 
-            Resource Utilization ). 
-            (e). Transporting research equipment. 
-            (f). Transporting any large reasonable leisure equipment. 
-            (g). Transporting mining equipment and mined produce in Space. 
-            (h). Providing habitation in Space. 
-            Social organization in Space travel and Space living : 
-            The primary reasons for the exploration in Space will include : 
-            (a). Tourism. 
-            (b). Finding new resources. 
-            (c). Science which includes looking for life and finding new homes for humans. 
-            All this of course will require the effort of work groups, including for escorting tourists, and 
+            minimal fees or no fees for : </P>
+            
+            <P style="margin-left:1em; margin-bottom:10px";><span>(a).</span> Providing and repairing the personal systems ( like the Dune Buk wearable computer ). </p>
+            
+            <p style="margin-left:1em; margin-bottom:10px";><span>(b).</span> Transporting people </p>
+            
+            <p style="margin-left:1em; margin-bottom:10px";><span>(c).</span> Providing food, communication, health support and rescue in Space.</p> 
+            
+            <p style="margin-left:1em; margin-bottom:10px";><span>(d).</span> Transporting any habitation equipment in Space not makeable via ISRU ( In-situ 
+            Resource Utilization ). </p>
+            
+            <p style="margin-left:1em; margin-bottom:10px";><span>(e).</span> Transporting research equipment.</p> 
+            
+            <p style="margin-left:1em; margin-bottom:10px";><span>(f).</span> Transporting any large reasonable leisure equipment.</p> 
+            
+            <p style="margin-left:1em; margin-bottom:10px";><span>(g).</span> Transporting mining equipment and mined produce in Space. </p>
+            
+            <p style="margin-left:1em; margin-bottom:10px";><span>(h).</span> Providing habitation in Space.</p> 
+
+            <h2 style="color:#fff;">Social organization in Space travel and Space living : <br>
+            The primary reasons for the exploration in Space will include : </h2>
+            <p style="margin-left:1em; margin-bottom:10px";><span>(a).</span> Tourism. </p>
+            <p style="margin-left:1em; margin-bottom:10px";><span>(b).</span> Finding new resources. </p>
+            <p style="margin-left:1em; margin-bottom:10px";><span>(c).</span> Science which includes looking 
+            for life and finding new homes for humans. All this of course will require the effort of work groups, including for escorting tourists, and 
             this must be done it in a thoughtful, gentle and kind way where all work participants are 
             equal in effort and benefit, with no feudal boss lording over them and unjustly grabbing most 
             of the benefits of the work that had the effort of all. The purpose of the group must also be 
             achieved harmoniously. The universe is for all to benefit from, including just the simple act of 
             seeing the sights, and to acknowledge that every human is a speck in the universe, one no 
             more privileged than another in that infinite and timeless vastness. Feudalism is bad enough 
-            on Earth to be carried over into Space. 
-            So the organization of work groups in Space should be democratic and that is easily done by 
+            on Earth to be carried over into Space. </p>
+
+            <p>So the organization of work groups in Space should be democratic and that is easily done by 
             organizing them as Workers Cooperatives. The idea of Workers Cooperative has association 
-            with the older ideas of liberty, equality and fraternity. A Workers Cooperative has seven 
-            general outcomes : 
-            (a). It is all the workers who directly own and manage an organization and equally divide 
+            with the older ideas of liberty, equality and fraternity. <br> A Workers Cooperative has seven 
+            general outcomes :</p>
+
+            <p style="margin-left:1em; margin-bottom:10px";> 
+            <span>(a).</span> It is all the workers who directly own and manage an organization and equally divide 
             amongst themselves any money income. 
-            (b). There is no feudal boss and no subordinate… all the workers are equal co-workers in 
+            </p>
+
+            <p style="margin-left:1em; margin-bottom:10px";> 
+            <span>(b).</span> There is no feudal boss and no subordinate… all the workers are equal co-workers in 
             respect, right to participate in the organization’s decisions, voluntary idea giving and 
             cross-team idea giving. Any worker can call a workers council for a complaint, issue raising 
             or idea suggestion, and the other workers must listen and participate. 
-            (c). Worker loyalty towards the organization is high because the worker is given due respect 
-            as an individual human with feelings, personality, concerns and potential. 
-            (d). Every worker has to be accepting of internal critique but will have the right to defend 
+            </p>
+
+            <p style="margin-left:1em; margin-bottom:10px";> 
+            <span>(c).</span> Worker loyalty towards the organization is high because the worker is given due respect 
+            as an individual human with feelings, personality, concerns and potential.
+             </p>
+
+            <p style="margin-left:1em; margin-bottom:10px";> 
+            <span>(d).</span> Every worker has to be accepting of internal critique but will have the right to defend 
             themselves. 
-            (e). Efficiency and production variety of the organization is greatly increased because of the 
-            diversity of useful ideas, skills and experiences from the various volunteering workers. 
-            (f). The existence of a Workers Cooperative doesn’t depend on if the economic system 
+            </p>
+
+            <p style="margin-left:1em; margin-bottom:10px";> 
+            <span>(e).</span> Efficiency and production variety of the organization is greatly increased because of the 
+            diversity of useful ideas, skills and experiences from the various volunteering workers.
+            </p>
+
+            <p style="margin-left:1em; margin-bottom:10px";> 
+            <span>(f).</span> The existence of a Workers Cooperative doesn’t depend on if the economic system 
             works with money system or money has been abolished. The Workers Cooperative concept 
             is efficient in both situations. 
-            (g). The collective human society composed of Workers Cooperatives, whether on Earth or 
+            </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+           <span>(g).</span> The collective human society composed of Workers Cooperatives, whether on Earth or 
             in Space, becomes an actually developed, gentle, evolved, harmonious and prosperous 
             society. As smile-bringing as the city of Istanbul with cats everywhere. 
             Other than Workers Cooperatives in Space, there must be decentralization / 
@@ -425,21 +285,26 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             “Coordinator” can rotate between the cooperative’s members as per requirement or 
             consensus. So a Workers Cooperative is democratic, enables harmony and enables more 
             focus on the group’s purpose. 
-            Further, a tourist in Space a few hundred thousand kilometers from Earth ( the Moon ) or a 
+            </p>
+
+            <p> Further, a tourist in Space a few hundred thousand kilometers from Earth ( the Moon ) or a 
             few hundred million kilometers from Earth ( the Asteroid Belt ) will naturally feel deprived 
             from Earthen settings including the social aspect and the simple fact of feeling the Sun’s 
             heat on the open face and this deprivation will depress a person for a moment or more, 
             despite that tourist’s purpose of tourism. But if every person in the Space efforts, including 
             the tourist, participates in the tasks by being part of the Space Workers Cooperatives it will 
             keep him or her engaged and away from depression, enable fraternity and contribute to one 
-            more hand in the tasks. 
-            So, humans in Space will be a collection of Workers Cooperatives collaborating with each 
+            more hand in the tasks. </p>
+
+            <p> So, humans in Space will be a collection of Workers Cooperatives collaborating with each 
             other on a common and equal human level regardless of their origin nation and social station 
             on Earth and they will agree on the same ideal natural laws for humans and help each other. 
             Thus harmony in Space and also harmony contributed on Earth when these people return to 
-            Earth carrying their gentle experiences in the Space Workers Cooperatives. 
-            Tea and Space : 
-            Intoxicating substances like alcohol should not be used in the inherently risks-filled 
+            Earth carrying their gentle experiences in the Space Workers Cooperatives. </P>
+
+            <h2 style= "color:#fff;" >Tea and Space : </h2>
+
+            <p> Intoxicating substances like alcohol should not be used in the inherently risks-filled 
             environment of Space, including the social mistakes people will make by such consumption 
             and lead to disaster in Space. Celebrations can be done with rounds of tea and biscuits. Tea 
             has been such a great multi-purpose discovery… the drink of philosophers, revolutionaries, 
@@ -447,62 +312,79 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             providing energy and relief in heat, cold and rain, in the heat of the deserts and the cold of the 
             same deserts at night, in the cold of snows and the heights of the high mountains, the 
             adda tea houses of Calcutta with the Calcuttans doing rounds of tea and discussing the 
-            world… all the while the tea providing health benefits. 
-            Tea is one of the good inventions of China which got added with three additions from other 
+            world… all the while the tea providing health benefits.</p>
+
+            <p> Tea is one of the good inventions of China which got added with three additions from other 
             lands : milk in tea from Mongolia, sugar in tea from Britain and Egypt-origin biscuits. And tea 
             comes in various varieties whether in tea leaf, additional addings for taste, health and 
             experience like lemongrass, ginger and tapioca pearls, and preferences like the water-based 
-            Sulaimani chai or the milk-based Assam tea or the ice tea. 
-            In Space, other than the non-intoxicating, energizing and health-bringing nature of tea 
+            Sulaimani chai or the milk-based Assam tea or the ice tea. </p>
+
+            <p> In Space, other than the non-intoxicating, energizing and health-bringing nature of tea 
             usage, regular tea’ing also will hydrate the skin which may become dry in spaceships and 
             spacesuits and will also create solidarity because of group drinking. Tea is also a good 
             laxative including when starting the day. Further, tea leaves are a good natural fertilizer for 
-            plants. 
-            And maybe tea grown in Space may become a new variety or multiple varieties in 
+            plants. </p>
+
+            <p> And maybe tea grown in Space may become a new variety or multiple varieties in 
             accordance with conditions in different Space locations. 
             Appearance and personality of the Space travellers : 
-            [ To be done ] 
-            Effects of greatly increased human life : 
-            [ To be done ] 
-            Family system in Space : 
-            [ To be done ] 
-            Sports and recreation in Space : 
-            These should be rational, gentle, health-building, natural, humanist and contribute to 
+            [ To be done ] </p>
+
+            <p> Effects of greatly increased human life : 
+            [ To be done ] </p>
+            
+            <p> Family system in Space : 
+            [ To be done ]</p>
+
+            <h2 style= "color:#fff;">Sports and recreation in Space : </h2>
+
+            <p> These should be rational, gentle, health-building, natural, humanist and contribute to 
             harmony and collaborativeness in the risks-filled environment of Space. A system better and 
             very unlike the sports and recreation systems in a lot of the Earthen world now. We consider 
             badminton, swimming, walking, floor exercises, pull-ups and light gymming ( the last three 
             only for men ) to not only be the ideal sports for Earth but also among the best ones for 
             Space though with considerations of low-gravity places like the Moon and no-gravity places 
-            like the Alef-F ferry when its spin system has been turned off. 
-            Other recreations can be poetry, painting, pottery, music, writing stories and long discussions 
-            over tea. 
-            And to explain these selections as being good we can look at what is bad since that 
+            like the Alef-F ferry when its spin system has been turned off. </p>
+
+            <p> Other recreations can be poetry, painting, pottery, music, writing stories and long discussions 
+            over tea. </p>
+
+            <p> And to explain these selections as being good we can look at what is bad since that 
             information is easily analyzed. 
-            [ To be done ] 
-            Human language in Space : 
-            English is the most appropriate language and will be the base language in our Frema 
+            [ To be done ] </p>
+            
+            <h2 style= "color:#fff;">Human language in Space : </h2>
+
+            <p> English is the most appropriate language and will be the base language in our Frema 
             internet system but provision must be there for use of other languages but with the 
             understanding that such communications must be open and translatable and pronounceable 
-            by other language speakers. 
-            Education in Space : 
-            The purposes of education are these : 
-            >> To liberate oneself from any wrong, oppressive and unscientific traditional cultural 
-            impositions and thus to know one’s reasonable rights as a human. 
-            >> To understand that as a human we must collaborate with others in local society and in 
+            by other language speakers. </p>
+
+            <h2 style= "color:#fff;">Education in Space : <br>
+            The purposes of education are these :</h2> 
+
+           <P> <span> >> </span> To liberate oneself from any wrong, oppressive and unscientific traditional cultural 
+            impositions and thus to know one’s reasonable rights as a human. </p>
+
+            <p> <span> >> </span> To understand that as a human we must collaborate with others in local society and in 
             humanity in general and that the good of society and humanity is our good. And good acts 
             must be done not to earn points so that heaven’s door opens for us but to be genuine in 
             empathy for others. That we must be gentle, sensitive, empathetic and selfless instead of 
-            sneaky, amoral and selfish. 
-            >> To begin to understand the timeless and infinite universe and acknowledge our very 
+            sneaky, amoral and selfish.</p> 
+
+            <p> <span> >> </span> To begin to understand the timeless and infinite universe and acknowledge our very 
             humble individual place in the grandness of the universe, thus our approach to the universe 
             must be with gentleness, sensitiveness, receptiveness and humbleness. Even a 
             medium-sized star like the Sun is uncountably more powerful than any mere human who is a 
             billionaire with 15 college degrees, 40 years of experience in some corporate sector and 
             very proud of his culture. The Universe / Space does not care for these arrogant human 
-            affiliations. 
-            This above should be our approach to learnings of Space and the resulting bettering of 
-            humanity. 
-            Decades of in-person human presence in Space has been in a very limited way, with most of 
+            affiliations. </p>
+
+            <p> This above should be our approach to learnings of Space and the resulting bettering of 
+            humanity.</p>
+
+            <p> Decades of in-person human presence in Space has been in a very limited way, with most of 
             it in Low Earth Orbit and a little on the Moon. Cosmonauts have reported their in-person 
             understandings of Space like they seeing flashes in their eyes even when they close their 
             eyes. Other experiences like smelling burnt smell when they are in the airlock. These 
@@ -516,36 +398,45 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             again another nonsensical maths-basis idea which has been around for many decades but 
             has never been observed, let alone measured. These academics don’t know how big the 
             universe is, they have never stepped into the universe, yet they confidently declare its 
-            birthday to the microsecond. 
-            So to understand Space / Universe we must reject the current dominance of mathematics in 
+            birthday to the microsecond. </p>
+            
+            <p> So to understand Space / Universe we must reject the current dominance of mathematics in 
             astronomy and be humble, gentle, sensitive, receptive and natural to the knowledge of 
             Space / Universe by actually going into Space and narrating our every experience to the rest 
-            of humanity. 
-            We must also accept the very simple idea that Space / Universe is timeless and infinite and 
+            of humanity. </p>
+            
+            <p> We must also accept the very simple idea that Space / Universe is timeless and infinite and 
             we don’t know what all kinds of objects are in Space and what kinds of life types are in 
-            Space. 
-            We must look at the natural responses of the first two human travellers to Space - Yuri 
-            Gagarin and Gherman Titov. 
-            Among the statements of Cosmonaut Yuri are : 
-            (a). “Orbiting Earth in the spaceship, I saw how beautiful our planet is. People, let us 
-            preserve and increase this beauty, not destroy it!” 
-            (b). “Rays were blazing through the atmosphere of the earth, the horizon became bright 
+            Space. </p>
+
+            <p> We must look at the natural responses of the first two human travellers to Space - Yuri 
+            Gagarin and Gherman Titov.</p> 
+            <h2>Among the statements of Cosmonaut Yuri are : </h2>
+            
+            <p style="margin-left:1em; margin-bottom:10px";> <span>(a).</span> “Orbiting Earth in the spaceship, I saw how beautiful our planet is. People, let us 
+            preserve and increase this beauty, not destroy it!” </p>
+            
+            <p style="margin-left:1em; margin-bottom:10px";> <span>(b).</span> “Rays were blazing through the atmosphere of the earth, the horizon became bright 
             orange, gradually passing into all the colors of the rainbow: from light blue to dark blue, to 
             violet and then to black. What an indescribable gamut of colors! Just like the paintings of the 
-            artist Nicholas Roerich.” 
-            (c). “The main force in man — is the power of the spirit.”. Here “Man” of course means 
-            Human. 
-            The most famous statement of Cosmonaut Gherman was when he visited USA in 1962 and 
+            artist Nicholas Roerich.” </p>
+            
+            <p style="margin-left:1em; margin-bottom:10px";> <span>(c).</span> “The main force in man — is the power of the spirit.”. Here “Man” of course means 
+            Human.</p> 
+            
+            <p> The most famous statement of Cosmonaut Gherman was when he visited USA in 1962 and 
             was asked by reporters how his space flight affected his understanding of life. He said 
             "Sometimes people are saying that God is out there. I was looking around attentively all day 
-            but I didn't find anybody there. I saw neither angels nor God". 
-            These two people were humble and natural in their approach to Space and to life. Certainly 
+            but I didn't find anybody there. I saw neither angels nor God". </p>
+
+            <p> These two people were humble and natural in their approach to Space and to life. Certainly 
             not the arrogance of maths-driven academics and astrologers, nor the unthinking ordinary 
             people who accept their arrogant pronouncements without questioning because they think 
             even simple questions will make them seem foolish. However, it is the simple, “foolish” 
             questions which have benefited humanity throughout its history in its bettered social systems 
-            and better technology and the presence of Human in Space. 
-            Knowledge is bettered when it is shared without being taxed and without demands that the 
+            and better technology and the presence of Human in Space. </p>
+            
+            <p> Knowledge is bettered when it is shared without being taxed and without demands that the 
             receiver must only be of certain artificial social classes including having five college degrees 
             compulsorily. There are some societies which have more college degree graduates presently 
             than the entire human populations of some other societies. However, the former societies 
@@ -579,13 +470,16 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             very large delays because of the in-Space location of the blog producers and their duties 
             and other activities. The one-way communication time itself may be from about a second ( 
             the Moon ) to 13 minutes ( Red One ) to many many hours, and these delays just within the 
-            Solar System. 
-            Then comes the continued education of younger humans in Space who have arrived from 
+            Solar System. </p>
+            
+            <p> Then comes the continued education of younger humans in Space who have arrived from 
             Earth or those younger humans born in Space. The medium of education must be English 
             but also considered with regards to the birth language of that younger human. But a lot of 
-            this aspect has to be developed not now but once Space settlement starts in full flow. 
-            Basis of satellite design : 
-            There should be no design of needless nano-satellites and larger satellites that are currently 
+            this aspect has to be developed not now but once Space settlement starts in full flow. </p>
+            
+            <h2 style= "color:#fff;">Basis of satellite design : </h2>
+            
+            <p> There should be no design of needless nano-satellites and larger satellites that are currently 
             built by every second engineering college and launched into Earth orbit by misguided launch 
             organizations and cumulatively make Earth orbit dangerous for humans to travel in - an 
             unnecessary situation brought about by profit-mindedness, competition in education, 
@@ -596,9 +490,11 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             as a necessary element when designing our Frema space-capable internet system. We will 
             also design systems that contribute to clearing up the current space debris around Earth. 
             Please read the section about Serf satellite in the “More on some of our techno projects” 
-            chapter on this website. 
-            Mining in Space : 
-            Space belongs to no single human nation state. Space belongs to all humankind in a 
+            chapter on this website. </p>
+            
+            <h2 style= "color:#fff;">Mining in Space : </h2>
+            
+            <p> Space belongs to no single human nation state. Space belongs to all humankind in a 
             collective sense and no nation state can endanger other humans by placing weapons of 
             mass destruction in open Space or around Space bodies nor can a nation state exclusively 
             claim Space objects for taking resources ( say even from a star like the Sun ). Similar is the 
@@ -606,19 +502,22 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             which is a department of the United Nations Organization ( the UN ). Though the UN has 
             failed to prevent invasions, needless conflicts, genocides and subversions since its inception 
             in 1945 and has served only as a decoration, very much not uniting nations despite its name, 
-            its UNOOSA department at least makes sense. 
-            In Space no one should be a Scrooge McDuck i.e. not greedily see Space as yet another 
+            its UNOOSA department at least makes sense.</p> 
+            
+            <p> In Space no one should be a Scrooge McDuck i.e. not greedily see Space as yet another 
             natural resource to do selfish profiteering from, to the exclusion of other humans and to the 
             spoiling of Nature, but instead seeing Space resources as the means to bring easy material 
             enrichment of every human on Earth and beyond on an equal basis, where all humans are 
             collectively prosperous. It then also follows the necessity that national governments on Earth 
-            will participate in such a democratic pan-humanist effort. 
-            Collective resilience on Earth and beyond : 
-            Human life and other desirable lifeforms on Earth ( like plants and cats ) and throughout 
+            will participate in such a democratic pan-humanist effort.</p> 
+            
+            <h2 style= "color:#fff;">Collective resilience on Earth and beyond : </h2>
+            <p>Human life and other desirable lifeforms on Earth ( like plants and cats ) and throughout 
             Space should survive and be resilient if threatened by natural events ( asteroids, comets, big 
             solar flares, pandemics, super volcanoes etc ) or unfortunately done human-made events ( 
-            global war etc ). 
-            The small asteroid that came over Russia from Space in 2013 and flew over Russia was 
+            global war etc ). </p>
+            
+            <p> The small asteroid that came over Russia from Space in 2013 and flew over Russia was 
             later called Chelyabinsk Meteor. It was a small asteroid that wasn’t detected before its Earth 
             entry partly because it came from the Sun’s direction. Though of smaller size ( said to be 20 
             meters across ) and it not smashing into the ground in one piece, just the pressure wave of 
@@ -634,8 +533,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             fuel or electricity production or other things. If the energy and industrial centers are hit by 
             asteroid or comet or war or pandemic or other such events then humanity as a civilization 
             will suffer with countless deaths and injuries and it may take hundreds of years to recover to 
-            current levels of population and industrialization. 
-            One global project currently to help in such devastation events is the Svalbard Global Seed 
+            current levels of population and industrialization.</p> 
+            
+            <p> One global project currently to help in such devastation events is the Svalbard Global Seed 
             Vault in the territory of Norway. This secure seed vault contains plant seeds and plant 
             samples from various parts of the world and these plant stuffs will be used to recover plant 
             food production on Earth in case of the devastations. However, Svalbard is more than 5000 
@@ -646,15 +546,17 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             the methods in the traditional survival and production systems across Earth will be mostly 
             not known in the urban areas because the people there have become used to modern 
             industrial production methods where these people only know to consume and not to 
-            produce. 
-            Third, a population devastation among humans may make current human technology 
+            produce. </p>
+            
+            <p> Third, a population devastation among humans may make current human technology 
             recovery very difficult because the monopoly industrialization of now makes production 
             knowledge retained only among very few people - the professionals, most of whom keep 
             these knowledges only for their money-based career and do not think more than their narrow 
             professional fields and live out entire lives not thinking of better alternatives to the 
             technology they are professional of. Thus a dearth of professionals in case of global 
-            devastation will lead to a lot more suffering among the surviving humans. 
-            Fourth, even in an advanced situation where by 2037 reasonably many humans have spread 
+            devastation will lead to a lot more suffering among the surviving humans.</p> 
+            
+            <p> Fourth, even in an advanced situation where by 2037 reasonably many humans have spread 
             out in Space to the Asteroid Belt for mining purposes and live there for considerable periods, 
             what if something happens to Earth and wipes out most humans and industry ? When the 
             Asteroid Belt miners return to Earth at the speed their spacecraft propulsion allows they will 
@@ -663,10 +565,12 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             good if remaining but doubly devastating if not. And then the absence of industry because it 
             was based on centralized monopolies in energy production and goods production which now 
             have been destroyed. And it is possible that the causes which devastated Earth, like an 
-            asteroid, may also affect any present Moon settlement of humans. 
-            So what is to be done to be resilient in such devastation scenarios ? How to repopulate 
-            Earth and Space in life and industry ? Our proposal is very simple as below : 
-            (a). Both humans and the goods production industry require electricity and we of Kosmos 
+            asteroid, may also affect any present Moon settlement of humans. </p>
+            
+            <p> So what is to be done to be resilient in such devastation scenarios ? How to repopulate 
+            Earth and Space in life and industry ? Our proposal is very simple as below : </p>
+
+            <p style="margin-left:1em; margin-bottom:10px";> <span>(a).</span> Both humans and the goods production industry require electricity and we of Kosmos 
             Society will make methods and machines which will produce electricity in a decentralized 
             manner i.e. no central production of electricity and then delivery by a huge cross-country 
             grid. Electricity will be produced within or just outside the machines which require electricity. 
@@ -675,10 +579,12 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             motor-generator. There will be no complicated mechanisms in our system and thus initially 
             not much dependance on the current centralized monopoly manufacturers and the simplicity 
             of our system will enable distributing the production and repair of it even to neighborhood 
-            level. 
-            (b). Similar simplicity in the production and usage of our spaceships, computer systems, 
-            other vehicles and other machinery. 
-            (c). Plant food production will be not the centralized mechanism of now where at least 90 
+            level.</p>
+
+            <p style="margin-left:1em; margin-bottom:10px";> <span>(b).</span> Similar simplicity in the production and usage of our spaceships, computer systems, 
+            other vehicles and other machinery. </p>
+
+            <p style="margin-left:1em; margin-bottom:10px";> <span>(c).</span> Plant food production will be not the centralized mechanism of now where at least 90 
             percent of it is produced in open farms in faraway rural areas or in faraway industrial areas 
             and delivered to the urban consumption centers by transportation by monopoly industrial 
             food packagers, processed food manufacturers, by farmers who have to make their own 
@@ -696,8 +602,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             even 1000 cities on Earth are affected by some global devastation, there will be many other 
             neighborhoods on Earth who will be able to help them recover food production. We of 
             Kosmos Society will develop or adopt-and-promote the required technologies for these 
-            purposes. 
-            (d). If plant biological material ( seeds and other samples ) and information can be stored in 
+            purposes. </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>  <span>(d).</span> If plant biological material ( seeds and other samples ) and information can be stored in 
             stores within cities in a distributed neighborhood manner, so can biological material and 
             information about humans and all other desirable animals. But to regrow humans and other 
             desirable animals on Earth in mass numbers requires development of artificial wombs which 
@@ -709,20 +616,24 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Solar System as multiple backups. This will be further useful later when far worlds are either 
             terraformed to become new Earths or prospective settleable worlds have to be populated 
             with humans. We of Kosmos Society will develop the technologies and methods necessary 
-            for all these purposes. 
-            (e). We require planetary defense systems against asteroids and comets. And “planetary” 
+            for all these purposes. </p>
+            
+            <p style="margin-left:1em; margin-bottom:10px";> <span>(e).</span> We require planetary defense systems against asteroids and comets. And “planetary” 
             also means asteroid stations and orbital stations. These defense mechanisms can be kinetic 
             ( something to hit the incoming object to destroy it completely or disperse it or change its 
             direction ) or focused energy ( like laser or microwave ) or it can be people going out years 
             earlier than the hit-moment and planting bombs like is shown in some films, or going to it and 
             enveloping it in a net and sending it elsewhere. Maybe there are other mechanisms. And for 
             this we Kosmos Society will design the mechanisms and also collaborate and adopt others’ 
-            mechanisms. 
-            Project Mirkeen-1 : 
-            Project Mirkeen-1 will be our effort in building a humanity-uniting progressive research base 
+            mechanisms.</p>
+
+            <h2 style= "color:#fff;">Project Mirkeen-1 : </h2>
+
+            <p> Project Mirkeen-1 will be our effort in building a humanity-uniting progressive research base 
             on the Moon ( Earth's moon ), having the name “Mirkeen-1” and to be built beginning in 
-            2036, or earlier if possible. 
-            Presently, Artemis Accords and ILRS ( International Lunar Research Station ) are two 
+            2036, or earlier if possible. </p>
+
+            <p> Presently, Artemis Accords and ILRS ( International Lunar Research Station ) are two 
             projects for the near-future construction of bases and other infrastructure on the Moon and 
             includes the space vehicles needed to carry humans and luggage between Earth and the 
             Moon towards the construction of the bases and during their operation. Artemis Accords is 
@@ -731,59 +642,69 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Earthen bloc politics when instead they should have proposed a pan-human, collective Moon 
             Base effort. So we of Kosmos Society propose a third way… sometimes there is a third way 
             as nicely put in the slogan of the World Social Forum - "Another world is possible". We call 
-            this third way as “Project Mirkeen-1". 
-            “Mirkeen” is a combination of “Mir” and “Keen”. “Mir” means Peace in the Russian language 
+            this third way as “Project Mirkeen-1".</p>
+
+            <p> “Mirkeen” is a combination of “Mir” and “Keen”. “Mir” means Peace in the Russian language 
             and also World. “Keen” is the main city in the Dune story. Our project involves building a 
             separate base on the Moon called Mirkeen-1, separate to Artemis Accords and ILRS, in the 
-            following way : 
-            (a). Bring together private citizens from Earth who believe in natural human beliefs including 
+            following way : </p>
+
+            <p style="margin-left:1em; margin-bottom:10px";><span>(a). </span>Bring together private citizens from Earth who believe in natural human beliefs including 
             pan-human fraternity and want to settle on the Moon whether semi-permanently or with 
             regular visits to Earth. The participating citizens of Earth can be from The Global South, from 
             pan-humanist private organizations from anywhere and any other pan-humanist individual 
-            citizens of humanity. 
-            (b). With all this brought-together “snapshot of humanity” we begin to build the Mirkeen-1 
+            citizens of humanity.</p>
+
+            <p style="margin-left:1em; margin-bottom:10px";><span>(b).</span> With all this brought-together “snapshot of humanity” we begin to build the Mirkeen-1 
             base on the Moon starting 2036 or earlier, using our to-Moon transport means ( 
             our-designed Alef-A airship-spaceships manufactured by partner governments ) and our 
             other technologies and the technologies of other partner pan-humanist organizations with 
             common protocols. The construction workers will base themselves in the Alef-As until the 
-            base is built. 
-            (c). We will site the Mirkeen-1 base underground in a place which will be in line-of-sight with 
+            base is built. </p>
+
+            <p style="margin-left:1em; margin-bottom:10px";><span>(c).</span> We will site the Mirkeen-1 base underground in a place which will be in line-of-sight with 
             Earth but not far from the Moon's Far Side. These criteria are for safety from space rocks 
             and radiation, to be in constant communication with Earth and to sally out to the Far Side at 
             will to learn deep-space operations as well as to obtain water from the possible water ice 
             there. There will be at least one communications relay satellite in the Moon's orbit above Far 
             Side to connect to a few relay satellites above Earth with these relay satellites being 
-            operated by our partner organizations. 
-            (d). The Mirkeen-1 base will be designed to be partly self-sufficient food-wise, in water, in 
+            operated by our partner organizations.</p>
+
+            <p style="margin-left:1em; margin-bottom:10px";><span>(d).</span> The Mirkeen-1 base will be designed to be partly self-sufficient food-wise, in water, in 
             production of clothing, computers, ground vehicles etc but be extendible for meeting with 
             future self-sufficiency situations. The electricity will be decentralized and will use our safe, 
             self-sustaining, modular and easily repairable Faradn generators instead of the very unwise 
-            nuclear generators or solar photovoltaics proposed by many in the current Space industry. 
-            (e). The construction materials for the Mirkeen-1 base, ground vehicles etc will be partly 
+            nuclear generators or solar photovoltaics proposed by many in the current Space industry. </p>
+
+            <p style="margin-left:1em; margin-bottom:10px";><span>(e).</span> The construction materials for the Mirkeen-1 base, ground vehicles etc will be partly 
             materials carried from Earth in our Alef-A airship-spaceships and partly local materials as 
             per application ( ISRU - In Situ Resource Utilization ). The ground vehicles will be our Ra-H 
-            vehicles. 
-            (f). The social organization system of the Mirkeen-1 base will be the points from the rest of 
+            vehicles.</p>
+
+            <p style="margin-left:1em; margin-bottom:10px";> <span>(f).</span> The social organization system of the Mirkeen-1 base will be the points from the rest of 
             our proposed “Same Water” constitution for space. 
-            (g). The Mirkeen-1 base will be the first very advanced society which won’t have money, tax 
+            <p style="margin-left:1em; margin-bottom:10px";><span>(g).</span> The Mirkeen-1 base will be the first very advanced society which won’t have money, tax 
             and feudalism. The true wealth of a society is not in the money, mansions and luxury 
             motorcars held by a few privileged. The true wealth is the potential and the positive ideas 
             and works of the citizens and these can exist without money. In fact the potential of a society 
             is eroded by the presence of money because so many people have potential but when they 
             get socially excluded through the various aspects of money they don’t get the opportunity to 
             realize their potential and their society does not get to benefit. This realization extends to all 
-            of humanity. 
-            (h). For the time being the Mirkeen-1 base can engage in commercial activities to sustain 
+            of humanity. </p>
+            
+            <p style="margin-left:1em; margin-bottom:10px";><span>(h).</span> For the time being the Mirkeen-1 base can engage in commercial activities to sustain 
             itself other than getting support from Kosmos Society and its partners on Earth. This 
             commerce will be in accordance with our Same Water constitution for Space. The commerce 
             can be about Moon-available minerals needed on Earth ( iron, silicon etc ) or on others’ 
             space stations around Earth; the commerce can be about those produced materials and 
             services which benefit from the low-gravity and vacuum conditions on the Moon; the 
-            commerce can be tourism on the Moon; etc. 
-            (i). The Mirkeen-1 base can also have guests from the Artemis Accords base and the ILRS 
+            commerce can be tourism on the Moon; etc.</p> 
+
+            <p style="margin-left:1em; margin-bottom:10px";><span>(i).</span> The Mirkeen-1 base can also have guests from the Artemis Accords base and the ILRS 
             base. All human-spirited people will be welcomed with tea and biscuits. 
-            City design and city reconfiguration on Earth : 
-            The Space experiences including the Mirkeen-1 base and our Space machines will provide 
+            City design and city reconfiguration on Earth :  </p>
+
+            <p>The Space experiences including the Mirkeen-1 base and our Space machines will provide 
             derivations for city design for Earth and its transportation. This effort will consist of designing 
             large and small cities which are aesthetic, scientifically-built, citizen-managed, humanist, 
             largely food-wise self-sufficient, largely employment-wise self-sufficient and gentle, built to 
@@ -791,8 +712,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             people. The public transportation system will be built around our Ra-B buses, bicycle lanes 
             and footpaths. The only personal vehicles allowed will be pedal-only bicycles. The 
             gentleness in these cities will also come from creating a safe and comfy environment for cats 
-            to prosper. 
-            We will make a derivation of the Ra-H vehicle for Earthen public transportation in the form of 
+            to prosper. </p>
+           
+            <p> We will make a derivation of the Ra-H vehicle for Earthen public transportation in the form of 
             a 15-passenger bus called Ra-B which can be used for full capacity mass public transport or 
             as taxis for people going for special occasions. The Earthen Ra-B will normally use 
             hovercraft mode on the current roads and other paths and switch to wheelcraft mode and 
@@ -800,8 +722,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             hovercraft mode so wheels are needed. Traveling between cities can be done by using the 
             aircraft mode. These Ra-B vehicles will be capable of being the sole means of mass public 
             transport in cities and other habitations on Earth, replacing most current personal vehicles 
-            except for the pedal bicycle. 
-            Presently, the few billion motorized personal vehicles on Earth are greatly the cause of all 
+            except for the pedal bicycle. </p>
+
+            <p> Presently, the few billion motorized personal vehicles on Earth are greatly the cause of all 
             kinds of needless pollution, noise, mishaps, crimes, Climate Change, social inequality, 
             disharmony and unsightliness. Many governments have tried to resolve this problem within 
             their countries or cities by taking half-steps like “Odd, even formula” ( allow on road the 
@@ -826,8 +749,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             All these chaotic experiences create an actual headache for the others using the road, 
             create quarrels on the road, lead to antisocial behavior, other crimes and health problems 
             and thus the society is rendered full of chaos, crime, mishealth, disharmony, competition and 
-            unproductiveness. 
-            And these are artificial problems so they can be solved. The problems collectively largely 
+            unproductiveness. </p>
+           
+            <p> And these are artificial problems so they can be solved. The problems collectively largely 
             exist because of the existence of personal vehicles and will be solved only with the simple 
             act of abolishing personal vehicles with the exception of the simple pedal bicycle. And these 
             personal vehicles must be replaced with public mass transport vehicles which are not only 
@@ -836,8 +760,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             over Earth. The solution is our Ra-B bus which is a hybrid vehicle of 
             hovercraft-wheelcraft-aircraft type and a few hundred thousand of our Ra-B buses combined 
             all over Earth will resolve all those listed transportation-related direct problems and indirect 
-            problems. 
-            Another advantage of Ra-B buses will be preventing the need to build a large number of 
+            problems.</p> 
+           
+            <p> Another advantage of Ra-B buses will be preventing the need to build a large number of 
             bridges across rivers in cities because with just the presence of a small ramp on the 
             riverside these public-carrying Ra-B craft in hovercraft mode can smoothly transit from land 
             to river and the reverse, not needing most bridges which mainly carry wheeled vehicles. A 
@@ -845,43 +770,52 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             badly-designed cities which face yearly flooding. And when needed these Ra-B vehicles can 
             turn aircraft mode on and travel short distances by air. 
             The Ra-B bus platform can also be made into other kinds of vehicles like ambulance, public 
-            security vehicle, garbage collection vehicle etc. 
+            security vehicle, garbage collection vehicle etc. </p>
             [ To be done ] 
-            Meetings or sightings of aliens : 
-            It is not known what kinds of alien life we will encounter, whether on Red One or on Europa 
+           
+            <h2 style= "color:#fff;"> Meetings or sightings of aliens : </h2>
+            
+            <p>It is not known what kinds of alien life we will encounter, whether on Red One or on Europa 
             or beyond the Solar System, whether in the form of bacteria or as plants or as more 
             intelligent animals or something else. It is not known if they have been communicating with 
             us or with any other lifeforms in the infinite universe. Some humans say we must actively 
             find them, some say it is dangerous to try communicating with other lifeforms because they 
-            may seek us out to wipe us out. But advancement is of course seeking them. 
-            And if we seek them we must of course ideally have collective human prosperity, collective 
+            may seek us out to wipe us out. But advancement is of course seeking them. </p>
+            
+            <p>And if we seek them we must of course ideally have collective human prosperity, collective 
             harmony, gentleness, sensitiveness, empathy and intelligent consensus as that will present 
             our best unified side to any other intelligent lifeforms and that will come by agreeing on 
-            sensible manifestos like our “Same Water” constitution for Space. 
-            There is a wonderful story written and posted on LinkedIn by Don Michael Feeney called 
+            sensible manifestos like our “Same Water” constitution for Space. </p>
+            
+            <p>There is a wonderful story written and posted on LinkedIn by Don Michael Feeney called 
             “The Interplanetary Civilian: A Novella of Mars and Memory”. This story speaks of the 
             building of the first human settlements in Space in terms of technologies and social systems 
             including pan-human development, decentralized governance, the first human baby born in 
             Space, an artificial intelligence included with empathy, and a very different kind of alien 
-            encounter. This is the link to the story [  
+            encounter.</p> 
+            <p>This is the link to the story [  
             https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-fee
             ney-676nf ]. This story prepares us to look for intelligent lifeforms by being open-minded as 
-            to their type and their reaction to us and our reaction to them. 
-            While looking for alien life or encountering them by chance, we must acknowledge the 
+            to their type and their reaction to us and our reaction to them. </p>
+           
+            <p> While looking for alien life or encountering them by chance, we must acknowledge the 
             general idea that ultimately we and every kind of life origined within dying stars and maybe 
             within the dust around stars and maybe the gas clouds in free Space, so in a sense 
-            pan-universe fraternity. 
-            It is said that Space-origined lifes were carried through Space in various forms like spores, 
+            pan-universe fraternity. </p>
+           
+            <p> It is said that Space-origined lifes were carried through Space in various forms like spores, 
             viruses, eggs etc and seeded various worlds including ours to various levels and then 
             evolutionary steps took over in many of those worlds depending on the conditions of those 
             worlds. This idea is called Panspermia. For example, it is said that the octopus and squid in 
             Earth’s seas are not from Earth but from Space, their eggs carried within ice rocks and then 
             released on Earth when the ice rocks fell into the seas here. This is a good read about this 
-            topic [ https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/ ]. 
-            And who knows, we may find that cats are indeed aliens as goes the internet legend, LOL.
+            topic [ https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/ ]. </p>
+           
+            <p> And who knows, we may find that cats are indeed aliens as goes the internet legend, LOL.</p>
           </div>
         </div>
       `;
+      // Introduction
       modal.style.display = 'flex';
     } else if (chapter === 'introduction') {
       modalText.innerHTML = `
@@ -907,60 +841,212 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               scrollbar-width: thin;
               scrollbar-color: #fff #222;
             }
+
+            h2 {
+            font-family: 'Poppins', sans-serif;
+            color: #fff;
+            }
+
+            p{
+            font-family: 'Roboto', sans-serif;
+            }
+            span {
+              color:#fff;
+              font-weight: bold;
+              }
           </style>
           <h2 style="color:#fff;text-align:center;margin-bottom:10px;margin-top:20px;font-family:Poppins,sans-serif;">Introduction</h2>
           <div style="color:##FFFFc5;font-size:1.1em;font-family:Roboto,sans-serif;">
-            <p style='margin-bottom:2em;'>We are humanity’s first space company enabling potentially any human to go to space and live in space using simplified technologies and natural social systems.</p>
-            <p style='margin-bottom:2em;'>The disappointed 100,000 people desiring space travel :</p>
-            <p style='margin-bottom:1em;'>Now in 2025 there must be at least 100,000 people in the world desiring to go to space right now for the below reasons :</p>
+           
+            <h2 style='margin-bottom:10px; color:white;'>The disappointed 100,000 people desiring space travel :</h2>
+            
+            <p style='margin-bottom:10px;'>Now in 2025 there must be at least 100,000 people in the world desiring to go to space right now for the below reasons :</p>
+            
             <ul style='margin-bottom:1em;'>
-              <li>&gt;&gt; Tourism i.e. just the simple natural act of experiencing the cosmos</li>
-              <li>&gt;&gt; Mining moons, asteroids and other space bodies</li>
-              <li>&gt;&gt; Research including to find life and to try to terraform other worlds to set up new homes for humans</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Tourism i.e. just the simple natural act of experiencing the cosmos</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Mining moons, asteroids and other space bodies</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Research including to find life and to try to terraform other worlds to set up new homes for humans</li>
             </ul>
-            <p style='margin-bottom:1em;'>But in the context of the current space industry most people will never be able to go to space because the space industry imposes technological restrictions and anti-democratic social restrictions which we list below :</p>
-            <p style='margin-bottom:1em;'><b>Technological restrictions of the current space industry :</b></p>
-            <p style='margin-bottom:1em;'>The current means of going to space is the Tall Rocket which is an inefficient, expensive, complicated and unsafe system in the following ways :</p>
-            <ul style='margin-bottom:1em;'>
-              <li>(a). Inefficient because the rocket has to expend a lot of non-recoverable chemical fuel to rise even one centimeter off the launch pad and then to keep rising through the atmosphere. And once in orbital space it has to keep pushing out the non-recoverable fuel to give it the push and the direction towards the destination and then for any course corrections and then for braking once it is very near the destination. This requires lot of fuel and thus very large fuel tanks and these tanks increase the weight of the rocket and that creates a wrong cycle which in the end leaves very less mass of the rocket for the cargo, say to carry even one human. This disadvantage remains even when the rocket makers “stage” the rocket i.e. divide it in at least two separate parts where the part which goes to space ( the spaceship ) will have its own fuel and engine and this part is pushed through most of the atmosphere by a booster rocket and in the upper atmosphere the parts separate and the booster falls or does powered descent towards the ground both so that some mass is lessened and the spaceship fires its own engines to go further out into space. For even slightly farther distances like the Moon, a very small cargo like a single human becomes a very small carryable part of the original massive rocket. Some may think “Why not make the rocket huge to be able to carry more humans ?” but the huge rocket will also need a massive launch and recovery tower and other infrastructure and that simply feels neither clean nor practical. An orbital spaceship should be able to launch and descend in most places without any special infrastructure.</li>
-              <li>(b). Inefficient also because even before the rocket leaves the launch pad, it is associated with massive infrastructure, even just to hold the massive rocket steady till it is ready to launch. And that requires the efforts of a very large number of people who may have been doing other works if the spacecraft system was an efficient system… even by themselves going to space. Attached with this inefficiency is high expensiveness of the rocket and its infrastructure, including the material required to form the rocket and including the fuel because every time the rocket launches and travels in space, its fuel is fully expended and thus another launch of the rocket requires new fuel, and the fuel usually is at least two forms coming together later and this means more expenditure of money or more obtainment of the fuels. Finally, if many more people have to go to space and if their means is the tall rocket then the above inefficiency and expensiveness will add up a lot. These negative factors remain even in the modern trend of reusable tall rockets having legs to descend on and made ready to take flight again.</li>
-              <li>(c). Complicatedness : The American phrase “As complicated as rocket science” would not have existed if people, to go to space, were not using tall rockets which inherently are very complicated to make in terms of fuel tanks, their plumbing, their electrical and other control systems, the engine system, their staged structure, their landing system like legs and their difficultyness to make them safe for humans. Associated complicatedness is also in the launch infrastructure.</li>
-              <li>(d). Non-safety : Other than the above point about complicateness, there is the direct fact of non-safety starting from when the tall rocket starts to launch. Most of the mass of the rocket is fuel and thus the rocket can explode spectacularly when launching or after launching or then on in space. Within an atmosphere if the rising rocket stops the fuel supply to the engine for even one second, even because of error, it will crash to the ground and destroy the humans within it and also a large area where it crashes. That is why rocket launch stations are set up in isolated places, whether near the sea or in deserted lands or in remote forests or in remote mountains. And especially when a lot more rockets have to be built to take a lot more humans to space, the inefficiency and complicatedness will contribute to making them even more unsafe for humans. Another non-safety situation about the tall rocket is that since it is vertically very large it can easily topple during quakes in the ground it is standing on using its legs. This say on the Moon. What is the point of the space industry saying “Travel in space is risky” when the most immediate risk is on Earthen rocket launch stations ?</li>
+            
+            <p style='margin-bottom:10px;'>But in the context of the current space industry most people will never be able to go to space because the space industry imposes technological restrictions and anti-democratic social restrictions which we list below.</p>
+            
+            <h2 style="color:#fff;">Technological restrictions of the current space industry:</h2>
+            
+            <p style='margin-bottom:10px;'>The current means of going to space is the Tall Rocket which is an inefficient, expensive, complicated and unsafe system in the following ways :</p>
+            
+            <ul>
+              <li style="margin-left:1em; margin-bottom:10px;"> 
+              <span>(a).</span> Inefficient because the rocket has to expend a lot of non-recoverable chemical fuel to
+              rise even one centimeter off the launch pad and then to keep rising through the atmosphere.
+              And once in orbital space it has to keep pushing out the non-recoverable fuel to give it the
+              push and the direction towards the destination and then for any course corrections and then
+              for braking once it is very near the destination. This requires lot of fuel and thus very large
+              fuel tanks and these tanks increase the weight of the rocket and that creates a wrong cycle
+              which in the end leaves very less mass of the rocket for the cargo, say to carry even one
+              human. This disadvantage remains even when the rocket makers “stage” the rocket i.e.
+              divide it in at least two separate parts where the part which goes to space ( the spaceship )
+              will have its own fuel and engine and this part is pushed through most of the atmosphere by
+              a booster rocket and in the upper atmosphere the parts separate and the booster falls or
+              does powered descent towards the ground both so that some mass is lessened and the
+              spaceship fires its own engines to go further out into space. For even slightly farther
+              distances like the Moon, a very small cargo like a single human becomes a very small
+              carryable part of the original massive rocket. Some may think “Why not make the rocket
+              huge to be able to carry more humans ?” but the huge rocket will also need a massive
+              launch and recovery tower and other infrastructure and that simply feels neither clean nor
+              practical. An orbital spaceship should be able to launch and descend in most places without
+              any special infrastructure.
+              </li>
+
+              <li style="margin-left:1em; margin-bottom:10px;"> 
+              <span>(b).</span>Inefficient also because even before the rocket leaves the launch pad, it is associated
+              with massive infrastructure, even just to hold the massive rocket steady till it is ready to
+              launch. And that requires the efforts of a very large number of people who may have been
+              doing other works if the spacecraft system was an efficient system… even by themselves
+              going to space. Attached with this inefficiency is high expensiveness of the rocket and its
+              infrastructure, including the material required to form the rocket and including the fuel
+              because every time the rocket launches and travels in space, its fuel is fully expended and
+              thus another launch of the rocket requires new fuel, and the fuel usually is at least two forms
+              coming together later and this means more expenditure of money or more obtainment of the
+              fuels. Finally, if many more people have to go to space and if their means is the tall rocket
+              then the above inefficiency and expensiveness will add up a lot. These negative factors
+              remain even in the modern trend of reusable tall rockets having legs to descend on and
+              made ready to take flight again.
+              </li>
+
+              <li style="margin-left:1em; margin-bottom:10px;"> 
+              <span>(c).</span> Complicatedness : The American phrase “As complicated as rocket science” would not
+              have existed if people, to go to space, were not using tall rockets which inherently are very
+              complicated to make in terms of fuel tanks, their plumbing, their electrical and other control
+              systems, the engine system, their staged structure, their landing system like legs and their
+              difficultyness to make them safe for humans. Associated complicatedness is also in the
+              launch infrastructure.
+              </li>
+
+              <li style="margin-left:1em; margin-bottom:10px;"> 
+              <span>(d).</span> Non-safety : Other than the above point about complicateness, there is the direct fact of
+              non-safety starting from when the tall rocket starts to launch. Most of the mass of the rocket
+              is fuel and thus the rocket can explode spectacularly when launching or after launching or
+              then on in space. Within an atmosphere if the rising rocket stops the fuel supply to the
+              engine for even one second, even because of error, it will crash to the ground and destroy
+              the humans within it and also a large area where it crashes. That is why rocket launch
+              stations are set up in isolated places, whether near the sea or in deserted lands or in remote
+              forests or in remote mountains. And especially when a lot more rockets have to be built to
+              take a lot more humans to space, the inefficiency and complicatedness will contribute to
+              making them even more unsafe for humans. Another non-safety situation about the tall
+              rocket is that since it is vertically very large it can easily topple during quakes in the ground it
+              is standing on using its legs. This say on the Moon. What is the point of the space industry
+              saying “Travel in space is risky” when the most immediate risk is on Earthen rocket launch
+              stations ?
+              </li>
             </ul>
-            <p style='margin-bottom:1em;'>Thus the Tall Rocket is an obsolete method of travel to space. There is another type of launch system which is the Space-plane and this is under design by some organizations. This system has the spaceship formed like a regular aeroplane and takes off from the ground from a runway like a regular aeroplane usually using jet engines but when it reaches higher atmosphere it fires another set of engines which are a multiple of small rocket engines which push the space-plane to orbit and then farther into not-distant space. A variation has a single type of engines which operate both as the takeoff engines and then the space-taking engines. However, the space-plane has the following disadvantages :</p>
-            <ul style='margin-bottom:1em;'>
-              <li>(a). The space-plane requires a dedicated airport / spaceport system including a lengthy runway and this adds greatly to complicatedness, expensiveness and inconvenience.</li>
-              <li>(b). A space-plane airport / spaceport on Earth is one thing but what about places without spaceports, which is any other world except for Earth. For example, if we are using a space-plane to go to the Moon where there is no spaceport and runway, how will this infrastructure be built so that the space-plane is able to land for the first time ? If we build a separate lander craft for such situations, carried as cargo on the space-plane, the entire system will become complicated just to travel nearer distances in space like to the Moon. This leads to inefficient economics, expensiveness and compromise on human safety.</li>
-              <li>(c). The space-plane airport / spaceport / runway is as easily affected by natural calamities and other situations like regular aeroplane airports are prone to. This is inconvenient to say the least.</li>
+            
+            <p style='margin-bottom:10px;'>Thus the Tall Rocket is an obsolete method of travel to space. 
+            There is another type of launch system which is the Space-plane and this is under design by 
+            some organizations. This system has the spaceship formed like a regular aeroplane and takes off 
+            from the ground from a runway like a regular aeroplane usually using jet engines but when it 
+            reaches higher atmosphere it fires another set of engines which are a multiple of small rocket 
+            engines which push the space-plane to orbit and then farther into not-distant space. A variation 
+            has a single type of engines which operate both as the takeoff engines and then the space-taking 
+            engines. However, the space-plane has the following disadvantages: </p>
+            
+            <ul>
+              <li style="margin-left:1em; margin-bottom:10px;">
+               <span>(a).</span> Inefficient because the rocket has to expend a lot of non-recoverable chemical fuel to
+                    rise even one centimeter off the launch pad and then to keep rising through the atmosphere.
+                    And once in orbital space it has to keep pushing out the non-recoverable fuel to give it the
+                    push and the direction towards the destination and then for any course corrections and then
+                    for braking once it is very near the destination. This requires lot of fuel and thus very large
+                    fuel tanks and these tanks increase the weight of the rocket and that creates a wrong cycle
+                    which in the end leaves very less mass of the rocket for the cargo, say to carry even one
+                    human. This disadvantage remains even when the rocket makers “stage” the rocket i.e.
+                    divide it in at least two separate parts where the part which goes to space ( the spaceship )
+                    will have its own fuel and engine and this part is pushed through most of the atmosphere by
+                    a booster rocket and in the upper atmosphere the parts separate and the booster falls or
+                    does powered descent towards the ground both so that some mass is lessened and the
+                    spaceship fires its own engines to go further out into space. For even slightly farther
+                    distances like the Moon, a very small cargo like a single human becomes a very small
+                    carryable part of the original massive rocket. Some may think “Why not make the rocket
+                    huge to be able to carry more humans ?” but the huge rocket will also need a massive
+                    launch and recovery tower and other infrastructure and that simply feels neither clean nor
+                    practical. An orbital spaceship should be able to launch and descend in most places without
+                    any special infrastructure.
+                    </li>
+              
+               <li style="margin-left:1em; margin-bottom:10px;">
+              <span>(b).</span> A space-plane airport / spaceport on Earth is
+               one thing but what about places without spaceports, which is any other world except for Earth. 
+               For example, if we are using a space-plane to go to the Moon where there is no spaceport and 
+               runway, how will this infrastructure be built so that the space-plane is able to land for the 
+               first time ? If we build a separate lander craft for such situations, carried as cargo on the
+                space-plane, the entire system will become complicated just to travel nearer distances in space 
+                like to the Moon. This leads to inefficient economics, expensiveness and compromise on human 
+                safety.</li>
+             
+              <li style="margin-left:1em; margin-bottom:10px;">
+              </span>(c).</span> The space-plane airport / spaceport / 
+              runway is as easily affected by natural calamities and other situations like regular aeroplane 
+              airports are prone to. This is inconvenient to say the least.</li>
+              </ul>
+            
+              <p style='margin-bottom:10px;'>So the space-plane is also not the solution.</p>
+               
+              <p style='margin-bottom:10px;'>Therefore the Tall Rocket and the Space-plane are not 
+              good enough to take humans farther than the Moon in a shorter time, like weeks.</p>
+            
+              <h2 style=color:#fff;>Social restrictions of the current space industry :</h2>
+            
+              <p style='margin-bottom:10px;'>Aspiring space travellers either have to be very rich 
+              to pay for a single ticket ( at least 20 millions dollars ) to launch on the rockets 
+              or in-development space-planes of the world’s very few humans-to-space programs of 
+              government space agencies and private space agencies; or the aspiring travelers must
+               be associated with these governments or allied governments to travel for free by 
+               being military pilots, professional scientists etc; or the aspiring space travellers 
+               must win seat lottery in some private space-trip arrangement program associated with 
+               those governments or private space agencies and this lottery will be won by only one 
+               person per year in the entire world. Most ordinary space travel aspirers have no 
+               chance. But it is not Nature / Universe denying most people access to the cosmos, 
+               it is anti-democratic systems among humans doing so.</p>
+
+              <p style='margin-bottom:10px;'>Also, the very workers who build these current human 
+              launch systems are excluded from going to space on the space systems they built with 
+              their sweat, sleepless nights and risk of serious injury or death !!! All they are 
+              allowed to do is clap in the control rooms whose screens show the launches of those 
+              space systems taking to space the rich and the other privileged. A ridiculous and 
+              undemocratic situation just like two other situations in the “Democratic World” :</p>
+            
+              <ul>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> The poor daily-wage construction laborers who build mansions, penthouses and two-bedroom flats for the rich and the middle class, never get to live in them and will be chased away from the gate if they happen to visit later and they instead have to live in slums</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> The few billion ordinary fans of sports stars, who make these sports stars millionaires and adored for years, will never get replied for their long passionate loyalty with a million dollars in their bank accounts each and neither will these sports stars speak up about issues their ordinary fans face in their daily lives or even if the loyal fans die in stampede in the stadiums or outside the stadiums where these sports stars descend royally to play or get felicitated, nor will the cherished sports stars speak about global issues like Climate Change, techno-feudalism and the traditional feudalism in the cities and the villages which includes the wrongs against farmers, white-collar workers, students, daily-wagers and women</li>
             </ul>
-            <p style='margin-bottom:1em;'>So the space-plane is also not the solution.</p>
-            <p style='margin-bottom:1em;'>Therefore the Tall Rocket and the Space-plane are not good enough to take humans farther than the Moon in a shorter time, like weeks.</p>
-            <p style='margin-bottom:1em;'><b>Social restrictions of the current space industry :</b></p>
-            <p style='margin-bottom:1em;'>Aspiring space travellers either have to be very rich to pay for a single ticket ( at least 20 millions dollars ) to launch on the rockets or in-development space-planes of the world’s very few humans-to-space programs of government space agencies and private space agencies; or the aspiring travelers must be associated with these governments or allied governments to travel for free by being military pilots, professional scientists etc; or the aspiring space travellers must win seat lottery in some private space-trip arrangement program associated with those governments or private space agencies and this lottery will be won by only one person per year in the entire world. Most ordinary space travel aspirers have no chance. But it is not Nature / Universe denying most people access to the cosmos, it is anti-democratic systems among humans doing so.</p>
-            <p style='margin-bottom:1em;'>Also, the very workers who build these current human launch systems are excluded from going to space on the space systems they built with their sweat, sleepless nights and risk of serious injury or death !!! All they are allowed to do is clap in the control rooms whose screens show the launches of those space systems taking to space the rich and the other privileged. A ridiculous and undemocratic situation just like two other situations in the “Democratic World” :</p>
-            <ul style='margin-bottom:1em;'>
-              <li>&gt;&gt; The poor daily-wage construction laborers who build mansions, penthouses and two-bedroom flats for the rich and the middle class, never get to live in them and will be chased away from the gate if they happen to visit later and they instead have to live in slums</li>
-              <li>&gt;&gt; The few billion ordinary fans of sports stars, who make these sports stars millionaires and adored for years, will never get replied for their long passionate loyalty with a million dollars in their bank accounts each and neither will these sports stars speak up about issues their ordinary fans face in their daily lives or even if the loyal fans die in stampede in the stadiums or outside the stadiums where these sports stars descend royally to play or get felicitated, nor will the cherished sports stars speak about global issues like Climate Change, techno-feudalism and the traditional feudalism in the cities and the villages which includes the wrongs against farmers, white-collar workers, students, daily-wagers and women</li>
-            </ul>
-            <p style='margin-bottom:1em;'><b>The techno-social restrictions coming together :</b></p>
+            
+            <h2>The techno-social restrictions coming together: </h2>
+            
             <p style='margin-bottom:1em;'>So all this hurry-burry and artificial glamor of the current space industry is pointless in the end for the at least 100,000 other desirers of space travel who will never leave Earth and the very rich owners of most current space agencies will keep profiting from this hurry-burry and from the complicated, expensive and unsafe current launch systems yet the ordinary desirers and humanity in general are encouraged to glorify this industry and its feudal owners. These are fake heroes.</p>
-            <p style='margin-bottom:1em;'><b>Our solution : The Yuri Plan :</b></p>
+            
+            <h2 style= "color:#fff;"> Our solution : The Yuri Plan : </h2>
+            
             <p style='margin-bottom:1em;'>This plan is named after Yuri Gagarin, the Soviet cosmonaut who was the first human in space. There is an entire universe to explore and settle to the max extent possible by humans and we must do this in a way that is simple, gentle, safe, humanist and respectful of Nature and Nature’s laws. Space travel must become as common as bus travel, and space living as common as hotel stay, and these should flow into evolving human society on Earth too. Potentially every human should be able to access space, live in space and attain their potential in space, whenever he or she desires, with a minimal usage fee or no fee at all, in the now and in the far far future.</p>
+            
             <p style='margin-bottom:1em;'>Towards this, we of Kosmos Society will build all the systems, whether the spaceships or the computers or the electricity generators or the spacesuits or the habitation systems or the social system and every other necessary thing, and all this in a simplified and straightforward manner.</p>
+            
             <p style='margin-bottom:1em;'>Starting 2035 our-designed spaceships will be able to carry humans and goods safely throughout the Inner Solar System and Outer Solar System and our other technologies will enable living in those regions. “Inner Solar System” means to safely near the Sun in one direction and the Asteroid Belt in the other direction, and “Outer” means beyond the Asteroid Belt to Pluto and beyond. This will be just the start.</p>
+            
+                       
             <p style='margin-bottom:1em;'>Most of our systems will be usable on Earth either directly or in derivation, and all our systems will be simplified, manufacturable cheaply, operable cheaply and repairable cheaply, and the manufacturers will be national governments who will purchase from us the designs and engineering details of our systems for a reasonable license fee and they will be able to set up the factories in their own countries. Once these systems are built by the governments they should charge the masses minimal fees or no fees at all for personal ownership of some of these systems ( say our wearable computer ) or when being passengers ( say on our spaceships ) or when living in space habitats. For example, an individual’s trip to the Moon should have a max seat price of 100 dollars or ideally free.</p>
-            <p style='margin-bottom:1em;'><b>Our systems include :</b></p>
-            <ul style='margin-bottom:1em;'>
-              <li>&gt;&gt; A compact, non-nuclear, simple and self-sustaining electricity generator called Faradn which will power all our smaller machines and not-smaller machines by being installed within them or just outside them This is decentralized electricity generation instead of the current centralized methods</li>
-              <li>&gt;&gt; A reusable space-going airship called Alef-A which will be our ascent / descent system on worlds and it will also be the means to travel short distances in space like Earth to Moon This airship will be lifted in atmosphere worlds by helium gas and hot air and will use three eco-friendly and sustainable propulsion methods : electric rotors, coal combustion, water steam jets “World ascent / descent” can mean for an air-filled space object ( Earth, perhaps Titan etc ) or an airless space object ( Moon, large asteroids etc ) The cargo can be humans and goods The Alef-A airship-spaceship will be shaped like an upturned teacup without the handle The first full version will be able to carry 20 humans to the Moon</li>
-              <li>&gt;&gt; A large in-space long-distance ferry called Alef-F which will be large enough to carry five Alef-A crafts and a hundred humans and a hundred tons of other cargo and will be propelled primarily by water steam jets This ferry will be able to travel throughout the Inner Solar System and the Outer Solar System and will always be in space, never to descend on any world</li>
-              <li>&gt;&gt; A hybrid vehicle called Ra-H which will be a combination of hovercraft, wheelcraft and aircraft, able to carry humans and small cargo and to be used on the surface and air of air-having space bodies such as Red One ( Mars ) and Titan, and the surface of larger airless space bodies such as the Moon and asteroids In air propulsion mode it will use electric rotors and coal combustion depending on the situation and will allow for vertical takeoff and landing ( VTOL ) Each Ra-H will carry three non-suited people in a pressurized cabin A single Ra-H will be carried down to those worlds by a Alef-A craft</li>
-              <li>&gt;&gt; A spacesuit called Stillsuit with short-distance flying ability The suit will be a hard suit and will use bio-mimicry for self-sealing in case of punctures The suit will have a water system to recycle water from sweat and urine, and facility to collect defecation and render it non-smelly and non-toxic Also will be other conveniences like a simple mechanical system to scratch all of the face and dab it of sweat</li>
-              <li>&gt;&gt; A wearable computer called Dune Buk which will be operable in space conditions It will be worn on the back of the upper arm and will use novel methods for computation, electromagnetic frequency reception, data storage and projected-display system where sound will play a major role The file system will be non-hierarchical and categories-recording The networking system is called Frema This computer will be aesthetic for the stylish person and will be wearable on all kinds of clothing including factory clothes and the Stillsuit spacesuit</li>
-              <li>&gt;&gt; Space habitation construction</li>
-              <li>&gt;&gt; Engineered biology researches for food production, human body tolerance for space conditions, mining and other things</li>
-              <li>&gt;&gt; An autonomous satellite called Serf to clear Earth orbit from the satellite debris and other space debris which are currently polluting Earth orbit and may soon make human journey through Earth orbit very dangerous because of risk of these debris crashing into their spaceships</li>
-          <li>&gt;&gt; Our progressive pan-human constitution for space called “Same Water”</li>
+            
+            <h2>Our systems include :</h2>
+            
+            <ul>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> A compact, non-nuclear, simple and self-sustaining electricity generator called Faradn which will power all our smaller machines and not-smaller machines by being installed within them or just outside them This is decentralized electricity generation instead of the current centralized methods</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> A reusable space-going airship called Alef-A which will be our ascent / descent system on worlds and it will also be the means to travel short distances in space like Earth to Moon This airship will be lifted in atmosphere worlds by helium gas and hot air and will use three eco-friendly and sustainable propulsion methods : electric rotors, coal combustion, water steam jets “World ascent / descent” can mean for an air-filled space object ( Earth, perhaps Titan etc ) or an airless space object ( Moon, large asteroids etc ) The cargo can be humans and goods The Alef-A airship-spaceship will be shaped like an upturned teacup without the handle The first full version will be able to carry 20 humans to the Moon</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> A large in-space long-distance ferry called Alef-F which will be large enough to carry five Alef-A crafts and a hundred humans and a hundred tons of other cargo and will be propelled primarily by water steam jets This ferry will be able to travel throughout the Inner Solar System and the Outer Solar System and will always be in space, never to descend on any world</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> A hybrid vehicle called Ra-H which will be a combination of hovercraft, wheelcraft and aircraft, able to carry humans and small cargo and to be used on the surface and air of air-having space bodies such as Red One ( Mars ) and Titan, and the surface of larger airless space bodies such as the Moon and asteroids In air propulsion mode it will use electric rotors and coal combustion depending on the situation and will allow for vertical takeoff and landing ( VTOL ) Each Ra-H will carry three non-suited people in a pressurized cabin A single Ra-H will be carried down to those worlds by a Alef-A craft</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> A spacesuit called Stillsuit with short-distance flying ability The suit will be a hard suit and will use bio-mimicry for self-sealing in case of punctures The suit will have a water system to recycle water from sweat and urine, and facility to collect defecation and render it non-smelly and non-toxic Also will be other conveniences like a simple mechanical system to scratch all of the face and dab it of sweat</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> A wearable computer called Dune Buk which will be operable in space conditions It will be worn on the back of the upper arm and will use novel methods for computation, electromagnetic frequency reception, data storage and projected-display system where sound will play a major role The file system will be non-hierarchical and categories-recording The networking system is called Frema This computer will be aesthetic for the stylish person and will be wearable on all kinds of clothing including factory clothes and the Stillsuit spacesuit</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Space habitation construction</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Engineered biology researches for food production, human body tolerance for space conditions, mining and other things</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> An autonomous satellite called Serf to clear Earth orbit from the satellite debris and other space debris which are currently polluting Earth orbit and may soon make human journey through Earth orbit very dangerous because of risk of these debris crashing into their spaceships</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Our progressive pan-human constitution for space called “Same Water”</li>
         <!-- close button logic moved out of template string -->
             </ul>
             <p style='margin-bottom:1em;'>By 2031 two people will go to Low Earth Orbit in our Alef-A airship-spaceship, orbit Earth and return gently through the atmosphere by powered craft re-entry to the launch place. By 2035 our spaceships will carry humans and goods from the Inner Solar System to the Outer Solar System.</p>
@@ -976,6 +1062,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           };
         }
       }, 0);
+      // Our product design principles
     } else if (chapter === 'principles') {
       modalText.innerHTML = `
         <div style="position:relative;padding:2em 2em 1em 2em;background:#222;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -1000,27 +1087,43 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               scrollbar-width: thin;
               scrollbar-color: #fff #222;
             }
+              h2 {
+            font-family: 'Poppins', sans-serif;
+            color: #fff;
+            }
+
+            p{
+            font-family: 'Roboto', sans-serif;
+            }
+
+            span {
+              color:#fff;  
+              font-weight: bold;
+              }
           </style>
           <h2 style="color:#fff;text-align:center;margin-bottom:10px;">Our progressive product design principles</h2>
           <div style="color:##FFFFc5;font-size:1.1em;">
-            <p style='margin-bottom:1em;'>&gt;&gt; Liberty, Equality, Fraternity, Humanism, Simplicity, Human safety as much as possible, Respect for Nature including reversing Climate Change on Earth</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; Readiness to explore sensible methods that are from old times or are unusual</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; We won’t do a technology just because there are a hundred other companies doing it or it has been done for a hundred years or just because it has been proposed by some celebrated scientist but the idea is not sensible, for example the concept called Dyson Sphere aka Dyson Swarm</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; A naturality, beauty, gentleness, simplification and intelligence in technologies and science as against trendy but dystopian and needlessly complicated things. Be Dune’sy rather than metaverse’y. This includes naming or renaming of space objects like “Red One” instead of “Mars” as the latter is the Roman god of war while the former is a gentle name. Another example is not following the silliness of nuclear fusion as the means to generate electricity</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; Employ the concept of Circular Economy which also relates to:</p>
-            <p style='margin-left:2em;margin-bottom:1em;'>(a) Much simplified technology</p>
-            <p style='margin-left:2em;margin-bottom:1em;'>(b) Decentralization and ease of production and usage which includes electricity generation</p>
-            <p style='margin-left:2em;margin-bottom:1em;'>(c) Using locally available methods and materials when possible for production and repair</p>
-            <p style='margin-left:2em;margin-bottom:1em;'>(d) Technology that is well-crafted yet affordable by the masses</p>
-            <p style='margin-left:2em;margin-bottom:1em;'>(e) Local empowerment</p>
-            <p style='margin-left:2em;margin-bottom:1em;'>(f) Technologies selected which help humanity anywhere return easier to advancement or be resilient when situation becomes bad because of natural or other events like unusually big solar storm, comet or asteroid strike, a pointless global war etc</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; Low-tech when applicable</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; Bio-mimicry and Engineered Biology wherever applicable</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; Our technologies will align around our draft for a democratic, pan-human and Nature-respecting constitution for space, presented in the “Same Water…” chapter on this website</p>
+            <p style='margin-bottom:10px;'><span>&gt;&gt;</span> Liberty, Equality, Fraternity, Humanism, Simplicity, Human safety as much as possible, Respect for Nature including reversing Climate Change on Earth</p>
+            <p style='margin-bottom:10px;'><span>&gt;&gt;</span> Readiness to explore sensible methods that are from old times or are unusual</p>
+            <p style='margin-bottom:10px;'><span>&gt;&gt;</span> We won’t do a technology just because there are a hundred other companies doing it or it has been done for a hundred years or just because it has been proposed by some celebrated scientist but the idea is not sensible, for example the concept called Dyson Sphere aka Dyson Swarm</p>
+            <p style='margin-bottom:10px;'><span>&gt;&gt;</span> A naturality, beauty, gentleness, simplification and intelligence in technologies and science as against trendy but dystopian and needlessly complicated things. Be Dune’sy rather than metaverse’y. This includes naming or renaming of space objects like “Red One” instead of “Mars” as the latter is the Roman god of war while the former is a gentle name. Another example is not following the silliness of nuclear fusion as the means to generate electricity</p>
+            <h2 style="color:#fff;"> Employ the concept of Circular Economy which also relates to:</h2>
+           
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(a)</span> Much simplified technology</p>
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(b)</span> Decentralization and ease of production and usage which includes electricity generation</p>
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(c)</span> Using locally available methods and materials when possible for production and repair</p>
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(d)</span> Technology that is well-crafted yet affordable by the masses</p>
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(e)</span> Local empowerment</p>
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(f)</span> Technologies selected which help humanity anywhere return easier to advancement or be resilient when situation becomes bad because of natural or other events like unusually big solar storm, comet or asteroid strike, a pointless global war etc</p>
+            
+            <p style='margin-bottom:10px;'><span>&gt;&gt;</span> Low-tech when applicable</p>
+            <p style='margin-bottom:10px;'><span>&gt;&gt;</span> Bio-mimicry and Engineered Biology wherever applicable</p>
+            <p style='margin-bottom:10px;'><span>&gt;&gt;</span> Our technologies will align around our draft for a democratic, pan-human and Nature-respecting constitution for space, presented in the “Same Water…” chapter on this website</p>
           </div>
         </div>
       `;
       modal.style.display = 'flex';
+      // join
     } else if (chapter === 'join') {
       modalText.innerHTML = `
         <div style="position:relative;padding:2em 2em 1em 2em;background:#222;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -1045,18 +1148,36 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               scrollbar-width: thin;
               scrollbar-color: #fff #222;
             }
+              h2 {
+            font-family: 'Poppins', sans-serif;
+            color: #fff;
+            }
+
+            p{
+            font-family: 'Roboto', sans-serif;
+            }
+            span {
+              color:#fff;
+              font-weight: bold;
+              }
           </style>
-          <h2 style="color:#fff;text-align:center;margin-bottom:10px;">Introduction :</h2>
-          <div style="color:#FFFFc5;font-size:1.1em;white-space:pre-line;">
-            <p> Join us in the journey to explore the universe and evolve humanity. We will be a 
+          <h2 style="color:#fff;text-align:center;margin-bottom:10px;">Join us :</h2>
+          <div style="color:#FFFFc5;font-size:1.1em;">
+
+            <p style="margin-bottom:10px;"> Join us in the journey to explore the universe and evolve humanity. We will be a 
             transnational non-profit design house who will engage with potential co-workers, investors, 
-            other private organizations and national governments in these ways:</p>
-            <p> >> B2G and B2B collaborations. </P> 
-            <p> >> Potential co-workers investing ideas and labor and joining our team on salary basis in 
-            context of their democratic involvement as described below. </p
-           <p> >> Combination of the above. </p>
-            B2G and B2B collaborations: 
-            <p> >> B2G and B2B collaboration via government and private investors investing money and 
+            other private organizations and national governments in these ways: </p>
+
+            <h2> >> B2G and B2B collaborations. </h2>
+
+            <p style="margin-bottom:10px;"> <span> >> </span> Potential co-workers investing ideas and labor and joining our team on salary basis in 
+            context of their democratic involvement as described below. </p>
+
+            <p style="margin-bottom:10px;"> <span> >> </span> Combination of the above. </p>
+
+            <h2 style="margin-bottom:10px; color:#fff;"> B2G and B2B collaborations:</h2> 
+            
+            <p style="margin-bottom:10px;"> <span> >> </span> B2G and B2B collaboration via government and private investors investing money and 
             other resources in us so that we will be able to produce our prototypes and license them out 
             to governments. The investors’ return on investment will be share from our license fee we 
             ask from the manufacturer governments. Once you invest in us for the first time your return 
@@ -1066,28 +1187,40 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             approached to license our designs to them and this situation will exist as long as the system 
             of money remains. The return on investment will also be the satisfaction of enabling and 
             seeing an evolved space industry and the evolved collective human society which no 
-            reasonable person can disagree with. </p
-            <p> >> B2G and B2B collaboration for us to obtain the components in our designs. <p>
-           <p> >> B2G collaboration via we licensing out our product designs, engineering details and 
+            reasonable person can disagree with. </p>
+
+            <p style="margin-bottom:10px;"> <span> >> </span> B2G and B2B collaboration for us to obtain the components in our designs. </p>
+
+           <p style="margin-bottom:10px;"> <span> >> </span> B2G collaboration via we licensing out our product designs, engineering details and 
             prototypes to manufacturer organizations of national governments. This license fee will be 
             for the package of an entire human space program with its associated systems at a 
             reasonably cheap license fee and this fee includes continued development by us. We will 
             provide these governments the means to create the cheapest and simplest human space 
             program so that every citizen of theirs can go to space and live in space either by being 
             charged a minimal fee or ideally no fees. </p>
-            You as our co-worker : 
-            <p> This collaboration will be on the basis of natural social equality and natural intelligence. We 
+
+            <h2>You as our co-worker :</h2> 
+
+            <p style="margin-bottom:10px;"> This collaboration will be on the basis of natural social equality and natural intelligence. We 
             look for people ideally with the following attributes: </p> 
-            <p> >> You can be a school 10th class fail but if you have ideas, knowledge, willingness to work 
+
+            <p style="margin-bottom:10px;"> <span> >> </span> You can be a school 10th class fail but if you have ideas, knowledge, willingness to work 
             and maybe experience in tinkering and other areas then most welcome. </p>
-            <p> >> You do innovative and simplifying thinking even if going against traditions, industry 
+
+            <p style="margin-bottom:10px;"> <span> >> </span> You do innovative and simplifying thinking even if going against traditions, industry 
             standards and fashions. </p> 
-           <p> >> You are simple, gentle and not given to spouting corporate buzzwords. </p>
-           <p> >> You have no love for money, feudalism and classist thinking. </p>
-           <p> >> You desire a largely secular borderless unification of humanity on Earth and in Space. </p>
-           <p> >> You consider the cat as the most perfect animal in the universe, heh heh. </p>
-           <p> >> You consider tea as one of the main human gifts giveable to alien cultures, heh heh. </p>
-           <p> We are not a typical profiteering and feudalist corporate organization which works on 
+
+           <p style="margin-bottom:10px;"> <span> >> </span> You are simple, gentle and not given to spouting corporate buzzwords. </p>
+
+           <p style="margin-bottom:10px;"> <span> >> </span> You have no love for money, feudalism and classist thinking. </p>
+
+           <p style="margin-bottom:10px;"> <span> >> </span> You desire a largely secular borderless unification of humanity on Earth and in Space. </p>
+
+           <p style="margin-bottom:10px;"> <span> >> </span> You consider the cat as the most perfect animal in the universe, heh heh. </p>
+
+           <p style="margin-bottom:10px;"> <span> >> </span> You consider tea as one of the main human gifts giveable to alien cultures, heh heh. </p>
+
+           <p style="margin-bottom:10px;"> We are not a typical profiteering and feudalist corporate organization which works on 
             fashionable and senseless technologies and uses senseless corporate lingo in every 
             sentence ( “verticals”, “market fit”, “cost to company”, “we are letting you go”, “due diligence” 
             etc ). We are a techno-social organization set up to evolve humanity in multiple senses 
@@ -1097,67 +1230,83 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             employs the Workers Cooperative concept which is described in the “Same Water…” 
             chapter on this website. Please read that chapter and return to this point. Additionally in our 
             company : </p>
-            <p> >> For the sake of current company formation rules the company equity is divided in three 
+
+            <p style="margin-bottom:10px;"> <span> >> </span> For the sake of current company formation rules the company equity is divided in three 
             parts : one part for the founders ( as at the time of formal registration of the company ), the 
             second part for the investors, and the third part for any new co-workers where the founders 
             will dilute their equity equally to spread equity equally among all the workers. </p>
-           <p>  >> There will be no “boss cabin”.  </p>
-           <p> >> Salary will be an equal amount for all that is comfortable for all our workers in all our 
+
+           <p style="margin-bottom:10px;">  <span> >> </span> There will be no “boss cabin”.  </p>
+
+           <p style="margin-bottom:10px;"> <span> >> </span> Salary will be an equal amount for all that is comfortable for all our workers in all our 
             regions but the salary will be based on an Indian number since we will be HQed in India. </p>
-           <p> >> The organization is arranged as a set of work groups which will be for the various 
+
+           <p style="margin-bottom:10px;"> <span> >> </span> The organization is arranged as a set of work groups which will be for the various 
             research groups and maintenance groups. </p>
-            <p> >> The organization will be headed by a General Coordinator ( GC ) who for some years to 
+
+            <p style="margin-bottom:10px;"> <span> >> </span> The organization will be headed by a General Coordinator ( GC ) who for some years to 
             come will be Sameer who is described just below. The General Coordinator will be 
             approachable to every worker, will be the interface within the organization and externally, 
             and every worker if necessary can arrange to call a discussion circle with a notification sent 
             to the GC. Further, each of our branches in other countries or regions ( other than India ) will 
             have a Regional Coordinator. </p>
-            <p> The industry of space travel is a permanent one and involves science of every kind except 
+
+            <p style="margin-bottom:10px;"> The industry of space travel is a permanent one and involves science of every kind except 
             for sciences with no real basis in a simplified, non-trend-following and democracy-oriented 
             organization, so with us you will be in permanent employment. You will have a comfortable 
             salary as long as the system of money remains. </p>
-           <p> Please note that we are just starting out so it will be some time before you start getting 
+
+           <p style="margin-bottom:10px;"> Please note that we are just starting out so it will be some time before you start getting 
             salary and we all get salaries so please be patient and look at the big picture and the long 
             term. </p>
-            Our founding team : 
-           <p> Mohammed Sameer - General Coordinator 
+
+            <h2 style="margin-bottom:10px; color:#fff;">Our founding team :</h2>
+
+           <p style="margin-bottom:10px;"><span> Mohammed Sameer - General Coordinator</span> 
             [ Description : Sameer is originally from computing background but he considers himself a 
             general researcher with interests ranging from generation of electricity to organization of 
             society, like those "polymaths" of old like Hasan Ibn al-Haytham, Leonardo da Vinci and 
             Jagadish Chandra Bose ] 
             [ linkedin.com/in/sameer-kosmos-society ] </p>
-            <p> Prof. Dr. Gajendran Chandran - Chief Advisor 
-            [ Description : Dr. Gajendran is a veteran aerospace scientist but his interests are many - 
+
+            <p style="margin-bottom:10px;"> <span> Prof. Dr. Gajendran Chandran - Chief Advisor </span>
+            [ Description : Dr. Gajendran is a veteran aerospace scientist but his interests are many -
             from philosophy to nano tech to power generation and other fields in a nuanced and 
             humanist way. He has been an advisor to Sameer for years and brings a practised, practical 
             and also system-level thinking to the organization not only about technology but the human 
             condition too ] 
             [ https://in.linkedin.com/in/prof-dr-gajendran-chandran-79866320 ] </p>
-           <p> Prof. Dr. Siddharth Dabhade - Advisor 
+
+           <p style="margin-bottom:10px;"> <span> Prof. Dr. Siddharth Dabhade - Advisor </span>
             [ Description : Dr. Siddharth has been a patient supporter of the organization for more than 
             two years. He joined our more little group when we didn’t have this organization and our sole 
             project was the Kosmos microprocessor+OS. Presently, he has been an advisor in a 
             system-level way ] 
             [ https://in.linkedin.com/in/siddharth-dabhade-a6392025 ] </p>
-           <p> Afzal - Advisor 
+
+           <p style="margin-bottom:10px;"> <span> Afzal - Advisor </span>
             [ Description : Afzal is a practical person but also philosophical. He has been a patient 
             supporter of the organization from the time it was thought up in early 2023. He contributes 
             presently to our electricity generator project, our spaceship projects and the 
-            hovercraft-wheelcraft-aircraft project ] 
-            Mahmoud Hosny - Regional Coordinator, Africa and West Asia  
+            hovercraft-wheelcraft-aircraft project ] </p>
+
+           <p style="margin-bottom:10px;"> <span> Mahmoud Hosny - Regional Coordinator, Africa and West Asia</span>  
             [ Description : Mahmoud is based in Cairo and will manage liaison to the administrations and 
             the masses in the vast regions that are Africa and West Asia. He is a straight-talking person 
             and patient including the time it took for the organization to come to this level ]  </p>
-            <p> Syed Athiq Jeelani - Advisor 
+
+            <p style="margin-bottom:10px;"> <span> Syed Athiq Jeelani - Advisor </span> 
             [ Description : Athiq dabbles in various fields like power adapter design, ready-to-cook foods 
             and management of a school. Athiq is inquisitive, patient and provides a practical side to 
             things. He is our electrical expert ] 
             [ https://in.linkedin.com/in/saj-iot ] </p> 
-            [ “Contact info” pic here ]
+
+           <p style="margin-bottom:10px;"> [ “Contact info” pic here ] </p>
           </div>
         </div>
       `;
       modal.style.display = 'flex';
+      // credits
     } else if (chapter === 'credits') {
       modalText.innerHTML = `
         <div style="position:relative;padding:2em 2em 1em 2em;background:#222;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -1182,22 +1331,37 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               scrollbar-width: thin;
               scrollbar-color: #fff #222;
             }
+              h2 {
+            font-family: 'Poppins', sans-serif;
+            color: #fff;
+            }
+
+            p{
+            font-family: 'Roboto', sans-serif;
+            }
+
+            span {
+              color:#fff;
+              font-weight: bold;
+              }
+
           </style>
           <h2 style="color:#fff;text-align:center;margin-bottom:10px;">Credits</h2>
           <div style="color:#FFFFc5;font-size:1.1em;">
-            <p style='margin-bottom:1em;'>&gt;&gt; Vikram J for the logo and website design.</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; Apoorva JR for presenting to us an Instagram page ( forgot the page name ) in 2023 which contained reports on eco-friendly ways of generating electricity and which led to our discovery of the “sand battery” which we use in our design of the Faradn generator. Apoorva’s LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#FFFF00;">https://www.linkedin.com/in/apoorvajr</a> ]. We also thank the owner of that Insta page and the company Polar Night Energy who thought of applying the sand battery in a real life setting and this news was listed on that Insta page.</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; Vishal Bhimrao Zuluk for the idea about doing computation using sound.</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, made using an electro-magnetic relay. This vid called “1026 The easiest inverter you will ever make” is on this page [ <a href="https://www.youtube.com/watch?v=L-vC9SvU2Lo" target="_blank" style="color:#FFFF00;">https://www.youtube.com/watch?v=L-vC9SvU2Lo</a> ]. This we use in our design of the Faradn generator.</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; The YouTube channel “The Action Lab” for the idea about using heat to run a piston engine. This vid called “This engine runs on sound waves” is on this page [ <a href="https://www.youtube.com/watch?v=xCnxsoXtlmY" target="_blank" style="color:#FFFF00;">https://www.youtube.com/watch?v=xCnxsoXtlmY</a> ]. This we use in our design of the Faradn generator.</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; Coke Studio Bangla Season One for presenting the song “Shob Lokey Koy” which we use to name our constitution for space. The song is available on YouTube on this page [ <a href="https://www.youtube.com/watch?v=L-arhlgPiy8" target="_blank" style="color:#FFFF00;">https://www.youtube.com/watch?v=L-arhlgPiy8</a> ] and there are other songs there too.</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; Background picture for the website is from the DeviantArt website’s DreamUp AI picture generation facility.</p>
-            <p style='margin-bottom:1em;'>&gt;&gt; In general all the good thinkers of the past and present whose thoughts and works we use in our projects.</p>
+            <p style='margin-bottom:10px;'><span>&gt;&gt;</span> Vikram J for the logo and website design.</p>
+            <p style='margin-bottom:10px;'><span>&gt;&gt;</span> Apoorva JR for presenting to us an Instagram page ( forgot the page name ) in 2023 which contained reports on eco-friendly ways of generating electricity and which led to our discovery of the “sand battery” which we use in our design of the Faradn generator. Apoorva’s LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#FFFF00;">https://www.linkedin.com/in/apoorvajr</a> ]. We also thank the owner of that Insta page and the company Polar Night Energy who thought of applying the sand battery in a real life setting and this news was listed on that Insta page.</p>
+            <p style='margin-bottom:10px;'><span>&gt;&gt;</span> Vishal Bhimrao Zuluk for the idea about doing computation using sound.</p>
+            <p style='margin-bottom:10px;'><span>&gt;&gt;</span> Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, made using an electro-magnetic relay. This vid called “1026 The easiest inverter you will ever make” is on this page [ <a href="https://www.youtube.com/watch?v=L-vC9SvU2Lo" target="_blank" style="color:#FFFF00;">https://www.youtube.com/watch?v=L-vC9SvU2Lo</a> ]. This we use in our design of the Faradn generator.</p>
+            <p style='margin-bottom:10px;'><span>&gt;&gt;</span> The YouTube channel “The Action Lab” for the idea about using heat to run a piston engine. This vid called “This engine runs on sound waves” is on this page [ <a href="https://www.youtube.com/watch?v=xCnxsoXtlmY" target="_blank" style="color:#FFFF00;">https://www.youtube.com/watch?v=xCnxsoXtlmY</a> ]. This we use in our design of the Faradn generator.</p>
+            <p style='margin-bottom:10px;'><span>&gt;&gt;</span> Coke Studio Bangla Season One for presenting the song “Shob Lokey Koy” which we use to name our constitution for space. The song is available on YouTube on this page [ <a href="https://www.youtube.com/watch?v=L-arhlgPiy8" target="_blank" style="color:#FFFF00;">https://www.youtube.com/watch?v=L-arhlgPiy8</a> ] and there are other songs there too.</p>
+            <p style='margin-bottom:10px;'><span>&gt;&gt;</span> Background picture for the website is from the DeviantArt website’s DreamUp AI picture generation facility.</p>
+            <p style='margin-bottom:10px;'><span>&gt;&gt;</span> In general all the good thinkers of the past and present whose thoughts and works we use in our projects.</p>
           </div>
           
         </div>
       `;
       modal.style.display = 'flex';
+      //More on our techno projects
     } else {
       modalText.innerHTML = `
         <div style="position:relative;padding:2em 2em 1em 2em;background:#222;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -1222,95 +1386,151 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               scrollbar-width: thin;
               scrollbar-color: #fff #222;
             }
+              h2 {
+            font-family: 'Poppins', sans-serif;
+            color: #fff;
+            }
+
+            p{
+            font-family: 'Roboto', sans-serif;
+            }
+            span {
+              color:#fff;
+              font-weight: bold;
+              }
           </style>
           <div style="color:#FFFFc5;font-size:1.1em;">
             <h2 style="color:#fff;margin-bottom:10px;text-align:center;">Faradn electricity generator</h2>
+            
             <p>Advancement in electricity generation is not to make the generators huge, centralized, complicated, unsafe, polluting and needless like nuclear, hydropower dams, on-sea wind turbines etc along with their complicated and huge system controls, power controls and power delivery mechanisms and all these stretched hundreds of kilometers or even millions of kilometers like the idiotic concept Dyson Swarm There’s even an unspoken nefarious element here like promotion of Space-based Solar Power where huge photovoltaic panels will sit in Earth orbit and convert the abundant sunlight there to electricity, convert the electricity to high-power microwaves and send down the microwaves to certain large-focus spots on Earth where on those spots on the ground the microwaves are converted back to electricity by rectennas to be supplied to the grid The nefarious element here is the potential of this system to be used to zap humans and other things using the high-power microwaves by moving these power satellites over targets</p>
+            
             <p>Advancement then in electricity generation is to make generators simple, compact, safe and decentralized, where the generator sits within the small and large machines needing electricity or just outside them Making generators compact will also enable redundancy, easy replacement and easy placement in any place which needs electricity instead of centralized single points of failure This also contributes to democracy where the individual user freely owns the electricity generation mechanism and its produced electricity</p>
+            
             <p>Faradn generator system will be such a generator which is very non-nuclear and will power all our non-micro-sized products by sitting within them or just outside them Once this generator has been supplied with a “start heat” it will use thermo-mechanical method to generate electricity and will include a “sand battery” to store heat to enable a self-sustaining energy loop It will produce 24 volts DC which is neither too low a current nor dangerously high and can be amplified by external systems like a motor-generator for larger or high-voltage applications Most systems will work with DC</p>
+            
             <p>The name of this system, Faradn, refers to two things : an acknowledgement to Michael Faraday and a nod to the Dune story which has the character Farad’n</p>
+            
             <p>Please check the “Credits” chapter to see where we derive some of our ideas for the generator</p>
+            
             <p>There can be a rechargeable battery included within this system or outside this system to provide short-duration backup and enable generator switchover when one generator fails But this battery will have to be eco-friendly and socially harmonious in terms of its electricity storage materials, electrodes and packaging</p>
-            <h2 style="color:#fff;text-align:center;">About both Alef-A and Alef-F spaceships</h2>
+            
+            <h2 style="color:#fff;">About both Alef-A and Alef-F spaceships</h2>
+            
             <p>The name “Alef” is a joined word with the below meaning :</p>
+           
             <ul>
-              <li>&gt;&gt; The “lef” comes from the slogan “Liberty, Equality, Fraternity” which is a slogan in multiple progressive thought streams including the Preamble ( introduction ) to the Indian Constitution</li>
-              <li>&gt;&gt; The “A” stands for Alif ( “The first” ), meaning these spaceships are just the first types of spaceships from our organization Further will be more types</li>
+              <li style="margin-left:1em; margin-bottom:10px;><span>&gt;&gt;</span> The “lef” comes from the slogan “Liberty, Equality, Fraternity” which is a slogan in multiple progressive thought streams including the Preamble ( introduction ) to the Indian Constitution</li>
+              <li style="margin-left:1em; margin-bottom:10px;><span>&gt;&gt;</span> The “A” stands for Alif ( “The first” ), meaning these spaceships are just the first types of spaceships from our organization Further will be more types</li>
             </ul>
+            
             <p>Both the Alef-A and the Alef-F will be primarily propelled in space by water steam jets and this is advantageous because :</p>
+            
             <ul>
-              <li>&gt;&gt; Steam is made from water which is found in many places in the Solar System and beyond</li>
-              <li>&gt;&gt; Water in itself is safe to handle by humans</li>
-              <li>&gt;&gt; Water doesn’t explode normally unlike rocket fuel like liquid hydrogen</li>
-              <li>&gt;&gt; Water doesn’t need to be stored at cryogenic conditions unlike with some current popular spacecraft fuels like liquid hydrogen and liquid methane Water can be just kept a warm liquid using electrical heating</li>
-              <li>&gt;&gt; When in space, most of the jetted steam is recoverable to liquid water which can be fed back to the propulsion system to allow for continuous thrust, faster travel and longer travel</li>
-              <li>&gt;&gt; Our steam-based propulsion uses a simple heating mechanism to turn water to steam instead of having other complex and unsafe propulsion mechanisms like plasma or nuclear power</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Steam is made from water which is found in many places in the Solar System and beyond</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Water in itself is safe to handle by humans</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Water doesn’t explode normally unlike rocket fuel like liquid hydrogen</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Water doesn’t need to be stored at cryogenic conditions unlike with some current popular spacecraft fuels like liquid hydrogen and liquid methane Water can be just kept a warm liquid using electrical heating</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> When in space, most of the jetted steam is recoverable to liquid water which can be fed back to the propulsion system to allow for continuous thrust, faster travel and longer travel</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Our steam-based propulsion uses a simple heating mechanism to turn water to steam instead of having other complex and unsafe propulsion mechanisms like plasma or nuclear power</li>
             </ul>
+            
             <p>It may be possible to form these two spaceships to have artificial gravity generation using spin by spinning sections of the craft This enabling will allow humans to live in healthy Earth-like gravity for most of their space journeys and also configure lower or higher gravity to prepare the human travellers for the gravity of other worlds like the Moon or Red One</p>
-            <h2 style="color:#fff;text-align:center;">Frema computer networking system</h2>
+            
+            <h2 style="color:#fff;">Frema computer networking system</h2>
+            
             <p>Frema is our own in-design wireless internet system for Space and Earth which will be used by our Dune Buk wearable computer Frema will use radio-frequency for normal communication The system will be based on peer-to-peer architecture which among other things will require very few transmission relay towers The system will also do signaling using light or magnetic pulse / field or infrasound as per situation The signaling system and the communication protocol will factor-in the delay-included conditions of long-distance communication in space Further, the wearable will be directly able to connect from the ground to low orbiting communication satellites to enable live voice, video, text and other data communication There will be a messaging system where different kinds of data will be played in the same type of window The data can be text, still pic, vid, just voice and other data Text will be displayed like paper book pages The played data can be locally stored or can come from another Dune Buk comp and in case of the latter, if there are multiple participants in a chat the data will be forwarded to all the participants' comps in a peer-to-peer forwarding way The wearable will be connectable to the current internet using bridge computers</p>
-            <h2 style="color:#fff;text-align:center;">Ra-D mini drone</h2>
+            
+            <h2 style="color:#fff;">Ra-D mini drone</h2>
+            
             <p>The Ra-D will be a heater-equipped drone small enough to fit on top of the Dune Buk wearable computer This drone will be powered electrically and have the ability to fly, to wheel along the ground and swim In flight mode it can be launched from the hand and return to the hand This drone when flying will be used for vlogging, searching, communications relay, emergencies and as a forward scout when people travel in ground vehicles on unknown territory Similar cases for its wheeling mode and swimming mode This drone will be usable on air-having worlds like Earth, in airless low-gravity places like the Moon, on water worlds etc</p>
-            <h2 style="color:#fff;text-align:center;">Iceworm ice-boring drones carrier</h2>
+            
+            <h2 style="color:#fff;">Iceworm ice-boring drones carrier</h2>
+            
             <p>Iceworm will be a heater-equipped ice borer and drone carrier that will carry a swarm of weight-attached Ra-D drones down into the ice-covered water sea of some ice moon or ice planet by melting / “boring” through the ice  The name Iceworm derives from the Sandworm animal in the Dune stories but here for ice</p>
-            <h2 style="color:#fff;text-align:center;">Biology researches</h2>
+            
+            <h2 style="color:#fff;">Biology researches</h2>
+            
             <ul>
-              <li>&gt;&gt; The ideal plants to derive biocoal for the coal needed to propel the Alef spaceships and the Ra vehicles These plants should be growable in space</li>
-              <li>&gt;&gt; Strengthened and fire-proof wood for structures in the spaceships, spacesuits and habitations Such wood is preferable to metal in many cases The trees for the wood should be growable in space</li>
-              <li>&gt;&gt; Structures of spaceships, spacesuits and habitations to be bio-mimicking and also made of biological elements for radiation shielding, self-repair and a sense of more naturality For example, there is interest in the fungus Cladosporium sphaerospermum which was first identified in the Chernobyl reactor's remains and converts the area’s radiation into energy for itself, a process called radiosynthesis and analogous to plants converting light to energy through photosynthesis This fungus eats the radiation</li>
-              <li>&gt;&gt; Engineered-for-space food production</li>
-              <li>&gt;&gt; Engineered capability in the human body to tolerate some space conditions</li>
-              <li>&gt;&gt; Plant-based materials like leather and for clothing, packaging etc</li>
-              <li>&gt;&gt; Mining using bacteria</li>
-              <li>&gt;&gt; Intelligent computation using a combination of human brain cells and our Dune Buk wearable computer This will allow autonomous, compact-sized intelligent computation to be carried out even without the complete need of humans like in places where humans cannot go or are too far away</li>
-              <li>&gt;&gt; Increasing human life to 2000 years or more</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> The ideal plants to derive biocoal for the coal needed to propel the Alef spaceships and the Ra vehicles These plants should be growable in space</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Strengthened and fire-proof wood for structures in the spaceships, spacesuits and habitations Such wood is preferable to metal in many cases The trees for the wood should be growable in space</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Structures of spaceships, spacesuits and habitations to be bio-mimicking and also made of biological elements for radiation shielding, self-repair and a sense of more naturality For example, there is interest in the fungus Cladosporium sphaerospermum which was first identified in the Chernobyl reactor's remains and converts the area’s radiation into energy for itself, a process called radiosynthesis and analogous to plants converting light to energy through photosynthesis This fungus eats the radiation</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Engineered-for-space food production</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Engineered capability in the human body to tolerate some space conditions</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Plant-based materials like leather and for clothing, packaging etc</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Mining using bacteria</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Intelligent computation using a combination of human brain cells and our Dune Buk wearable computer This will allow autonomous, compact-sized intelligent computation to be carried out even without the complete need of humans like in places where humans cannot go or are too far away</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Increasing human life to 2000 years or more</li>
             </ul>
+            
             <p>In enabling biology-based self-repair and space-tolerance in humans, care will be taken that such acquired abilities do not transform humans from their human form into something else i.e. the extreme imagined forms of Transhumanism So, for example a cat should recognize a human as a human despite that human’s acquired abilities</p>
+            
             <p>One derivation of these researches is eradicating hunger on Earth Hunger is a two part problem :</p>
+            
             <ul>
-              <li>(a) A technological problem via use of traditional methods of growing food in open farms which are inefficient, centralized, polluting, climate-vulnerable and pest-vulnerable</li>
-              <li>(b) A social problem largely via private profiteering and geopolitical interferences in the food industry while so many people go hungry or die of hunger despite abundance of food There can be additional culture-dependent wastages of food</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>(a)</span> A technological problem via use of traditional methods of growing food in open farms which are inefficient, centralized, polluting, climate-vulnerable and pest-vulnerable</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>(b)</span> A social problem largely via private profiteering and geopolitical interferences in the food industry while so many people go hungry or die of hunger despite abundance of food There can be additional culture-dependent wastages of food</li>
             </ul>
+            
             <p>The simple solution for hunger is not only social enlightenment but also a technological combination of bio-engineered and regular production of not only plant-based foods but also nutritious originally animal products like sheep milk, chicken egg and honey, and these productions be done in decentralized, neighborhood-level indoor farms which can include vertical farming We of Kosmos Society will produce these solutions both for current cities and new cities, by ourselves or in collaboration</p>
+            
             <p>Bio-engineered animal food products relate to another interesting thing : synthetic wombs for growing human organs and cat organs and entire living humans and this is important not only for solving diseases like blindness and kidney failure but also for populating space with humans and also protecting the desirable Earthen lifeforms in case of global devastations Please read more on this in the “Same Water…” chapter of this website</p>
+            
             <p>Engineered bacteria can perhaps be used to construct useful matter from other existent matter For example to get the helium gas which our Alef-A airships require as their main lift gas, or to obtain nutrients for plants, or to construct water The raw material matter can be asteroid rock etc This will remove the need for a lot of mineral processing factories and their attendant pollution and human physical labor</p>
-            <h2 style="color:#fff;text-align:center;">Habitat construction on other worlds</h2>
+            
+            <h2 style="color:#fff;">Habitat construction on other worlds</h2>
+            
             <p>Habitat construction methods and systems for habitations on the Moon, Red One etc which at least partially use local materials ( like local soil ) Other construction methods can be :</p>
+            
             <ul>
-              <li>(a) Building most of the habitation underground for protection against space radiation, low temperature, high temperature and space dust / small rocks The topside will be accessed by a pressurized tunnel which is topped with local soil including radiation-stopping volcanic soil, and connected to the outside by an airlock</li>
-              <li>(b) Some of the wall of the airlock can be unbreakable transparent glass which transmits outside natural light to a mirror on the far inner side which then transmits that light to the inner section of the habitation</li>
-              <li>(c) Compartmentizing the tunnel’s walls like ship hulls so that a breach in one compartment, maybe because of space pebbles crashing into it, can be easily sealed off and can also be self-sealing</li>
-              <li>(d) The internal walls will be made of strengthened wood Wood is lighter than metal like steel and also growable in the form of its trees</li>
-              <li>(e) Use of bio-mimicry and biology in the structures for purposes described in previous sections</li>
-              <li>(f) Living quarters can be made to spin at Earth gravity level for healthy living</li>
-              <li>(g) The ground vehicles will be parked outside the tunnel in protected sheds</li>
-              <li>(h) All this construction has to be quake-proof</li>
-              <li>(i) All this construction has to be aesthetic No need to discard aesthetics just because we are in space Form and function, both are important</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>(a)</span> Building most of the habitation underground for protection against space radiation, low temperature, high temperature and space dust / small rocks The topside will be accessed by a pressurized tunnel which is topped with local soil including radiation-stopping volcanic soil, and connected to the outside by an airlock</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>(b)</span> Some of the wall of the airlock can be unbreakable transparent glass which transmits outside natural light to a mirror on the far inner side which then transmits that light to the inner section of the habitation</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>(c)</span> Compartmentizing the tunnel’s walls like ship hulls so that a breach in one compartment, maybe because of space pebbles crashing into it, can be easily sealed off and can also be self-sealing</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>(d)</span> The internal walls will be made of strengthened wood Wood is lighter than metal like steel and also growable in the form of its trees</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>(e)</span> Use of bio-mimicry and biology in the structures for purposes described in previous sections</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>(f)</span> Living quarters can be made to spin at Earth gravity level for healthy living</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>(g)</span> The ground vehicles will be parked outside the tunnel in protected sheds</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>(h)</span> All this construction has to be quake-proof</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>(i)</span> All this construction has to be aesthetic No need to discard aesthetics just because we are in space Form and function, both are important</li>
             </ul>
-            <h2 style="color:#fff;text-align:center;">Machines for water</h2>
+            
+            <h2 style="color:#fff;">Machines for water</h2>
+            
             <ul>
-              <li>&gt;&gt; Portable extractors of water from ice, open water and air</li>
-              <li>&gt;&gt; Water purifiers</li>
+              <li style="margin-left:1em; margin-bottom:10px;><span>&gt;&gt;</span> Portable extractors of water from ice, open water and air</li>
+              <li style="margin-left:1em; margin-bottom:10px;><span>&gt;&gt;</span> Water purifiers</li>
             </ul>
+            
             <h3 style="color:#fff;">Serf autonomous satellite for Earth orbit debris cleaning</h3>
+            
             <p>There are an estimated 100 million human-made pieces of various sizes in Earth orbit, made of metal and other material, which are debris from parts of non-functioning satellites and parts from other discarded space vehicles These pieces size from tiny to large and travel around Earth at very high speeds ( 20,000+ kmph ) As human-carrying spaceships rise into Earth orbit at various altitudes they have chance of getting hit by these high-speed pieces and getting destroyed along with their human cargo or getting very damaged in context of current spaceship-building methods. The two current space stations in Earth orbit also can get this risk This debris was unfortunately ignored in the previous decades but now is awareness about not only the simple needlessness of it but also that the debris will soon make human travel through Earth orbit very dangerous or even impossible</p>
+            
             <p>This debris resulted from thoughtlessness where exists the so-called United Nations Organization which should have been the manager of all satellites on behalf of a collective and peaceful humanity and the provider to all humanity of the services of the satellites Thus satellites around Earth orbit would have been very few and been in-orbit-repairable or retrievable-to-Earth and all their services would have been provided to every human individual for free, without taxes, which all is ideal and very easily achieved but the UN was and is just UN-involved in any peace-bringing and life-simplifying efforts Therefore the UN-involved allowed :</p>
+            
             <ul>
-              <li>(a) A race of governments to individually have their own Earth observation satellites in Earth orbit for purposes of Earth natural resource observation, pollution observation, climate observation, habitation observation, infrastructure observation and of course spying</li>
-              <li>(b) Commerce where commercial satellites were sent by profiteering corporations to provide phone communication, internet communication and TV relaying to people around the world but largely for fees</li>
+              <li style="margin-left:1em; margin-bottom:10px;><span>(a)</span> A race of governments to individually have their own Earth observation satellites in Earth orbit for purposes of Earth natural resource observation, pollution observation, climate observation, habitation observation, infrastructure observation and of course spying</li>
+              <li style="margin-left:1em; margin-bottom:10px;><span>(b)</span> Commerce where commercial satellites were sent by profiteering corporations to provide phone communication, internet communication and TV relaying to people around the world but largely for fees</li>
             </ul>
+            
             <p>Therefore the result was these debris fields and we of Kosmos Society are joining the effort of various individuals and groups in the world coming up with ideas to increasingly lessen this debris until it is no longer there</p>
+            
             <p>We are currently designing an autonomous satellite called Serf which will carry a large robust detachable net The satellite will reach a particular Earth orbit and achieve the same speed as the debris in that orbit and then the net which has electrically stiffening branches, will use that to envelop some of the debris and the satellite will disengage from that debris section and make journey towards the Sun to as close as safely possible near the Sun, where the detachable net is detached and simultaneously given push so that the net with its debris goes into the Sun The Sun is the best garbage burner we have The Serf satellite with return to the Earth orbit debris fields, extract another net from its inbuilt net store and do its work again and again And there will be a swarm of Serf satellites to do the job better</p>
+            
             <p>The Serf satellite will be propelled by water steam jets in the same water-recovery propulsion system as in the Alef spaceships which means the Serf can do its job for a long time before being called to a safe Earth orbit and be water-refilled and refurbished</p>
+            
             <p>For the swarm of Serf satellites to begin work in the first instance, the swarm is released into safe Earth orbit by an Alef-A craft</p>
+            
             <p>This is the current thinking of us about this cleaner satellite but there may be additions later to the satellite</p>
+            
             <p>The Serf satellite is called so in honor of the oppressed serfs of Earth, in history and present, who toil in dangerous or demanding occupations, doing things the controlling feudals will never do themselves and many times the products and services that are made by the serfs, are not of useful usage but are made only to increase the clink of the coin in the bank accounts of the feudals but the serfs will never hear these coins clink in their own pockets The serf toils to survive in an artificially created wrong situation</p>
-            <h2 style="color:#fff;text-align:center;">Other projects</h2>
+            
+            <h2 style="color:#fff;">Other projects</h2>
+            
             <ul>
-              <li>Exoskeleton</li>
-              <li>Terraforming</li>
-              <li>Travel ad astra ( Latin for “To the stars” )</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>(a)</span> Exoskeleton</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>(b)</span> Terraforming</li>
+              <li style="margin-left:1em; margin-bottom:10px;"><span>(c)</span> Travel ad astra ( Latin for “To the stars” )</li>
             </ul>
+
           </div>
         </div>
       `;
