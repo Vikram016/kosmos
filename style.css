@@ -1,16 +1,4 @@
-/* The close button must be rendered inside .modal-content in your HTML/JS for correct positioning */
 
-@media (max-width: 800px) {
-  .modal-content .close {
-    top: 0.5rem;
-    right: 0.5rem;
-    left: auto;
-    font-size: 1.5rem;
-    width: 2.5rem;
-    height: 2.5rem;
-  }
-}
-/* ...existing code... */
 
 body {
       margin: 0;
