@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 960 560" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+<svg width="100%" height="100%" viewBox="0 0 1160 559" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <g id="Layer-1" serif:id="Layer 1">
-        <g transform="matrix(1,0,0,1,0,1)">
+        <g transform="matrix(1.20833,0,0,1,0,1)">
             <rect x="0" y="0" width="960" height="559" style="fill:rgb(48,8,4);"/>
         </g>
-        <g transform="matrix(1,0,0,1,-7.56424,-32.1876)">
+        <g transform="matrix(1,0,0,1,100.538,-32.1876)">
             <g transform="matrix(0.952852,-0.303435,-0.303435,-0.952852,319.507,163.902)">
                 <path d="M-4.351,-0.676C3.568,-0.677 9.986,5.743 9.987,13.661C9.987,21.58 3.567,27.999 -4.351,27.999C-12.269,27.999 -18.688,21.58 -18.689,13.662C-18.689,5.743 -12.269,-0.676 -4.351,-0.676" style="fill:white;fill-rule:nonzero;"/>
             </g>
@@ -466,12 +466,30 @@
             <g transform="matrix(1,0,0,1,283.807,247.914)">
                 <path d="M0,-13.646L-19.409,-0.238C-19.474,-0.193 -19.491,-0.103 -19.446,-0.037C-19.4,0.028 -19.311,0.045 -19.245,0L0.164,-13.408C0.229,-13.454 0.246,-13.544 0.2,-13.609C0.155,-13.674 0.066,-13.691 0,-13.646" style="fill:rgb(48,8,4);fill-rule:nonzero;"/>
             </g>
-            <text x="357.243px" y="359.264px" style="font-family:'ProximaNova-Regular', 'Proxima Nova';font-size:123.332px;fill:rgb(81,138,188);">K<tspan x="424.706px " y="359.264px ">O</tspan>SMOS</text>
-        </g>
-        <g transform="matrix(1.64557,0,0,1.31402,-583.988,-87.7275)">
-            <g transform="matrix(36,0,0,36,930.615,359.264)">
+            <g>
+                <g transform="matrix(1,0,0,1,357.243,359.264)">
+                    <text x="0px" y="0px" style="font-family:'ProximaNova-Regular', 'Proxima Nova';font-size:123.332px;fill:rgb(81,138,188);">K</text>
+                </g>
+                <g transform="matrix(1,0,0,1,424.706,359.264)">
+                    <text x="0px" y="0px" style="font-family:'ProximaNova-Regular', 'Proxima Nova';font-size:123.332px;fill:rgb(81,138,188);">OSMOS</text>
+                </g>
             </g>
-            <text x="357.243px" y="359.264px" style="font-family:'ProximaNova-Regular', 'Proxima Nova';font-size:36px;fill:white;">Liberty<tspan x="462.111px " y="359.264px ">,</tspan> Equality<tspan x="602.007px " y="359.264px ">,</tspan> Fraternity<tspan x="767.211px " y="359.264px ">,</tspan> Evolution</text>
+        </g>
+        <g transform="matrix(1.81831,0,0,1.31402,-587.087,-76.9958)">
+            <g>
+                <g transform="matrix(1,0,0,1,357.243,359.264)">
+                    <text x="0px" y="0px" style="font-family:'ProximaNova-Regular', 'Proxima Nova';font-size:36px;fill:white;">Liberty</text>
+                </g>
+                <g transform="matrix(1,0,0,1,462.111,359.264)">
+                    <text x="0px" y="0px" style="font-family:'ProximaNova-Regular', 'Proxima Nova';font-size:36px;fill:white;">, Equality</text>
+                </g>
+                <g transform="matrix(1,0,0,1,602.007,359.264)">
+                    <text x="0px" y="0px" style="font-family:'ProximaNova-Regular', 'Proxima Nova';font-size:36px;fill:white;">, Fraternity</text>
+                </g>
+                <g transform="matrix(1,0,0,1,767.211,359.264)">
+                    <text x="0px" y="0px" style="font-family:'ProximaNova-Regular', 'Proxima Nova';font-size:36px;fill:white;">, Evolution</text>
+                </g>
+            </g>
         </g>
     </g>
 </svg>
