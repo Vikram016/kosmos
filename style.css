@@ -180,7 +180,7 @@ body {
   justify-content: center;
 }
 .kosmos-logo {
-  max-width: 320px;
+  max-width: 520px;
   width: 100%;
   height: auto;
 }
@@ -190,16 +190,16 @@ body {
     padding: 1.25rem 0.5rem;
   }
   .kosmos-logo {
-    max-width: 200px;
+    max-width: 350px;
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 450px) {
   .banner-header {
     padding: 0.75rem 0.25rem;
   }
   .kosmos-logo {
-    width: 160px;
+    width: 400px;
     max-width: 90vw;
     height: auto;
     object-fit: contain;
@@ -207,6 +207,18 @@ body {
     margin: 0 auto;
   }
 }
+
+/* Very small screens */
+        @media (max-width: 320px) { 
+          .kosmos-logo {
+          width: 300px;
+          max-width: 90vw;
+          height: auto;
+          object-fit: contain;
+          display: block;
+          margin: 0 auto;
+  }
+        }
 
 @media (max-width: 1024px) and (min-width: 800px) {
    .modal-content .close {
@@ -314,7 +326,16 @@ body {
   }
 }
 
-    .hero .cta-buttons {
+/* Very small screens */
+        @media (max-width: 320px) {
+        .hero-content h2 {
+    font-size: 1em;
+    line-height: 1.3;
+    word-break: break-word;
+     padding: 15px 10px;
+  }
+        }
+    /* .hero .cta-buttons {
       margin-top: 2rem;
     }
 
@@ -327,7 +348,7 @@ body {
       border-radius: 30px;
       cursor: pointer;
       transition: background 0.3s;
-    }
+    } */
 
     /* .hero .cta-buttons button:hover {
       background: #1a28b7;
