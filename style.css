@@ -208,7 +208,7 @@ body {
   }
 
   .kosmos-logo {
-    width: 250px;
+    width: 450px;
     max-width: 90vw;
     height: auto;
     object-fit: contain;
@@ -220,7 +220,7 @@ body {
 /* Very small screens */
         @media (max-width: 320px) { 
           .kosmos-logo {
-          width: 250px;
+          width: 350px;
           max-width: 90vw;
           height: auto;
           object-fit: contain;
