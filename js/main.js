@@ -1407,10 +1407,10 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
             <p style='margin-bottom:10px;'><span>&gt;&gt;</span> In general all the good thinkers of the past and present whose thoughts and works we use in our projects.</p>
             <p style='margin-bottom:10px;'><span>&gt;&gt;</span> Farzad Zangeneh-Nejad and Romain Fleury at the Federal Institute of Technology (
-            EPFL ) in Lausanne, Switzerland, for the idea of using sound to do analog computing."</p>
+            EPFL ) in Lausanne, Switzerland, for the idea of using sound to do analog computing.</p>
 
             <p style='margin-bottom:10px;'><span>&gt;&gt;</span> Planetary Science Division of NASA for the idea of creating an artificial magnetosphere
-             for Red One."</p>
+             for Red One.</p>
 
              <p style='margin-bottom:10px;'><span>&gt;&gt;</span> Gargie Umesh Patil Vaishali for the idea about exoskeletons. Gargie 
              herself did not correspond about this topic with any Kosmos Society founding member but she 
