@@ -1404,10 +1404,10 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p style='margin-bottom:10px;'><span>&gt;&gt;</span> Background picture for the website is from the DeviantArt website’s DreamUp AI picture generation facility.</p>
 
             <p style='margin-bottom:10px;'><span>&gt;&gt;</span> Farzad Zangeneh-Nejad and Romain Fleury at the Federal Institute of Technology (
-              EPFL) in Lausanne, Switzerland, for the idea of using sound to do analog computing."</p>
+              EPFL) in Lausanne, Switzerland, for the idea of using sound to do analog computing.</p>
              
             <p style='margin-bottom:10px;'><span>&gt;&gt;</span> Planetary Science Division of NASA for the idea of creating an artificial magnetosphere
-             for Red One."</p>
+             for Red One.</p>
              
             <p style='margin-bottom:10px;'><span>&gt;&gt;</span> Rabindranath Tagore for his essay that speaks against Nationalism. The essay can be
              read here [ <a href="https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf" target="_blank" style="color:#FFFF00;">https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf</a> ].</p>
