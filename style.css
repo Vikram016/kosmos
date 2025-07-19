@@ -48,7 +48,18 @@ body {
   text-align: left;
   max-width: 600px;
   margin: 0 auto;
+  
 }
+
+.hero-content h2 {
+  font-size: 1.5rem;
+  line-height: 1.4;
+  margin-bottom: 0 auto;
+  padding: 0 1rem;
+  color: #fff;
+  word-break: break-all;
+}
+
 .hero-image-full {
   display: flex;
   align-items: center;
