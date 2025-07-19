@@ -23,7 +23,7 @@ body {
       margin: 0;
       font-family: 'Space Grotesk', sans-serif;
       background: linear-gradient(to bottom, #0b0c2a, #1b1e3d);
-      color: #ffffff;
+      color: #fff;
     }
 
 
@@ -95,7 +95,7 @@ body {
 }
 
 #modalText {
-  color: #ffffc5;
+  color: #000;
   flex: 1;
   overflow-y: auto;
   padding-right: 1rem;
@@ -208,7 +208,7 @@ body {
   }
 
   .kosmos-logo {
-    width: 450px;
+    max-width: 250px;
     max-width: 90vw;
     height: auto;
     object-fit: contain;
@@ -220,7 +220,7 @@ body {
 /* Very small screens */
         @media (max-width: 320px) { 
           .kosmos-logo {
-          width: 350px;
+          max-width: 200px;
           max-width: 90vw;
           height: auto;
           object-fit: contain;
