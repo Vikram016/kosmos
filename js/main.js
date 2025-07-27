@@ -727,15 +727,19 @@ modalText.innerHTML = `
            to the declared global and local calls for "Liberty, Equality, Fraternity" but instead robotically obeyed their own 
            non-sensible parents and joined competition-based so-called education system and then joined competition-based wage employments 
            and wasted their human potential and contributed every bit to the needless social disharmony and injustice which 
-           their present-day generations are having the needlessly endure. In these societies a dog may have 
-           more respect than a human because the nature of the dog is cruelty, chaos-making, mob-joining and 
-           mindlessness and not gentleness, empathy, intellectuality and far-sightedness. And in societies 
-           filled with daily competition, the competiting mobs have no place for gentleness and empathy. 
+           their present-day generations are having the needlessly endure.
+           
+           <p>
+           In these societies a dog may have more respect than a human because the nature of the dog is cruelty, chaos-making, mob-joining and 
+           mindless killing and not gentleness, empathy, intellectuality and far-sightedness. In societies 
+           filled with daily competition, the competiting mobs have no place for gentleness and empathy.
+           </p>
+
+           <p>
            Techno progresses that happen worldwide will find usage also in these competition-filled 
            anti-intellectual societies but only because they created use of it in competions, 
-           like "edtech" and "fintech" companies, but these are the only creations some in these socities 
-           will do, and only leads to the unreasonable acceptance of one citizen trying to find 
-           a little progress by stepping on the head of another citizen.
+           like "edtech" and "fintech" companies, and only leads to the unreasonable acceptance of one citizen trying to find 
+           a little progress by stepping on the head of another citizen instead of walking side by side.
            </p>
 
            <p>
@@ -775,7 +779,7 @@ modalText.innerHTML = `
            </p>
            
            <p>
-           this world filled with traditions which promote greed for money,
+           societies filled with traditions which promote greed for money,
            </p>
            
            <p>
@@ -804,8 +808,9 @@ modalText.innerHTML = `
            In the context of India there is the archetype of the "soda glass" wearing male student. 
            "Soda glass" is the Indian name given to high-power spectacles mostly worn by male students 
            who score high marks in exams, are "gold medalists" in exams and prepare for exams 
-           religiously by memorizing the text books through many nights in addition to days. 
-           But how many of these "soda glass" students have been known to create novel technologies 
+           religiously by memorizing the text books through many nights in addition to days. The 
+           "soda glass" student is present in other competition-based societies like Pakistan, China, Japan
+           and South Korea. But how many of these "soda glass" students have been known to create novel technologies 
            for humanity and proposed simple, scientific and natural social ideas ?
            </p>
 
@@ -964,8 +969,11 @@ modalText.innerHTML = `
            built by every second engineering college and launched into Earth orbit by misguided launch 
            organizations and cumulatively make Earth orbit dangerous for humans to travel in - an 
            unnecessary situation brought about by profit-mindedness, competition in education, 
-           unscientific thinking and avoidable ultranational posturing. On the contrary, satellites around 
-           Earth or other worlds or in open space should be few and larger trackable systems which 
+           unscientific thinking and avoidable ultranational posturing.
+           </p>
+           
+           <p>
+           On the contrary, satellites around Earth or other worlds or in open space should be few and larger trackable systems which 
            can be repaired in orbit or in place or retrieved for recycling. Secondly, all new satellites 
            should be managed by a collective human committee. We of Kosmos Society will keep this 
            as a necessary element when designing our Frema space-capable internet system. We will 
@@ -1190,9 +1198,12 @@ modalText.innerHTML = `
            middle class new-pseudo-rich wealth with the result being that in some cities there are now at least 
            five million personal motor vehicles. Putting metro lines has also not caused the public to 
            stop using their personal vehicles and take personal responsibility to contribute to serenity, cleanliness, 
-           much reduced pollution and removing social inequality in their cities. Additionally, the metro lines have only 
-           led to narrowed roads leading to funnel effect on the roads and chaos and of course contributing 
-           to more pollution because of the production of cement, iron and other materials needed in the 
+           much reduced pollution and removing social inequality in their cities.
+           </p>
+           
+           <p>
+           Additionally, the metro lines have only led to narrowed roads leading to funnel effect on the roads 
+           and chaos and of course contributing to more pollution because of the production of cement, iron and other materials needed in the 
            construction of the metro infrastructure, added with the petro fuel pollution because of the 
            vehicles involved in the construction of the metro infrastructure. Thousands of personal vehicles 
            continue to be purchased every day in the cities with metro lines. Flyovers and metro lines 
@@ -1231,7 +1242,10 @@ modalText.innerHTML = `
            like the lithium-ion battery and of course money. The motorcycle is a danger to the riders and to those it passes by. 
            It is easy to understand that such loud-thump motorcycle owners want to intimidate those they pass by, 
            especially with the modern fashion of such riders adopting an aggressive look. 
-           This situation is unacceptable in any society which desires serenity and harmony. 
+           This situation is unacceptable in any society which desires serenity and harmony.
+           </p>
+
+           <p>
            In many cases these riders want to appear "tough and manly" because in their real life 
            they will be wage slaves in some feudal corporation, not daring to talk back to their oppressive bosses 
            much less willing to help their co-worker in the next workstation who is being oppressed 
@@ -1278,14 +1292,14 @@ modalText.innerHTML = `
            Another sad modern phenomenon is of delivery boys and delivery girls for e-shops where 
            these delivery people are forced by poverty to ride two-wheelers to deliver the packages 
            through sun, rain, cold, pollution and dangerous traffic many times a day, many times without helmet, 
-           many times without protective clothing against the weather and not at all meagre protective clothing 
+           many times without protective clothing against the weather and not at all protective clothing 
            for two-wheelers, many times they earn a pittance, some times deliver to rude or arrogant customers, 
            some times fall prey to armed robbery, some times have to break their legs because of jumping a building storey 
            to escape a customer's attacking dog, some times beg the customers for five-star ratings because 
            these e-shops provide the meagre incentive based on those ratings. While this whole system has to be changed, 
            it must be noted that the billion-dollar "unicorn" e-shop startup companies do not even consider providing 
-           safer and covered company four-wheelers to their own delivery people 
-           and the poor delivery people have to resort to using the dangerous personal two-wheelers.
+           safer and covered company four-wheelers to their own delivery people who are the ones to bring 
+           income to the company, and the poor delivery people have to resort to using the dangerous personal two-wheelers.
            </p>
 
            <p>
@@ -1833,10 +1847,10 @@ modalText.innerHTML = `
              replied for their long passionate loyalty with a million dollars in their bank accounts each 
              and neither will these sports stars speak up about issues their ordinary fans face in their 
              daily lives or even if the loyal fans die in stampede in the stadiums or outside the stadiums 
-             where these sports stars descend royally to play or get felicitated, nor will the cherished 
+             where these sports stars descend royally to play or get felicitated, nor will these cherished 
              sports stars speak about global issues like Climate Change, techno-feudalism and the traditional 
              feudalism in the cities and the villages which includes the wrongs against farmers, white-collar
-              workers, students, daily-wagers and women.</li>
+             workers, students, daily-wagers and women.</li>
            </ul>
            
            <h2>The techno-social restrictions coming together</h2>
@@ -1886,7 +1900,11 @@ modalText.innerHTML = `
            cheaply and repairable cheaply, and the manufacturers will be national governments who will
            purchase from us the designs and engineering details of our systems for a reasonably cheap 
            license fee and they will be able to set up factories in their own countries to produce our 
-           systems. Once these systems are built by the governments they should charge the masses minimal fees 
+           systems.
+           </p>
+           
+           <p>
+           Once these systems are built by the governments they should charge the masses minimal fees 
            or no fees at all for personal ownership of some of these systems ( say our wearable computer ) 
            or when being passengers ( say on our spaceships ) or when living in space habitats. 
            For example, an individual’s trip to the Moon should have a max seat price of 100 dollars 
