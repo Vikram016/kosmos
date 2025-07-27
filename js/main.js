@@ -812,12 +812,15 @@ modalText.innerHTML = `
            then into competition-based wage employment is decided by that student's ranking in exams. 
            This system has been there for a long time but is contradictory to Nature. 
            All that the high marks scored by a student shows is his or her ability to memorize the textbooks 
-           and reproduce those texts in the exam in a much better way than his or her student colleagues. 
-           In the context of India there is the archetype of the "soda glass" wearing male student. 
+           and reproduce those texts in the exam in a much better way than his or her student colleagues.
+           </p>
+
+           <p>
+           In India there is the archetype of the "soda glass" wearing male student. 
            "Soda glass" is the Indian name given to high-power spectacles mostly worn by male students 
            who score high marks in exams, are "gold medalists" in exams and prepare for exams 
            religiously by memorizing the text books through many nights in addition to days. The 
-           "soda glass" student is present in every high-competition societies like Pakistan, China, Japan
+           "soda glass" student is present in every high-competition society like Pakistan, China, Japan
            and South Korea. But how many of these "soda glass" students have been known to create novel technologies 
            for humanity and proposed simple, scientific and natural social ideas ?
            </p>
