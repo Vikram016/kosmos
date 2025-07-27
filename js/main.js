@@ -122,13 +122,9 @@ modalText.innerHTML = `
          <p>
          15. Meetings or sightings of aliens.
          </p>
-
+         
          <p>
-         16. "Space law".
-         </p>
-
-         <p>
-         17. City design and city reconfiguration on Earth.
+         16. City design and city reconfiguration on Earth.
          </p>
 
         <p>
@@ -149,11 +145,9 @@ modalText.innerHTML = `
            This manifesto describes a social system for simple, harmonious and Nature-ordained organization of humans in 
            space so that groups in space operate harmoniously within themselves and with other 
            individuals or groups in space who are fellow humans from anywhere on Earth and fellow humans
-           from beyond beyond when humans settle on other worlds and in free space ; 
-           and these individuals and groups as a whole in space do their sightseeing or research or mining or living 
-           and are able to contribute to the collective learnings and evolved experience of humanity in space 
-           such that in 12 years from now ( by 2037 ) humans have at least started living on the Moon and 
-           then in few more years, living in the Asteroid Belt which sits in the space between Red One and Jupiter 
+           from beyond when humans settle on other worlds and in free space, starting 12 years from now ( by 2037 ) 
+           when humans have at least started living on the Moon and then in few more years, 
+           living in the Asteroid Belt which sits in the space between Red One and Jupiter 
            and then beyond the Asteroid Belt.
            </P>
 
@@ -349,15 +343,15 @@ modalText.innerHTML = `
 
            <p>Other people simply don’t have a chance and this is unfair as it is only human social 
            constructs which are doing this preventing and not the universe through some celestial messaging 
-           where the universe allows into it only for the moneyed and the other unfairly privileged and this 
+           where the universe allows into it only the moneyed and the other unfairly privileged and this 
            celestial messaging being witnessed by the first two humans in space, 
            Yuri Gagarin and Gherman Titov and then every human traveler afterwards. The kosmos knows 
            neither money nor rank.
            </p>
                        
            <p>
-           But the upcoming commercial space industry promoted by certain groups on Earth pushes this feudalism 
-           into space by carrying commerce to space, for example the strange art of affixing pointless commercial projection 
+           But the upcoming commercial space industry promoted by certain groups on Earth pushes feudalism 
+           and commerce to space, for example the strange art of affixing pointless commercial projection 
            slogans to space like “The trillion dollar space economy” where part of that trillion will come 
            from charging huge monies to take people to space and these huge monies will go into the 
            pockets of a very few and maintain an unfair system where these very rich few will not 
@@ -365,9 +359,9 @@ modalText.innerHTML = `
            unfairness.</p> 
 
            <P>The simple answer is to enable a cheaper, simpler and safer space industry which also 
-           propagates true liberty, equality, fraternity and progressive pan-humanism. We of Kosmos 
+           propagates true liberty, equality and progressive pan-human fraternity. We of Kosmos 
            Society will do this enabling. On Earth and in Space, manufacturers and deployers of 
-           Kosmos Society’s simplified and cheaper Space systems and other systems should collect 
+           Kosmos Society’s simplified and cheaper space systems and other systems should collect 
            minimal fees or no fees for : </P>
            
            <P style="margin-left:1em; margin-bottom:10px";><span>(a).</span> Providing and 
@@ -528,7 +522,7 @@ modalText.innerHTML = `
            inventors, discussers, intellectual and physical laborers, lovers of taste and refinement, 
            providing energy and relief in heat, cold and rain, in the heat of the deserts and the cold of the 
            same deserts at night, in the cold of snows and the heights of the high mountains, the 
-           adda tea houses of Calcutta with the Calcuttans doing rounds of tea and discussing the 
+           adda tea houses of Calcutta city with the Calcuttans doing rounds of tea and discussing the 
            world… all the while the tea providing health benefits.</p>
 
            <p> Tea is one of the good inventions of China which got added with three additions from other 
@@ -703,11 +697,11 @@ modalText.innerHTML = `
            The concept of college degree goes back more than 1100 years. The first educational institution to grant degrees 
            was the university in Qayrawan in present-day Morocco, established in 859 AD by Fatima al-Fihri 
            and this degree-granting act is the only mistake in nearly a thousand years of the Islamic Golden Age which otherwise 
-           was a glorious period and the main contribution for Europe to have the Renaissance, the Enlightenment and 
-           the Industrial Revolution. However, that unthoughtfulness by Fatima in her university in Ifriqiyya / Africa in 859 AD, 
+           was a glorious period and was the main contribution for Europe to have the the Enlightenment and the subsequent 
+           Industrial Revolution. However, that unthoughtfulness by Fatima in her university in Ifriqiyya / Africa in 859 AD, 
            of starting the concept of college degree, has resulted in billions of people now having to suffer because of 
-           the needless competition, money-greed, feudalism, hurry-burry, student suicides and dashed dreams 
-           the degree system brought. Fatima was a thinker certainly but she should have thought more and discussed.
+           the wrong things the degree system brought : needless competition, money greed, feudalism, hurry-burry, student suicides, 
+           murders and dashed dreams. Fatima was a thinker certainly but she should have thought more and discussed.
            </p>
 
            <p>
@@ -745,7 +739,52 @@ modalText.innerHTML = `
            </p>
 
            <p>
-           This daily situation can only be called a "rat race" or "dog-eat-dog" and continues for generations. 
+           In the context of our company being based in India, India has good progressive streams since Buddha, 
+           including progressive songs. In 1936 in the India of the British Raj times, the Progressive Writers 
+           Association was formed and one prominent member was Abdul Hayee, who became known in 
+           Hindi cinema as Sahir Ludhianvi. He composed many songs for Hindi cinema and one progressive, questioning 
+           and immortal song is from the 1957 film Pyaasa. The song has these start lines :
+           </p>
+
+           <p>
+           "Ye mahalon, ye takhaton, ye taajon ki duniya,
+           </p>
+           
+           <p>
+           ye insaan ke dushman samaajon ki duniya,
+           </p>
+
+           </p>
+           ye daulat ke bhooke rawaajon ki duniya,
+           </p>
+
+           <p>
+           ye duniya agar mil bhi jaaye toh kya hai".
+           </p>
+
+           <p>
+           which in English means :
+           </p>
+
+           <p>
+           "This world of palaces, thrones and crowns,
+           </p>
+           
+           <p>
+           where societies are enemies of humans,
+           </p>
+           
+           <p>
+           this world filled with traditions which promote greed for money,
+           </p>
+           
+           <p>
+           what will we gain if we gain such a world"
+           </p>
+
+           <p>
+           This daily situation described in 1957 continues now in 2025 and can only be called 
+           a "rat race" or "dog-eat-dog" and continues for generations. 
            However, in these societies those who have established themselves as feudals, 
            they do not participate in these daily competitions as the resources are available to them very easily, 
            in any quantity they want. It is the middle class and the still lower class 
@@ -831,7 +870,7 @@ modalText.innerHTML = `
            
            <p>
            So we must ask, the societies which have competition in their education system 
-           and caused so many students to suicide over the years and pushed constant daily survival pressure 
+           and caused so many students to suicide over the years and pushed daily survival pressure 
            on the living low-marks students because they failed to obtain the socially compulsory high exam marks, 
            what have these societies achieved socially and technologically with the sacrifice of all 
            these youth ? Especially if these societies continue to only use the techno systems created by people 
@@ -873,7 +912,7 @@ modalText.innerHTML = `
            </p>
 
            <p>
-           Therefore the education system in the Kosmos and on Earth should not be taxed and 
+           Therefore the education system in Nature's Kosmos and on Earth should not be taxed and 
            should abolish exams and the associated "scholarships" system. Surely these is no civilization from the planet Pluto 
            holding these things to our head. Surely these abolitions are very simple. Every society 
            on Earth has so much potential and thus the combined potential of humanity to be a gentle, observant 
@@ -1098,19 +1137,7 @@ modalText.innerHTML = `
            </p>           
           
            <p> And who knows, we may find that cats are indeed aliens as goes the internet legend, LOL.</p>
-
-           <h2>"Space law"</h2>
-
-           <p>
-           There are some currently space-faring nations who have entire organizations dedicated 
-           to take their needlessly complicated feudalism-based national legal systems into space and they misguidedly 
-           desire to use these laws to take the kosmos / space exclusively for their own political blocs including for their 
-           feudalist commercial corporations who see space as another resource to profit from and exploit their workers. 
-           The UNOOSA unfortunately supports such activity. However, there is no need for these complicated "space laws" 
-           when every nation can agree on a pan-humanist and collectively beneficial manifesto for the kosmos 
-           which non-profit organizations like us present.
-           </p>
-
+        
            <h2> City design and city reconfiguration on Earth</h2>
            
            <p>The space experiences including the Mirkeen-01 base and our Space machines will provide 
