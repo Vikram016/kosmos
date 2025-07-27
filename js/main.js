@@ -592,11 +592,11 @@ modalText.innerHTML = `
 
            <p> <span> >> </span> To begin to understand the timeless and infinite universe and acknowledge our very 
            humble individual place in the grandness of the universe, thus our approach to the universe 
-           must be with gentleness, sensitiveness, receptiveness and humbleness. Even a 
-           medium-sized star like the Sun is uncountably more powerful than any mere human who is a 
-           billionaire with 15 college degrees, 40 years of experience in some corporate sector and 
-           very proud of his culture. The Kosmos / Universe / Space does not care for these arrogant human 
-           affiliations. </p>
+           must be with gentleness, sensitiveness, receptiveness and humbleness. A single medium-sized star like the Sun 
+           is uncountably more powerful than any mere human who is a billionaire with ten college degrees, 40 years of experience 
+           in the corporate world and very proud of his culture. The Kosmos / Universe / Space does not care for these arrogant human 
+           affiliations.
+           </p>
 
            <p> The above learnings should be our approach to space and the resulting bettering of 
            the individual and the bettering of humanity.</p>
@@ -612,8 +612,11 @@ modalText.innerHTML = `
            <p>
            The Big Bang Theory confidently declares the birth of the Kosmos / Universe / Space to be 13.8 billion years ago but this is a 
            theory mainly forwarded by academia, proposed solely on the basis of mathematical equations on paper and origining 98 years ago. 
-           This way these maths-as-a-religion academics are no different from astrologers. These 
-           academics went about lectures and conferences chanting “Big Bang Theory” for almost a hundred years 
+           This way these maths-as-a-religion academics are no different from astrologers.
+           </p>
+           
+           <p>
+           These academics went about lectures and conferences chanting “Big Bang Theory” for almost a hundred years 
            when until recently someone proposed a second Big Bang which "created Dark Matter". Dark Matter is 
            again another nonsensical maths-basis idea which has been around for many decades but 
            has never been observed in Nature, let alone measured. These academics don’t know how big the 
@@ -690,7 +693,7 @@ modalText.innerHTML = `
            from the classes in earlier feudal societies. A degree holder is allowed into the next series 
            of social competition which is interviews for wage slave employment. A lack of college degree 
            or less marks on the degree place that person in more difficult situations than the person 
-           with degree, but such societies are ruthlessly competitive for most citizen, with or without degree.
+           with degree, but such societies are ruthlessly competitive for most citizens, with or without degree.
            </p>
 
            <p>
@@ -701,7 +704,7 @@ modalText.innerHTML = `
            Industrial Revolution. However, that unthoughtfulness by Fatima in her university in Ifriqiyya / Africa in 859 AD, 
            of starting the concept of college degree, has resulted in billions of people now having to suffer because of 
            the wrong things the degree system brought : needless competition, money greed, feudalism, hurry-burry, student suicides, 
-           murders and dashed dreams. Fatima was a thinker certainly but she should have thought more and discussed.
+           murders, life-long wage-dependent slavery and dashed dreams. Fatima was a thinker certainly but she should have thought more and discussed.
            </p>
 
            <p>
@@ -709,8 +712,11 @@ modalText.innerHTML = `
            reducing that human to very less of his or her potential, who must constantly fight 
            with other forcibly-made sub-humans for survival. Resources which should be naturally available for all equally without tax, 
            these resources are artificially made scarce in most societies and most citizens there 
-           must compete with each other daily to have a little part of the resources. This competition involves 
-           apathy, cruelty and mob-thinking where in a few societies, parents are ready to murder 
+           must compete with each other daily to have a little part of the resources.
+           </p>
+
+           <p>
+           This competition involves apathy, cruelty and mob-thinking where in a few societies, parents are ready to murder 
            their own children for fake pride and money greed and prevent their own socio-economic boycott 
            or at least prevent social mockery which happens because the children do something which goes against 
            the popular continued anti-human beliefs of that society including the children just wanting to 
@@ -737,21 +743,21 @@ modalText.innerHTML = `
 
            <p>
            Techno progresses that happen worldwide will find usage also in these competition-filled 
-           anti-intellectual societies but only because they created use of it in competions, 
-           like "edtech" and "fintech" companies, and only leads to the unreasonable acceptance of one citizen trying to find 
+           but only because they created use of it in competions, like "edtech" and "fintech" companies, 
+           and only leads to the unreasonable acceptance of one citizen trying to find 
            a little progress by stepping on the head of another citizen instead of walking side by side.
            </p>
 
            <p>
            In the context of our company being based in India, India has good progressive streams since Buddha, 
-           including progressive songs. In 1936 in the India of the British Raj times, the Progressive Writers 
-           Association was formed and one prominent member was Abdul Hayee, who became known in 
+           including progressive songs. In 1936 in the India of the British Raj times, the All-India Progressive Writers'  
+           Association was formed and one later prominent member was Abdul Hayee, who became known in 
            Hindi cinema as Sahir Ludhianvi. He composed many songs for Hindi cinema and one progressive, questioning 
            and immortal song is from the 1957 film Pyaasa. The song has these start lines :
            </p>
 
            <p>
-           "Ye mahalon, ye takhaton, ye taajon ki duniya,
+           "Ye mahalon, ye takhton, ye taajon ki duniya,
            </p>
            
            <p>
@@ -792,11 +798,13 @@ modalText.innerHTML = `
            However, in these societies those who have established themselves as feudals, 
            they do not participate in these daily competitions as the resources are available to them very easily, 
            in any quantity they want. It is the middle class and the still lower class 
-           who must participate in these daily competitions. This creates low-trust societies full of aggression, 
-           injustice, inequality, crime and chaos where gentleness, honesty, selflessness, empathy, innovation 
-           and evolution are discouraged. When citizens daily keep competing with each other, 
-           they neither have time to reflect, think and innovate, nor will they have the inclination 
-           to collaborate with fellow citizens for any thoughtful thing. These societies become dystopia instead of utopia.
+           who must participate in these daily competitions.
+           </p>
+           
+           <p>This creates low-trust societies full of aggression, injustice, inequality, crime and chaos 
+           where gentleness, honesty, selflessness, empathy, innovation and evolution are discouraged. 
+           When citizens daily keep competing with each other, they neither have time to reflect, think and innovate, 
+           nor will they have the inclination to collaborate with fellow citizens for any thoughtful thing. These societies become dystopia instead of utopia.
            </p>
 
            <p>
@@ -809,7 +817,7 @@ modalText.innerHTML = `
            "Soda glass" is the Indian name given to high-power spectacles mostly worn by male students 
            who score high marks in exams, are "gold medalists" in exams and prepare for exams 
            religiously by memorizing the text books through many nights in addition to days. The 
-           "soda glass" student is present in other competition-based societies like Pakistan, China, Japan
+           "soda glass" student is present in every high-competition societies like Pakistan, China, Japan
            and South Korea. But how many of these "soda glass" students have been known to create novel technologies 
            for humanity and proposed simple, scientific and natural social ideas ?
            </p>
