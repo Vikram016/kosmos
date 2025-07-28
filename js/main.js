@@ -2105,8 +2105,8 @@ modalText.innerHTML = `
            <p style='margin-left:2em;margin-bottom:10px;'><span>(g).</span> Technology that is well-crafted
             yet affordable by the masses.</p>
 
-           <p style='margin-left:2em;margin-bottom:10px;'><span>(h).</span> Technologies selected which help
-            humanity anywhere return easier to advancement or be resilient when situation becomes bad 
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(h).</span> Technologies selected are simple, reliable and help
+            return humanity anywhere to easier advancement or be resilient when situation becomes bad 
             because of natural or other events like unusually big solar storm, comet or asteroid strike, 
             a pointless global war etc.</p>
 
@@ -2918,7 +2918,7 @@ modalText.innerHTML = `
            </p>
            
            <p>
-           The computer will operate on 24 volts DC as this higher voltage than most current semiconductor-based "electronics" space systems, 
+           The computer will operate on 24 volts DC as this higher voltage than in most current semiconductor-based "electronics" space systems, 
            is less affected by space radiation. Additionally, the computations and the other systems use sound also because sound 
            is lot lot less affected by space radiation and temperature than "electronics", unless the radiation is so high 
            that the sound producing elements, the sound transmitting channels, the sound computation chambers, sound receiving elements 
