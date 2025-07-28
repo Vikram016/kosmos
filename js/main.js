@@ -2588,7 +2588,7 @@ modalText.innerHTML = `
          </p>
 
          <p>
-         14. To the stars.
+         14. Anti-gravity.
          </p>
 
          <p>
@@ -3052,20 +3052,20 @@ modalText.innerHTML = `
 
            <p> 
            <span> >> </span> The above described phenomenon of radiosynthesis has an interesting application for space which uses the idea 
-           similar to the Astrophage bio-organism in Andy Weir's sci-fi book of 2021 called Project Hail Mary. This application is spaceship propulsion.  
+           similar to the Astrophage bio-organism in Andy Weir's sci-fi book of 2021 called Project Hail Mary. This application is spaceship propulsion. 
            The use of self-replicating bacteria which absorb / eat the different radiations in space, store those radiation energies like an 
            electrical capacitor and can be made to release / discharge those energies in a single burst at extremely 
            high energy levels just like an electrical capacitor discharge, and this high energy discharge by these 
-           bio-organisms can propel spaceships at very high speeds, possibly lot lot more than Nuclear Pulse Propulsion ( NPP ) 
-           but without the danger of human interaction with the radioactive material involved in NPP. This mechanism can be used 
-           in association with our regular steam propulsion where the bacteria give initial extremely high speed 
-           pushes to spaceships and then are not used and then the steam engines with their recoverable water, are turned on to give 
-           continuous propulsion so that higher speeds are reached. Before water collection points in space, 
+           bio-organisms can propel spaceships at very very high speeds. This mechanism can be used in association with our regular steam propulsion 
+           where the bacteria give initial extremely high speed pushes to spaceships and then are not used and then the steam engines with their recoverable water mechanism, 
+           are turned on to give continuous propulsion so that higher speeds are reached. Before water collection points in space, 
            the bacteria propulsion on the front of the spaceship is turned on to brake the spaceship 
            and use its steam propulsion to do precise orientation. Maybe our coal propulsion can be used here or 
            it may not need to be used. Water is collected and the propulsion process repeated. 
            At the destination, again the combination of bacteria braking and steam-based positioning is used 
-           and maybe to descend on a world the bacteria propulsion can be used in addition to the coal and steam propulsion.
+           and maybe to descend on a world the bacteria propulsion can be used in addition to the coal and steam propulsion. 
+           This system may allow us lot faster and shorter-duration travel to the stars in a sustainable way 
+           than is possible with current propulsion methods or proposed methods like even anti-matter.
            </p>
 
            <p>
@@ -3306,25 +3306,13 @@ modalText.innerHTML = `
            coverage.
            </p>
 
-           <h2>To the stars</h2>
+           <h2>Anti-gravity</h2>
 
            <p>
-           Journeys beyond our solar system means research on two things particularly :
-           </p>
-
-           <p>
-           <span>(a).</span> A more natural means to fly from worlds ( like Earth ) to space via “anti-gravity”
-            mechanism aka Gravity Manipulation and this is if possible at all.
-           </p>
-
-           <p>
-           <span>(b).</span> In-space propulsion mechanism faster than steam and coal propulsion but also simple,
-            safe and the fuel easily acquired.
-           </p>
-
-           <p>
-           Such a craft can possibly have any size and shape and will be able to carry maybe hundreds
-            of people at a time.
+           A more natural means to fly from worlds ( like Earth ) to space and descend on worlds via “anti-gravity” 
+           mechanism aka Gravity Manipulation and this is if possible at all. Such a craft can possibly have 
+           any size and shape and will be able to carry maybe hundreds of people at a time, like the lander ships 
+           in the Dune story.
            </p>
 
          </div>
