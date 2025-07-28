@@ -3032,12 +3032,16 @@ modalText.innerHTML = `
            </p>
            
            <p>
-           <span> >> </span> Structures of spaceships, spacesuits and habitations to be bio-mimicking and also made of biological elements for radiation shielding,
-           Strengthened and fire-proof wood for structures in the spaceships, spacesuits and
+           <span> >> </span> Strengthened and fire-proof wood for structures in the spaceships, spacesuits and
            habitations. Such wood is preferable to metal in many cases. The trees for the wood should
            be growable in space.
            </p>
-           
+
+           <p>
+           <span> >> </span> Transparent wood to replace glass in some applications. The trees for the wood should 
+           be growable in space.
+           </p>
+
            <p> 
            <span> >> </span> Structures of spaceships, spacesuits and habitations to be bio-mimicking and also made of biological elements for radiation shielding, self-repair and a sense of more naturality. For
            example, there is interest in the fungus Cladosporium sphaerospermum which was first
@@ -3049,15 +3053,7 @@ modalText.innerHTML = `
            <p>
            <span> >> </span> Engineered-for-space food production.
            </p>
-           
-           <p>
-           <span> >> </span> Engineered capability in the human body to tolerate some space conditions.
-           </p>
 
-           <p>
-           <span> >> </span>  Increasing human life to 2000 years or more.
-           </p>
-           
            <p>
            <span> >> </span> Plant-based materials like leather and for clothing, packaging etc.
            </p>
@@ -3065,28 +3061,48 @@ modalText.innerHTML = `
            <p>
            <span> >> </span> Mining using bacteria.
            </p>
-           
+                      
            <p>
            <span> >> </span> Intelligent computation using a combination of human brain cells and our Dune Buk
            wearable computer. This will allow autonomous, compact-sized intelligent computation to be
            carried out even without the complete need of humans like in places where humans cannot
            go or are too far away.
            </p>
+
+           <p>
+           <span> >> </span> Bio-engineered production of not only plant-based foods but also 
+           nutritious originally animal products like sheep milk, chicken egg and honey.
+           </p>
            
            <p>
-           <span> >> </span> Intelligent computation using a combination of human brain cells and our Dune Buk
-           wearable computer. This will allow autonomous, compact-sized intelligent computation to be
-           carried out even without the complete need of humans like in places where humans cannot
-           go or are too far away.
+           <span> >> </span> Bio-engineered animal products growing also leads to another interesting thing : 
+           synthetic wombs for growing human organs and cat organs and entire living humans and this is important not
+           only for solving diseases like blindness and kidney failure but also for populating space with
+           humans and also protecting the desirable Earthen lifeforms in case of global devastations.
            </p>
-          
+
            <p>
-           In enabling biology-based self-repair and space-tolerance in humans, care will be taken that
-           such acquired abilities do not transform humans from their human form into something else
-           i.e. the extreme imagined forms of Transhumanism. So, for example a cat should recognize
-           such acquired abilities do not transform humans from their human form into something else
-           i.e. the extreme imagined forms of Transhumanism. So, for example a cat should recognize
-           a human as a human despite that human’s acquired abilities.
+           <span> >> </span> The idea that instead of making great effort in building electro-mechanical limbed robots 
+           and even bio-mimicking robots which have bio-inspired muscles, to do work in space and on space objects 
+           where the environment is dangerous for current regular humans, better is to use naturally biology 
+           in form of biologically enhanced biological humans to go to those places and also have good clothing against 
+           those environmental conditions. This involves creating within humans the abilities for self-repair, 
+           space-tolerance and enhanced strength. To get these abilities may require biological elements 
+           acting with non-bio nanomachines. It should be possible to thus increase human life span to 2000 years at least. 
+           However, in enabling biology-based super-enhancement in humans, care will be taken that such acquired abilities do not 
+           transform humans from their human form into something else i.e. the extreme imagined forms of Transhumanism. So, for example 
+           a cat should recognize an enhanced human as a human, a human with gentleness, wisdom, sensitiveness and empathy 
+           who a cat can trust... certainly not the robotic massively-muscled enhanced beings 
+           of some Hollywood films who do not seem "human".
+           </p>
+
+           <p>
+           <span> >> </span> Engineered bacteria can perhaps be used to construct useful matter from other existent
+           matter. Examples : (a). To get the helium gas which our Alef-A airships require as their main lift
+           gas, (b). To get the nitrogen gas for adding to oxygen in the correct mixture so that 
+           humans can breath their Earth-normal air of nitrogen-oxygen mixture, (c). To obtain nutrients for plants, 
+           (d). To extract water or even construct water. The raw material matter can be asteroid rock etc. This will remove the need 
+           for a lot of mineral processing factories and their attendant pollution and human physical labor.
            </p>
 
            <h2> One derivation of these researches is eradicating hunger on Earth. Hunger is a two part
@@ -3100,34 +3116,15 @@ modalText.innerHTML = `
           
              <p>
              <span>(b).</span> A social problem largely via private profiteering and geopolitical interferences in the food
-             industry while so many people go hungry or die of hunger despite abundance of food. There
-             can be additional culture-dependent wastages of food.
+             industry while so many people go hungry or die of hunger despite abundance of food. There 
+             are additional culture-dependent wastages of food.
              </p>
              
              <p>
-             The simple solution for hunger is not only social enlightenment but also a technological
-             combination of bio-engineered and regular production of not only plant-based foods but also
-             nutritious originally animal products like sheep milk, chicken egg and honey, and these
-             productions be done in decentralized, neighborhood-level indoor farms which can include
-             vertical farming. We of Kosmos Society will produce these solutions both for current cities
-             and new cities, by ourselves or in collaboration.
+             The simple solution for hunger is not only social enlightenment but also a technological 
+             combination of bio-engineered plant-based foods and the nutritious originally animal products 
+             like given above, and these productions done in decentralized, neighborhood-level indoor farms.
              </p>
-
-           <p>
-           Bio-engineered animal food products relate to another interesting thing : synthetic wombs for
-           growing human organs and cat organs and entire living humans and this is important not
-           only for solving diseases like blindness and kidney failure but also for populating space with
-           humans and also protecting the desirable Earthen lifeforms in case of global devastations.
-           Please read more on this in the “Manifesto for the kosmos” chapter on this website.
-           </p>
-
-           <p>
-           Engineered bacteria can perhaps be used to construct useful matter from other existent
-           matter. For example to get the helium gas which our Alef-A airships require as their main lift
-           gas, or to obtain nutrients for plants, or to extract water or even construct water.
-           The raw material matter can be asteroid rock etc. This will remove the need for a lot of mineral processing factories
-           and their attendant pollution and human physical labor.
-           </p>
 
            <h2> Machines for water which include</h2>
            
