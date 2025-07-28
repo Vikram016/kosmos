@@ -2923,9 +2923,8 @@ modalText.innerHTML = `
            is lot lot less affected by space radiation and temperature than "electronics", unless the radiation is so high 
            that the sound producing elements, the sound transmitting channels, the sound computation chambers, sound receiving elements 
            and other sound elements are physically deformed by the radiation. But of course, such high radiation will kill our wearable computer's 
-           wearer first despite every humanly possible protection, so the only beyond recording such an event there is no other need 
-           for the wearable computer to be very very extremely radiation-tolerant one. Sound is also easier and cheaper to produce, receive and use in 
-           computation and storage than light ( optical computing and storage ).
+           wearer first despite every humanly possible protection, and the only use of such a system is recording such an event. Sound is also easier and 
+           cheaper to produce, receive and use in computation and storage than light ( optical computing and storage ).
            </p>
 
            <p>
