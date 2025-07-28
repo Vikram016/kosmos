@@ -180,9 +180,10 @@ modalText.innerHTML = `
              of history whose God was not the oppressor which these kings of France were
              and these kings were supported by priests, and priests were a class
              opposed by Jesus, and the kings were also supported by merchants who took usury 
-             and profited off the misery of fellow citizens. Such merchants also had been rebelled against by Jesus. 
-             And these three types of mutually-back-scratching self-appointed socially superior people in royal France
-             lived grandly by walking on the backs of the ordinary French people.
+             and profited in every form off the misery of fellow citizens. Such merchants also had 
+             been rebelled against by Jesus. And these three types of mutually-back-scratching self-appointed 
+             socially superior people in royal France lived grandly by walking on the backs of the ordinary French people. 
+             And these oppressed ordinary people were told to be grateful for being oppressed.
              </P>
 
              <p>        
@@ -195,7 +196,11 @@ modalText.innerHTML = `
              lived in well-defended mansions surrounded by vast, clean gardens
              while the ordinary citizens lived in dirty urban slums and damp rural hovels
              with ever present danger of raids by bandits and by fellow citizens driven by poverty
-             to loot.
+             to loot. The ordinary people also had to enlist in the wars the kings waged 
+             and all these wars brought were more land for the kings to exploit, more gold and jewels 
+             for the kings treasury and death, maiming and famine for the ordinary French. 
+             The king ate the most luxuriously prepared dinners and the ordinary French endured 
+             famine with usually not even the basic bread.
              </P>
 
             <P>
@@ -237,7 +242,60 @@ modalText.innerHTML = `
            made forgotten so now in 2025 the ideas of "Natural liberty, equality and fraternity among all humans"
            has largely and sadly been replaced with "Unnatural and hatred-full divisions among humans who are divided into
            kingdom-like nations and the hatreds between nations enforced by needless, forever wars".
+           </p>
+
+           <p
+           The great Indian philosopher Rabindranath Tagore spoke against this hate-bringing divison of humanity into nations 
+           in his 1917 essay "Nationalism in India". He said that from childhood he had been taught that the idolatry of Nation 
+           is supreme than reverence for god and humanity but he outgrew that teaching and was 
+           convinced that his countrypeople will get the evolved society of their dreams by rejecting 
+           the education which teaches that a country is greater than the ideals of humanity.
+           </p>
+
+           <p>
+           To extend Tagore's idea, there is difference between patriotism and nationalism. 
+           Patriotism means inherent love for the oppressed, the innocent and the sensible of one's own society and 
+           wanting one's society to become gentle, empathetic, just, rights-filled, having all reasonable freedoms and evolved 
+           and having fraternity with the oppressed, the innocent and the sensible of all of humanity. 
+           Nationalism, in particular Ultranationalism, however is the opposite, narrow and contradictory concept which ignores the oppressed, 
+           the innocent and the sensible in one's own society and in fact maintains class-based and race-based hate and contempt 
+           for the oppressed, the innocent and the sensible in one's own society but have a strange hate for unknown people 
+           outside one's borders who have done them no harm.
+           </p>
+
+           <p>
+           It is often found that ultranationalism is most present in those societies which have class system 
+           and in these it is the middle class especially who indulges in this contradiction. The middle class person 
+           often employed in feudal organizations as a monthly wager, on his daily trip to and from his office, 
+           passes by the same homeless and hungry people on the footpath, but never stopping by 
+           to take a blanket, clothes and food to them, never even giving 20 dollars to them, 
+           never filling with tears when hearing that some of those homeless died of hunger 
+           that morning, never filling with sadness and a "What ???" when hearing that that homeless person lay hungry for three days, 
+           in full view of the road, and another middle class person brought luxurious food for five dogs 
+           on that same road, and then that hungry human died of hunger.
+           </p>
+           
+           <p>
+           But this same apathetic, wage-slave middle class person is the first to scream war against a society 
+           5000 kilometers away where there are no homeless and hungry humans and no wage slaves because every human there is close 
+           to enable all natural freedoms to humans who don't depend on wage from feudals... 
+           and our middle class person will call that humanist society a "rogue nation" that must be genocided 
+           so that "Democracy" can be brought there, LOL. And when that "rogue anti-democracy nation" is being genocided, 
+           our middle class person will continue to be a voluntary slave in his feudalist corporation, 
+           never speaking of democracy in the feudal place he has worked for 30 years, and even seen 
+           his colleagues having their hands cut up by a machine but the bosses not caring, 
+           and then our middle class person will go on his third religious pilgrimage in five years and 
+           bring back "holy items" to give to his office colleagues, neighbors and relatives 
+           who receive them with reverence.
            </P>
+
+           <p>
+           Tagore further says in that 1917 essay that societies try to unite their citizens into one idea 
+           but he says that unless their internal oppressive contradictions and oppressive social customs are addressed and resolved, 
+           the societies will not unite and humanity in general will not unite. Tagore spoke of this 
+           in 1917 yet now in 2025, 98 years after his essay, most societies on Earth continue to go counter to Tagore's 
+           appeal to pan-human liberty, equality and fraternity.
+           </p>
            
            <P>
            However, as per natural laws no human from one modern nation is automatically superior in the 
@@ -248,9 +306,11 @@ modalText.innerHTML = `
            spoken of seeing the Earth as a singular delicate blue world with no natural boundaries 
            dividing nations, though to us adding here : with the exception of Australia and other island 
            nations bounded by the seas but that is besides the point. It is then unwise to be fanatic 
-           nationalists in Space when just the Sun can fit in itself a million Earths and the Sun being 
+           ultranationalists in the kosmos when just the Sun can fit in itself a million Earths and the Sun being 
            just a medium-sized star, and in reality the Sun instantly burning up those million Earths and 
-           all the nations within them. A human is a tiny “zarra” / speck in the infinite Universe. </p>
+           all the nations within them and with them all of the eight billion people of Earth. 
+           A human is a tiny humble “zarra” / speck in the infinite Universe.
+           </p>
 
           <P> Secondly, the human technological advancements of now and the social advancements 
            have come from developments from people of various parts and cultures of Earth, whether 
