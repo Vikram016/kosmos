@@ -806,8 +806,8 @@ modalText.innerHTML = `
 
            <p>
            Techno progresses that happen worldwide will find usage also in these competition-filled 
-           but only because they created use of it in competions, like "edtech" and "fintech" companies, 
-           and only leads to the unreasonable acceptance of one citizen trying to find 
+           societies but only because they redirected use of it in competitions, like "edtech" and "fintech" companies, 
+           and this only leads to the unreasonable acceptance of one citizen trying to find 
            a little progress by stepping on the head of another citizen instead of walking side by side.
            </p>
 
@@ -836,7 +836,7 @@ modalText.innerHTML = `
            </p>
 
            <p>
-           which in English means :
+           Which in English means :
            </p>
 
            <p>
@@ -844,7 +844,7 @@ modalText.innerHTML = `
            </p>
            
            <p>
-           where societies are enemies of humans,
+           where social constructs are enemies of humans,
            </p>
            
            <p>
