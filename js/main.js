@@ -3050,6 +3050,24 @@ modalText.innerHTML = `
            energy through photosynthesis. This fungus eats the radiation.
            </p>
 
+           <p> 
+           <span> >> </span> The above described phenomenon of radiosynthesis has an interesting application for space which uses the idea 
+           similar to the Astrophage bio-organism in Andy Weir's sci-fi book of 2021 called Project Hail Mary. This application is spaceship propulsion.  
+           The use of self-replicating bacteria which absorb / eat the different radiations in space, store those radiation energies like an 
+           electrical capacitor and can be made to release / discharge those energies in a single burst at extremely 
+           high energy levels just like an electrical capacitor discharge, and this high energy discharge by these 
+           bio-organisms can propel spaceships at very high speeds, possibly lot lot more than Nuclear Pulse Propulsion ( NPP ) 
+           but without the danger of human interaction with the radioactive material involved in NPP. This mechanism can be used 
+           in association with our regular steam propulsion where the bacteria give initial extremely high speed 
+           pushes to spaceships and then are not used and then the steam engines with their recoverable water, are turned on to give 
+           continuous propulsion so that higher speeds are reached. Before water collection points in space, 
+           the bacteria propulsion on the front of the spaceship is turned on to brake the spaceship 
+           and use its steam propulsion to do precise orientation. Maybe our coal propulsion can be used here or 
+           it may not need to be used. Water is collected and the propulsion process repeated. 
+           At the destination, again the combination of bacteria braking and steam-based positioning is used 
+           and maybe to descend on a world the bacteria propulsion can be used in addition to the coal and steam propulsion.
+           </p>
+
            <p>
            <span> >> </span> Engineered-for-space food production.
            </p>
@@ -3084,25 +3102,32 @@ modalText.innerHTML = `
            <p>
            <span> >> </span> The idea that instead of making great effort in building electro-mechanical limbed robots 
            and even bio-mimicking robots which have bio-inspired muscles, to do work in space and on space objects 
-           where the environment is dangerous for current regular humans, better is to use naturally biology 
+           where the environment is dangerous for current regular humans, better is to use natural biology 
            in form of biologically enhanced biological humans to go to those places and also have good clothing against 
            those environmental conditions. This involves creating within humans the abilities for self-repair, 
            space-tolerance and enhanced strength. To get these abilities may require biological elements 
-           acting with non-bio nanomachines. It should be possible to thus increase human life span to 2000 years at least. 
-           However, in enabling biology-based super-enhancement in humans, care will be taken that such acquired abilities do not 
-           transform humans from their human form into something else i.e. the extreme imagined forms of Transhumanism. So, for example 
-           a cat should recognize an enhanced human as a human, a human with gentleness, wisdom, sensitiveness and empathy 
-           who a cat can trust... certainly not the robotic massively-muscled enhanced beings 
-           of some Hollywood films who do not seem "human".
+           acting with non-bio nanomachines. It should be possible to thus increase continuous human life span to 2000 years at least. 
+           </p>
+
+           <p>
+           <span> >> </span> However, in enabling biology-based super-enhancement and synthetic wombs for humans, 
+           care will be taken that such acquired abilities do not transform humans from their human form into something else 
+           i.e. the extreme imagined forms of Transhumanism. So, for example a cat should recognize an enhanced human as a human, 
+           a human with gentleness, wisdom, sensitiveness and empathy who a cat can trust... certainly not the robotic 
+           massively-muscled enhanced beings of some Hollywood films who do not seem "human".
            </p>
 
            <p>
            <span> >> </span> Engineered bacteria can perhaps be used to construct useful matter from other existent
            matter. Examples : (a). To get the helium gas which our Alef-A airships require as their main lift
            gas, (b). To get the nitrogen gas for adding to oxygen in the correct mixture so that 
-           humans can breath their Earth-normal air of nitrogen-oxygen mixture, (c). To obtain nutrients for plants, 
+           humans can breath their Earth-normal air mixture of nitrogen-oxygen, (c). To obtain nutrients for plants, 
            (d). To extract water or even construct water. The raw material matter can be asteroid rock etc. This will remove the need 
            for a lot of mineral processing factories and their attendant pollution and human physical labor.
+           </p>
+
+           <p>
+           <span> >> </span> Engineered bacteria
            </p>
 
            <h2> One derivation of these researches is eradicating hunger on Earth. Hunger is a two part
