@@ -599,10 +599,11 @@ modalText.innerHTML = `
            usage, regular tea’ing also will hydrate the skin which may become dry in spaceships and 
            spacesuits and will also create solidarity because of group drinking. Tea is also a good 
            laxative including when starting the day. Further, tea leaves are a good natural fertilizer for 
-           plants. </p>
+           plants.
+           </p>
 
            <p> And maybe tea grown in space may become a new variety or multiple varieties in 
-           accordance with conditions in different Space locations. </p>
+           accordance with conditions in different space locations. </p>
          
            <h2>Appearance and personality of the space travellers</h2>
            
@@ -1657,8 +1658,13 @@ modalText.innerHTML = `
            
            <h2>You as our co-worker</h2> 
 
-           <p style="margin-bottom:10px;"> This collaboration will be on the basis of natural social equality and natural intelligence. We 
-           look for people ideally with the following attributes : </p> 
+           <p style="margin-bottom:10px;"> The industry of space travel and space living involves science of 
+           every reasonable kind - from computing to biology to materials to chemistry to many other things, 
+           except for sciences with no real basis in a simplified, non-trend-following, democracy-oriented 
+           and truly humanity-contributing organization, for examples teams for HR, accounting and 
+           "Corporate Social Responsibility". When you join us your collaboration with us will be on the basis of 
+           natural social equality and natural intelligence. We look for people ideally with the following attributes :
+           </p> 
 
            <p style="margin-bottom:10px;"> <span> >> </span> You can be a school 10th class fail but if you have ideas, knowledge, willingness to work 
            and maybe experience in tinkering and other areas then most welcome. </p>
@@ -1669,7 +1675,7 @@ modalText.innerHTML = `
           <p style="margin-bottom:10px;"> <span> >> </span> You are simple, gentle 
           and not given to spouting corporate buzzwords. </p>
 
-          <p style="margin-bottom:10px;"> <span> >> </span> You have no love for money and  
+          <p style="margin-bottom:10px;"> <span> >> </span> You have no love for money and 
           feudalism. </p>
 
           <p style="margin-bottom:10px;"> <span> >> </span> You desire a largely secular 
@@ -1688,7 +1694,8 @@ modalText.innerHTML = `
            through the far far future and that includes our co-workers being allowed to attain their fullest potential and this in a democratic way. 
            “Liberty, Equality, Fraternity” is after all one of our credos. So our company-internal organization of people 
            employs the democratic concept of Workers Cooperative which is described in the “Manifesto for the kosmos" chapter on this website 
-           in the section "Social organization in space travel and space living".
+           in the section "Social organization in space travel and space living". Please read that and return to 
+           this point.
            </p>
 
            <p>
@@ -1706,9 +1713,8 @@ modalText.innerHTML = `
           <p style="margin-bottom:10px;"> <span> >> </span> The organization is arranged as a set of work groups which will be for the various 
            research groups and maintenance groups. </p>
            
-           <p style="margin-bottom:10px;"> <span> >> </span> The industry of space travel is a permanent one and involves science of every kind except 
-           for sciences with no real basis in a simplified, non-trend-following and democracy-oriented 
-           organization, so with us you will be in permanent employment. You will have a comfortable 
+           <p style="margin-bottom:10px;"> <span> >> </span> The industry of space travel and space living is a permanent one 
+           so with us you will be in permanent employment. You will have a comfortable 
            salary as long as the system of money remains. </p>
 
            <p style="margin-bottom:10px;"> <span> >> </span> The organization will be headed by a General Coordinator ( GC ) who for some years to 
@@ -2918,9 +2924,9 @@ modalText.innerHTML = `
            </p>
            
            <p>
-           The computer will operate on 24 volts DC as this higher voltage than in most current semiconductor-based "electronics" space systems, 
-           is less affected by space radiation. Additionally, the computations and the other systems use sound also because sound 
-           is lot lot less affected by space radiation and temperature than "electronics", unless the radiation is so high 
+           The computer will operate on 24 volts DC as this higher voltage than in most current semiconductor-based electronics space systems, 
+           will be less affected by space radiation. Additionally, the computations and the other systems use sound also because sound 
+           is lot lot less affected by space radiation and temperature than semiconductor electronics, unless the radiation is so high 
            that the sound producing elements, the sound transmitting channels, the sound computation chambers, sound receiving elements 
            and other sound elements are physically deformed by the radiation. But of course, such high radiation will kill our wearable computer's 
            wearer first despite every humanly possible protection, and the only use of such a system is recording such an event. Sound is also easier and 
@@ -3022,9 +3028,7 @@ modalText.innerHTML = `
            normal usages.
            </p>
            
-           <h2>Biology researches</h2>
-           
-           <p> Like :</p>
+           <h2>Biology researches like</h2>
            
            <p>
            <span> >> </span> The ideal plants to derive biocoal for the coal needed to propel the Alef spaceships and
@@ -3050,8 +3054,28 @@ modalText.innerHTML = `
            energy through photosynthesis. This fungus eats the radiation.
            </p>
 
+           <p>
+           <span> >> </span> Engineered bacteria can be used to do mining and perhaps even construct useful matter from other existent
+           matter like asteroid rock. This will remove the need for a lot of mechano-chemical mineral processing factories and 
+           their attendant pollution and human physical labor. Examples of use :
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> To get the helium gas which our Alef-A airships require 
+           as their main lift gas.
+           </p>
+           
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(b).</span> To get the nitrogen gas for adding to oxygen 
+           in the correct mixture so that humans can breath their Earth-normal air mixture of nitrogen-oxygen.
+           </p>
+           
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> To obtain nutrients for plants.
+           </p>
+            
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(d).</span> To extract water or even construct water.
+           </p>
+            
            <p> 
-           <span> >> </span> The above described phenomenon of radiosynthesis has an interesting application for space which uses the idea 
+           <span> >> </span> The previously described phenomenon of radiosynthesis has an interesting application for space which uses the idea 
            similar to the Astrophage bio-organism in Andy Weir's sci-fi book of 2021 called Project Hail Mary. This application is spaceship propulsion. 
            The use of self-replicating bacteria which absorb / eat the different radiations in space, store those radiation energies like an 
            electrical capacitor and can be made to release / discharge those energies in a single burst at extremely 
@@ -3064,8 +3088,8 @@ modalText.innerHTML = `
            it may not need to be used. Water is collected and the propulsion process repeated. 
            At the destination, again the combination of bacteria braking and steam-based positioning is used 
            and maybe to descend on a world the bacteria propulsion can be used in addition to the coal and steam propulsion. 
-           This system may allow us lot faster and shorter-duration travel to the stars in a sustainable way 
-           than is possible with current propulsion methods or proposed methods like even anti-matter.
+           This system may allow us lot faster and shorter-duration travel to the stars in a sustainable way using 
+           bacteria-constructed matter, than is possible with current propulsion methods or proposed methods like even anti-matter.
            </p>
 
            <p>
@@ -3074,10 +3098,6 @@ modalText.innerHTML = `
 
            <p>
            <span> >> </span> Plant-based materials like leather and for clothing, packaging etc.
-           </p>
-           
-           <p>
-           <span> >> </span> Mining using bacteria.
            </p>
                       
            <p>
@@ -3115,19 +3135,6 @@ modalText.innerHTML = `
            i.e. the extreme imagined forms of Transhumanism. So, for example a cat should recognize an enhanced human as a human, 
            a human with gentleness, wisdom, sensitiveness and empathy who a cat can trust... certainly not the robotic 
            massively-muscled enhanced beings of some Hollywood films who do not seem "human".
-           </p>
-
-           <p>
-           <span> >> </span> Engineered bacteria can perhaps be used to construct useful matter from other existent
-           matter. Examples : (a). To get the helium gas which our Alef-A airships require as their main lift
-           gas, (b). To get the nitrogen gas for adding to oxygen in the correct mixture so that 
-           humans can breath their Earth-normal air mixture of nitrogen-oxygen, (c). To obtain nutrients for plants, 
-           (d). To extract water or even construct water. The raw material matter can be asteroid rock etc. This will remove the need 
-           for a lot of mineral processing factories and their attendant pollution and human physical labor.
-           </p>
-
-           <p>
-           <span> >> </span> Engineered bacteria
            </p>
 
            <h2> One derivation of these researches is eradicating hunger on Earth. Hunger is a two part
@@ -3310,8 +3317,8 @@ modalText.innerHTML = `
 
            <p>
            A more natural means to fly from worlds ( like Earth ) to space and descend on worlds via “anti-gravity” 
-           mechanism aka Gravity Manipulation and this is if possible at all. Such a craft can possibly have 
-           any size and shape and will be able to carry maybe hundreds of people at a time, like the lander ships 
+           mechanism aka Gravity Manipulation and this is if possible at all. Such a craft can be very large and of any shape 
+           and able to carry maybe hundreds of people at a time, like the lander ships 
            in the Dune story.
            </p>
 
