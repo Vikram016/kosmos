@@ -467,8 +467,11 @@ modalText.innerHTML = `
 
            <p>So the organization of work groups in space should be democratic and that is easily done by 
            organizing them as Workers Cooperatives. The idea of Workers Cooperative has association 
-           with the older ideas of liberty, equality and fraternity. <br> A Workers Cooperative has ten  
-           general outcomes :</p>
+           with the older ideas of liberty, equality and fraternity, and enables true democracy via participatory 
+           democracy where every human present in the organzation participates in the continuance 
+           of that organization equally and benefits from it equal to other members. A Workers Cooperative has ten 
+           general outcomes :
+           </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
            <span>(a).</span> It is all the workers who directly own and manage an organization and equally divide 
@@ -1054,19 +1057,20 @@ modalText.innerHTML = `
            
            <h2>Mining in space</h2>
            
-           <p> Space belongs to no single human nation state. Space belongs to all humankind in a 
-           collective sense and no nation state can endanger other humans by placing weapons of 
+           <p> Space belongs to no single human nation state and certainly to no feudal corporation. 
+           Space belongs to all humankind in a collective sense and no nation state can endanger other humans by placing weapons of 
            mass destruction in open space or around space bodies nor can a nation state exclusively 
            claim space objects for taking resources ( say even from a star like the Sun ). Similar is the 
-           agreement undertaken at the UNOOSA ( United Nations Office for Outer Space Affairs ) 
-           which is a department of the UN. Though the UN has failed to prevent invasions, needless conflicts, genocides and subversions since its inception 
-           in 1945 and has served only as a decoration, very much not uniting nations despite its name, 
+           agreement undertaken at UNOOSA ( United Nations Office for Outer Space Affairs ) 
+           which is a department of the UN. Though the UN has failed to prevent invasions, needless conflicts, genocides and subversions 
+           since its inception in 1945 and has served only as a decoration, very much not uniting nations despite its name, 
            its UNOOSA department at least makes sense.</p> 
            
            <p> In space no one should be a Scrooge McDuck i.e. not greedily see space as yet another 
            natural resource to do selfish profiteering from, to the exclusion of other humans and to the 
-           spoiling of Nature, but instead seeing space resources as the means to bring easy material 
-           enrichment of every human on Earth and beyond on an equal basis, where all humans are 
+           exploitation of the workers working for that corporation in the dangers of space and to the 
+           consequent spoiling of Nature, but instead seeing space resources as the means to bring easy material 
+           collective enrichment of every human on Earth and beyond Earth on an equal basis, where all humans are 
            collectively prosperous. It then also follows the necessity that national governments on Earth 
            will participate in such a democratic pan-humanist effort.</p>                
 
@@ -1268,14 +1272,14 @@ modalText.innerHTML = `
            to the extent that many families have at least two vehicles for no other reason than to display their 
            middle class new-pseudo-rich wealth with the result being that in some cities there are now at least 
            five million personal motor vehicles. Putting metro lines has also not caused the public to 
-           stop using their personal vehicles and take personal responsibility to contribute to serenity, cleanliness, 
-           much reduced pollution and removing social inequality in their cities.
+           stop using their personal vehicles and take personal responsibility to contribute to create serenity, cleanliness, 
+           much reduced pollution and remove social inequality in their cities.
            </p>
            
            <p>
            Additionally, the metro lines have only led to narrowed roads leading to funnel effect on the roads 
-           and chaos and of course contributing to more pollution because of the production of cement, iron and other materials needed in the 
-           construction of the metro infrastructure, added with the petro fuel pollution because of the 
+           and thus chaos and of course contributing to more pollution because of the production of cement, iron and other materials 
+           needed in the construction of the metro infrastructure, added with the petro fuel pollution because of the 
            vehicles involved in the construction of the metro infrastructure. Thousands of personal vehicles 
            continue to be purchased every day in the cities with metro lines. Flyovers and metro lines 
            are problems which add to the existing problem caused by personal vehicles.
@@ -1357,6 +1361,19 @@ modalText.innerHTML = `
            comes up to these car-enclosed people to sell pens or flowers, the car people may have extra money 
            which they can freely give to the seller child to help him but most times the car people roll up their 
            window and cruelly abandon that child.
+           </p>
+
+           <p>
+           Also is needless the obscene display of newly acquired wealth by celebs in form of 
+           expensive personal motorcycles and sports cars. The contradiction of a celeb in Bombay cruising 
+           in a four crore rupees flashy orange open-top sports car, wearing expensive and huge dark glasses, 
+           passing by five-year-old boys and girls struggling to earn 50 rupees a day by selling 
+           flowers, pens and washing the windscreen of the same four crore rupees sports car, 
+           and its newly-rich celeb owner waving away those boys and girls in irritation. This expensive 
+           car is just a personal road vehicle, not a spaceship which can take 100 people to Pluto, 
+           and it is not a survivable vehicle for its celeb owner in case it gets into a road mishap, 
+           so there should be no allure and aspiration attached to it, especially if it 
+           separates human from human through class system.
            </p>
 
            <p>
@@ -2597,7 +2614,7 @@ modalText.innerHTML = `
 
            <p>
            Advancement then in electricity generation is to make generators simple, compact, 
-           safe and decentralized, where the generator sits within the small and large machines 
+           self-sustaining, safe and decentralized, where the generator sits within the small and large machines 
            needing electricity or just outside them. Making generators compact will also enable 
            redundancy, easy replacement and easy placement in any place which needs electricity 
            instead of centralized single points of failure. This also contributes to democracy 
@@ -2607,12 +2624,14 @@ modalText.innerHTML = `
            
            <p>
            Faradn generator system will be such a generator which is very non-nuclear and will 
-           power all our non-micro-sized products by sitting within them or just outside them 
-           and it will produce 24 volts DC which is enough for most purposes, neither too low a current 
-           nor dangerously high. For high voltage requirements we can externally connect 
-           the generator to further amplifying systems like a motor-generator. Within the generator itself 
-           there are two very simple approaches we are considering in generating the initial low-voltage current 
-           before we amplify that current, clean it and provide it as the 24 volts DC output. The two approaches are :
+           power all our non-micro-sized products by sitting within them or just outside them. 
+           It will produce 24 volts DC which is enough for most purposes, neither too low a current 
+           nor dangerously high. Once started, this generator will be designed to continuously 
+           produce current for at least a month... this is the self-sustained part. For high voltage requirements 
+           we can externally connect this self-sustained generator to further amplifying systems like a motor-generator. 
+           Within the Faradn generator itself there are two very simple approaches we are considering in generating 
+           the initial low-voltage current before we amplify that current, clean it and provide it as the 24 volts DC output. 
+           The two approaches are :
            </p>
            
            <p>
