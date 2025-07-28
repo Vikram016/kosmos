@@ -278,11 +278,12 @@ modalText.innerHTML = `
            <p>
            But this same apathetic, wage-slave middle class person is the first to scream war against a society 
            5000 kilometers away where there are no homeless and hungry humans and no wage slaves because every human there is close 
-           to enable all natural freedoms to humans who don't depend on wage from feudals... 
+           to having all natural freedoms to humans who don't depend on wage from exploiting feudals and who don't 
+           have to struggle to take ungiving permissions of family elders just to love a person of the opposite gender... 
            and our middle class person will call that humanist society a "rogue nation" that must be genocided 
            so that "Democracy" can be brought there, LOL. And when that "rogue anti-democracy nation" is being genocided, 
            our middle class person will continue to be a voluntary slave in his feudalist corporation, 
-           never speaking of democracy in the feudal place he has worked for 30 years, and even seen 
+           never speaking of democracy in his own feudal workplace he has worked for 30 years, and even seen 
            his colleagues having their hands cut up by a machine but the bosses not caring, 
            and then our middle class person will go on his third religious pilgrimage in five years and 
            bring back "holy items" to give to his office colleagues, neighbors and relatives 
@@ -293,10 +294,10 @@ modalText.innerHTML = `
            Tagore further says in that 1917 essay that societies try to unite their citizens into one idea 
            but he says that unless their internal oppressive contradictions and oppressive social customs are addressed and resolved, 
            the societies will not unite and humanity in general will not unite. Tagore spoke of this 
-           in 1917 yet now in 2025, 98 years after his essay, most societies on Earth continue to go counter to Tagore's 
-           appeal to pan-human liberty, equality and fraternity.
+           in 1917 yet now in 2025, almost a century after his essay, most societies on Earth continue go counter to Tagore's 
+           appeal to reason and to pan-human liberty, equality and fraternity.
            </p>
-           
+
            <P>
            However, as per natural laws no human from one modern nation is automatically superior in the 
            grandness of Universe / Kosmos / Space than a human from another modern nation. A socially-advantaged 
@@ -2912,9 +2913,21 @@ modalText.innerHTML = `
            <p>
            The display will be a projected display system showing GUI on a screen pullable to the front
            of the user, parallel to the standing surface. Screen input will be performed using a special
-           pen for regular input as well as on-screen virtual keyboard for extended typing.
+           pen for regular input as well as on-screen virtual keyboard for extended typing. The display system 
+           will also use sound.
            </p>
            
+           <p>
+           The computer will operate on 24 volts DC as this higher voltage than most current semiconductor-based "electronics" space systems, 
+           is less affected by space radiation. Additionally, the computations and the other systems use sound also because sound 
+           is lot lot less affected by space radiation and temperature than "electronics", unless the radiation is so high 
+           that the sound producing elements, the sound transmitting channels, the sound computation chambers, sound receiving elements 
+           and other sound elements are physically deformed by the radiation. But of course, such high radiation will kill our wearable computer's 
+           wearer first despite every humanly possible protection, so the only beyond recording such an event there is no other need 
+           for the wearable computer to be very very extremely radiation-tolerant one. Sound is also easier and cheaper to produce, receive and use in 
+           computation and storage than light ( optical computing and storage ).
+           </p>
+
            <p>
            File system will be non-hierarchical and categories-recording.
            </p>
