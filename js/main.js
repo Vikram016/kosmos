@@ -244,9 +244,9 @@ modalText.innerHTML = `
            kingdom-like nations and the hatreds between nations enforced by needless, forever wars".
            </p>
 
-           <p
+           <p>
            The great Indian philosopher Rabindranath Tagore spoke against this hate-bringing divison of humanity into nations 
-           in his 1917 essay "Nationalism in India". He said that from childhood he had been taught that the idolatry of Nation 
+           in his 1917 essay "Nationalism in India". He says that from childhood he had been taught that the idolatry of Nation 
            is supreme than reverence for god and humanity but he outgrew that teaching and was 
            convinced that his countrypeople will get the evolved society of their dreams by rejecting 
            the education which teaches that a country is greater than the ideals of humanity.
@@ -259,7 +259,7 @@ modalText.innerHTML = `
            and having fraternity with the oppressed, the innocent and the sensible of all of humanity. 
            Nationalism, in particular Ultranationalism, however is the opposite, narrow and contradictory concept which ignores the oppressed, 
            the innocent and the sensible in one's own society and in fact maintains class-based and race-based hate and contempt 
-           for the oppressed, the innocent and the sensible in one's own society but have a strange hate for unknown people 
+           for the oppressed, the innocent and the sensible in one's own society but has a strange hate for unknown people 
            outside one's borders who have done them no harm.
            </p>
 
@@ -276,9 +276,9 @@ modalText.innerHTML = `
            </p>
            
            <p>
-           But this same apathetic, wage-slave middle class person is the first to scream war against a society 
+           But this same apathetic, monthly-wage middle class person is the first to scream war against a society 
            5000 kilometers away where there are no homeless and hungry humans and no wage slaves because every human there is close 
-           to having all natural freedoms to humans who don't depend on wage from exploiting feudals and who don't 
+           to having all the natural freedoms due to humans who don't depend on wage from exploiting feudals and who don't 
            have to struggle to take ungiving permissions of family elders just to love a person of the opposite gender... 
            and our middle class person will call that humanist society a "rogue nation" that must be genocided 
            so that "Democracy" can be brought there, LOL. And when that "rogue anti-democracy nation" is being genocided, 
@@ -286,7 +286,7 @@ modalText.innerHTML = `
            never speaking of democracy in his own feudal workplace he has worked for 30 years, and even seen 
            his colleagues having their hands cut up by a machine but the bosses not caring, 
            and then our middle class person will go on his third religious pilgrimage in five years and 
-           bring back "holy items" to give to his office colleagues, neighbors and relatives 
+           bring back "holy items" to give to his middle class office colleagues, neighbors and relatives 
            who receive them with reverence.
            </P>
 
@@ -1239,7 +1239,8 @@ modalText.innerHTML = `
            First here we will speak of intra-city and inter-city public transportation in detail.
            </p>
           
-           <p> We will make a derivation of our Ra-H vehicle for Earthen public transportation in the form of 
+           <p>
+           We will make a derivation of our Ra-H vehicle for Earthen public transportation in the form of 
            a 15-passenger bus called Ra-E which can be used for full capacity mass public transport or 
            as a taxi for people going for special occasions. The Earthen Ra-E will normally use 
            hovercraft mode on the current roads and other paths and switch to wheelcraft mode and 
@@ -1247,9 +1248,11 @@ modalText.innerHTML = `
            hovercraft mode so wheels are needed. Traveling between cities can be done by using the 
            aircraft mode. These Ra-E vehicles will be capable of being the sole means of mass public 
            transport in cities and other habitations on Earth, replacing most current personal vehicles 
-           except for the pedal bicycle. </p>
+           except for the pedal bicycle.
+           </p>
 
-           <p> Presently, the few billion motorized personal vehicles on Earth are greatly the cause of all 
+           <p>
+           Presently, the few billion motorized personal vehicles on Earth are greatly the cause of all 
            kinds of needless pollution, noise, mishaps, crimes, Climate Change, social inequality, 
            disharmony and unsightliness. Many governments have tried to resolve this problem within 
            their countries or cities by taking half-steps like “Odd, even formula” ( allow on road the 
@@ -1258,7 +1261,26 @@ modalText.innerHTML = `
            simple fact that road traffic problems exist because of what causes the traffic - vehicles… in 
            particular personal vehicles.
            </p>
-           
+
+           <p>
+           About road mishaps, in India every year there are about 400,000 mishaps out of which 
+           about 150,000 people die and countless are maimed. These mishaps are mostly caused by 
+           presence of personal motor vehicles. In USA there are at least 40,000 people dying in these mishaps. 
+           In many other countries too, similar situation. This is genocide every year, caused by the personal vehicles industry. 
+           The middle class people of these societies who are usually quick to hate other societies' people 5000 kilometers away, 
+           despite those faraway people having done no harm to these middle classees, 
+           these middle classees just accept as part-of-the-day these genocides of fellow citizens 
+           caused by personal vehicles every year. But what can be expected of the middle classees 
+           who open the morning newspaper, see news of a student's suicide caused by the exams system 
+           and our middle classee gets bored and then sees news of a farmer who suicided because of being harrassed by 
+           usury-taking lenders and our middle classee will get more bored so will quickly move 
+           to the last two pages full of sports news and will spend 15 minutes avidly reading 
+           about the football world cup and the high cricket score attained by his favorite cricketer. 
+           This middle classee will of course own at least one personal vehicle and while driving it 
+           will not have a thought about the at least tens of thousands of road mishap deaths every year 
+           caused by personal vehicles such as his. But do we want all these yearly genocides on the roads ?
+           </p>
+
            <p>
            About Climate Change, there are regular COP summits of world leaders to supposedly discuss 
            Climate Change but these are mainly wine and dine events with vague promises of reduction of Climate Change 
@@ -1368,14 +1390,16 @@ modalText.innerHTML = `
            <p>
            Also is needless the obscene display of newly acquired wealth by celebs in form of 
            expensive personal motorcycles and sports cars. The contradiction of a celeb in Bombay cruising 
-           in a four crore rupees flashy orange open-top sports car, wearing expensive and huge dark glasses, 
+           in a four crore rupees flashy orange open-top sports car, wearing huge and expensive dark glasses, 
            passing by five-year-old boys and girls struggling to earn 50 rupees a day by selling 
            flowers, pens and washing the windscreen of the same four crore rupees sports car, 
-           and its newly-rich celeb owner waving away those boys and girls in irritation. This expensive 
+           and its newly-rich celeb owner waving away those boys and girls in irritation. Also, this expensive 
            car is just a personal road vehicle, not a spaceship which can take 100 people to Pluto, 
            and it is not a survivable vehicle for its celeb owner in case it gets into a road mishap, 
            so there should be no allure and aspiration attached to it, especially if it 
-           separates human from human through class system.
+           separates human from human through class system and doesn't provide safety to its owner 
+           and other riders in case of mishap and becomes a very expensive piece of twisted metal 
+           and expensive flames.
            </p>
 
            <p>
@@ -2634,9 +2658,11 @@ modalText.innerHTML = `
            power all our non-micro-sized products by sitting within them or just outside them. 
            It will produce 24 volts DC which is enough for most purposes, neither too low a current 
            nor dangerously high. Once started, this generator will be designed to continuously 
-           produce current for at least a month... this is the self-sustained part. For high voltage requirements 
-           we can externally connect this self-sustained generator to further amplifying systems like a motor-generator. 
-           Within the Faradn generator itself there are two very simple approaches we are considering in generating 
+           produce current for at least a month... this is the self-sustained part.
+           </p>
+           
+           <p>For high voltage requirements we can externally connect this self-sustained generator to further amplifying systems 
+           like a motor-generator. Within the Faradn generator itself there are two very simple approaches we are considering in generating 
            the initial low-voltage current before we amplify that current, clean it and provide it as the 24 volts DC output. 
            The two approaches are :
            </p>
@@ -2924,16 +2950,6 @@ modalText.innerHTML = `
            </p>
            
            <p>
-           The computer will operate on 24 volts DC as this higher voltage than in most current semiconductor-based electronics space systems, 
-           will be less affected by space radiation. Additionally, the computations and the other systems use sound also because sound 
-           is lot lot less affected by space radiation and temperature than semiconductor electronics, unless the radiation is so high 
-           that the sound producing elements, the sound transmitting channels, the sound computation chambers, sound receiving elements 
-           and other sound elements are physically deformed by the radiation. But of course, such high radiation will kill our wearable computer's 
-           wearer first despite every humanly possible protection, and the only use of such a system is recording such an event. Sound is also easier and 
-           cheaper to produce, receive and use in computation and storage than light ( optical computing and storage ).
-           </p>
-
-           <p>
            File system will be non-hierarchical and categories-recording.
            </p>
            
@@ -2959,12 +2975,22 @@ modalText.innerHTML = `
            peer-to-peer forwarding way. The wearable will be connectable to the current internet using
            bridge computers.
            </p>
+
+           <p>
+           The computer will operate on 24 volts DC as this higher voltage than in most current semiconductor-based electronics space systems, 
+           will be less affected by space radiation. Additionally, the computations and the other systems use sound also because sound 
+           is lot lot less affected by space radiation and temperature than semiconductor electronics, unless the radiation is so high 
+           that the sound producing elements, the sound transmitting channels, the sound computation chambers, sound receiving elements 
+           and other sound elements are physically deformed by the radiation. But of course, such high radiation will kill our wearable computer's 
+           wearer first despite every humanly possible protection, and the only use of such a system is recording such an event. Sound is also easier and 
+           cheaper to produce, receive and use in computation and storage than light ( optical computing and storage ).
+           </p>
            
            <p>
            There will be an associated home cinema system with a wall screen and multi-channel
            speakers.
            </p>
-          
+
            <p>
            On Earth this wearable computer will be used by our customers in parallel with their mobile
            phones and desktops, and in space will be the sole computers that our customers will carry
@@ -2975,7 +3001,7 @@ modalText.innerHTML = `
            A further development will be enabling disabled people to use the wearable.
            </p>
 
-           <h2>Also, the Dune Buk wearable is related to two other machines</h2>
+           <h2>The Dune Buk wearable is related to two other machines</h2>
                        
            <p>
            <span>(a).</span> Ra-D, a heater-equipped drone small enough to fit on top of the Dune Buk wearable
@@ -3056,8 +3082,8 @@ modalText.innerHTML = `
 
            <p>
            <span> >> </span> Engineered bacteria can be used to do mining and perhaps even construct useful matter from other existent
-           matter like asteroid rock. This will remove the need for a lot of mechano-chemical mineral processing factories and 
-           their attendant pollution and human physical labor. Examples of use :
+           matter like asteroid rock. This is the concept of bio-transmutation and will remove the need for a lot of mechano-chemical 
+           mineral processing factories and their attendant pollution and human physical labor. Examples of use :
            </p>
 
            <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> To get the helium gas which our Alef-A airships require 
@@ -3077,9 +3103,9 @@ modalText.innerHTML = `
            <p> 
            <span> >> </span> The previously described phenomenon of radiosynthesis has an interesting application for space which uses the idea 
            similar to the Astrophage bio-organism in Andy Weir's sci-fi book of 2021 called Project Hail Mary. This application is spaceship propulsion. 
-           The use of self-replicating bacteria which absorb / eat the different radiations in space, store those radiation energies like an 
-           electrical capacitor and can be made to release / discharge those energies in a single burst at extremely 
-           high energy levels just like an electrical capacitor discharge, and this high energy discharge by these 
+           The use of self-replicating bacteria which absorb / eat the different radiations in space, store those radiation energies internally 
+           like an electrical capacitor and can be made to release / discharge those energies in a single burst at extremely 
+           high energy levels just like a high-voltage electrical capacitor discharge, and this high energy discharge by these 
            bio-organisms can propel spaceships at very very high speeds. This mechanism can be used in association with our regular steam propulsion 
            where the bacteria give initial extremely high speed pushes to spaceships and then are not used and then the steam engines with their recoverable water mechanism, 
            are turned on to give continuous propulsion so that higher speeds are reached. Before water collection points in space, 
@@ -3126,7 +3152,8 @@ modalText.innerHTML = `
            in form of biologically enhanced biological humans to go to those places and also have good clothing against 
            those environmental conditions. This involves creating within humans the abilities for self-repair, 
            space-tolerance and enhanced strength. To get these abilities may require biological elements 
-           acting with non-bio nanomachines. It should be possible to thus increase continuous human life span to 2000 years at least. 
+           acting with non-bio nanomachines within the body. It should be possible to thus increase continuous human life span 
+           to 2000 years at least.
            </p>
 
            <p>
@@ -3147,9 +3174,9 @@ modalText.innerHTML = `
               </p>
           
              <p>
-             <span>(b).</span> A social problem largely via private profiteering and geopolitical interferences in the food
-             industry while so many people go hungry or die of hunger despite abundance of food. There 
-             are additional culture-dependent wastages of food.
+             <span>(b).</span> A social problem largely via tax on food, within-family feudalist unequal distribution of food, 
+             private profiteering by merchants and geopolitical interferences in the food industry. So many people go hungry or 
+             die of hunger despite abundance of food. There are additional culture-dependent wastages of food.
              </p>
              
              <p>
