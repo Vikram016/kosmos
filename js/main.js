@@ -526,14 +526,14 @@ modalText.innerHTML = `
            </p>
            
            <p>
-           Our friend Michael Faraday is the person whose experiments in electro-magnetism and electro-chemistry have 
+           Michael Faraday is the person whose experiments in electro-magnetism and electro-chemistry have 
            led to our modern world using electrical machinery whether the lamp, the motor car, 
            the washing machine or the cell phone. And he studied only till middle school 
            in terms of the modern assembly-line degree-based education system. 
            He was not at all a college graduate, let alone one with three post-graduate diplomas 
            including from a "management" course and subsequent years of experience in the corporate world. 
-           This means that those societies which place great multi-generational emphasis on college degrees and 
-           disrespect anyone not achieving those, must stop using electrical machinery 
+           This means many from those societies which place great multi-generational emphasis on college degrees, 
+           will disrespect anyone not achieving degrees, so they must stop using electrical machinery 
            because this field was forwarded by the “unschooled” Michael Faraday. 
            Stopping thus will be a principled stand. But will they ?
            </p>
