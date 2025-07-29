@@ -954,7 +954,8 @@ modalText.innerHTML = `
            and caused so many students to suicide over the years and pushed daily survival pressure 
            on the living low-marks students because they failed to obtain the socially compulsory high exam marks, 
            what have these societies achieved socially and technologically with the sacrifice of all 
-           these youth ? Especially if these societies continue to only use the techno systems created by people 
+           these youth at the altar presided by three gods - Competition, Fake Pride and Money Lust ?
+           Especially if these societies continue to only use the techno systems created by people 
            in other societies where high exam marks are not compulsory and indeed the techno creators were school dropouts 
            or like Michael Faraday not even completing ten years of schooling ?
            </p>
