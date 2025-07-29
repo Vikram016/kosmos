@@ -160,232 +160,20 @@ modalText.innerHTML = `
            <h2>The universe and human nations on Earth</h2>
            
            <p>
-               The universe has existed forever, much before some human scientists and academics foolishly
-               affixed an age to it on the basis of misguided mathematics i.e. the Big Bang Theory and now
-               there are two Big Bang theories. Space has existed before human nations existed on Earth,
-               in fact before Earth itself existed. The concept of Earthen Nations / Nation States
-               does not exist in Nature / Kosmos / Universe / Space and comes on Earth
-               from as recent as the French Revolution of the late 1700s which led to France becoming a
-               Republic which was meant to become citizen-governed with natural human freedoms as
-               against France previously being a typical kingdom governed by a supreme oppressive feudal lord.
-               We must look at this further to understand the non-kosmos basis of human nations.
-               </P>
-
-             <p>
-             The famous slogan "Liberty, Equality, Fraternity" which our organization uses
-             was produced in the struggle of the French masses in the late 1700s
-             against the feudal dominance of the kings and their queens where the kings considered themselves
-             appointed to eternal kinghood by God, by the God of Jesus Christ they claimed, 
-             but this is contradiction as Jesus was one of the greatest rebels, liberators and social reformers
-             of history whose God was not the oppressor which these kings of France were
-             and these kings were supported by priests, and priests were a class
-             opposed by Jesus, and the kings were also supported by merchants who took usury 
-             and profited in every form off the misery of fellow citizens. Such merchants also had 
-             been rebelled against by Jesus. And these three types of mutually-back-scratching self-appointed 
-             socially superior people in royal France lived grandly by walking on the backs of the ordinary French people. 
-             And these oppressed ordinary people were told to be grateful for being oppressed.
-             </P>
-
-             <p>        
-             The ordinary French citizen lived in multi-generational slum life in the cities
-             and in multi-generational serfdom in the villages and these poor citizens were taxed
-             all their life, for their succeeding generations, despite their so visible poverty
-             while the ruling royalty used those taxes to daily wine, dine and wear velvet and jewelry
-             whose single necklace cost more money than the money owned by a serf in ten generations.
-             The royalty and their associated lower feudals, profiteering merchants and the greedy priests
-             lived in well-defended mansions surrounded by vast, clean gardens
-             while the ordinary citizens lived in dirty urban slums and damp rural hovels
-             with ever present danger of raids by bandits and by fellow citizens driven by poverty
-             to loot. The ordinary people also had to enlist in the wars the kings waged 
-             and all these wars brought were more land for the kings to exploit, more gold and jewels 
-             for the kings treasury and death, maiming and famine for the ordinary French. 
-             The king ate the most luxuriously prepared dinners and the ordinary French endured 
-             famine with usually not even the basic bread.
-             </P>
-
-            <P>
-            Thus the intellectuals and the other passionate of France began discussing and rejecting
-            the anti-Nature and anti-human situation in their society and one of the final
-            sparks is said to be in the late 1700s when the frivolous and luxury-living queen, 
-            Marie Antoinette, was told by her courtiers that the ordinary citizens were facing famine
-            and that they didn't have the money and the simple access to basic bread
-            and the queen declared carelessly "Then let them eat brioches". 
-            Brioche is a French bread which is more expensive than the ordinary bread
-            because it has butter and eggs, which items were out of reach of the French masses who didn't not 
-            have even the simple bread and were suffering famine created by the French feudalism and its needless wars. 
-            The queen's uncaring remark of "Then let them eat brioches" was a rallying cry for the revolutionaries 
-            to finally remove the millennia-old royalty of France... the monarchy... 
-            and replace it with the people's republic where feudalism had been ended
-            as had been all the associated elements including the dominance of the profiteering merchants 
-           and these French revolutionaries gave humanity the clear humanist slogan "Liberty, Equality, Fraternity". 
-           Monarchy was replaced with Anarchy i.e. A-narchy i.e. the Nature-given freewill
-           of humans to not be ruled by monarchy, feudals, oppressors.
+           The universe has existed forever, much before some human scientists and academics foolishly
+           affixed an age to it on the basis of misguided mathematics i.e. the Big Bang Theory and now
+           there are two Big Bang theories. Space has existed before human nations existed on Earth,
+           in fact before Earth itself existed. The concept of Earthen Nations / Nation States
+           does not exist in Nature / Kosmos / Universe / Space and comes on Earth
+           from as recent as the French Revolution of the late 1700s which led to France becoming a
+           Republic which was meant to become citizen-governed with natural human freedoms as
+           against France previously being a typical kingdom governed by a supreme oppressive feudal lord.
+           We must look at this further to understand the non-kosmos non-natural basis of human nations.
            </P>
 
            <p>
-           This revolutionary French stream continued to the next century and in 1871 the French progressive pan-humanist 
-           Eugene Pottier wrote the song "The Internationale" which called for all wretched and hungry humans of Earth to arise 
-           and rebuild Earth with a clean slate where the oppression by the profiteers and the hollow promises 
-           of the priests promising divine salvation of the peasants and the heavy rule of the monarchs, 
-           all these have been cast aside by the peasants emancipating themselves and establishing 
-           throughout Earth a society of equals, collective welfare and true productivity, and human race 
-           becomes one harmonious people on whom the sun of freedom will at last shine. This song 
-           "The Internationale" later was adopted by various progressive pan-humanists across the world 
-           and in the context of our company based in India, this song was first translated into 
-           the Indian context by the poet Kazi Nazrul Islam in his native Bengali language, 
-           including in context of encouraging the Indian freedom fighters to continue rebelling 
-           against the then British colonial rule.
+           [ To be done ]
            </p>
-           
-           <P>But the humanist concept of Republic from revolutionary France became distorted
-           in the succeeding two centuries and the pan-humanist evocative song "The Internationale" sadly was 
-           made forgotten so now in 2025 the ideas of "Natural liberty, equality and fraternity among all humans"
-           has largely and sadly been replaced with "Unnatural and hatred-full divisions among humans who are divided into
-           kingdom-like nations and the hatreds between nations enforced by needless, forever wars".
-           </p>
-
-           <p>
-           The great Indian philosopher Rabindranath Tagore spoke against this hate-bringing divison of humanity into nations 
-           in his 1917 essay "Nationalism in India". He says that from childhood he had been taught that the idolatry of Nation 
-           is supreme than reverence for god and humanity but he outgrew that teaching and was 
-           convinced that his countrypeople will get the evolved society of their dreams by rejecting 
-           the education which teaches that a country is greater than the ideals of humanity.
-           </p>
-
-           <p>
-           To extend Tagore's idea, there is difference between patriotism and nationalism. 
-           Patriotism means inherent love for the oppressed, the innocent and the sensible of one's own society and 
-           wanting one's society to become gentle, empathetic, just, rights-filled, having all reasonable freedoms and evolved 
-           and having fraternity with the oppressed, the innocent and the sensible of all of humanity. 
-           Nationalism, in particular Ultranationalism, however is the opposite, narrow and contradictory concept which ignores the oppressed, 
-           the innocent and the sensible in one's own society and in fact maintains class-based and race-based hate and contempt 
-           for the oppressed, the innocent and the sensible in one's own society but has a strange hate for unknown people 
-           outside one's borders who have done them no harm.
-           </p>
-
-           <p>
-           It is often found that ultranationalism is most present in those societies which have class system 
-           and in these it is the middle class especially who indulges in this contradiction. The middle class person 
-           often employed in feudal organizations as a monthly wager, on his daily trip to and from his office, 
-           passes by the same homeless and hungry people on the footpath, but never stopping by 
-           to take a blanket, clothes and food to them, never even giving 20 dollars to them, 
-           never filling with tears when hearing that some of those homeless died of hunger 
-           that morning, never filling with sadness and a "What ???" when hearing that that homeless person lay hungry for three days, 
-           in full view of the road, and another middle class person brought luxurious food for five dogs 
-           on that same road, and then that hungry human died of hunger.
-           </p>
-           
-           <p>
-           But this same apathetic, monthly-wage middle class person is the first to scream war against a society 
-           5000 kilometers away where there are no homeless and hungry humans and no wage slaves because every human there is close 
-           to having all the natural freedoms due to humans who don't depend on wage from exploiting feudals and who don't 
-           have to struggle to take ungiving permissions of family elders just to love a person of the opposite gender... 
-           and our middle class person will call that humanist society a "rogue nation" that must be genocided 
-           so that "Democracy" can be brought there, LOL. And when that "rogue anti-democracy nation" is being genocided, 
-           our middle class person will continue to be a voluntary slave in his feudalist corporation, 
-           never speaking of democracy in his own feudal workplace he has worked for 30 years, and even seen 
-           his colleagues having their hands cut up by a machine but the bosses not caring, 
-           and then our middle class person will go on his third religious pilgrimage in five years and 
-           bring back "holy items" to give to his middle class office colleagues, neighbors and relatives 
-           who receive them with reverence.
-           </P>
-
-           <p>
-           Tagore further says in that 1917 essay that societies try to unite their citizens into one idea 
-           but he says that unless their internal oppressive contradictions and oppressive social customs are addressed and resolved, 
-           the societies will not unite and humanity in general will not unite. Tagore spoke of this 
-           in 1917 yet now in 2025, almost a century after his essay, most societies on Earth continue go counter to Tagore's 
-           appeal to reason and to pan-human liberty, equality and fraternity.
-           </p>
-
-           <P>
-           However, as per natural laws no human from one modern nation is automatically superior in the 
-           grandness of Universe / Kosmos / Space than a human from another modern nation. A socially-advantaged 
-           human from one modern “superpower wealthy nation” will be burned up in the Sun as easily as a 
-           money-poor human from another modern “superpower wealthy nation”... to believe otherwise is 
-           pointless arrogance. Some thoughtful space travellers who have gone to Earth orbit have 
-           spoken of seeing the Earth as a singular delicate blue world with no natural boundaries 
-           dividing nations, though to us adding here : with the exception of Australia and other island 
-           nations bounded by the seas but that is besides the point. It is then unwise to be fanatic 
-           ultranationalists in the kosmos when just the Sun can fit in itself a million Earths and the Sun being 
-           just a medium-sized star, and in reality the Sun instantly burning up those million Earths and 
-           all the nations within them and with them all of the eight billion people of Earth. 
-           A human is a tiny humble “zarra” / speck in the infinite Universe.
-           </p>
-
-          <P> Secondly, the human technological advancements of now and the social advancements 
-           have come from developments from people of various parts and cultures of Earth, whether 
-           those people acting individually or by group efforts and these people taking inspiration from 
-           elsewhere or even being helped by others. Even the French Revolution previously 
-           mentioned did not derive its idea in isolation but derived from philosophers from previous 
-           centuries and millenia from everywhere. For example, the Greeks of 2500 
-           years ago thought up the semi-democratic idea of Demokratia where many non-slave male 
-           citizens directly participated in the governance of their cities rather than kings and lower 
-           feudals doing it. And these Greeks themselves took some of their science ideas and social philosophies 
-           from Egypt and West Asia.
-           </p>
-           
-           <p>
-           Also, humans have mixed throughout history and this point becomes apparent
-           when we speak of those Demokratia Greeks sharing their era with another great liberator, Buddha, in South 
-           Asia / India, and when we speak of Buddha's ideas being preached later. The South Asian / Indian great emperor Ashoka
-           lived more than two centuries after Buddha. He was great not because he was an emperor
-           but because he used his position to advance the teachings of Buddha throughout South Asia / India and beyond.
-           Ashoka’s ancestry may have had cross-cultural connections because his grandfather the king Chandragupta Maurya
-           married a girl from Iran called Helena whose father was the Greek empire’s Greek governor of West Asia,
-           Seleukus Nikator. Helena’s mother was Irani. Helena was aged 15-17 and Chandragupta was 40 and 
-           it is said that both liked each other at first sight even though theirs was a political marriage 
-           proposed by Helena’s father. It is possible that Helena’s son by Chandragupta was 
-           Bindusara whose son was Ashoka so Ashoka may have had Greek and Irani genes. </P>
-
-           <P> To bring back the concept of trans-border progressive influences, in India
-           of the late 1700s, in the era of the French Revolution, the kingdom of Mysore in the region
-           of Deccan India was administered by Tipu Sultan who was an internationalist
-           inspired by the French Revolution and corresponded with the leader of revolutionary France, Napoleon Bonaparte.
-           Tipu is said to have established a Jacobin Club in his stronghold city of Srirangapatna,
-           for the benefit of Indians to discuss social change and replicate the ideas
-           of revolutionary France including in fighting against the British colonial rule.
-           </P>
-
-           <P>About technology, today we all humans use electrical machines every second and it was a Britisher
-           by name Michael Faraday living in the 1800s who enabled our modern use of electrical machines
-           by devising the mechanisms and understandings of electro-magnetism and electro-chemistry.
-           Going about 2000 years earlier than Faraday, the Greeks used an entirely mechanical machine to determine
-           astronomical positions and events like eclipses years in advance. This machine
-           is now called Antikythera Mechanism because one sample of this machine was found under
-           the waters off the Greek island of Antikythera in 1901. This mechanical machine is considered
-           the earliest analog computer and used the lunar calendar from Ancient Egypt possibly dating back a thousand years
-           previous to the devising of this machine, which means more than 3000 years previous
-           to our present modern age.
-           </p>
-           
-           <p>
-           Jumping back to the modern age, in India between the 1850s and 1930s 
-           lived the "polymath" Jagadish Chandra Bose... a man interested in many sciences including humane social conduct.
-           He was the first to investigate microwave radiofrequency and made great discoveries
-           in botany and among his researches living now is our modern telecom including the everywhere-present
-           cell phone. He treated other humans in an equal manner, whether they be
-           of "lower caste" or of other religions, and he was against the patent system
-           so in today's terms he can be called part of the earlier Open Source Knowledge movement
-           that benefits all of Earth.
-           </P>
-
-           <p>
-           So it will be irrational, immoral and ungrateful for a group from Earth to claim national or 
-           cultural exclusive superiority on Earth and act in an ultranationalist way while not 
-           acknowledging the shared history of humanity and not acknowledging their benefiting of  
-           social philosophies and technologies that may have had origins elsewhere on Earth.
-           </p>
-
-           <P> It is then natural, rational, automatic and moral to expect that space be a place of a united 
-           humanity instead of carrying the needless artificial hates and divides on Earth. The 
-           timelessly existent space and space objects should not be divided up by humans by way of 
-           selective ownerships by Earthen nations and not be introduced with militarization to defend 
-           those selective ownerships against other humans. We should not allow the nationalist 
-           bickerings and tragedies on Earth to be carried over into Space. Space should be the 
-           peaceful exploration medium, mining place and settlement place of a collective humanity 
-           under a truly democratic framework. National boundaries are artificial but human fraternity is 
-           natural.</p> 
 
            <h2>Natural equality in accessing space and living in space</h2>
            
@@ -749,260 +537,7 @@ modalText.innerHTML = `
            because this field was forwarded by the “unschooled” Michael Faraday. 
            Stopping thus will be a principled stand. But will they ?
            </p>
-
-           <p>
-           Furthering the above, the system of education in space should not have exams and the consequent result 
-           of exams which is either a degree or the person being declared a failure even if 
-           he or she is naturally brilliant. In most societies the presence of a college degree or 
-           its lack or low marks on the degree, place the citizens in various artificial social classes not different 
-           from the classes in earlier feudal societies. A degree holder is allowed into the next series 
-           of social competition which is interviews for wage slave employment. A lack of college degree 
-           or less marks on the degree place that person in more difficult situations than the person 
-           with degree, but such societies are ruthlessly competitive for most citizens, with or without degree.
-           </p>
-
-           <p>
-           The concept of college degree goes back more than 1100 years. The first educational institution to grant degrees 
-           was the university in Qayrawan in present-day Morocco, established in 859 AD by Fatima al-Fihri 
-           and this degree-granting act is the only mistake in nearly a thousand years of the Islamic Golden Age which otherwise 
-           was a glorious period and was the main contribution for Europe to have the the Enlightenment and the subsequent 
-           Industrial Revolution. However, that unthoughtfulness by Fatima in her university in Ifriqiyya / Africa in 859 AD, 
-           of starting the concept of college degree, has resulted in billions of people now having to suffer because of 
-           the wrong things the degree system brought : needless competition, money greed, feudalism, hurry-burry, student suicides, 
-           murders, life-long wage-dependent slavery and dashed dreams. Fatima was a thinker certainly but she should have thought more and discussed.
-           </p>
-
-           <p>
-           Competition is the enemy of harmonious society and removes dignity from a human, 
-           reducing that human to very less of his or her potential, who must constantly fight 
-           with other forcibly-made sub-humans for survival. Resources which should be naturally available for all equally without tax, 
-           these resources are artificially made scarce in most societies and most citizens there 
-           must compete with each other daily to have a little part of the resources.
-           </p>
-
-           <p>
-           This competition involves apathy, cruelty and mob-thinking where in a few societies, parents are ready to murder 
-           their own children for fake pride and money greed and prevent their own socio-economic boycott 
-           or at least prevent social mockery which happens because the children do something which goes against 
-           the popular continued anti-human beliefs of that society including the children just wanting to 
-           joyously appear in a music video or drop out of the so-called education system or wanting to start 
-           an intellectual company truly useful to humanity or just love a person of the opposite gender.
-           </p>
-
-           <p>
-           The above high crimes against humanity are called "honor killings" and happen despite those societies 
-           sometimes having progressive and humanist founders decades ago who wrote gentle and rights-giving constitutions 
-           which declared the responsibility upon the citizen to have a rational, humanist, scientific temper and 
-           inculcate pan-human fraternity. The "honor killings" happen now in 2025 because the parents of 
-           these murderer parents did not join their contemporary progressives in changing their society 
-           to the declared global and local calls for "Liberty, Equality, Fraternity" but instead robotically obeyed their own 
-           non-sensible parents and joined competition-based so-called education system and then joined competition-based wage employments 
-           and wasted their human potential and contributed every bit to the needless social disharmony and injustice which 
-           their present-day generations are having the needlessly endure.
            
-           <p>
-           In these societies a dog may have more respect than a human because the nature of the dog is cruelty, chaos-making, mob-joining and 
-           mindless killing and not gentleness, empathy, intellectuality and far-sightedness. In societies 
-           filled with daily competition, the competiting mobs have no place for gentleness and empathy.
-           </p>
-
-           <p>
-           Techno progresses that happen worldwide will find usage also in these competition-filled 
-           societies but only because they redirected use of it in competitions, like "edtech" and "fintech" companies, 
-           and this only leads to the unreasonable acceptance of one citizen trying to find 
-           a little progress by stepping on the head of another citizen instead of walking side by side.
-           </p>
-
-           <p>
-           In the context of our company being based in India, India has good progressive streams since Buddha, 
-           including progressive songs. In 1936 in the India of the British Raj times, the All-India Progressive Writers'  
-           Association was formed and one later prominent member was Abdul Hayee, who became known in 
-           Hindi cinema as Sahir Ludhianvi. He composed many songs for Hindi cinema and one progressive, questioning 
-           and immortal song is from the 1957 film Pyaasa. The song has these start lines :
-           </p>
-
-           <p>
-           "Ye mahalon, ye takhton, ye taajon ki duniya,
-           </p>
-           
-           <p>
-           ye insaan ke dushman samaajon ki duniya,
-           </p>
-
-           </p>
-           ye daulat ke bhooke rawaajon ki duniya,
-           </p>
-
-           <p>
-           ye duniya agar mil bhi jaaye toh kya hai".
-           </p>
-
-           <p>
-           Which in English means :
-           </p>
-
-           <p>
-           "This world of palaces, thrones and crowns,
-           </p>
-           
-           <p>
-           where social constructs are enemies of humans,
-           </p>
-           
-           <p>
-           societies filled with traditions which promote greed for money,
-           </p>
-           
-           <p>
-           what will we gain if we gain such a world"
-           </p>
-
-           <p>
-           This daily situation described in 1957 continues now in 2025 and can only be called 
-           a "rat race" or "dog-eat-dog" and continues for generations. 
-           However, in these societies those who have established themselves as feudals, 
-           they do not participate in these daily competitions as the resources are available to them very easily, 
-           in any quantity they want. It is the middle class and the still lower class 
-           who must participate in these daily competitions.
-           </p>
-           
-           <p>This creates low-trust societies full of aggression, injustice, inequality, crime and chaos 
-           where gentleness, honesty, selflessness, empathy, innovation and evolution are discouraged. 
-           When citizens daily keep competing with each other, they neither have time to reflect, think and innovate, 
-           nor will they have the inclination to collaborate with fellow citizens for any thoughtful thing. These societies become dystopia instead of utopia.
-           </p>
-
-           <p>
-           In such a situation a student's progress through the assembly-line education system and 
-           then into competition-based wage employment is decided by that student's ranking in exams. 
-           This system has been there for a long time but is contradictory to Nature. 
-           All that the high marks scored by a student shows is his or her ability to memorize the textbooks 
-           and reproduce those texts in the exam in a much better way than his or her student colleagues.
-           </p>
-
-           <p>
-           In India there is the archetype of the "soda glass" wearing male student. 
-           "Soda glass" is the Indian name given to high-power spectacles mostly worn by male students 
-           who score high marks in exams, are "gold medalists" in exams and prepare for exams 
-           religiously by memorizing the text books through many nights in addition to days. The 
-           "soda glass" student is present in every high-competition society like Pakistan, China, Japan
-           and South Korea. But how many of these "soda glass" students have been known to create novel technologies 
-           for humanity and proposed simple, scientific and natural social ideas ?
-           </p>
-
-           <p>
-           Exam marks do not show some student's great intelligence or the lack of intelligence. A student may simply be bored of 
-           the competition-based, non-innovative and non-empathy-teaching education 
-           in the classroom but may be exceptionally talented in painting or technology creation or
-           may be a budding philosopher whose gentle thoughts at the age of 13 are better than an 80-year-old "elder". 
-           He or she may have ideas far superior to the school textbooks and to the teachers 
-           who have for 30 years been teaching those textbooks.
-           </p>
-
-           <p>
-           The few humanist social ideas presented in the textbooks and the few simple science principles 
-           presented in the textbooks are made by the mediocre teachers to be declared "boring" by the students 
-           and no true intellectual discussions happen in the classrooms so neither the teacher becomes 
-           a true teacher nor the student comes out of the schooling system to create good ideas 
-           and technologies and forward the good ideas of the past, for example even a society's brilliant constitution 
-           created in the past by humanist philosophers and social reformers who spoke for 
-           "Liberty, Equality, Fraternity", will remain unadopted by the daily competing students of the classrooms 
-           and they will adopt neither of those three requirements for a fulfilled human 
-           and will not participate in creating an ideal humanity as a race. So these highly competitive 
-           students unfortunately become non-productive members of local society and of humanity.
-           </p>
-
-           <p>
-           A high-marks student scoring 600 marks out of 600 and studying in a "prestigious school" 
-           may be mediocre in real intelligence but a student who has failed in some exam in the same school 
-           may go on to create great social and technological ideas and products and companies 
-           and funnily his or her student colleague who scored 600 marks out of 600 and is proud of that fact 
-           and uses that fact in arrogance and insults low-marks students, and his or her family being also proud of that fact, 
-           this high-marks student may approach in a humble way for employment in the company started 
-           by his or her former student colleague who had failed in the same exam the approacher student had stood first in.
-           </p>
-
-           <p>
-           We must ask, was Buddha a high-marks student in a social work program in some 
-           "prestigious management college" because of which he made his humanist realizations ?
-           In that case why are the hundreds of millions of high-marks students now not making those realizations 
-           2500 years after Buddha and they instead maintain a personality of cruelty and mediocre intelligence ?
-           </p>
-
-           <p>
-           We must ask, was it high exam marks in a college aerospace program which made the Frenchman Henri Giffard 
-           fly the first powered and steerable airship in 1852 ? If so why are 99 percent of the at least 100,000 aerospace students 
-           in the world now having high exam marks not making innovation in aircraft science but 
-           are very mediocre and their only noteworthy achievement is appearing in their 
-           college's yearly new-students-inviting advertisement, showing them flying 
-           a purchased commercial quadcopter drone and the joy on their faces as if they are the 
-           first humans to land on the planet Pluto ?
-           </p>
-           
-           <p>
-           Three students sitting on the same classroom bench may declare themselves to be friends but every day they compete 
-           with each other so that in the exams they can have more exam marks than the other. 
-           Their friendship then is not true friendship and this fact becomes more apparent when 
-           some student suicides because he or she wasn't allowed to write an exam but that student's classmates 
-           including his or her friend on the same bench, don't protest against the needless 
-           suicide of their friend and don't call for removal of the exams system. 
-           A system of competition doesn't create loyalty and fraternity.
-           </p>
-           
-           <p>
-           So we must ask, the societies which have competition in their education system 
-           and caused so many students to suicide over the years and pushed daily survival pressure 
-           on the living low-marks students because they failed to obtain the socially compulsory high exam marks, 
-           what have these societies achieved socially and technologically with the sacrifice of all 
-           these youth at the altar presided by three gods - Competition, Fake Pride and Money Lust ?
-           Especially if these societies continue to only use the techno systems created by people 
-           in other societies where high exam marks are not compulsory and indeed the techno creators were school dropouts 
-           or like Michael Faraday not even completing ten years of schooling ?
-           </p>
-
-           <p> All that these exams-based education systems have created is adding to existing class systems where high-exam-marks 
-           students are made socially superior and the low-marks students are made inferior, disregarding the anti-human, anti-Nature and 
-           senseless basis of this... disregarding the large lack of innovation from the "soda glass" high-exam-marks people... 
-           disregarding the large contribution of the low-exam-marks people... disregarding that so many techno and social philosophies and 
-           developments happened hundreds of years or thousands of years before the modern assembly-line education systems and 
-           by people who were engineers and philosophers in a self-taught and self-realizing manner.
-           </p>
-
-           <p>
-           Then there is the system of "scholarships" where first the education system is taxed 
-           heavily instead of being free and then there is created an artificial scarcity 
-           of colleges and thus within them a limited number of students for a class per year, 
-           and these limited positions in a class are called "seats". Most students are forced to pay 
-           these heavy education taxes and largely fill up those limited "seats" and those who still 
-           cannot pay because of grave poverty, they are told to fulfill some criteria to be able to obtain 
-           that scarce "seat" in a college, either free or for a lesser fee. This criteria is called "scholarship" 
-           and many times involves writing a special exam to be achieve the highest possible marks 
-           and win that lottery "scholarship". In many societies there is a surplus of youth and they are forced 
-           through the competitive-education grind and these many youth become in a race to win the 
-           coveted "scholarship" lottery. So there is an exam to get into a program where every few months 
-           there are more exams and then at the end of three years or four years there is a final exam 
-           which ultimately decides a student's social position and his or her wage employment prospects.
-           </p>
-
-           <p>
-           The simple question about "scholarships" is : Why can't the education system have 
-           lot more colleges so that there is no desperate push-and-pull of the students every year 
-           trying to get into a few colleges ? The scarcity of the colleges is artificial, there is no 
-           reason the society cannot build more colleges. There are many societies with so many prayer houses, 
-           so why can't there be as many colleges ? Surely the concrete and the iron doesn't miraculously vanish 
-           when more colleges are decided to be built.
-           </p>
-
-           <p>
-           Therefore the education system in Nature's Kosmos and on Earth should not be taxed and 
-           should abolish exams and the associated "scholarships" system. Surely these is no civilization from the planet Pluto 
-           holding these things to our head. Surely these abolitions are very simple. Every society 
-           on Earth has so much potential and thus the combined potential of humanity to be a gentle, observant 
-           and extremely intelligent culture in the exploration and settlement of the kosmos in the now 
-           and in the far far future. Let use not lose this glorious future by involving in unpleasant 
-           and self-defeating things.
-           </p>
-
            <p>
            [ To be done ]
            </p>
@@ -1028,13 +563,7 @@ modalText.innerHTML = `
            and other activities. The one-way communication time itself may be from about a second ( 
            the Moon ) to 13 minutes ( Red One ) to many many hours, and these delays just within the 
            Solar System.
-           </p>
-           
-           <p>
-           Education in space can also be about the continued education of people 
-           who have arrived from Earth or those younger humans born in space. For both 
-           is true the idea that education is life-long learning.
-           </p>
+           </p>         
 
            <p>
            [ To be done ]
@@ -1126,7 +655,7 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";><span>(e).</span> The construction materials for the Mirkeen-01 base, ground vehicles etc 
            will be partly materials carried from Earth in our Alef-A airship-spaceships and partly local materials as 
-           per application ( ISRU - In Situ Resource Utilization ). The ground vehicles will be our Ra-H 
+           per application ( ISRU - In Situ Resource Utilization ). The ground vehicles will be our Ra-K 
            vehicles.</p>
 
            <p style="margin-left:1em; margin-bottom:10px";> <span>(f).</span> The social organization system of the Mirkeen-01 base will be the points from the rest of 
@@ -1241,7 +770,7 @@ modalText.innerHTML = `
            </p>
           
            <p>
-           We will make a derivation of our Ra-H vehicle for Earthen public transportation in the form of 
+           We will make a derivation of our Ra-K vehicle for Earthen public transportation in the form of 
            a 15-passenger bus called Ra-E which can be used for full capacity mass public transport or 
            as a taxi for people going for special occasions. The Earthen Ra-E will normally use 
            hovercraft mode on the current roads and other paths and switch to wheelcraft mode and 
@@ -1267,19 +796,7 @@ modalText.innerHTML = `
            About road mishaps, in India every year there are about 400,000 mishaps out of which 
            about 150,000 people die and countless are maimed. These mishaps are mostly caused by 
            presence of personal motor vehicles. In USA there are at least 40,000 people dying in these mishaps. 
-           In many other countries too, similar situation. This is genocide every year, caused by the personal vehicles industry. 
-           The middle class people of these societies who are usually quick to hate other societies' people 5000 kilometers away, 
-           despite those faraway people having done no harm to these middle classees, 
-           these middle classees just accept as part-of-the-day these genocides of fellow citizens 
-           caused by personal vehicles every year. But what can be expected of the middle classees 
-           who open the morning newspaper, see news of a student's suicide caused by the exams system 
-           and our middle classee gets bored and then sees news of a farmer who suicided because of being harrassed by 
-           usury-taking lenders and our middle classee will get more bored so will quickly move 
-           to the last two pages full of sports news and will spend 15 minutes avidly reading 
-           about the football world cup and the high cricket score attained by his favorite cricketer. 
-           This middle classee will of course own at least one personal vehicle and while driving it 
-           will not have a thought about the at least tens of thousands of road mishap deaths every year 
-           caused by personal vehicles such as his. But do we want all these yearly genocides on the roads ?
+           In many other countries too, similar situation. This is genocide every year, caused by the personal vehicles industry.
            </p>
 
            <p>
@@ -1428,21 +945,6 @@ modalText.innerHTML = `
            personal vehicle is someone respectworthy who is superior to the poor person having to pedal a 
            bicycle or even walk long distances.
            </p>
-           
-           <p>
-           Such misguided classist thinking is especially within the middle class 
-           who not only largely refuse to agitate for the rights of their money-poor co-citizens 
-           but also work all their life to hold up the feudals in power. But the middle class 
-           does not realize that they holding the poor people in contempt does not prevent 
-           the rich class from holding the middle class in contempt. Personal vehicles play a big role 
-           in maintaing this needless class dynamic. And it is often found that this middle class 
-           who are most uncaring of their poorer co-citizens and will feed dogs 20 feet away 
-           from a hungry human, they are the first to be ultranationalists who vent needless hate and war sentiment 
-           against the citizens of other countries even 5000 kilometers away and living a serene life 
-           in their progressive societies. It can be said that a lot of this uncaring, apathetic, cruel  
-           and ultranationalist middle class is less a society and more a mob. And this mob 
-           is so unaware about the harm their personal vehicles bring to their society and to Earth.
-           </p>
 
            <p>
            All these experiences caused by personal vehicles directly and indirectly, 
@@ -1455,7 +957,11 @@ modalText.innerHTML = `
            acknowledging that part of these problems exist because of the existence of personal vehicles 
            and will be solved with the simple act of abolishing personal vehicles with the exception of the simple pedal bicycle. 
            Sometimes the problems are social so the solutions must be social but also must be supplemented with 
-           technological solutions. The act of abolishing personal vehicles is social and our organization 
+           technological solutions.
+           </p>
+           
+           <p>
+           The act of abolishing personal vehicles is social and our organization 
            will provide the technological solution to supplement this social act. So the few billion personal vehicles 
            across Earth that are abolished must be replaced with a few hundred thousand public mass transport vehicles 
            which are not only cheaper to build, not only provide a universal solution, not only are aesthetic but also are 
@@ -1465,7 +971,7 @@ modalText.innerHTML = `
            
            <p>
            Our solution is our Ra-E bus which is a hybrid vehicle of hovercraft-wheelcraft-aircraft type, 
-           deriving from our used-in-space Ra-H vehicle, and each Ra-E will carry 15 passengers and a few hundred thousand 
+           deriving from our designed-for-space Ra-K vehicle, and each Ra-E will carry 15 passengers and a few hundred thousand 
            of our Ra-E buses combined all over Earth will resolve all those above listed transportation-related direct problems 
            and indirect problems.
            </p>
@@ -2583,7 +2089,7 @@ modalText.innerHTML = `
          </p>
 
          <p>
-         05. Ra-H hovercraft-wheelcraft-aircraft.
+         05. Ra-K hovercraft-wheelcraft-aircraft.
          </p>
 
          <p>
@@ -2794,18 +2300,18 @@ modalText.innerHTML = `
             worlds like the Moon or Red One.
             </p>
            
-             <h2> Ra-H hovercraft-wheelcraft-aircraft </h2>
+             <h2> Ra-K hovercraft-wheelcraft-aircraft </h2>
            
            <p> 
            The name of this vehicle comes from the name Ra who was the supreme ancient Egyptian
            god who had the head of a cat and the body of a man - a hybrid. Other than the dedication to
-           cats the name is also because this Ra-H vehicle is a hybrid vehicle as below. And the “H” is
-           because it will carry humans in space environments in contrast to our other Ra hybrid
+           cats the name is also because this Ra-K vehicle is a hybrid vehicle as below. And the “K” is
+           because it will carry humans in kosmos / environments in contrast to our other Ra hybrid
            machines which are described in further sections. 
            </p>
            
            <p>
-           Ra-H will be universal on-world vehicles to carry humans and small cargo on large space
+           Ra-K will be universal on-world vehicles to carry humans and small cargo on large space
            bodies, whether air-having or airless. They will carry three spacesuited humans in a
            medium-sized pressurized cabin and behind the cabin will be an airlock to the outside. On
            top of the vehicle will be a closable cargo box which can hold 500 kilograms. There will be a
@@ -2853,11 +2359,11 @@ modalText.innerHTML = `
            </p>
            
            <p>
-           This craft can be put in semi-autonomous mode so that a Ra-H carrying people is in front
-           and there is a train of non-peopled Ra-Hs behind carrying cargo in the top cargo box, and
-           each behind Ra-H connected to the forward Ra-H using signals-carrying fiber optic cables.
-           The behind Ra-Hs will use hovercraft mode or wheelcraft mode or aircraft mode based on
-           the directions sent from the first people-carrying Ra-H.
+           This craft can be put in semi-autonomous mode so that a Ra-K carrying people is in front
+           and there is a train of non-peopled Ra-Ks behind carrying cargo in the top cargo box, and
+           each behind Ra-K connected to the forward Ra-K using signals-carrying fiber optic cables.
+           The behind Ra-Ks will use hovercraft mode or wheelcraft mode or aircraft mode based on
+           the directions sent from the first people-carrying Ra-K.
            </p>
            
            <p>
