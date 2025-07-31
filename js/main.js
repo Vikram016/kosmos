@@ -135,8 +135,8 @@ modalText.innerHTML = `
         
            <p> 
            We present a draft of a progressive pan-humanist manifesto for the kosmos 
-           i.e. for all humans going and living in the universe / space and hopefully this manifesto 
-           finding adoption on Earth. We want through this manifesto draft a harmonious unity of
+           which is for all humans going and living in the universe / space and hopefully this manifesto 
+           finds adoption on Earth. We want through this manifesto draft a harmonious unity of
            humankind in space, removed of all the artificial unpleasantnesses and tragedies that
            humans do or endure presently on Earth.
            </p>
@@ -194,7 +194,7 @@ modalText.innerHTML = `
            constructs which are doing this preventing and not the universe through some celestial messaging 
            where the universe allows into it only the moneyed and the other unfairly privileged and this 
            celestial messaging being witnessed by the first two humans in space, 
-           Yuri Gagarin and Gherman Titov and then every human traveler afterwards. The kosmos knows 
+           Yuri Gagarin and Gherman Titov and then every human traveler afterwards. But he kosmos knows 
            neither money nor rank.
            </p>
                        
