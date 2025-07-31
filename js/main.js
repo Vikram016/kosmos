@@ -190,12 +190,12 @@ modalText.innerHTML = `
           picked by the very few sponsored-trip space programs in a lottery 
            system and this does not come true for almost all. </p>
 
-           <p>Other people simply don’t have a chance and this is unfair as it is only human social 
-           constructs which are doing this preventing and not the universe through some celestial messaging 
-           where the universe allows into it only the moneyed and the other unfairly privileged and this 
-           celestial messaging being witnessed by the first two humans in space, 
-           Yuri Gagarin and Gherman Titov and then every human traveler afterwards. But he kosmos knows 
-           neither money nor rank.
+           <p>
+           Other people simply don’t have a chance and this is unfair as it is only human social 
+           constructs which are doing this preventing and not the universe through celestial messaging 
+           where the universe displays an "Only allow them" list in Earth's night sky every night 
+           where the list shows names of only the moneyed and the other unfairly privileged. But in truth 
+           the kosmos knows neither money nor rank.
            </p>
                        
            <p>
@@ -1459,7 +1459,7 @@ modalText.innerHTML = `
              their sweat, sleepless nights and risk of serious injury or death !!! All they are 
              allowed to do is clap in the control rooms whose screens show the launches of those 
              space systems taking to space the rich and the other privileged. A ridiculous and 
-             undemocratic situation just like two other situations in the “Democratic World” :</p>
+             undemocratic situation just like three other situations in the “Democratic World” :</p>
            
              <ul>
              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> The poor daily-wage 
@@ -1477,6 +1477,13 @@ modalText.innerHTML = `
              sports stars speak about global issues like Climate Change, techno-feudalism and the traditional 
              feudalism in the cities and the villages which includes the wrongs against farmers, white-collar
              workers, students, daily-wagers and women.</li>
+
+             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Feudals who make billions of dollars 
+             every year by selling products and services to the masses where these products and services should be naturally 
+             available for free, and then these same feudals holding the masses in contempt despite having made their billions 
+             from these same masses.
+             </li>
+             
            </ul>
            
            <h2>The techno-social restrictions coming together</h2>
