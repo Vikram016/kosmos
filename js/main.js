@@ -136,7 +136,7 @@ modalText.innerHTML = `
            <p> 
            We present a draft of a progressive pan-humanist manifesto for the kosmos 
            which is for all humans going and living in the universe / space and hopefully this manifesto 
-           finds adoption on Earth. We want through this manifesto draft a harmonious unity of
+           finds adoption for Earth too. We want through this manifesto draft a harmonious unity of
            humankind in space, removed of all the artificial unpleasantnesses and tragedies that
            humans do or endure presently on Earth.
            </p>
@@ -736,9 +736,9 @@ modalText.innerHTML = `
           
            <p>
            While looking for alien life or encountering them by chance, we must acknowledge the 
-           general idea that ultimately we and every kind of life origined within dying stars and maybe 
-           within the dust around stars and maybe the gas clouds in free space, so in a sense 
-           pan-universe fraternity.
+           general idea that ultimately we and every kind of life origined maybe within dying stars and 
+           within the dust around stars and maybe the gas clouds in free space, we must develop 
+           pan-universe fraternity though subject to those lifes having or not having beauty and gentleness.
            </p>
           
            <p>
@@ -810,20 +810,25 @@ modalText.innerHTML = `
            </p>
 
            <p>
-           Building flyovers in cities has only made the unthinking public to purchase even more personal vehicles 
+           To manage traffic, in some cities the city municipal corporations build flyovers but this is senseless 
+           as building flyovers only makes the unthinking public to purchase even more personal vehicles 
            to the extent that many families have at least two vehicles for no other reason than to display their 
-           middle class new-pseudo-rich wealth with the result being that in some cities there are now at least 
-           five million personal motor vehicles. Putting metro lines has also not caused the public to 
-           stop using their personal vehicles and take personal responsibility to contribute to create serenity, cleanliness, 
-           much reduced pollution and remove social inequality in their cities.
+           middle class new-pseudo-rich wealth and the result is that in some cities there are now at least 
+           five million personal motor vehicles. In the city of Bangalore the vehicle population is more than its 
+           human population.
            </p>
-           
+
            <p>
-           Additionally, the metro lines have only led to narrowed roads leading to funnel effect on the roads 
-           and thus chaos and of course contributing to more pollution because of the production of cement, iron and other materials 
+           Putting metro lines has also not caused the public to stop using their personal vehicles and take personal responsibility 
+           to contribute to create serenity, cleanliness, much reduced pollution and remove social inequality in their cities. 
+           On the contrary, the metro lines have only led to narrowed roads leading to funnel effect on the roads 
+           and thus doubled chaos and of course contributing to more pollution because of the production of cement, iron and other materials 
            needed in the construction of the metro infrastructure, added with the petro fuel pollution because of the 
-           vehicles involved in the construction of the metro infrastructure. Thousands of personal vehicles 
-           continue to be purchased every day in the cities with metro lines. Flyovers and metro lines 
+           vehicles involved in the construction of the metro infrastructure.
+           </p>
+
+           <p>           
+           Thousands of personal vehicles continue to be purchased every day in the cities with metro lines. Flyovers and metro lines 
            are problems which add to the existing problem caused by personal vehicles.
            </p>
 
@@ -838,51 +843,50 @@ modalText.innerHTML = `
            Further problems are the disharmony and unsightliness caused by personal vehicles parked 
            on roads in residential areas and public areas. Residents have to engage in quarrels with 
            personal vehicle owners who park their vehicles in front of someone’s house gate or these 
-           vehicles creating obstruction on the roads and the vehicles parked on footpaths thus 
-           blocking citizens from using the footpaths, leading to potential mishaps for the citizens 
-           having to walk on the road and getting hit by vehicles coming from front or back. Personal 
+           vehicles creating obstruction on the roads. Many times vehicles are parked on footpaths thus 
+           blocking citizens from using the footpaths and forcing them to walk on the road, leading to potential mishaps 
+           for the citizens by getting hit by vehicles coming from front or back. Personal 
            vehicles also clog public areas whether by being parked haphazardly in front of shops or 
            other public establishments or in squares or just clogging the roads whether they are parked 
            or running.
            </p>
            
            <p>
-           In many societies the citizens using personal vehicles use the horn needlessly as if the vehicles 
+           In some societies the citizens using personal vehicles use the horn needlessly as if the vehicles 
            in front will take off like aeroplanes on hearing the horn from behind.
            </p>
 
            <p>
            A great problem is many people, especially misguided males, purchasing big and noisy personal vehicles including 
-           both cars and motorcycles. There are some motorcycles which make very loud and 
+           both cars and motorcycles. There are some motorcycles which make very loud, 
            heart-piercing thumping sounds as they pass by people, terrorizing those people and possibly causing 
            health problems to those people. The motorcycle has been one of humanity's most idiotic inventions, 
            like the lithium-ion battery and of course money. The motorcycle is a danger to the riders and to those it passes by. 
-           It is easy to understand that such loud-thump motorcycle owners want to intimidate those they pass by, 
+           Most times the loud-thump motorcycle owners want to intimidate those they pass by, 
            especially with the modern fashion of such riders adopting an aggressive look. 
-           This situation is unacceptable in any society which desires serenity and harmony.
+           This situation is unacceptable for any society with even a miniscule amount of intellectuals 
+           who desire serenity and harmony.
            </p>
 
            <p>
            In many cases these riders want to appear "tough and manly" because in their real life 
            they will be wage slaves in some feudal corporation, not daring to talk back to their oppressive bosses 
            much less willing to help their co-worker in the next workstation who is being oppressed 
-           by the company management. In other cases such motorcycle riders are socially powerful 
-           in the local context and their big and loud motorcycle, sometimes ridden with dark glasses, 
-           is meant to instill artificial respect in the masses being passed by. Some other men who ride 
-           these loud-thumpers are decent people but just caught up by the propaganda surrounding such vehicles.
+           by the company management.
            </p>
 
            <p>
-           Then there is the unfortunate situation of misguided youth filling into big cars 
-           like the SUVs and driving out in convoys with the youth hanging out of the windows and 
-           shouting and making themselves a nuisance. Many times these convoys create danger of 
-           mishaps for themselves and for the others on the road. These youth should realize 
-           that they are being anti-social and so cringey.
+           In other cases such motorcycle riders are socially powerful in the local context and their big and loud motorcycle, 
+           sometimes ridden with dark glasses, is meant to instill artificial respect in the masses being passed by.
+           </p>
+
+           <p>
+           In a few cases, men who ride these loud-thumpers are decent people but just caught up by the propaganda surrounding such vehicles.
            </p>
 
            <p>
            Then is the modern fashion of the new-pseudo-rich middle class in some societies 
-           going on long motorcycle trips including to serene and pristine nature spots and 
+           riding heavy motorcycles on long trips including to serene and pristine nature spots and 
            creating disharmony and pollution there. Sometimes there is an entire gang of such 
            motorcycle trippers. An unfortunate effect is some women riding these heavy long-trip motorcycles 
            where in their misguided understanding they have achieved gender emancipation by riding 
@@ -890,11 +894,20 @@ modalText.innerHTML = `
            However, not only should men not ride these cringey and dangerous heavy motorcycles 
            but when these women return from their heavy-motorcycle riding trips they return to societies 
            which remain unchanged for them as women. Additionally, these women lose their feminineness by riding 
-           these heavy motorcycles.
+           these heavy motorcycles in addition to this act seeming as cringe as a woman tottering 
+           on high heels.
            </p>
 
            <p>
-           There is also the sad situation of the middle class and the rich enclosing themselves 
+           Then is the unfortunate situation of misguided youth filling into big cars 
+           like the SUVs and driving out in convoys with the youth hanging out of the windows and 
+           shouting and making themselves a nuisance. Also, these convoys create danger of 
+           mishaps for themselves and for the others on the road. These youth should realize 
+           that they are being anti-social and so cringey.
+           </p>
+
+           <p>
+           There is also the callous situation of the middle class and the rich enclosing themselves 
            in air-conditioned cars and daily going to their feudal workplaces, ignoring the homeless and 
            the hungry people so clearly sitting on the footpaths, under bridges and in abandoned bus stops, 
            having to live in the open under the elements, the pollution and the chaos. The car people 
@@ -906,13 +919,12 @@ modalText.innerHTML = `
            </p>
 
            <p>
-           Also is needless the obscene display of newly acquired wealth by celebs in form of 
-           expensive personal motorcycles and sports cars. The contradiction of a celeb in Bombay cruising 
-           in a four crore rupees flashy orange open-top sports car, wearing huge and expensive dark glasses, 
+           Then is the obscene display of newly acquired wealth by celebs in form of expensive personal motorcycles and sports cars. 
+           The contradiction of a celeb in Bombay cruising in a four crore rupees flashy orange open-top sports car, wearing huge and expensive dark glasses, 
            passing by five-year-old boys and girls struggling to earn 50 rupees a day by selling 
            flowers, pens and washing the windscreen of the same four crore rupees sports car, 
            and its newly-rich celeb owner waving away those boys and girls in irritation. Also, this expensive 
-           car is just a personal road vehicle, not a spaceship which can take 100 people to Pluto, 
+           car is just a silly personal road vehicle, not a spaceship which can take 100 people to Pluto, 
            and it is not a survivable vehicle for its celeb owner in case it gets into a road mishap, 
            so there should be no allure and aspiration attached to it, especially if it 
            separates human from human through class system and doesn't provide safety to its owner 
@@ -921,16 +933,23 @@ modalText.innerHTML = `
            </p>
 
            <p>
-           Another sad modern phenomenon is of delivery boys and delivery girls for e-shops where 
-           these delivery people are forced by poverty to ride two-wheelers to deliver the packages 
+           Often is the case that the callous people who shut their car windows to the poor people, are the most 
+           nationalist and most ritualist in religious terms.
+           </p>
+
+           <p>
+           Another sad modern phenomenon is the exploitation of delivery people of the billion-dollar 
+           "unicorn" e-shop startups. The delivery people are forced by poverty to ride two-wheelers to deliver the packages 
            through sun, rain, cold, pollution and dangerous traffic many times a day, many times without helmet, 
            many times without protective clothing against the weather and not at all protective clothing 
-           for two-wheelers, many times they earn a pittance, some times deliver to rude or arrogant customers, 
+           for two-wheelers, many times they earn a pittance, many times deliver to rude or arrogant customers, 
            some times fall prey to armed robbery, some times have to break their legs because of jumping a building storey 
            to escape a customer's attacking dog, some times beg the customers for five-star ratings because 
-           these e-shops provide the meagre incentive based on those ratings. While this whole system has to be changed, 
-           it must be noted that the billion-dollar "unicorn" e-shop startup companies do not even consider providing 
-           safer and covered company four-wheelers to their own delivery people who are the ones to bring 
+           these e-shops provide the meagre incentive based on those ratings, many times have to dangerously zip through traffic red lights 
+           because their e-shop has promised quick delivery to the customers and many times is the blatant class discrimination where the delivery people 
+           and the domestic servants have to only use service lifts or stairs in the 30-storey buildings 
+           that house the middle class. The billion-dollar "unicorn" e-shops have luxury cars cars for the owners but do not even consider 
+           providing safer and covered company four-wheelers to their own delivery people who are among those in the company to actually bring 
            income to the company, and the poor delivery people have to resort to using the dangerous personal two-wheelers.
            </p>
 
@@ -952,14 +971,14 @@ modalText.innerHTML = `
            competition, pollution, dirtiness, unsightliness and the society's unproductiveness and non-progress for decades... 
            in other words, dystopia.
            </p>
-          
+
            <p> But these are artificial and avoidable problems so they can be solved, at least starting with 
            acknowledging that part of these problems exist because of the existence of personal vehicles 
            and will be solved with the simple act of abolishing personal vehicles with the exception of the simple pedal bicycle. 
            Sometimes the problems are social so the solutions must be social but also must be supplemented with 
            technological solutions.
            </p>
-           
+
            <p>
            The act of abolishing personal vehicles is social and our organization 
            will provide the technological solution to supplement this social act. So the few billion personal vehicles 
@@ -968,7 +987,7 @@ modalText.innerHTML = `
            electric in an eco-friendly way to enable a sustainable and social-equality-bringing public transportation mechanism 
            all over Earth.
            </p>
-           
+
            <p>
            Our solution is our Ra-E bus which is a hybrid vehicle of hovercraft-wheelcraft-aircraft type, 
            deriving from our designed-for-space Ra-K vehicle, and each Ra-E will carry 15 passengers and a few hundred thousand 
@@ -991,7 +1010,7 @@ modalText.innerHTML = `
            further advantage in using hovercraft mode is enabling smooth public transport in 
            badly-designed cities which face yearly flooding. And when needed these Ra-E vehicles can 
            turn aircraft mode on and travel short distances by air within cities but not so much that they 
-           become an eyesore, noisy nuisances and privacy destroyers by traveling over houses and other
+           become an eyesore and noisy nuisances and privacy destroyers by traveling over houses and other
            places.
            </p>
 
@@ -1025,16 +1044,16 @@ modalText.innerHTML = `
            One memorable line in that so-nice film is in the end, said by the dying villain-hero 
            Roy Batty - "Memories lost in time, like tears in rain".
            </p>
-           
+
            <p>
-           We of Kosmos Society will help build better Earthen cities than that dystopian Los Angeles of 2019 
+           We of Kosmos Society will help build good Earthen cities instead of that dystopian Los Angeles of 2019 
            and the self-sufficiency of these cities, filled with people of scientific temper, 
            will prevent tens of thousands of needless out-of-city daily travellers, or even a few hundred thousand. 
            It will then be very few people travelling beyond their cities on a daily basis 
            and these few people will be easily able to travel in our Ra-E buses in aircraft mode. 
            This lesser daily out-of-city travel will also contribute to serene Earthen societies.
            </p>
-           
+
            <p>[ To be done ] </p> 
                       
          </div>
@@ -3235,3 +3254,4 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
