@@ -179,11 +179,13 @@
           document.cookie = name + '=' + (value || '')  + expires + '; path=/';
         }
         setCookie('googtrans', '/en/' + lang, 1);
-        if (window.location.hash) {
-          window.location.reload();
+        // Store selected language for font size optimization
+        if (lang === 'zh-CN' || lang === 'ja') {
+          localStorage.setItem('translateFontOpt', lang);
         } else {
-          window.location.reload();
+          localStorage.removeItem('translateFontOpt');
         }
+        window.location.reload();
       });
     });
     // On page load, show selected language in button
@@ -213,6 +215,26 @@
       }
     }
     updateBtnLabel();
+    // Consistent font size for Chinese and Japanese translations (same as English)
+    (function() {
+      var lang = localStorage.getItem('translateFontOpt');
+      if (lang === 'zh-CN' || lang === 'ja') {
+        var style = document.createElement('style');
+        var fontFamily = lang === 'zh-CN'
+          ? "'Noto Sans SC', 'Microsoft YaHei', 'PingFang SC', 'SimHei', 'Arial Unicode MS', Arial, sans-serif"
+          : "'Noto Sans JP', 'Meiryo', 'Yu Gothic', 'MS PGothic', 'Arial Unicode MS', Arial, sans-serif";
+        style.innerHTML = `
+          body, body * {
+            font-family: ${fontFamily} !important;
+            font-weight: 600 !important;
+            font-size: 1em !important;
+            letter-spacing: 0.02em !important;
+            text-shadow: 0 1px 2px #fff, 0 0 1px #000;
+          }
+        `;
+        document.head.appendChild(style);
+      }
+    })();
   </script>
 </body>
 </html>
