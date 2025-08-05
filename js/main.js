@@ -143,12 +143,12 @@ modalText.innerHTML = `
            </p>
 
            <p>
-           This manifesto describes a social system for simple, harmonious and Nature-ordained organization and 
+           This chapter describes a social system for simple, harmonious and Nature-ordained organization and 
            rights for humans in space so that groups in space operate harmoniously within themselves and with other 
            individuals or groups in space who are fellow humans from anywhere on Earth and fellow humans 
            from beyond when humans settle on other worlds and in free space. In going through space and living 
            in space, every human must have an enlightened spirit including in selflessly sharing space resources 
-           with every other human in an equal manner, without demanding ransoms like money, tax, college degrees, race, 
+           with every other human in an equal manner without demanding ransoms like money, tax, college degrees, race, 
            belief in certain divinities, passport and other human-made social positions.
            </p>
 
@@ -927,8 +927,7 @@ modalText.innerHTML = `
            per application ( ISRU - In Situ Resource Utilization ). The ground vehicles will be our Ra-K 
            vehicles.</p>
 
-           <p style="margin-left:1em; margin-bottom:10px";> <span>(f).</span> The social organization system of the Mirkeen-01 base will be the points from the rest of 
-           our proposed “Manifesto for the kosmos". </p>
+           <p style="margin-left:1em; margin-bottom:10px";> <span>(f).</span> The social organization system of the Mirkeen-01 base will be the points in this chapter. </p>
 
            <p style="margin-left:1em; margin-bottom:10px";><span>(g).</span> The Mirkeen-01 base will be the first very advanced society 
            which won’t have money, tax and feudalism. The true wealth of a society is not in the money, mansions and luxury 
@@ -940,7 +939,7 @@ modalText.innerHTML = `
            
            <p style="margin-left:1em; margin-bottom:10px";><span>(h).</span> For the time being the Mirkeen-01 base can engage in commercial activities 
            to sustain itself other than getting support from Kosmos Society and its partners on Earth. This 
-           commerce will be in accordance with our manifesto for the kosmos. The commerce 
+           commerce will be in accordance with our social system for space. The commerce 
            can be about Moon-available minerals needed on Earth ( iron, silicon etc ) or on others’ 
            space stations around Earth; the commerce can be about those produced materials and 
            services which benefit from the low-gravity and vacuum conditions on the Moon; the 
@@ -990,7 +989,7 @@ modalText.innerHTML = `
            And if we seek them we must of course ideally have collective human prosperity, collective 
            harmony, gentleness, sensitiveness, empathy and intelligent consensus as that will present 
            our best unified side to any other intelligent lifeforms and that will come by agreeing on 
-           sensible manifestos like our manifesto for the kosmos.
+           sensible manifestos for humanity like ours.
            </p>
            
            <p>There is a wonderful story written and posted on LinkedIn by Don Michael Feeney called 
@@ -1512,7 +1511,7 @@ modalText.innerHTML = `
            "revenue guidance", "state of the art" etc ). We are a techno-social organization set up to evolve humanity in multiple senses 
            through the far far future and that includes our co-workers being allowed to attain their fullest potential and this in a democratic way. 
            “Liberty, Equality, Fraternity” is after all one of our credos. So our company-internal organization of people 
-           employs the democratic concept of Workers Cooperative which is described in the “Manifesto for the kosmos" chapter on this website 
+           employs the democratic concept of Workers Cooperative which is described in the “Social system for space" chapter on this website 
            in the section "Social organization in space travel and space living". Please read that and return to 
            this point.
            </p>
@@ -2180,7 +2179,7 @@ modalText.innerHTML = `
            <p><span>&gt;&gt;</span> Planetary Science Division of NASA for the idea of creating an artificial magnetosphere
             for Red One.</p>
 
-           <p><span>&gt;&gt;</span> Coke Studio Bangla Season One for presenting the song “Shob Lokey Koy” which also inspired us for our manifesto for the kosmos. 
+           <p><span>&gt;&gt;</span> Coke Studio Bangla Season One for presenting the song “Shob Lokey Koy” which is among our inspirations for our social system for space. 
            This song is in the Bengali and Hindi languages and is a celebration of two past South Asian humanitarian mystics, 
            Lalon Fakir and Kabir Das, and calls for unity of humans because they all are the waters from the
            same well except for some differences in the vessels which then contain the waters. 
@@ -2378,8 +2377,7 @@ modalText.innerHTML = `
             a pointless global war etc.</p>
 
            <p><span>&gt;&gt;</span> Our technologies will align around our draft for a democratic, pan-human 
-           and Nature-respecting manifesto for space, presented in the “Manifesto for the kosmos” chapter 
-           on this website.
+           and Nature-respecting social system for space, presented in the chapter of that name on this website.
            </p>
 
            <h2>Faradn electricity generator</h2>
@@ -3478,6 +3476,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
