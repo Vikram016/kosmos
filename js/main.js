@@ -7,7 +7,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 card.addEventListener('click', function() {
 const chapter = card.getAttribute('data-chapter');
 
-// 01. Our Iskra Plan
+// 01. Iskra Plan
 if (chapter === 'iskra') {
 modalText.innerHTML = `
        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -228,68 +228,132 @@ modalText.innerHTML = `
              
              </ul>
            
-             <p>So the Space-plane is also not the solution.</p>
+             <p>
+             So the Space-plane is also not the solution.
+             </p>
+            
+             <p>
+             So academics and researchers propose creating huge spaceships whose undersides will have mechanism 
+             to explode nuclear bombs whose massive force will push these spaceships rise with great speed 
+             into space. And they can use the same nuclear bomb mechanism to fly through space and land where they wish. 
+             However, as is obvious, use of nuclear bombs is not only dangerous for the environment these ships 
+             lift off from, say on Earth, because of the radiation released which will remain there for a long time, 
+             there will be possibly long-residing heavy nuclear radiation contaminating the space routes these ships 
+             travel through, but also is the point of the inherent massive danger of these ships using nuclear bombs 
+             as propulsion... even one bomb exploding without intention can destroy the ship and cause the remaining 
+             nuclear bombs to explode and this can destroy hundreds of kilometers of the launch area 
+             or the area this ship falls on. Similar to nuclear war. Thus this ship proposal is more foolish 
+             than the tall rocket.
+             </p>
                      
              <h2>Social restrictions of the current space industry</h2>
            
-             <p>Aspiring space travellers either have to be very rich 
-             to pay for a single ticket ( at least 20 millions dollars ) to launch on the rockets 
-             or in-development space-planes of the world’s very few humans-to-space programs of 
-             government space agencies and private space agencies; or the aspiring travelers must
-              be associated with these governments or allied governments to travel for free by 
-              being military pilots, professional scientists etc; or the aspiring space travellers 
-              must win seat lottery in some private space-trip arrangement program associated with 
-              those governments or private space agencies and this lottery will be won by only one 
-              person per year in the entire world. Most ordinary space travel aspirers have no 
-              chance. But it is not Nature / Universe denying most people access to the cosmos, 
-              it is anti-democratic systems among humans doing so.</p>
+             <p>
+             Aspiring space travellers either have to be very rich to pay for a single ticket ( at least 20 millions dollars ) 
+             to launch on the rockets or in-development space-planes of the world’s very few human space programs 
+             of government space agencies and private space agencies; or the aspiring travelers must be associated with 
+             these governments or allied governments to travel for free and this by mostly being military pilots but also 
+             professional scientists etc; or the aspiring space travellers must win seat lottery in some private lottery-based 
+             space-trip arrangement program connected with those governments or private space agencies which have the launch hardware 
+             and this lottery will be won by only one person per year in the entire world. Most ordinary space travel aspirers have no 
+             chance. But it is not Nature denying most people access to the kosmos... it is anti-democratic systems among humans doing so.
+             </p>
 
-             <p>Also, the very workers who build these current human 
-             launch systems are excluded from going to space on the space systems they built with 
-             their sweat, sleepless nights and risk of serious injury or death !!! All they are 
-             allowed to do is clap in the control rooms whose screens show the launches of those 
-             space systems taking to space the rich and the other privileged. A ridiculous and 
-             undemocratic situation just like three other situations in the “Democratic World” :</p>
+             <p>
+             Also, the very workers who build these current human launch systems are excluded from going to space on the space systems 
+             they built with their sweat, sleepless nights and risk of serious injury or death. All they are allowed to do is clap in 
+             the control rooms whose screens show the launches of those space systems taking to space the rich and the other privileged. 
+             A ridiculous and undemocratic situation just like three other situations in the “Democratic World” :
+             </p>
            
              <ul>
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> The poor daily-wage 
-             construction laborers who build mansions, penthouses and two-bedroom flats for the rich and 
-             the middle class, never get to live in them and will be chased away from the gate if they 
-             happen to visit later and they instead have to live in slums.</li>
-
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> The few billion 
-             ordinary fans of sports stars, 
-             who make these sports stars millionaires and adored for years, will never get 
-             replied for their long passionate loyalty with a million dollars in their bank accounts each 
-             and neither will these sports stars speak up about issues their ordinary fans face in their 
-             daily lives or even if the loyal fans die in stampede in the stadiums or outside the stadiums 
-             where these sports stars descend royally to play or get felicitated, nor will these cherished 
-             sports stars speak about global issues like Climate Change, techno-feudalism and the traditional 
-             feudalism in the cities and the villages which includes the wrongs against farmers, white-collar
-             workers, students, daily-wagers and women.</li>
-
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Feudals who make billions of dollars 
-             every year by selling products and services to the masses where these products and services should be naturally 
-             available for free, and then these same feudals holding the masses in contempt despite having made their billions 
-             from these same masses.
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span>&gt;&gt;</span> The poor daily-wage construction laborers who build mansions, penthouses and two-bedroom flats for the rich and 
+             the middle class, never get to live in them and will be chased away from the gate if they happen to visit later and they instead have to live 
+             in slums.
              </li>
-             
+
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span>&gt;&gt;</span> The few billion ordinary fans of sports stars, who make these sports stars millionaires 
+             and adored for years, will never get replied for their long passionate loyalty with a million dollars in their bank accounts each 
+             and neither will these sports stars speak up about issues their ordinary fans face in their daily lives or even if the loyal fans die 
+             in stampede in the stadiums or outside the stadiums where these sports stars descend royally from special enclosed buses, to play or 
+             to get felicitated. Nor will these cherished sports stars speak about global issues like Climate Change, techno-feudalism and the traditional 
+             feudalism in the cities and the villages which includes the wrongs against farmers, white-collar
+             workers, students, daily-wagers and women.
+             </li>
+
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span>&gt;&gt;</span> Feudals who make billions of dollars every year by selling products and services to the masses where these products and services 
+             should be naturally available for free, these same feudals hold the masses in contempt despite having made their billions 
+             from these same masses. It allows happens that the private celebrations of these feudals will be done grandly 
+             on an obscene scale and the feudals thus shorter on their bank account will raise the prices of the 
+             goods and services they provide to the masses and the masses thus have to foot the bill for the private 
+             celebrations of the feudals, LOL, and the masses will not even be allowed into these celebrations.
+             </li>           
            </ul>
            
-           <h2>The techno-social restrictions coming together</h2>
+           <h2>How women are excluded by artificial techno-social restrictions</h2>
+
+           <p>
+           In Western societies especially, for more than a hundred years, women are imposed with an unnatural social situation 
+           of having to not be the natural chubby, voluptuous self that is normal for most women. This imposition declares that women will be 
+           attractive only if they are thin and not if they are voluptuous. This is a ridiculous imposition but it is the norm in the West 
+           for such a long time and it came to be because of two reasons :
+           </p>
+
+           <li style="margin-left:1em; margin-bottom:10px;"> 
+           <span>(a).</span> The early modern fashion industry had many male designers who were homosexuals and when they designed for women 
+           they really wished they were designing for the males they fancied who usually would be muscular. So their designed clothes for women 
+           would not be for the womanly form with chubbiness and voluptuousness but for a proxy male form by making the dresses for a woman who is thin. 
+           The social system of the West made it easier for male homosexuals to be privileged and influential and these males when designers they imposed 
+           their fantasies for males onto the whole society by creating a social situation where for a women to be thin became socially desirable and 
+           voluptuous women were shamed. The male homosexual designers furthered this agenda by clothing their designs on female models who were thin or muscular 
+           not only because these particular female models reminded them of males but also when these non-voluptuous female models walked on the ramp 
+           or were shown in newspapers, magazines and roadside hoardings, the society was conditioned to start 
+           internalizing the "thin is in" presentation of women by these male homosexuals.
+           </li>
+
+           <li style="margin-left:1em; margin-bottom:10px;"> 
+           <span>(b).</span> There is another factor where when women's clothes were worn by female models on the ramp 
+           or as photos, the designer wanted the attention of the viewer solely on the designed clothing and this would 
+           become difficult if the female model was voluptuous in which cause the viewer would largely focus 
+           on the form of the female model especially if the viewer is a heterosexual male. This sitaution will remove 
+           the focus of the viewer from the presented clothing design and possibly not have the design sold. So a female model 
+           who is not chubby but thin will not be the most attractive factor for a heterosexual male viewer
+           whose attention then would be on the clothing and thus a possible purchaser or a business deal.
+           </li>
+
+           <li style="margin-left:1em; margin-bottom:10px;"> 
+           <span>(c).</span> Then is the Capitalist "health and wellness industry" which saw women as a large customer market 
+           if it could convince them to purchase its equipment, clothing, accesories and food. This it did by brainwashing women 
+           that they are healthy only if they are thin and even muscular. Chubby, voluptuous women were declared as "obese", 
+           an artificial word to scare women into getting six-packs and hard forms far from the naturally womanly self of voluptuousness 
+           which not only makes the woman actually look nice but is actually healthy for the woman and women have been nicely healthy being voluptuous 
+           since eternity in human history. But the "health and wellness industry" convinced many women to use its slimming, thinning and 
+           muscle-building products and thus now the "health and wellness industry" is worth in money terms of more than six trillion dollars by end of 2023. 
+           Yet again, Capitalism made money by selling needless products.        
+           </li>
+
+           <li style="margin-left:1em; margin-bottom:10px;"> 
+           <span>(d).</span> 
+           </li>
+
+           <h2>Techno-social restrictions</h2>
            
-           <p style='margin-bottom:1em;'>So all this hurry-burry and artificial glamor of 
-           the current space industry is pointless in the end for the at least million other 
-           desirers of space travel who will never leave Earth and the very rich owners of most 
+           <p style='margin-bottom:1em;'>
+           So all this hurry-burry and artificial glamor of the current space industry is pointless in the end for 
+           the at least million other desirers of space travel who will never leave Earth and the very rich owners of most 
            current space agencies will keep profiting from this hurry-burry and from the 
            complicated, expensive and unsafe current launch systems yet the ordinary desirers 
            and humanity in general are encouraged to glorify this industry and its feudal owners. 
-           These are fake heroes.</p>
+           These are fake heroes.
+           </p>
            
-           <h2> Our solution : The Iskra Plan</h2>
+           <h2>Our solution : The Iskra Plan</h2>
            
-           <p style='margin-bottom:1em;'>In the Russian language "Iskra" means Spark, especially one
-           which ignites positive change. In the context of our organization our Iskra Plan is our spark for all humans 
+           <p style='margin-bottom:1em;'>
+           In the Russian language "Iskra" means Spark, especially one which ignites positive change. In the context of our organization our Iskra Plan is our spark for all humans 
            to light the flame to explore the entire universe to the max extent possible and settle 
            in space in a way that is simple, gentle, safe, pan-humanist in a progressive way 
            and respectful of Nature and Nature’s laws. Space travel must become as common as bus travel, 
@@ -300,7 +364,8 @@ modalText.innerHTML = `
            This is the simple law of Nature.
            </p>
            
-           <p style='margin-bottom:1em;'>Towards this, we of Kosmos Society will build all 
+           <p style='margin-bottom:1em;'>
+           Towards this, we of Kosmos Society will build all 
            the systems, whether the spaceships or the computers or self-sustaining compact electricity generators 
            or the spacesuits or the habitation systems or the social system for space and every other 
            necessary thing, and all this in a simplified and straightforward manner, 
@@ -310,7 +375,8 @@ modalText.innerHTML = `
            What is natural, has to be the system.
            </p>
            
-           <p style='margin-bottom:1em;'>Starting 2035 our-designed spaceships will be able to 
+           <p style='margin-bottom:1em;'>
+           Starting 2035 our-designed spaceships will be able to 
            carry some humans and goods safely to the Moon and in subsequent years our-designed spaceships 
            will be able to travel throughout the Inner Solar System and Outer Solar System, 
            carrying large number of humans and goods and our other technologies will enable living in those regions.
@@ -318,7 +384,8 @@ modalText.innerHTML = `
            direction, and “Outer Solar System” means beyond the Asteroid Belt to Pluto and beyond. This will 
            be just the start.</p>
                        
-           <p style='margin-bottom:1em;'>Most of our systems will be usable on Earth either directly 
+           <p style='margin-bottom:1em;'>
+           Most of our systems will be usable on Earth either directly 
            or in derivation, and all our systems will be simplified, manufacturable cheaply, operable
            cheaply and repairable cheaply, and the manufacturers will be national governments who will
            purchase from us the designs and engineering details of our systems for a reasonably cheap 
@@ -331,11 +398,14 @@ modalText.innerHTML = `
            or no fees at all for personal ownership of some of these systems ( say our wearable computer ) 
            or when being passengers ( say on our spaceships ) or when living in space habitats. 
            For example, an individual’s trip to the Moon should have a max seat price of 100 dollars 
-           or ideally free.</p>
+           or ideally free.
+           </p>
                        
-           <p style='margin-bottom:1em;'>To start our journey to space, by 2031 two people will go to Low Earth Orbit in 
+           <p style='margin-bottom:1em;'>
+           To start our journey to space, by 2031 two people will go to Low Earth Orbit in 
            our Alef-A airship-spaceship, orbit Earth and return gently through the atmosphere 
-           by powered craft re-entry to the launch place.</p>
+           by powered craft re-entry to the launch place.
+           </p>
            
          </div>
        </div>
@@ -3529,4 +3599,5 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
