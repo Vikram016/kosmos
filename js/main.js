@@ -3,11 +3,11 @@ const modal = document.getElementById('chapterModal');
 const modalText = document.getElementById('modalText');
 const closeModal = document.getElementById('closeModal');
 
-// 04. A social manifesto for the kosmos
+// 03. Our social system for the kosmos
 document.querySelectorAll('.chapter-card').forEach(card => {
 card.addEventListener('click', function() {
 const chapter = card.getAttribute('data-chapter');
-if (chapter === 'manifesto') {
+if (chapter === 'socialsystem') {
 modalText.innerHTML = `
        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;font-family:Roboto,sans-serif;">
          <!-- Only left-side close button remains; right-side removed -->
@@ -52,7 +52,7 @@ modalText.innerHTML = `
              }
              
          </style>
-         <h2> A social manifesto for the kosmos</h2>
+         <h2> Our social manifesto for the kosmos</h2>
          <div>
 
          <p>
@@ -1330,7 +1330,7 @@ modalText.innerHTML = `
      `;
 modal.style.display = 'flex';
 
-// 07. Why you can contact us
+// 06. Why you can contact us
 } else if (chapter === 'whycontactus') {
 modalText.innerHTML = `
        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -1848,111 +1848,7 @@ modal.style.display = 'none';
 }
 }, 0);
 
-// 02. Product design principles
-} else if (chapter === 'principles') {
-modalText.innerHTML = `
-       <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
-         <style>
-           /* Chrome, Edge, Safari */
-           #modalText > div::-webkit-scrollbar {
-             width: 10px;
-             height: 10px;
-             background: #222;
-           }
-           #modalText > div::-webkit-scrollbar-thumb {
-             background: #fff;
-             border-radius: 10px;
-             border: 2px solid #222;
-           }
-           #modalText > div::-webkit-scrollbar-track {
-             background: #222;
-             border-radius: 10px;
-           }
-           /* Firefox */
-           #modalText > div {
-             scrollbar-width: thin;
-             scrollbar-color: #fff #222;
-           }
-              h2 {
-           font-family: 'Poppins', sans-serif;
-           color: #000;
-           text-align: center;
-           margin-bottom: 10px;
-           }
-
-           p{
-           font-family: 'Roboto', sans-serif;
-           color: #000;
-           font-size: 1.1em;
-           }
-
-           span {
-             color:#000;
-             font-weight: bold;
-             }
-
-         </style>
-         <h2>Our progressive product design principles</h2>
-         <div>
-           <p><span>&gt;&gt;</span> Liberty, Equality, Fraternity, Humanism, Simplicity, Human safety as much as possible, 
-           Respect for Nature including reversing Climate Change on Earth.
-           </p>
-           
-           <p><span>&gt;&gt;</span> Readiness to explore sensible methods that are from old times or are unusual.
-           </p>
-           
-           <p><span>&gt;&gt;</span> We won’t do a technology just because there are a hundred other companies doing it 
-           or it has been done for a hundred years or just because it has been proposed by some celebrated scientist but 
-           the idea is not sensible, for example the concept called Dyson Sphere aka Dyson Swarm.
-           </p>
-
-           <p><span>&gt;&gt;</span> A naturality, beauty, gentleness, simplification and intelligence in technologies and science as against trendy but dystopian 
-           and needlessly complicated things. Be Dune’sy rather than metaverse’y. This includes naming 
-           or renaming of space objects like “Red One” instead of “Mars” as the latter is the Roman 
-           god of war while the former is a gentle name. Another example is not following the 
-           silliness of nuclear fusion as the means to generate electricity.
-           </p>
-
-           <p><span>&gt;&gt;</span> Employ the concept of Circular Economy which also relates 
-           to :
-           </p>
-                                  
-           <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> Much simplified technology.</p>
-
-           <p style='margin-left:2em;margin-bottom:10px;'><span>(b).</span> Decentralization and ease of production and 
-           usage which includes electricity generation.</p>
-
-           <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> As much as possible, use of structural materials 
-           and fuels that are available cheaply and available in many place or can be produced anywhere so that the manufacturers 
-           can produce our products cheaply and make them available to the masses cheaply. Examples, water, air, wood, biocoal 
-           and electricity that is produced by a simple, compact, self-sustaining generator.
-           </p>
-
-            <p style='margin-left:2em;margin-bottom:10px;'><span>(d).</span> Bio-mimicry and Engineered Biology wherever applicable.</p>
-
-           <p style='margin-left:2em;margin-bottom:10px;'><span>(e).</span> Low-tech when applicable.</p>
-
-           <p style='margin-left:2em;margin-bottom:10px;'><span>(f).</span> Local empowerment.</p>
-
-           <p style='margin-left:2em;margin-bottom:10px;'><span>(g).</span> Technology that is well-crafted
-            yet affordable by the masses.</p>
-
-           <p style='margin-left:2em;margin-bottom:10px;'><span>(h).</span> Technologies selected are simple, reliable and help
-            return humanity anywhere to easier advancement or be resilient when situation becomes bad 
-            because of natural or other events like unusually big solar storm, comet or asteroid strike, 
-            a pointless global war etc.</p>
-
-           <p><span>&gt;&gt;</span> Our technologies will align around our draft for a democratic, pan-human 
-           and Nature-respecting manifesto for space, presented in the “Manifesto for the kosmos” chapter 
-           on this website.
-           </p>
-           
-         </div>
-       </div>
-     `;
-modal.style.display = 'flex';
-
-// 05. Our founders
+// 04. Our founders
 } else if (chapter === 'founders') {
 modalText.innerHTML = `
        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -2200,7 +2096,7 @@ modalText.innerHTML = `
      `;
 modal.style.display = 'flex';
 
-// 06. Credits
+// 05. Credits
 } else if (chapter === 'credits') {
 modalText.innerHTML = `
        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -2303,8 +2199,8 @@ modalText.innerHTML = `
      `;
 modal.style.display = 'flex';
 
-//03. Techno projects
-} else if (chapter === 'projects'){
+//02. Our techno projects
+} else if (chapter === 'technoprojects'){
 modalText.innerHTML = `
        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
          <style>
@@ -2366,67 +2262,126 @@ modalText.innerHTML = `
          <p>
          Table of contents :
          </p>
-
+         
          <p>
-         01. Faradn electricity generator.
+         01. Our progressive product design principles.
          </p>
 
          <p>
-         02. The Alef-A airship-spaceship.
+         02. Faradn electricity generator.
          </p>
 
          <p>
-         03. The Alef-F space ferry.
+         03. The Alef-A airship-spaceship.
          </p>
 
          <p>
-         04. About both Alef-A and Alef-F spaceships.
+         04. The Alef-F space ferry.
          </p>
 
          <p>
-         05. Ra-K hovercraft-wheelcraft-aircraft.
+         05. About both Alef-A and Alef-F spaceships.
          </p>
 
          <p>
-         06. A spacesuit called Stillsuit.
+         06. Ra-K hovercraft-wheelcraft-aircraft.
          </p>
 
          <p>
-         07. Dune Buk wearable computer.
+         07. A spacesuit called Stillsuit.
          </p>
 
          <p>
-         08. Exoskeleton.
+         08. Dune Buk wearable computer.
          </p>
 
          <p>
-         09. Biology researches.
+         09. Exoskeleton.
+         </p>
+
+         <p>
+         10. Biology researches.
          </p>
          
          <p>
-         10. Machines for water.
+         11. Machines for water.
          </p>
 
          <p>
-         11. Habitat construction on other worlds.
+         12. Habitat construction on other worlds.
          </p>
                    
          <p>
-         12. Serf autonomous satellite for Earth orbit debris cleaning.
+         13. Serf autonomous satellite for Earth orbit debris cleaning.
          </p>
 
          <p>
-         13. Terraforming.
+         14. Terraforming.
          </p>
 
          <p>
-         14. Anti-gravity.
+         15. Anti-gravity.
          </p>
 
          <p>
          -----
          </p>
-                   
+
+         <h2>Our progressive product design principles</h2>
+         <div>
+           <p><span>&gt;&gt;</span> Liberty, Equality, Fraternity, Humanism, Simplicity, Human safety as much as possible, 
+           Respect for Nature including reversing Climate Change on Earth.
+           </p>
+           
+           <p><span>&gt;&gt;</span> Readiness to explore sensible methods that are from old times or are unusual.
+           </p>
+           
+           <p><span>&gt;&gt;</span> We won’t do a technology just because there are a hundred other companies doing it 
+           or it has been done for a hundred years or just because it has been proposed by some celebrated scientist but 
+           the idea is not sensible, for example the concept called Dyson Sphere aka Dyson Swarm.
+           </p>
+
+           <p><span>&gt;&gt;</span> A naturality, beauty, gentleness, simplification and intelligence in technologies and science as against trendy but dystopian 
+           and needlessly complicated things. Be Dune’sy rather than metaverse’y. This includes naming 
+           or renaming of space objects like “Red One” instead of “Mars” as the latter is the Roman 
+           god of war while the former is a gentle name. Another example is not following the 
+           silliness of nuclear fusion as the means to generate electricity.
+           </p>
+
+           <p><span>&gt;&gt;</span> Employ the concept of Circular Economy which also relates 
+           to :
+           </p>
+                                  
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> Much simplified technology.</p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(b).</span> Decentralization and ease of production and 
+           usage which includes electricity generation.</p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> As much as possible, use of structural materials 
+           and fuels that are available cheaply and available in many place or can be produced anywhere so that the manufacturers 
+           can produce our products cheaply and make them available to the masses cheaply. Examples, water, air, wood, biocoal 
+           and electricity that is produced by a simple, compact, self-sustaining generator.
+           </p>
+
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(d).</span> Bio-mimicry and Engineered Biology wherever applicable.</p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(e).</span> Low-tech when applicable.</p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(f).</span> Local empowerment.</p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(g).</span> Technology that is well-crafted
+            yet affordable by the masses.</p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(h).</span> Technologies selected are simple, reliable and help
+            return humanity anywhere to easier advancement or be resilient when situation becomes bad 
+            because of natural or other events like unusually big solar storm, comet or asteroid strike, 
+            a pointless global war etc.</p>
+
+           <p><span>&gt;&gt;</span> Our technologies will align around our draft for a democratic, pan-human 
+           and Nature-respecting manifesto for space, presented in the “Manifesto for the kosmos” chapter 
+           on this website.
+           </p>
+
            <h2>Faradn electricity generator</h2>
            
            <p>
@@ -3156,7 +3111,7 @@ modalText.innerHTML = `
      `;
 modal.style.display = 'flex';
 
-//08. Contact info
+//07. Contact info
 }  else if (chapter === 'contactinfo') {
 modalText.innerHTML = `
        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -3523,6 +3478,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
