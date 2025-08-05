@@ -3,7 +3,7 @@ const modal = document.getElementById('chapterModal');
 const modalText = document.getElementById('modalText');
 const closeModal = document.getElementById('closeModal');
 
-// 04. Manifesto for the kosmos
+// 04. A social manifesto for the kosmos
 document.querySelectorAll('.chapter-card').forEach(card => {
 card.addEventListener('click', function() {
 const chapter = card.getAttribute('data-chapter');
@@ -52,7 +52,7 @@ modalText.innerHTML = `
              }
              
          </style>
-         <h2> Our manifesto for the kosmos</h2>
+         <h2> A social manifesto for the kosmos</h2>
          <div>
 
          <p>
@@ -134,20 +134,26 @@ modalText.innerHTML = `
         <h2> Introduction to this chapter</h2>
         
            <p> 
-           We present a draft of a progressive pan-humanist manifesto for the kosmos 
+           We present the draft of a progressive pan-humanist manifesto for the kosmos 
            which is for all humans going and living in the universe / space and hopefully this manifesto 
            finds adoption for Earth too. We want through this manifesto draft a harmonious unity of
-           humankind in space, removed of all the artificial unpleasantnesses and tragedies that
-           humans do or endure presently on Earth.
+           humankind in space, removed of all the artificial unpleasantnesses and tragedies that 
+           humans do or endure presently on Earth, but added with all the approaches which are natural, rational, 
+           gentle and utopian. We must build a kosmic utopia, making humankind an evolved kosmos society.
            </p>
 
            <p>
-           This manifesto describes a social system for simple, harmonious and Nature-ordained organization of humans in 
-           space so that groups in space operate harmoniously within themselves and with other 
-           individuals or groups in space who are fellow humans from anywhere on Earth and fellow humans
-           from beyond when humans settle on other worlds and in free space, starting 12 years from now ( by 2037 ) 
-           when humans have at least started living on the Moon and then in few more years, 
-           living in the Asteroid Belt which sits in the space between Red One and Jupiter 
+           This manifesto describes a social system for simple, harmonious and Nature-ordained organization and 
+           rights for humans in space so that groups in space operate harmoniously within themselves and with other 
+           individuals or groups in space who are fellow humans from anywhere on Earth and fellow humans 
+           from beyond when humans settle on other worlds and in free space. In going through space and living 
+           in space, every human must have an enlightened spirit including in selflessly sharing space resources 
+           with every other human in an equal manner, without demanding ransoms like money, tax, college degrees, race, 
+           belief in certain divinities, passport and other human-made social positions.
+           </p>
+
+           <p> Starting 12 years from now ( by 2037 ), humans must at least start living on the Moon and then in few more years, 
+           start living in the Asteroid Belt which sits in the space between Red One and Jupiter 
            and then beyond the Asteroid Belt to the edges of the Solar System and beyond.
            </p>
 
@@ -172,9 +178,11 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             The famous slogan "Liberty, Equality, Fraternity" which our organization also uses
-             was produced in the struggle of the French masses in the late 1700s
-             against the feudal dominance of the kings and their queens where the kings considered themselves
+             The famous slogan "Liberty, Equality, Fraternity" which our organization uses, 
+             it is used in other progressive thought streams including the Preamble ( introduction ) to the Indian Constitution 
+             whose main archictect was the great liberator in India, BR Ambedkar, and this constitution was mainly drafted 
+             during the 1940s. But this slogan was produced much earlier in the struggle of the French masses in the late 1700s 
+             against the feudal dominance of the French kings and queens where the kings considered themselves
              appointed to eternal kinghood by God, by the God of Jesus Christ they claimed, 
              but this is contradiction as Jesus / Isa was one of the greatest rebels, liberators and social reformers
              of history whose idea of God was not the oppressor which these kings of France were
@@ -3515,6 +3523,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
