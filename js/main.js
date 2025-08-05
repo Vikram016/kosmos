@@ -3,7 +3,7 @@ const modal = document.getElementById('chapterModal');
 const modalText = document.getElementById('modalText');
 const closeModal = document.getElementById('closeModal');
 
-// 03. Our social system for the kosmos
+// 03. Our social system for space
 document.querySelectorAll('.chapter-card').forEach(card => {
 card.addEventListener('click', function() {
 const chapter = card.getAttribute('data-chapter');
@@ -52,7 +52,7 @@ modalText.innerHTML = `
              }
              
          </style>
-         <h2> Our social manifesto for the kosmos</h2>
+         <h2> Our social system for space</h2>
          <div>
 
          <p>
@@ -134,10 +134,10 @@ modalText.innerHTML = `
         <h2> Introduction to this chapter</h2>
         
            <p> 
-           We present the draft of a progressive pan-humanist manifesto for the kosmos 
-           which is for all humans going and living in the universe / space and hopefully this manifesto 
-           finds adoption for Earth too. We want through this manifesto draft a harmonious unity of
-           humankind in space, removed of all the artificial unpleasantnesses and tragedies that 
+           We present the draft of a progressive pan-humanist social system for space, which is for all humans 
+           going and living in the kosmos / universe / space and hopefully this social system  
+           finds adoption for Earth too throughout in time. We want through this draft social system a harmonious unity of
+           humankind in space, removed of all the artificial and needless unpleasantnesses, tragedies and anti-natural beliefs that 
            humans do or endure presently on Earth, but added with all the approaches which are natural, rational, 
            gentle and utopian. We must build a kosmic utopia, making humankind an evolved kosmos society.
            </p>
@@ -3478,6 +3478,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
