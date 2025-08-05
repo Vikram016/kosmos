@@ -52,8 +52,7 @@ modalText.innerHTML = `
              }
 
          </style>
-         <div style="color:##FFFFc5;font-size:1.1em;font-family:Roboto,sans-serif;">
-          
+                   
            <h2>The disappointed million people desiring space travel</h2>
            
            <p>Now in 2025 there must be at least one million people in the world desiring to go to space 
@@ -155,7 +154,7 @@ modalText.innerHTML = `
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;"> 
-             Ugliness : Just like the skyscrapers on Earth are so ugly 
+             <span>(e).</span> Ugliness : Just like the skyscrapers on Earth are so ugly 
              but are called as advancement by misguided people, so also the tall rocket looks ugly but gets called 
              as advancement by many people. Presently the trend is to build rocket systems that collectively stand 
              more than 100 meters tall and describe them in awed terms - "As tall as a 40-storey building"... 
@@ -163,7 +162,7 @@ modalText.innerHTML = `
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;"> 
-             Non-universality : There is presently a chaos through the use of different types and sizes of tall rockets 
+             <span>(f).</span> Non-universality : There is presently a chaos through the use of different types and sizes of tall rockets 
              to launch different numbers of humans and to carry different sizes of non-human cargo. Some tall rockets have side boosters and 
              some have more than thirty engines. Humans cannot be carried on the non-human cargo tall rockets because the latter are not "man-rated" 
              i.e. they are not at all built to be "safe" to carry humans, with us understanding that no tall rocket is actually trustworthy, 
@@ -172,7 +171,7 @@ modalText.innerHTML = `
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;"> 
-             Non-renewable : Tall rocket fuels like paraffix wax and kerosene are petroleum products which are easily understood to be 
+             <span>(g).</span> Non-renewable : Tall rocket fuels like paraffix wax and kerosene are petroleum products which are easily understood to be 
              non-renewable on Earth. The all-metal structures in tall rockets are also non-renewable in the sense that these metals have to be 
              mined in big quantity to obtain more material for more tall rockets and a lot of it even for a single tall rocket. And the nature 
              of the tall rocket means a bigger refinement process for the mined metals.
@@ -233,7 +232,7 @@ modalText.innerHTML = `
              </p>
             
              <p>
-             So academics and researchers propose creating huge spaceships whose undersides will have mechanism 
+             Some academics propose creating huge spaceships whose undersides will have mechanism 
              to explode nuclear bombs whose massive force will push these spaceships rise with great speed 
              into space. And they can use the same nuclear bomb mechanism to fly through space and land where they wish. 
              However, as is obvious, use of nuclear bombs is not only dangerous for the environment these ships 
@@ -299,9 +298,10 @@ modalText.innerHTML = `
            In Western societies especially, for more than a hundred years, women are imposed with an unnatural social situation 
            of having to not be the natural chubby, voluptuous self that is normal for most women. This imposition declares that women will be 
            attractive only if they are thin and not if they are voluptuous. This is a ridiculous imposition but it is the norm in the West 
-           for such a long time and it came to be because of four reasons :
+           for such a long time and it came to be because of six reasons :
            </p>
 
+           <ul>
            <li style="margin-left:1em; margin-bottom:10px;"> 
            <span>(a).</span> The early modern fashion industry had many male designers who were homosexuals and when they designed for women 
            they really wished they were designing for the males they fancied who usually would be muscular. So their designed clothes for women 
@@ -352,14 +352,15 @@ modalText.innerHTML = `
            <span>(f).</span> Most heterosexual men in Western societies became part of these agendas by becoming brainwashed 
            to find as attractive only thin women or those fakely-curved-and-hard-bodied celeb women.
            </li>
+           </ul>
 
            <p>
            In non-Western societies the frivolous women adopted the thin-is-in and "fitness" idea from the West 
            and thus the idea was furthered in more geographies. In some non-Western societies where prevalent culture 
            discriminated against women traditionally it was automatic that women were tried to be kept thin 
-           traditionally through art or by deliberate starvation in families and when the moden West presented 
+           traditionally through art or by deliberate starvation in families and when the modern West presented 
            the "thin-is-good" and "fitness fantastic" idea, these societies eagerly adopted the above agendas
-           including because such societies were inherently Capitalist and thus friendly to the 
+           including because such societies were inherently Capitalist and feudal and thus friendly to the 
            "health and wellness industry".
            </p>
 
@@ -367,10 +368,17 @@ modalText.innerHTML = `
            So it became that the current space industry too, especially the one in the West, imposed these unnatural and unaesthetic 
            shape restrictions on women candidates on the few and already restricted human space programs. This was by telling 
            the women that getting to space and living in space means being "fit" and this will by heavy exercise before the space journey and
-           only then they will be considered for selection. Heavy exercise for women is also present in the International Space Station 
+           only then they will be considered for selection.
+           </p>
+           
+           <p>
+           Heavy exercise for women is also present in the International Space Station 
            using the excuse that without such exercise the muscles and the bones of the women, and the men, will weaken and corrode because 
            of the weightlessness in that space environment. And then the space residents will have their arms and legs broken easily and 
-           will not be able to lift things and operate the equipment and even lead a normal life in space and upon returning to Earth's gravity. 
+           will not be able to lift things and operate the equipment and even lead a normal life in space and upon returning to Earth's gravity.
+           </p>
+
+           <p>
            Another reason for these artificial restrictions on women was because the current space vehicles of the West can carry only a restricted 
            number of people and women candidates for space are few anyway. And most space organizations in other parts of the world 
            needlessly follow this system set in the modern West.
@@ -399,7 +407,7 @@ modalText.innerHTML = `
            society on Earth too. Potentially every human should be able to access space, 
            live in space and attain their potential in space, whenever he or she desires, 
            with a minimal usage fee or no fee at all, and no woman must be told to become heavily exercised 
-           to be allowed into space, ignoring her natural feminen form. All this in the now and in the far far future. 
+           to be allowed into space, ignoring her natural feminine form. All these in the now and in the far far future. 
            This is the simple law of Nature.
            </p>
            
@@ -408,9 +416,19 @@ modalText.innerHTML = `
            self-sustaining compact electricity generators or the spacesuits or the habitation systems or 
            the social system for space and every other necessary thing, and all this in a simplified and straightforward manner, 
            without caring for obsolete and needless "industry standards", unthoughtful academic postulations, cringey technological 
-           fashions, idiotic corporate language, ignoring of simple ideas, anti-democratic and anti-Nature social constructs. 
+           fashions, idiotic corporate language, ignoring of simple ideas, anti-democratic and anti-Nature social constructs.
+           </p>
+
+           <p>
+           All our systems will be simplified, aesthetic, reliable, manufacturable cheaply, operable cheaply, repairable cheaply and tend towards 
+           using biology where applicable because biology has existed intelligently for millions of years at least on Earth. We will use novel methods 
+           and natural methods, doesn't matter if we are the only ones using those or one of the few using those. 
            What works, works. What is sensible, is sensible. What can be simplified, must be simplified. 
            What is natural, has to be the system.
+           </p>
+
+           <p>
+           Most of our systems will be usable on Earth either directly or in derivation.
            </p>
            
            <p style='margin-bottom:1em;'>
@@ -420,21 +438,20 @@ modalText.innerHTML = `
            </p>
                        
            <p style='margin-bottom:1em;'>
-           Most of our systems will be usable on Earth either directly or in derivation, and all our systems will be simplified, 
-           manufacturable cheaply, operable cheaply and repairable cheaply, and the manufacturers will be national governments who will
+           The manufacturers of our techno systems will be national governments who will
            purchase from us the designs and engineering details of our systems for a reasonably cheap 
            license fee and they will be able to set up factories in their own countries to produce our 
-           systems.
+           systems cheaply and sustainably. We will propagate our pan-human democratic social system for space 
+           to be adopted by these governments when they send out their citizens into space.
            </p>
            
            <p>
-           Once these systems are built by the governments they should charge the masses minimal fees 
-           or ideally no fees at all for personal ownership of some of these systems ( say our wearable computer ) 
-           or when being passengers ( say on our spaceships ) or when living in space habitats. And no tax too. 
-           For example, an individual’s trip to the Moon should have a max seat price of 100 dollars 
-           or ideally free.
+           Once these techno systems are built by the governments they should charge their citizens minimal fees 
+           or ideally no fees and no tax at all for personal ownership of some of these systems ( say our wearable computer ) 
+           or when being passengers ( say on our spaceships ) or when living in space habitats. For example, an individual’s trip 
+           to the Moon should have a max seat price of 100 dollars or ideally free.
            </p>
-                       
+
            <p style='margin-bottom:1em;'>
            To start our journey to space, by 2031 two people will go to Low Earth Orbit in 
            our Alef-A airship-spaceship, orbit Earth and return gently through the atmosphere 
@@ -3633,6 +3650,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
