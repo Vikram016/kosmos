@@ -293,13 +293,13 @@ modalText.innerHTML = `
              </li>           
            </ul>
            
-           <h2>How women are excluded by artificial techno-social restrictions</h2>
+           <h2>How women are excluded from space by artificial techno-social restrictions</h2>
 
            <p>
            In Western societies especially, for more than a hundred years, women are imposed with an unnatural social situation 
            of having to not be the natural chubby, voluptuous self that is normal for most women. This imposition declares that women will be 
            attractive only if they are thin and not if they are voluptuous. This is a ridiculous imposition but it is the norm in the West 
-           for such a long time and it came to be because of two reasons :
+           for such a long time and it came to be because of four reasons :
            </p>
 
            <li style="margin-left:1em; margin-bottom:10px;"> 
@@ -331,21 +331,57 @@ modalText.innerHTML = `
            an artificial word to scare women into getting six-packs and hard forms far from the naturally womanly self of voluptuousness 
            which not only makes the woman actually look nice but is actually healthy for the woman and women have been nicely healthy being voluptuous 
            since eternity in human history. But the "health and wellness industry" convinced many women to use its slimming, thinning and 
-           muscle-building products and thus now the "health and wellness industry" is worth in money terms of more than six trillion dollars by end of 2023. 
-           Yet again, Capitalism made money by selling needless products.        
+           muscle-building products and it promoted the word "fitness" for women to be thin and muscular and thus now the "health and wellness industry" 
+           is worth more than six trillion dollars by end of 2023. Yet again, Capitalism made money by selling needless products.
            </li>
 
            <li style="margin-left:1em; margin-bottom:10px;"> 
-           <span>(d).</span> 
+           <span>(d).</span> To further the above agendas the Western film industries and TV industries long promoted heroines and vamps 
+           who are thin and not voluptuous. If there was to be a female comedy character, many times it would be a woman 
+           who wasn't the artificially desirable thin but voluptuous and great efforts were made to make that woman character 
+           unattractive. No attractive voluptuous woman character was presented in these films and TV shows.
            </li>
 
-           <h2>Techno-social restrictions</h2>
+           <li style="margin-left:1em; margin-bottom:10px;"> 
+           <span>(e).</span> And those celeb women who were not thin but were promoted by these agendas, their forms looked unnatural 
+           with no natural womanly softness, no natural feminineness... just fake and cringey. This model for women was also presented 
+           as heroines in comic books, computer games and films.
+           </li>
+
+           <li style="margin-left:1em; margin-bottom:10px;"> 
+           <span>(f).</span> Most heterosexual men in Western societies became part of these agendas by becoming brainwashed 
+           to find as attractive only thin women or those fakely-curved-and-hard-bodied celeb women.
+           </li>
+
+           <p>
+           In non-Western societies the frivolous women adopted the thin-is-in and "fitness" idea from the West 
+           and thus the idea was furthered in more geographies. In some non-Western societies where prevalent culture 
+           discriminated against women traditionally it was automatic that women were tried to be kept thin 
+           traditionally through art or by deliberate starvation in families and when the moden West presented 
+           the "thin-is-good" and "fitness fantastic" idea, these societies eagerly adopted the above agendas
+           including because such societies were inherently Capitalist and thus friendly to the 
+           "health and wellness industry".
+           </p>
+
+           <p>
+           So it became that the current space industry too, especially the one in the West, imposed these unnatural and unaesthetic 
+           shape restrictions on women candidates on the few and already restricted human space programs. This was by telling 
+           the women that getting to space and living in space means being "fit" and this will by heavy exercise before the space journey and
+           only then they will be considered for selection. Heavy exercise for women is also present in the International Space Station 
+           using the excuse that without such exercise the muscles and the bones of the women, and the men, will weaken and corrode because 
+           of the weightlessness in that space environment. And then the space residents will have their arms and legs broken easily and 
+           will not be able to lift things and operate the equipment and even lead a normal life in space and upon returning to Earth's gravity. 
+           Another reason for these artificial restrictions on women was because the current space vehicles of the West can carry only a restricted 
+           number of people and women candidates for space are few anyway.
+           </p>
+
+           <h2>Conclusion of the problems</h2>
            
            <p style='margin-bottom:1em;'>
-           So all this hurry-burry and artificial glamor of the current space industry is pointless in the end for 
-           the at least million other desirers of space travel who will never leave Earth and the very rich owners of most 
-           current space agencies will keep profiting from this hurry-burry and from the 
-           complicated, expensive and unsafe current launch systems yet the ordinary desirers 
+           So all this artificial glamor of the current space industry is pointless in the end for 
+           the at least million other desirers of space travel, including women, who will never leave Earth and 
+           the very rich owners of most current space agencies will keep profiting from this competition for the few seats 
+           and from the complicated, expensive, unsafe and very few launch systems yet the ordinary desirers 
            and humanity in general are encouraged to glorify this industry and its feudal owners. 
            These are fake heroes.
            </p>
@@ -3599,5 +3635,6 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
