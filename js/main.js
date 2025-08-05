@@ -60,30 +60,35 @@ modalText.innerHTML = `
            right now for the below reasons :</p>
            
            <ul style='margin-bottom:1em;'>
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Tourism i.e. 
-             just the simple natural act of experiencing the kosmos.</li>
+             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> 
+             Just the simple natural act of experiencing the kosmos including by living 
+             on the Moon, the asteroids and other space objects.</li>
 
              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Mining moons, 
              asteroids and other space bodies.</li>
 
              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Research including to 
-             find life and to try to terraform other worlds to set up new homes for humans.</li>
+             find life and to try to terraform other worlds to become newer versions of Earth.</li>
 
            </ul>
            
-           <p>But in the context of the current space industry most people 
-           will never be able to go to space because the space industry imposes technological restrictions 
-           and anti-democratic social restrictions which we list below.</p>
+           <p>
+           But in the context of the current space industry most people will never be able to go to space 
+           because the space industry imposes technological restrictions and anti-democratic social restrictions 
+           which we list below.
+           </p>
            
            <h2>Technological restrictions of the current space industry</h2>
            
-           <p>The current means of going to space is the Tall Rocket 
-           which is an inefficient, expensive, complicated and unsafe system in the following ways :</p>
+           <p>
+           The current means of going to space is the Tall Rocket which is a system that is inefficient, expensive, complicated, 
+           unsafe, ugly, non-universal and non-renewable in the following ways :
+           </p>
            
            <ul>
              <li style="margin-left:1em; margin-bottom:10px;"> 
-             <span>(a).</span> Inefficient because the rocket has to expend a lot of non-recoverable chemical fuel to
-             rise even one centimeter off the launch pad and then to keep rising through the atmosphere.
+             <span>(a).</span> Inefficient : The rocket has to expend a lot of non-recoverable chemical fuel 
+             to rise even one centimeter off the launch pad and then to keep rising through the atmosphere.
              And once in orbital space it has to keep pushing out the non-recoverable fuel to give it the
              push and the direction towards the destination and then for any course corrections and then
              for braking once it is very near the destination. This requires lot of fuel and thus very large
@@ -93,57 +98,86 @@ modalText.innerHTML = `
              divide it in at least two separate parts where the part which goes to space ( the spaceship )
              will have its own fuel and engine and this part is pushed through most of the atmosphere by
              a booster rocket and in the upper atmosphere the parts separate and the booster falls or
-             does powered descent towards the ground both so that some mass is lessened and the
-             spaceship fires its own engines to go further out into space. For even slightly farther
+             does powered descent towards the ground so that some mass from the spaceship is lessened and 
+             the spaceship fires its own engines to go further out into space. For even slightly farther
              distances like the Moon, a very small cargo like a single human becomes a very small
-             carryable part of the original massive rocket. Some may think “Why not make the rocket
-             huge to be able to carry more humans ?” but the huge rocket will also need a massive
-             launch and recovery tower and other infrastructure and that simply feels neither clean nor
-             practical. An orbital spaceship should be able to launch and descend in most places without
+             carryable part of the original massive rocket. Some may think “Why not make the rocket 
+             more huge to be able to carry more humans ?” but the huge rocket will also need a massive 
+             launch and recovery tower and other infrastructure and that simply feels neither clean nor 
+             practical. An orbital spaceship should be able to launch and descend in most places without 
              any special infrastructure.
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;"> 
-             <span>(b).</span> Inefficient also because even before the rocket leaves the launch pad, it is associated
+             <span>(b).</span> Inefficient : Even before the rocket leaves the launch pad it is associated
              with massive infrastructure, even just to hold the massive rocket steady till it is ready to
              launch. And that requires the efforts of a very large number of people who may have been
              doing other works if the spacecraft system was an efficient system… even by themselves
              going to space. Attached with this inefficiency is high expensiveness of the rocket and its
-             infrastructure, including the material required to form the rocket and including the fuel
+             infrastructure, including the material required to form the tall rocket and including the fuel
              because every time the rocket launches and travels in space, its fuel is fully expended and
              thus another launch of the rocket requires new fuel, and the fuel usually is at least two forms
              coming together later and this means more expenditure of money or more obtainment of the
              fuels. Finally, if many more people have to go to space and if their means is the tall rocket
              then the above inefficiency and expensiveness will add up a lot. These negative factors
              remain even in the modern trend of reusable tall rockets having legs to descend on and
-             made ready to take flight again.
+             made ready to take flight again in at least a day.
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;"> 
-             <span>(c).</span> Complicatedness : The American phrase “As complicated as rocket science” would not
-             have existed if people, to go to space, were not using tall rockets which inherently are very
-             complicated to make in terms of fuel tanks, their plumbing, their electrical and other control
+             <span>(c).</span> Complicatedness : The tall rockets are inherently very complicated to make 
+             in terms of fuel tanks, their plumbing, their electrical and other control 
              systems, the engine system, their staged structure, their landing system like legs and their
              difficultyness to make them safe for humans. Associated complicatedness is also in the
              launch infrastructure.
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;"> 
-             <span>(d).</span> Non-safety : Other than the above point about complicateness, there is the direct fact of
-             non-safety starting from when the tall rocket starts to launch. Most of the mass of the rocket
-             is fuel and thus the rocket can explode spectacularly when launching or after launching or
-             then on in space. Within an atmosphere if the rising rocket stops the fuel supply to the
-             engine for even one second, even because of error, it will crash to the ground and destroy
-             the humans within it and also a large area where it crashes. That is why rocket launch
+             <span>(d).</span> Non-safety : The non-safety factor starts from when the tall rocket starts to launch. 
+             Most of the mass of the very complicated tall rocket is fuel and thus the rocket can explode spectacularly 
+             when launching or after launching or then on in space. Within an atmosphere if the rising rocket stops the fuel supply 
+             to the engine for even one second, even because of error, it will crash to the ground and destroy 
+             the humans within it and also a large area where it crashes. That is why rocket launch 
              stations are set up in isolated places, whether near the sea or in deserted lands or in remote
-             forests or in remote mountains. And especially when a lot more rockets have to be built to
-             take a lot more humans to space, the inefficiency and complicatedness will contribute to
-             making them even more unsafe for humans. Another non-safety situation about the tall
-             rocket is that since it is vertically very large it can easily topple during quakes in the ground it
-             is standing on using its legs. This say on the Moon. What is the point of the space industry
-             saying “Travel in space is risky” when the most immediate risk is on Earthen rocket launch
-             stations ?
+             forests or in remote mountains. And especially when a lot more rockets have to be built to 
+             take a lot more humans to space, the tall rocket's complicatedness and inefficiency will contribute to
+             making them even more unsafe for humans. Another non-safety situation is that since the tall rocket 
+             is vertically very large it can easily topple during quakes in the ground it is standing on using its legs. 
+             This say on the Moon. So, what is the point of the current space industry saying “Travel in space is risky” 
+             when the most immediate risk is on the Earthen rocket launch stations before the tall rocket 
+             even gets to space ? Non-safety is also in the chemistry and physicality of the fuels for the tall rockets. 
+             Some tall rockets use highly poisonous fuels like UDMH which poison the environment too and can cause severe burns and 
+             eye injury on contact. Other fuels like liquid hydrogen, liquid oxygen and liquid methane 
+             are stored at cryogenic temperatures i.e. below -150 celsius and if these fuels should fall on humans, 
+             there is immediate death. Kerosene rocket fuel can cause not only skin burns with prolonged contact, 
+             which can happen to the tall rocket workers, but kerosene in inhaled in large amounts can result 
+             in even more serious situations like coma.           
              </li>
+
+             <li style="margin-left:1em; margin-bottom:10px;"> 
+             Ugliness : Just like the skyscrapers on Earth are so ugly 
+             but are called as advancement by misguided people, so also the tall rocket looks ugly but gets called 
+             as advancement by many people. Presently the trend is to build rocket systems that collectively stand 
+             more than 100 meters tall and describe them in awed terms - "As tall as a 40-storey building"... 
+             ridiculous.
+             </li>
+
+             <li style="margin-left:1em; margin-bottom:10px;"> 
+             Non-universality : There is presently a chaos through the use of different types and sizes of tall rockets 
+             to launch different numbers of humans and to carry different sizes of non-human cargo. Some tall rockets have side boosters and 
+             some have more than thirty engines. Humans cannot be carried on the non-human cargo tall rockets because the latter are not "man-rated" 
+             i.e. they are not at all built to be "safe" to carry humans, with us understanding that no tall rocket is actually trustworthy, 
+             "man-rated" or not. This variety of tall rockets also has created a chaos in the manufacturing and launching of tall rockets 
+             including their computer systems and most involved people get to know only a few types of tall rockets in their entire life.
+             </li>
+
+             <li style="margin-left:1em; margin-bottom:10px;"> 
+             Non-renewable : Tall rocket fuels like paraffix wax and kerosene are petroleum products which are easily understood to be 
+             non-renewable on Earth. The all-metal structures in tall rockets are also non-renewable in the sense that these metals have to be 
+             mined in big quantity to obtain more material for more tall rockets and a lot of it even for a single tall rocket. And the nature 
+             of the tall rocket means a bigger refinement process for the mined metals.
+             </li>
+
            </ul>
            
            <p>Thus the Tall Rocket is an obsolete method of travel to space.</p>
@@ -154,29 +188,44 @@ modalText.innerHTML = `
            from the ground from a runway like a regular aeroplane usually using jet engines but when it 
            reaches higher atmosphere it fires another set of engines which are a multiple of small rocket 
            engines which push the space-plane to orbit and then farther into not-distant space. A variation 
-           has a single type of engines which operate both as the takeoff engines and then the space-taking 
-           engines. However, the space-plane has the following disadvantages : </p>
+           has a single type of engine whose multiples are fixed in the spaceplane and they will operate first as 
+           the takeoff engines and then in higher Earthen atmosphere they will operate as the space-taking engines. 
+           However, despite no space-plane design organization claiming that the space-plane will be used for 
+           long-distance space travel, like Earth to Red One, the space-plane has the following disadvantages :
+           </p>
            
            <ul>
              <li style="margin-left:1em; margin-bottom:10px;">
-              <span>(a).</span> The space-plane requires a dedicated airport / spaceport system including a lengthy
-               runway and this adds greatly to complicatedness, expensiveness and inconvenience.
-               </li>
+             <span>(a).</span> The space-plane requires a dedicated airport / spaceport system including a lengthy
+             runway and this adds greatly to complicatedness, expensiveness and inconvenience.
+             </li>
              
-              <li style="margin-left:1em; margin-bottom:10px;">
-             <span>(b).</span> A space-plane airport / spaceport on Earth is
-              one thing but what about places without spaceports, which is any other world except for Earth. 
-              For example, if we are using a space-plane to go to the Moon where there is no spaceport and 
-              runway, how will this infrastructure be built so that the space-plane is able to land for the 
-              first time ? If we build a separate lander craft for such situations, carried as cargo on the
-               space-plane, the entire system will become complicated just to travel nearer distances in space 
-               like to the Moon. This leads to inefficient economics, expensiveness and compromise on human 
-               safety.</li>
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span>(b).</span> A space-plane airport / spaceport on Earth is one thing but what about places without spaceports, 
+             which is any other world except for Earth. For example, if we are using a space-plane to go to the Moon where there is 
+             no spaceport and runway, how will this infrastructure be built so that the space-plane is able to land for the 
+             first time ? If we build a separate lander craft for such situations, carried as cargo on the space-plane, 
+             and carrying some humans, raw material and machines to build a runway for the spaceplane to land, 
+             the entire system will become complicated just to travel nearer distances in space like to the Moon. This leads to 
+             inefficient economics, expensiveness and compromise on human safety.
+             </li>
             
              <li style="margin-left:1em; margin-bottom:10px;">
-             <span>(c).</span> The space-plane airport / spaceport / 
-             runway is as easily affected by natural calamities and other situations like regular aeroplane 
-             airports are prone to. This is inconvenient to say the least.</li>
+             <span>(c).</span> The space-plane airport / spaceport / runway is as easily affected by natural calamities and other situations 
+             like regular aeroplane airports are prone to. This is inconvenient to say the least.
+             </li>
+
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span>(d).</span> The size of the space-plane becomes limited by the length and width of the runway, by the power of its lifting engines, 
+             by how much stress its necessary wings can take and by its inherent aeroplane-based complicatedness. Thus the space-plane will practically 
+             never be able to carry more than 20 people to space.
+             </li>
+
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span>(e).</span> The space-plane is an aeroplane-based craft and aeroplanes are very complicated and this will make it more difficult 
+             to make the space-plane reliable if it has to takeoff regularly to space.
+             </li>
+             
              </ul>
            
              <p>So the Space-plane is also not the solution.</p>
@@ -3480,3 +3529,4 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
