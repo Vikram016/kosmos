@@ -1537,7 +1537,7 @@ modalText.innerHTML = `
            salary as long as the system of money remains. </p>
 
            <p style="margin-bottom:10px;"> <span> >> </span> The organization will be headed by a General Coordinator ( GC ) who for some years to 
-           come will be Sameer who is described on this website in the "Our founders" chapter. The General Coordinator 
+           come will be Sameer who is described on this website in the "Our company's workers" chapter. The General Coordinator 
            will be approachable to every worker, will be the interface within the organization and externally, 
            and every worker if necessary can arrange to call a discussion circle with a notification sent 
            to the GC. Further, each of our branches in other countries or regions ( those not India ) will 
@@ -1848,8 +1848,8 @@ modal.style.display = 'none';
 }
 }, 0);
 
-// 04. Our founders
-} else if (chapter === 'founders') {
+// 04. Our company's workers
+} else if (chapter === 'cworkers') {
 modalText.innerHTML = `
        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
          <style>
@@ -1957,7 +1957,7 @@ modalText.innerHTML = `
            
          </style>
                   
-           <h2>Our founding team</h2>
+           <h2>Our company's workers</h2>
           
             <div>
             <img src="assets/Sameer .jpeg" 
@@ -3478,6 +3478,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
