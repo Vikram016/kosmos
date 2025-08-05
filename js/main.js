@@ -372,7 +372,8 @@ modalText.innerHTML = `
            of the weightlessness in that space environment. And then the space residents will have their arms and legs broken easily and 
            will not be able to lift things and operate the equipment and even lead a normal life in space and upon returning to Earth's gravity. 
            Another reason for these artificial restrictions on women was because the current space vehicles of the West can carry only a restricted 
-           number of people and women candidates for space are few anyway.
+           number of people and women candidates for space are few anyway. And most space organizations in other parts of the world 
+           needlessly follow this system set in the modern West.
            </p>
 
            <h2>Conclusion of the problems</h2>
@@ -389,41 +390,38 @@ modalText.innerHTML = `
            <h2>Our solution : The Iskra Plan</h2>
            
            <p style='margin-bottom:1em;'>
-           In the Russian language "Iskra" means Spark, especially one which ignites positive change. In the context of our organization our Iskra Plan is our spark for all humans 
+           In the Russian language "Iskra" means Spark, especially one which ignites positive change. 
+           In the context of our organization our Iskra Plan is our spark for all humans 
            to light the flame to explore the entire universe to the max extent possible and settle 
            in space in a way that is simple, gentle, safe, pan-humanist in a progressive way 
            and respectful of Nature and Nature’s laws. Space travel must become as common as bus travel, 
            and space living as common as hotel stay, and these should flow into evolving human 
            society on Earth too. Potentially every human should be able to access space, 
            live in space and attain their potential in space, whenever he or she desires, 
-           with a minimal usage fee or no fee at all, in the now and in the far far future. 
+           with a minimal usage fee or no fee at all, and no woman must be told to become heavily exercised 
+           to be allowed into space, ignoring her natural feminen form. All this in the now and in the far far future. 
            This is the simple law of Nature.
            </p>
            
            <p style='margin-bottom:1em;'>
-           Towards this, we of Kosmos Society will build all 
-           the systems, whether the spaceships or the computers or self-sustaining compact electricity generators 
-           or the spacesuits or the habitation systems or the social system for space and every other 
-           necessary thing, and all this in a simplified and straightforward manner, 
-           without caring for obsolete and needless "industry standards", unthoughtful academic postulations, 
-           cringey technological fashions, anti-democratic and anti-Nature social constructs. 
+           We of Kosmos Society will build all the space systems, whether the spaceships or the computers or 
+           self-sustaining compact electricity generators or the spacesuits or the habitation systems or 
+           the social system for space and every other necessary thing, and all this in a simplified and straightforward manner, 
+           without caring for obsolete and needless "industry standards", unthoughtful academic postulations, cringey technological 
+           fashions, idiotic corporate language, ignoring of simple ideas, anti-democratic and anti-Nature social constructs. 
            What works, works. What is sensible, is sensible. What can be simplified, must be simplified. 
            What is natural, has to be the system.
            </p>
            
            <p style='margin-bottom:1em;'>
-           Starting 2035 our-designed spaceships will be able to 
-           carry some humans and goods safely to the Moon and in subsequent years our-designed spaceships 
-           will be able to travel throughout the Inner Solar System and Outer Solar System, 
-           carrying large number of humans and goods and our other technologies will enable living in those regions.
-           “Inner Solar System” means to safely near the Sun in one direction and the Asteroid Belt in the other 
-           direction, and “Outer Solar System” means beyond the Asteroid Belt to Pluto and beyond. This will 
-           be just the start.</p>
+           Starting 2035 our-designed spaceships will be able to carry some humans and goods safely to the Moon and 
+           in subsequent years our-designed spaceships will be able to travel throughout the Inner Solar System and Outer Solar System  
+           i.e. from the Moon to towards the Sun and to the edges of the Solar System. This will be just the start.
+           </p>
                        
            <p style='margin-bottom:1em;'>
-           Most of our systems will be usable on Earth either directly 
-           or in derivation, and all our systems will be simplified, manufacturable cheaply, operable
-           cheaply and repairable cheaply, and the manufacturers will be national governments who will
+           Most of our systems will be usable on Earth either directly or in derivation, and all our systems will be simplified, 
+           manufacturable cheaply, operable cheaply and repairable cheaply, and the manufacturers will be national governments who will
            purchase from us the designs and engineering details of our systems for a reasonably cheap 
            license fee and they will be able to set up factories in their own countries to produce our 
            systems.
@@ -431,8 +429,8 @@ modalText.innerHTML = `
            
            <p>
            Once these systems are built by the governments they should charge the masses minimal fees 
-           or no fees at all for personal ownership of some of these systems ( say our wearable computer ) 
-           or when being passengers ( say on our spaceships ) or when living in space habitats. 
+           or ideally no fees at all for personal ownership of some of these systems ( say our wearable computer ) 
+           or when being passengers ( say on our spaceships ) or when living in space habitats. And no tax too. 
            For example, an individual’s trip to the Moon should have a max seat price of 100 dollars 
            or ideally free.
            </p>
@@ -3635,6 +3633,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
