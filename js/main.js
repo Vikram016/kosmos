@@ -148,8 +148,8 @@ modalText.innerHTML = `
            from beyond when humans settle on other worlds and in free space, starting 12 years from now ( by 2037 ) 
            when humans have at least started living on the Moon and then in few more years, 
            living in the Asteroid Belt which sits in the space between Red One and Jupiter 
-           and then beyond the Asteroid Belt.
-           </P>
+           and then beyond the Asteroid Belt to the edges of the Solar System and beyond.
+           </p>
 
            <p>
            This draft is not a full preparation but still substantial and we will further 
@@ -160,7 +160,7 @@ modalText.innerHTML = `
            <h2>The universe and human nations on Earth</h2>
            
            <p>
-           The universe has existed forever, much before some human scientists and academics foolishly
+           The universe has existed forever, much before some modern human scientists and academics foolishly
            affixed an age to it on the basis of needless mathematics i.e. the Big Bang Theory and now
            there are two Big Bang theories. Space has existed before human nations existed on Earth,
            before Earth itself existed. The concept of Earthen Nations / Nation States
@@ -169,7 +169,7 @@ modalText.innerHTML = `
            Republic which was meant to become citizen-governed with natural human freedoms as
            against France previously being a typical kingdom governed by a supreme oppressive feudal lord.
            We must look at this further to understand the non-kosmos non-natural basis of human nations.
-           </P>
+           </p>
 
            <p>
              The famous slogan "Liberty, Equality, Fraternity" which our organization also uses
@@ -177,14 +177,14 @@ modalText.innerHTML = `
              against the feudal dominance of the kings and their queens where the kings considered themselves
              appointed to eternal kinghood by God, by the God of Jesus Christ they claimed, 
              but this is contradiction as Jesus / Isa was one of the greatest rebels, liberators and social reformers
-             of history whose God was not the oppressor which these kings of France were
-             and these kings were supported by priests, and priests were a class
-             opposed by Jesus, and the kings were also supported by merchants who took usury 
-             and profited in every form off the misery of fellow citizens. Such merchants also had 
-             been rebelled against by Jesus. And these three types of mutually-back-scratching self-appointed 
-             socially superior people in royal France lived grandly by walking on the backs of the ordinary French people. 
-             And these oppressed ordinary people were told to be grateful for being oppressed.
-             </P>
+             of history whose idea of God was not the oppressor which these kings of France were
+             and these kings were supported by priests, and priests were a class opposed by Jesus, 
+             and the kings were also supported by merchants who took usury and profited in every form off the misery 
+             of fellow citizens. Such merchants also had been rebelled against by Jesus. And these three types of 
+             mutually-back-scratching self-appointed socially superior people in royal France lived grandly by walking 
+             on the backs of the ordinary French people. And these oppressed ordinary people were told to be grateful for being oppressed 
+             for millenia.
+             </p>
 
              <p>        
              The ordinary French citizen lived in multi-generational slum life in the cities
@@ -201,7 +201,7 @@ modalText.innerHTML = `
              for the kings' treasury and more death, maiming and famine for the ordinary French. 
              The king ate the most luxuriously prepared dinners and the ordinary French endured 
              famine with usually not even the basic bread.
-             </P>
+             </p>
 
             <p>
             System-promoted language in Royal France and remainder of Medieval Europe also took on the class oppression 
@@ -236,11 +236,10 @@ modalText.innerHTML = `
            <p>
            This revolutionary French stream continued to the next century and in 1871 the French progressive pan-humanist 
            Eugene Pottier wrote the song "The Internationale" which called for all wretched and hungry humans of Earth to arise 
-           and rebuild Earth with a clean slate where the oppression by the profiteers and the hollow promises 
-           of the priests promising divine salvation of the peasants and the heavy rule of the monarchs, 
-           all these have been cast aside by the peasants emancipating themselves and establishing 
-           throughout Earth a society of equals, collective welfare and true productivity, and human race 
-           becomes one harmonious people on whom the sun of freedom will at last shine. This song 
+           and rebuild Earth with a clean slate where will be replaced the oppression of the heavy rule of the monarchs and the profiteers and 
+           the fake promises of the priests of divine salvation of the peasants. All these to be cast aside by the peasants emancipating themselves and 
+           establishing throughout Earth a society of equals, collective welfare and true productivity, and the human race 
+           becoming one harmonious people on whom the sun of freedom will at last shine. This song 
            "The Internationale" later was adopted by various progressive pan-humanists across the world 
            and in the context of our company based in India, this song was first translated into 
            the Indian context by the poet Kazi Nazrul Islam in his native Bengali language, 
@@ -248,10 +247,11 @@ modalText.innerHTML = `
            against the then British colonial rule.
            </p>
            
-           <P>But the humanist concept of Republic from revolutionary France became distorted
+           <p>
+           But the humanist concept of Republic from revolutionary France became distorted 
            in the succeeding two centuries and the pan-humanist evocative song "The Internationale" sadly was 
            made forgotten so now in 2025 the ideas of "Natural liberty, equality and fraternity among all humans"
-           has largely and sadly been replaced with "Unnatural and hatred-full divisions among humans who are divided into
+           has largely and sadly been replaced with "Unnatural class divisions and border divisions among humans who are divided into
            kingdom-like nations and the hatreds between nations enforced by needless, forever wars".
            </p>
 
@@ -259,7 +259,7 @@ modalText.innerHTML = `
            The great Indian philosopher Rabindranath Tagore spoke against this hate-bringing divison of humanity into nations 
            in his 1917 essay "Nationalism in India". He says that from childhood he had been taught that the idolatry of Nation 
            is supreme than reverence for god and humanity but he outgrew that teaching and was 
-           convinced that his countrypeople will get the evolved society of their dreams by rejecting 
+           convinced that his countrypeople and humanity in general will get the evolved society of their dreams by rejecting 
            the education which teaches that a country is greater than the ideals of humanity.
            </p>
 
@@ -267,40 +267,36 @@ modalText.innerHTML = `
            To extend Tagore's idea, there is difference between patriotism and nationalism. 
            Patriotism means inherent love for the oppressed, the innocent and the sensible of one's own society and 
            wanting one's society to become gentle, empathetic, just, rights-filled, having all reasonable freedoms and evolved 
-           and having fraternity with the oppressed, the innocent and the sensible of all of humanity. 
-           Nationalism, in particular Ultranationalism, however is the opposite, narrow and contradictory concept which ignores the oppressed, 
-           the innocent and the sensible in one's own society and in fact maintains class-based and race-based hate and contempt 
-           for the oppressed, the innocent and the sensible in one's own society but has a strange hate for unknown people 
-           outside one's borders who have done them no harm.
+           and having fraternity with all of humanity. Nationalism, in particular Ultranationalism, however is the opposite, 
+           narrow and contradictory concept which ignores the oppressed, the innocent and the sensible in one's own society and 
+           in fact maintains class-based and community-based hate and contempt for the oppressed, the innocent and the sensible 
+           in one's own society but has a strange hate for unknown people outside one's borders who have done them no harm.
            </p>
 
            <p>
-           It is often found that ultranationalism is most present in those societies which have class system 
-           and in these it is the middle class especially who indulges in this contradiction. The middle class person 
+           Often, ultranationalism is most present in those societies which have class system 
+           and in these it is the middle class especially who indulge in this contradiction. The middle class person 
            often employed in feudal organizations as a monthly wager, on his daily trip to and from his office, 
-           passes by the same homeless and hungry people on the footpath, but never stopping by 
-           to take a blanket, clothes and food to them, never even giving 20 dollars to them, 
-           never filling with tears when hearing that some of those homeless died of hunger 
-           that morning, never filling with sadness and a "What ???" when hearing that that homeless person lay hungry for three days, 
-           in full view of the road, and another middle class person brought luxurious food for five dogs 
-           on that same road, and then that hungry human died of hunger.
+           passes by the same homeless and hungry people on the footpath, but will never stop 
+           to take a blanket, clothes and food to them, will never even give 20 dollars to them, 
+           never will fill with tears after hearing that some of those homeless died of hunger 
+           that morning, never will be anger and disappointment and a "What ???" when hearing that that homeless person 
+           lay hungry for three days, in full view of the road, and another middle class person brought luxurious food for five dogs 
+           on that same road 20 feet away from the hungry person, and then that hungry human died of hunger.
            </p>
            
            <p>
-           But this same apathetic, monthly-wage middle class person is the first to scream war against a society 
-           5000 kilometers away where there are no homeless and hungry humans and no wage slaves because every human there is close 
-           to having all the natural freedoms due to humans who don't depend on wage from exploiting feudals and who don't 
-           have to struggle to take ungiving permissions of family elders just to love a person of the opposite gender... 
-           and our middle class person will call that humanist society a "rogue nation" that must be genocided 
-           so that "Democracy" can be brought there, LOL. And when that "rogue anti-democracy nation" is being genocided, 
-           our middle class person will continue to be a voluntary slave in his feudalist corporation, 
-           never speaking of democracy in his own feudal workplace he has worked for 30 years, and even seen 
-           his colleagues having their hands cut up by a machine but the bosses not caring, 
-           and then our middle class person will go on his third religious pilgrimage in five years and 
-           bring back "holy items" to give to his middle class office colleagues, neighbors and relatives 
-           who receive them with reverence.
-           </P>
-
+           But this same apathetic, monthly-wage middle class person is the first to scream war against a progressive society 
+           5000 kilometers away where there are no homeless and hungry humans and no wage slaves because every human there is closer 
+           to having all the natural freedoms due to humans who don't depend on measly wage from rich exploitative feudals who would have
+           rather wished that they did not have to give even that measly wage but could extract every work 
+           from the workers. And in that other faraway progressive society citizens don't have to struggle to take ungiving permissions of family elders 
+           just to love a person of the opposite gender or to invent, write, paint and observe the universe without being told to either 
+           earn money to be called of worth or just die silently. But our unthinking middle class person will call that humanist society a "rogue nation" 
+           which must be changed even by genocide so that "Democracy" can be brought there and Free Market can be brought there 
+           and the anti-worker teachings of B-schools can be brought there, LOL.
+           </p>         
+           
            <p>
            Tagore further says in that 1917 essay that societies try to unite their citizens into one idea 
            but he says that unless their internal oppressive contradictions and oppressive social customs are addressed and resolved, 
@@ -486,8 +482,45 @@ modalText.innerHTML = `
            organizing them as Workers Cooperatives. The idea of Workers Cooperative has association 
            with the older ideas of liberty, equality and fraternity, and enables true democracy via participatory 
            democracy where every human present in the organzation participates in the continuance 
-           of that organization equally and benefits from it equal to other members. A Workers Cooperative has ten 
-           general outcomes :
+           of that organization equally and benefits from it equal to other members.
+
+           <p>
+           And when that "rogue anti-democracy nation" is being genocided and being given "Democracy", 
+           our middle class person will continue to be a voluntary slave in his feudalist corporation, 
+           never speaking of actual democracy in his own feudal workplace he has worked for 30 years, never calling for equal division of rights, labor and income among all involved in the company, 
+           never speaking for reforming the local monarchs in the company in form of the few company owners and the Management who do the irrational thing of taking away the majority of the 
+           company's income which had very less of their own labor and most labor was by the lower workers, and will shout and order around 
+           the lower workers, and will even cut money from the measly income of the workers by calling these cuts as 
+           charges for the few reluctantly given facilites like canteen and transport.
+           </p>
+           
+           <p>
+           Our typical middle classee will have even seen his colleagues having their hands cut up by a machine 
+           and the bosses not caring, but our middle classee will not protest this apathy of the bosses, 
+           and he will not call for a million dollars to be given to the injured worker from the many millions owned by the bosses. 
+           He will see a co-worker in the very next workstation die of heart failure because of needless over-work 
+           which never got that dead person the same million-dollar salary as the boss, but neither our 
+           middle classee will attend the funeral of his co-worker nor will the bosses. Our middle classee 
+           will instead consider this apathy of the bosses and his own apathy as part of "professional life". He will not take his injured or dying colleagues 
+           to be seen to but will take leave from workplace to go on his third religious pilgrimage in five years and 
+           will bring back "holy water" to give to his middle class office colleagues, neighbors and relatives 
+           who receive it with reverence.
+           </p>
+           
+           <p>
+           This middle class person will enter into this exploitative, feudal workplace at age 25 and will spend his next 40 years there, 
+           without the thought of natural human dignity and rights as a worker, without protest, and then he will be told he is now 
+           65 of age and he has arrived upon the age of Retirement and must leave the workplace. 
+           He then is left with not much money to live by. He has been a voluntary slave for 40 years 
+           and will push his children too into this life of slavery. In neighborhood parks in the morning 
+           he will sit with other retirees and a set of younger followers and will vent outrage at supposed sale 
+           of women in open markets in some other culture, declaring this culture to be evil which enslaves 
+           women, but he will not consider that he himself has voluntarily lived a slave life and he has put his 
+           children into this slave life and he advises any youngster he comes across to also do so.
+           </p>
+
+          
+           <p> A Workers Cooperative has ten general outcomes :
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -3482,5 +3515,6 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
