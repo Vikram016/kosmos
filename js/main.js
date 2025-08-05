@@ -431,8 +431,11 @@ modalText.innerHTML = `
 
          <h2>Our progressive product design principles</h2>
          <div>
-           <p><span>&gt;&gt;</span> Liberty, Equality, Fraternity, Humanism, Simplicity, Human safety as much as possible, 
-           Respect for Nature including reversing Climate Change on Earth.
+           <p><span>&gt;&gt;</span> Liberty, Equality, Fraternity, Humanism, Simplicity, Beauty, Gentleness, 
+           Human safety as much as possible, Respect for Nature including reversing Climate Change on Earth. 
+           A "Gentleness" example is renaming of the planet “Mars” to “Red One” as the former is the Roman 
+           god of war while the latter is a gentle name. A "Human safety" example is not following the 
+           silliness of nuclear fusion as the means to generate electricity.
            </p>
            
            <p><span>&gt;&gt;</span> Readiness to explore sensible methods that are from old times or are unusual.
@@ -441,13 +444,6 @@ modalText.innerHTML = `
            <p><span>&gt;&gt;</span> We won’t do a technology just because there are a hundred other companies doing it 
            or it has been done for a hundred years or just because it has been proposed by some celebrated scientist but 
            the idea is not sensible, for example the concept called Dyson Sphere aka Dyson Swarm.
-           </p>
-
-           <p><span>&gt;&gt;</span> A naturality, beauty, gentleness, simplification and intelligence in technologies and science as against trendy but dystopian 
-           and needlessly complicated things. Be Dune’sy rather than metaverse’y. This includes naming 
-           or renaming of space objects like “Red One” instead of “Mars” as the latter is the Roman 
-           god of war while the former is a gentle name. Another example is not following the 
-           silliness of nuclear fusion as the means to generate electricity.
            </p>
 
            <p><span>&gt;&gt;</span> Employ the concept of Circular Economy which also relates 
