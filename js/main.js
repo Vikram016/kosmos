@@ -82,11 +82,45 @@ modalText.innerHTML = `
            <h2>Technological restrictions of the current space industry</h2>
            
            <p>
-           The current means of going to space is the Tall Rocket which is a system that is complicated in design; 
-           uses huge amount of fuel that is also dangerous for life and is expensive, non-recoverable and very explosive fuel; 
-           is very inefficient in terms of fuel, size and carrying capacity; has no single type that can carry both humans 
-           and other types of cargo; is very expensive to make; is associated with a huge launch infrastructure;
-           is as safe as sitting on a huge bomb; is as ugly as skyscrapers. The Tall Rocket is an obsolete method of travel to space.
+           The current means of going to space is the Tall Rocket which is a system that is :
+           </p>
+           
+           <li style="margin-left:1em; margin-bottom:10px;">
+           <span> >> </span> Is complicated in design.
+           </li>
+
+           <li style="margin-left:1em; margin-bottom:10px;">
+           <span> >> </span> Uses a huge amount of fuel that is also dangerous for life and 
+           is expensive, non-recoverable after nozzle expulsion and very explosive.
+           </li>
+          
+           <li style="margin-left:1em; margin-bottom:10px;">
+           <span> >> </span> Is as safe as sitting on a huge bomb.
+           </li>
+
+           <li style="margin-left:1em; margin-bottom:10px;">
+           <span> >> </span> Is very inefficient in terms of fuel, size and carrying capacity.
+           </li>
+
+           <li style="margin-left:1em; margin-bottom:10px;">
+           <span> >> </span> Has no single universal type that can carry both humans and other types 
+           of cargo.
+           </li>
+
+           <li style="margin-left:1em; margin-bottom:10px;">
+           <span> >> </span> Is very expensive to make.
+           </li>
+
+           <li style="margin-left:1em; margin-bottom:10px;">
+           <span> >> </span> Is associated with a huge launch infrastructure.
+           </li>
+
+           <li style="margin-left:1em; margin-bottom:10px;">
+           <span> >> </span> Is as ugly as skyscrapers.
+           </li>
+
+           <p>
+           The Tall Rocket is an obsolete method of travel to space.
            </p>
 
            <p>
@@ -132,7 +166,7 @@ modalText.innerHTML = `
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
-             <span >> </span> Or if an aspiring space traveler doesn't have the huge money he or she 
+             <span> >> </span> Or if an aspiring space traveler doesn't have the huge money he or she 
              must be associated with governments... the governments either being those whose country has 
              the very few human-launching spacecrafts or the governments being allied with the first type 
              of governments. These types of space travelers are mostly military pilots but sometimes 
@@ -3427,6 +3461,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
