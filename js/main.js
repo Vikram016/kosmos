@@ -43,7 +43,7 @@ modalText.innerHTML = `
            p{
            font-family: 'Roboto', sans-serif;
            color: #000;
-           font-size: 1.0em;
+           font-size: 1.1em;
            }
 
            span {
@@ -508,7 +508,7 @@ modalText.innerHTML = `
            p {
            font-family: 'Roboto', sans-serif;
            color: #000;
-           font-size: 1.0em;
+           font-size: 1.1em;
            }
 
            span {
@@ -519,7 +519,7 @@ modalText.innerHTML = `
              li{
              font-family: 'Roboto', sans-serif;
            color: #000;
-           font-size: 1.0em;
+           font-size: 1.1em;
              }
 
          </style>
@@ -1419,7 +1419,7 @@ modalText.innerHTML = `
            p{
            font-family: 'Roboto', sans-serif;
            color: #000;
-           font-size: 1.0em;
+           font-size: 1.1em;
            }
 
            span {
@@ -2746,7 +2746,7 @@ modalText.innerHTML = `
            p{
            font-family: 'Roboto', sans-serif;
            color: #000;
-           font-size: 1.0em;
+           font-size: 1.1em;
            }
 
            span {
@@ -2993,7 +2993,7 @@ modalText.innerHTML = `
            p{
            font-family: 'Roboto', sans-serif;
            color: #000;
-           font-size: 1.0em;
+           font-size: 1.1em;
            }
 
            span {
@@ -3096,7 +3096,7 @@ modalText.innerHTML = `
            p{
            font-family: 'Roboto', sans-serif;
            color: #000;
-           font-size: 1.0em;
+           font-size: 1.1em;
            }
 
            span {
@@ -3107,7 +3107,7 @@ modalText.innerHTML = `
          </style>
          
          <h2>Why you can contact us - Table of contents</h2>
-         <div style="color:#FFFFc5;font-size:1.0em;">
+         <div style="color:#FFFFc5;font-size:1.1em;">
            
            <p><span>&gt;&gt;</span> 
            If you want to invest funds in us.
@@ -3345,7 +3345,7 @@ modalText.innerHTML = `
            font-weight: 600;
            color: #000;
            margin-bottom: 8px;
-           font-size: 1.0rem;
+           font-size: 1.1rem;
            font-family: 'Poppins', sans-serif;
            display: flex;
            align-items: center;
@@ -3381,7 +3381,7 @@ modalText.innerHTML = `
            color: white;
            border-radius: 15px;
            text-align: center;
-           font-size: 1.0rem;
+           font-size: 1.1rem;
            font-weight: 500;
            box-shadow: 0 8px 20px rgba(103, 126, 234, 0.3);
            display: flex;
@@ -3508,7 +3508,7 @@ modalText.innerHTML = `
                width: 18px;
                height: 18px;
                margin-right: 8px;
-               font-size: 1.0rem;
+               font-size: 1.1rem;
            }
        }
 
@@ -3560,7 +3560,7 @@ modalText.innerHTML = `
            }
 
            .contact-value {
-               font-size: 1.0rem;
+               font-size: 1.1rem;
            }
 
            .tea-invitation {
@@ -3579,7 +3579,7 @@ modalText.innerHTML = `
            p{
            font-family: 'Roboto', sans-serif;
            color: #000;
-           font-size: 1.0em;
+           font-size: 1.1em;
            }
 
            span {
@@ -3651,6 +3651,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
