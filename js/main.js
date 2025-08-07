@@ -82,102 +82,11 @@ modalText.innerHTML = `
            <h2>Technological restrictions of the current space industry</h2>
            
            <p>
-           The current means of going to space is the Tall Rocket which is a system that is inefficient, expensive, complicated, 
-           unsafe, ugly, non-universal and non-renewable in the following ways :
-           </p>
-           
-           <ul>
-             <li style="margin-left:1em; margin-bottom:10px;"> 
-             <span>(a).</span> Inefficient : The tall rocket has to expend a lot of non-recoverable fuel 
-             to rise even one centimeter off the launch pad and then to keep rising through the atmosphere.
-             Once in orbital space it has to keep pushing out the non-recoverable fuel to give it the
-             push towards the destination and then for any course corrections and then
-             for braking once it is very near the destination and then for descent. This requires lot of fuel and thus very large
-             fuel tanks and these tanks increase the weight of the rocket and that creates a wrong cycle
-             which in the end leaves very less mass of the rocket for the cargo, even one human. This disadvantage 
-             remains even when the rocket makers “stage” the rocket i.e. divide it in at least two separate parts where the part 
-             which goes to space ( the spaceship ) will have its own fuel and engine and this part is pushed through most of the atmosphere by
-             a booster rocket and in the upper atmosphere the parts separate and the booster falls or
-             does powered descent towards the ground so that some mass from the spaceship is lessened and 
-             the spaceship fires its own engines to go further out into space. For even slightly farther
-             distances like the Moon, a very small cargo like a single human becomes a very small
-             carryable part of the originally massive rocket.
-             </li>
-
-             <li style="margin-left:1em; margin-bottom:10px;"> 
-             <span>(b).</span> Inefficient : Even before the rocket leaves the launch pad it is associated
-             with massive infrastructure, even just to hold the massive rocket steady till it is ready to
-             launch. And that requires the efforts of a very large number of people who may have been
-             doing other works if the spacecraft system was an efficient system… even by themselves
-             going to space. Attached with this inefficiency is high expensiveness of the rocket and its
-             infrastructure, including the material required to form the tall rocket and including the fuel
-             because every time the rocket launches and travels in space, its fuel is fully expended and
-             thus another launch of the rocket requires new fuel, and the fuel usually is at least two forms
-             coming together later and this means more expenditure of money or more obtainment of the
-             fuels. Finally, if many more people have to go to space and if their means is the tall rocket
-             then the above inefficiency and expensiveness will add up a lot. These negative factors
-             remain even in the modern trend of reusable tall rockets having legs to descend on and
-             made ready to take flight again in at least a day.
-             </li>
-
-             <li style="margin-left:1em; margin-bottom:10px;"> 
-             <span>(c).</span> Complicatedness : The tall rockets are inherently very complicated to make 
-             in terms of fuel tanks, their plumbing, their electrical and other control 
-             systems, the engine system, their staged structure, their landing system like legs and their
-             difficultyness to make them safe for humans. Associated complicatedness is also in the
-             launch infrastructure.
-             </li>
-
-             <li style="margin-left:1em; margin-bottom:10px;"> 
-             <span>(d).</span> Non-safety : The non-safety factor starts from when the tall rocket starts to launch. 
-             Most of the mass of the very complicated tall rocket is fuel and thus the rocket can explode spectacularly 
-             when launching or after launching or then on in space. Within an atmosphere if the rising rocket stops the fuel supply 
-             to the engine for even one second, even because of error, it will crash to the ground and destroy 
-             the humans within it and also a large area where it crashes. That is why rocket launch 
-             stations are set up in isolated places, whether near the sea or in deserted lands or in remote
-             forests or in remote mountains. And especially when a lot more rockets have to be built to 
-             take a lot more humans to space, the tall rocket's complicatedness and inefficiency will contribute to
-             making them even more unsafe for humans. Another non-safety situation is that since the tall rocket 
-             is vertically very large it can easily topple during quakes in the ground it is standing on using its legs. 
-             This say on the Moon. So, what is the point of the current space industry saying “Travel in space is risky” 
-             when the most immediate risk is on the Earthen rocket launch stations before the tall rocket 
-             even gets to space ? Non-safety is also in the chemistry and physicality of the fuels for the tall rockets. 
-             Some tall rockets use highly poisonous fuels like UDMH which poison the environment too and can cause severe burns and 
-             eye injury on contact. Other fuels like liquid hydrogen, liquid oxygen and liquid methane 
-             are stored at cryogenic temperatures i.e. below -150 celsius and if these fuels should fall on humans, 
-             there is immediate death. Kerosene rocket fuel can cause not only skin burns with prolonged contact, 
-             which can happen to the tall rocket workers, but kerosene in inhaled in large amounts can result 
-             in even more serious situations like coma.           
-             </li>
-
-             <li style="margin-left:1em; margin-bottom:10px;"> 
-             <span>(e).</span> Ugliness : Just like the skyscrapers on Earth are so ugly 
-             but are called as advancement by misguided people, so also the tall rocket looks ugly but gets called 
-             as advancement by many people. Presently the trend is to build rocket systems that collectively stand 
-             more than 100 meters tall and describe them in awed terms - "As tall as a 40-storey building"... 
-             ridiculous.
-             </li>
-
-             <li style="margin-left:1em; margin-bottom:10px;"> 
-             <span>(f).</span> Non-universality : There is presently a chaos through the use of different types and sizes of tall rockets 
-             to launch different numbers of humans and to carry different sizes of non-human cargo. Some tall rockets have side boosters and 
-             some have more than thirty engines. Humans cannot be carried on the non-human cargo tall rockets because the latter are not "man-rated" 
-             i.e. they are not at all built to be "safe" to carry humans, with us understanding that no tall rocket is actually trustworthy, 
-             "man-rated" or not. This variety of tall rockets also has created a chaos in the manufacturing and launching of tall rockets 
-             including their computer systems and most involved people get to know only a few types of tall rockets in their entire life.
-             </li>
-
-             <li style="margin-left:1em; margin-bottom:10px;"> 
-             <span>(g).</span> Non-renewable : Tall rocket fuels like paraffix wax and kerosene are petroleum products understood to be 
-             non-renewable on Earth. The all-metal structures in tall rockets are also non-renewable in the sense that these metals have to be 
-             mined in big quantity to obtain more material for more tall rockets and a lot of it even for a single tall rocket. And the nature 
-             of the tall rocket means a bigger refinement process for the mined metals.
-             </li>
-
-           </ul>
-           
-           <p>
-           Thus the Tall Rocket is an obsolete method of travel to space.
+           The current means of going to space is the Tall Rocket which is a system that is complicated in design; 
+           uses huge amount of fuel that is also dangerous for life and is expensive and non-recoverable fuel, 
+           is very inefficient in terms of fuel, size and carrying capacity; has no single type that can carry both humans 
+           and other types of cargo; is very expensive to make; is associated with a huge launch infrastructure;
+           is unsafe; is as ugly as skyscrapers. The Tall Rocket is an obsolete method of travel to space.
            </p>
 
            <p>
@@ -188,215 +97,82 @@ modalText.innerHTML = `
            engines which push the space-plane to orbit and then farther into not-distant space. A variation 
            has a single type of engine whose multiples are fixed in the spaceplane and they will operate first as 
            the takeoff engines and then in higher Earthen atmosphere they will operate as the space-taking engines. 
-           However, despite no space-plane design organization claiming that the space-plane will be used for 
-           long-distance space travel, like Earth to Red One, the space-plane has the following disadvantages :
+           However, the space-plane cannot be used for long-distance space travel, like Earth to Red One, and 
+           the space-plane shares the same disadvantages as a regular aeroplane so is also not the solution.
+           </p>          
+            
+           <p>
+           Some academics propose creating huge spaceships whose undersides will have mechanism 
+           to explode nuclear bombs whose massive force will push these spaceships with great speed 
+           up into space. And they can use the same nuclear bomb mechanism to fly through space. 
+           However, how will they land ? Will they carry some other fuel to land ? Given the massive size of these 
+           heavily armored craft, it will take a lot of fuel for landing. Secondly, use of nuclear bombs 
+           is not only dangerous for the environment these ships lift off from, say on Earth, because of the radiation released 
+           which will remain there for a long time and spread to long distances by air and insects, there will be possibly 
+           long-residing heavy nuclear radiation contaminating the space routes these ships travel through, but also is the point 
+           of the inherent massive danger of these ships using nuclear bombs as propulsion... even one bomb exploding without intention 
+           can not only destroy the ship but cause the remaining nuclear bombs to explode and this can immediately destroy hundreds of kilometers 
+           starting from the launch area or the area this ship falls on. Similar to nuclear war. Thus this ship proposal is more foolish 
+           than the tall rocket.
            </p>
-           
-           <ul>
-             <li style="margin-left:1em; margin-bottom:10px;">
-             <span>(a).</span> The space-plane requires a dedicated airport / spaceport system including a lengthy
-             runway and this adds greatly to complicatedness, expensiveness and inconvenience.
-             </li>
-             
-             <li style="margin-left:1em; margin-bottom:10px;">
-             <span>(b).</span> A space-plane airport / spaceport on Earth is one thing but what about places without spaceports, 
-             which is any other world except for Earth. For example, if we are using a space-plane to go to the Moon where there is 
-             no spaceport and runway, how will this infrastructure be built so that the space-plane is able to land for the 
-             first time ? If we build a separate lander craft for such situations, carried as cargo on the space-plane, 
-             and carrying some humans, raw material and machines to build a runway for the spaceplane to land, 
-             the entire system will become complicated just to travel nearer distances in space like to the Moon. This leads to 
-             inefficient economics, expensiveness and compromise on human safety.
-             </li>
-            
-             <li style="margin-left:1em; margin-bottom:10px;">
-             <span>(c).</span> The space-plane airport / spaceport / runway is as easily affected by natural calamities and other situations 
-             like regular aeroplane airports are prone to. This is inconvenient to say the least.
-             </li>
-
-             <li style="margin-left:1em; margin-bottom:10px;">
-             <span>(d).</span> The size of the space-plane becomes limited by the length and width of the runway, by the power and weight of its lifting engines, 
-             by how much stress its necessary wings can take and by its inherent aeroplane-based complicatedness. Practically, the space-plane may 
-             take only 20 people to space.
-             </li>
-
-             <li style="margin-left:1em; margin-bottom:10px;">
-             <span>(e).</span> The space-plane is an aeroplane-based craft and aeroplanes are very complicated and this will make it more difficult 
-             to make the space-plane reliable if it has to takeoff regularly to space.
-             </li>
-             
-             </ul>
-           
-             <p>
-             So the Space-plane is also not the solution.
-             </p>
-            
-             <p>
-             Some academics propose creating huge spaceships whose undersides will have mechanism 
-             to explode nuclear bombs whose massive force will push these spaceships with great speed 
-             up into space. And they can use the same nuclear bomb mechanism to fly through space. 
-             However, how will they land ? Will they carry some other fuel to land ? Given the massive size of these 
-             heavily armored craft, it will take a lot of fuel for landing. Secondly, use of nuclear bombs 
-             is not only dangerous for the environment these ships lift off from, say on Earth, because of the radiation released 
-             which will remain there for a long time and spread to long distances by air, there will be possibly long-residing 
-             heavy nuclear radiation contaminating the space routes these ships 
-             travel through, but also is the point of the inherent massive danger of these ships using nuclear bombs 
-             as propulsion... even one bomb exploding without intention can destroy the ship and cause the remaining 
-             nuclear bombs to explode and this can immediately destroy hundreds of kilometers from the launch area 
-             or the area this ship falls on. Similar to nuclear war. Thus this ship proposal is more foolish 
-             than the tall rocket.
-             </p>
                      
-             <h2>Social restrictions of the current space industry</h2>
+           <h2>Social restrictions of the current space industry</h2>
            
-             <p>
-             Aspiring space travellers either have to be very rich to pay for a single ticket ( at least 20 millions dollars ) 
-             to launch on the rockets or in-development space-planes of the world’s very few human space programs 
-             of government space agencies and private space agencies; or the aspiring travelers must be associated with 
-             these governments or allied governments to travel for free and this by mostly being military pilots but also 
-             professional scientists etc; or the aspiring space travellers must win seat lottery in some private lottery-based 
-             space-trip arrangement program connected with those governments or private space agencies which have the launch hardware 
-             and this lottery will be won by only one person per year in the entire world. Most ordinary space travel aspirers have no 
-             chance. But it is not Nature denying most people access to the kosmos... it is anti-democratic systems among humans doing so.
-             </p>
-
-             <p>
-             Also, the very workers who build these current human launch systems are excluded from going to space on the space systems 
-             they built with their sweat, sleepless nights and risk of serious injury or death. All they are allowed to do is clap in 
-             the control rooms whose screens show the launches of those space systems taking to space the rich and the other privileged. 
-             A ridiculous and undemocratic situation just like three other situations in the “Democratic World” :
-             </p>
-           
-             <ul>
-             <li style="margin-left:1em; margin-bottom:10px;">
-             <span>&gt;&gt;</span> The poor daily-wage construction laborers who build mansions, penthouses and two-bedroom flats for the rich and 
-             the middle class, never get to live in them and will be chased away from the gate if they happen to visit later and they instead have to live 
-             in slums.
-             </li>
-
-             <li style="margin-left:1em; margin-bottom:10px;">
-             <span>&gt;&gt;</span> The few billion ordinary fans of sports stars, who make these sports stars millionaires 
-             and adored for years, will never get replied for their long passionate loyalty with a million dollars in their bank accounts each 
-             and neither will these sports stars speak up about issues their ordinary fans face in their daily lives or even if the loyal fans die 
-             in stampede in the stadiums or outside the stadiums where these sports stars descend royally from special enclosed buses, to play or 
-             to get felicitated. Nor will these cherished sports stars speak about global issues like Climate Change, techno-feudalism and the traditional 
-             feudalism in the cities and the villages which includes the wrongs against farmers, white-collar
-             workers, students, daily-wagers and women.
-             </li>
-
-             <li style="margin-left:1em; margin-bottom:10px;">
-             <span>&gt;&gt;</span> Feudals who make billions of dollars every year by selling products and services to the masses where these products and services 
-             should be naturally available for free, these same feudals hold the masses in contempt despite having made their billions 
-             from these same masses. It allows happens that the private celebrations of these feudals will be done grandly 
-             on an obscene scale and the feudals thus shorter on their bank account will raise the prices of the 
-             goods and services they provide to the masses and the masses thus have to foot the bill for the private 
-             celebrations of the feudals, LOL, and the masses will not even be allowed into these celebrations.
-             </li>           
-           </ul>
-           
-           <h2>How women are excluded from space by artificial techno-social restrictions</h2>
-
-           <p>
-           In Western societies especially, for more than a hundred years, women are imposed with an unnatural social situation 
-           of having to not be the natural chubby, voluptuous self that is normal for most women. This imposition declares that women will be 
-           attractive only if they are thin and not if they are voluptuous. This is a ridiculous imposition but it is the norm in the West 
-           for such a long time and it came to be because of six reasons :
-           </p>
-
            <ul>
-           <li style="margin-left:1em; margin-bottom:10px;"> 
-           <span>(a).</span> The early modern fashion industry had many male designers who were homosexuals and when they designed for women 
-           they really wished they were designing for the males they fancied who usually would be muscular. So their designed clothes for women 
-           would not be for the womanly form with chubbiness and voluptuousness but for a proxy male form by making the dresses for a woman who is thin. 
-           The social system of the West made it easier for male homosexuals to be privileged and influential and these males when designers they imposed 
-           their fantasies for males onto the whole society by creating a social situation where for a women to be thin became socially desirable and 
-           voluptuous women were shamed. The male homosexual designers furthered this agenda by clothing their designs on female models who were thin or muscular 
-           not only because these particular female models reminded them of males but also when these non-voluptuous female models walked on the ramp 
-           or were shown in newspapers, magazines and roadside hoardings, the society was conditioned to start 
-           internalizing the "thin is in" presentation of women by these male homosexuals.
-           </li>
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span> >> </span> There are very few human space programs because the design complicatedness and 
+             the expensiveness of the Tall Rockets and Space-planes makes these crafts manufactured by 
+             only a very few government organizations or private organizations who are okay with complicatedness and 
+             have lots of money. These organizations have created an anti-democratic monopoly.
+             </li>
 
-           <li style="margin-left:1em; margin-bottom:10px;"> 
-           <span>(b).</span> There is another factor where when women's clothes were worn by female models on the ramp 
-           or as photos, the designer wanted the attention of the viewer solely on the designed clothing and this would 
-           become difficult if the female model was voluptuous in which cause the viewer would largely focus 
-           on the form of the female model especially if the viewer is a heterosexual male. This sitaution will remove 
-           the focus of the viewer from the presented clothing design and possibly not have the design sold. So a female model 
-           who is not chubby but thin will not be the most attractive factor for a heterosexual male viewer
-           whose attention then would be on the clothing and thus a possible purchaser or a business deal.
-           </li>
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span> >> </span> Either aspiring space travellers have to be very rich to pay for a single ticket 
+             - at least 50 millions dollars now.
+             </li>
 
-           <li style="margin-left:1em; margin-bottom:10px;"> 
-           <span>(c).</span> Then is the Capitalist "health and wellness industry" which saw women as a large customer market 
-           if it could convince them to purchase its equipment, clothing, accesories and food. This it did by brainwashing women 
-           that they are healthy only if they are thin and even muscular. Chubby, voluptuous women were declared as "obese", 
-           an artificial word to scare women into getting six-packs and hard forms far from the naturally womanly self of voluptuousness 
-           which not only makes the woman actually look nice but is actually healthy for the woman and women have been nicely healthy being voluptuous 
-           since eternity in human history. But the "health and wellness industry" convinced many women to use its slimming, thinning and 
-           muscle-building products and it promoted the word "fitness" for women to be thin and muscular and thus now the "health and wellness industry" 
-           is worth more than six trillion dollars by end of 2023. Yet again, Capitalism made money by selling needless products.
-           </li>
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span >> </span> Or if an aspiring space traveler doesn't have the huge money he or she 
+             must be associated with governments... the governments either being those whose country has 
+             the very few human-launching spacecrafts or the governments being allied with the first type 
+             of governments. These types of space travelers are mostly military pilots but sometimes 
+             professional scientists, teachers etc.
+             </li>
 
-           <li style="margin-left:1em; margin-bottom:10px;"> 
-           <span>(d).</span> To further the above agendas the Western film industries and TV industries long promoted heroines and vamps 
-           who are thin and not voluptuous. If there was to be a female comedy character, many times it would be a woman 
-           who wasn't the artificially desirable thin but voluptuous and great efforts were made to make that woman character 
-           unattractive. No attractive voluptuous woman character was presented in these films and TV shows.
-           </li>
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span> >> </span> The aspiring space travelers have to generally have college degrees if they are 
+             not rich.
+             </li>
 
-           <li style="margin-left:1em; margin-bottom:10px;"> 
-           <span>(e).</span> And those celeb women who were not thin but were promoted by these agendas, their forms looked unnatural 
-           with no natural womanly softness, no natural feminineness... just fake and cringey. This model for women was also presented 
-           as heroines in comic books, computer games and films.
-           </li>
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span> >> </span> Or the aspiring space travellers must win seat lottery in some private lottery-based 
+             space-trip arrangement program connected with those governments or private space agencies which have the launch hardware. 
+             But this lottery will be won by only one person per year in the entire world.
+             </li>
 
-           <li style="margin-left:1em; margin-bottom:10px;"> 
-           <span>(f).</span> Most heterosexual men in Western societies became part of these agendas by becoming brainwashed 
-           to find as attractive only thin women or those fakely-curved-and-hard-bodied celeb women.
-           </li>
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span> >> </span> If an aspiring space traveller is a woman then she is excluded 
+             if she doesn't meet with the irrational low-weight, "fitness" requirement for woman space travellers.
+             </li>
+
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span> >> </span> The very workers who build these current human launch systems are excluded from going to space 
+             on the space systems they built with their sweat, sleepless nights and risk of serious injury or death. The max they are allowed 
+             to do is clap in the control rooms whose screens show the launches of those space systems taking to space the rich and the other privileged.
+             </li>
+
            </ul>
-
-           <p>
-           In non-Western societies the frivolous women adopted the thin-is-in and "fitness" idea from the West 
-           and thus the idea was furthered in more geographies. In some non-Western societies where prevalent culture 
-           discriminated against women traditionally it was automatic that women were tried to be kept thin 
-           traditionally through art or by deliberate starvation in families and when the modern West presented 
-           the "thin-is-good" and "fitness fantastic" idea, these societies eagerly adopted the above agendas
-           including because such societies were inherently Capitalist and feudal and thus friendly to the 
-           "health and wellness industry".
-           </p>
-
-           <p>
-           So it became that the current space industry too, especially the one in the West, imposed these unnatural and unaesthetic 
-           shape restrictions on women candidates on the few and already restricted human space programs. This was by telling 
-           the women that getting to space and living in space means being "fit" and this will by heavy exercise before the space journey and
-           only then they will be considered for selection.
-           </p>
            
            <p>
-           Heavy exercise for women is also present in the International Space Station 
-           using the excuse that without such exercise the muscles and the bones of the women, and the men, will weaken and corrode because 
-           of the weightlessness in that space environment. And then the space residents will have their arms and legs broken easily and 
-           will not be able to lift things and operate the equipment and even lead a normal life in space and upon returning to Earth's gravity.
+           Thus presently most humans are excluded from going to space even if they are intelligent, gentle and respect Nature... 
+           even if experiencing space must be the easy human right of every human. But it is not Nature denying most people 
+           access to space... it is anti-democratic systems among humans doing so. Also, for those very very few people on Earth 
+           who are able to go to space, they go by sitting in very unsafe and unreliable systems which can explode any time 
+           and kill them and many other humans around. And we are demanded to celebrate those feudal organizations which do these irrational exclusions 
+           and create these unsafe systems. We are also to heroize the people who head these organizations.
            </p>
-
-           <p>
-           Another reason for these artificial restrictions on women was because the current space vehicles of the West can carry only a restricted 
-           number of people and women candidates for space are few anyway. And most space organizations in other parts of the world 
-           needlessly follow this system set in the modern West.
-           </p>
-
-           <h2>Conclusion of the problems</h2>
-           
-           <p style='margin-bottom:1em;'>
-           So all this artificial glamor of the current space industry is pointless in the end for 
-           the at least million other desirers of space travel, including women, who will never leave Earth and 
-           the very rich owners of most current space agencies will keep profiting from this competition for the few seats 
-           and from the complicated, expensive, unsafe and very few launch systems yet the ordinary desirers 
-           and humanity in general are encouraged to glorify this industry and its feudal owners. 
-           These are fake heroes.
-           </p>
-           
-           <h2>Our solution : The Iskra Plan</h2>
+          
+           <h2>Our solutions</h2>
            
            <p style='margin-bottom:1em;'>
            In the Russian language "Iskra" means Spark, especially one which ignites positive change. 
@@ -3651,6 +3427,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
