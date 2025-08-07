@@ -7,7 +7,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 card.addEventListener('click', function() {
 const chapter = card.getAttribute('data-chapter');
 
-// 01. Basis
+// 01. Basis - Wrongs of the current space industry
 if (chapter === 'basis') {
 modalText.innerHTML = `
        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -61,11 +61,11 @@ modalText.innerHTML = `
            </p>
            
            <ul style='margin-bottom:1em;'>
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> 
+             <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
              Just the simple natural act of experiencing the kosmos including by living 
              on the Moon, the asteroids and other space objects.</li>
 
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Mining moons, 
+             <li style="margin-left:1em; margin-bottom:10px;"><span> >>  </span> Mining moons, 
              asteroids and other space bodies.</li>
 
              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Research including to 
@@ -83,10 +83,10 @@ modalText.innerHTML = `
            
            <p>
            The current means of going to space is the Tall Rocket which is a system that is complicated in design; 
-           uses huge amount of fuel that is also dangerous for life and is expensive and non-recoverable fuel, 
+           uses huge amount of fuel that is also dangerous for life and is expensive, non-recoverable and very explosive fuel; 
            is very inefficient in terms of fuel, size and carrying capacity; has no single type that can carry both humans 
            and other types of cargo; is very expensive to make; is associated with a huge launch infrastructure;
-           is unsafe; is as ugly as skyscrapers. The Tall Rocket is an obsolete method of travel to space.
+           is as safe as sitting on a huge bomb; is as ugly as skyscrapers. The Tall Rocket is an obsolete method of travel to space.
            </p>
 
            <p>
@@ -107,12 +107,12 @@ modalText.innerHTML = `
            up into space. And they can use the same nuclear bomb mechanism to fly through space. 
            However, how will they land ? Will they carry some other fuel to land ? Given the massive size of these 
            heavily armored craft, it will take a lot of fuel for landing. Secondly, use of nuclear bombs 
-           is not only dangerous for the environment these ships lift off from, say on Earth, because of the radiation released 
-           which will remain there for a long time and spread to long distances by air and insects, there will be possibly 
-           long-residing heavy nuclear radiation contaminating the space routes these ships travel through, but also is the point 
+           is dangerous for the environment these ships lift off from, say on Earth, because of the radiation released 
+           which will remain there for a long time and spread to long distances by air, birds and insects. There will also be possibly 
+           long-residing heavy nuclear radiation contaminating the space routes these ships travel through. There is also the point 
            of the inherent massive danger of these ships using nuclear bombs as propulsion... even one bomb exploding without intention 
-           can not only destroy the ship but cause the remaining nuclear bombs to explode and this can immediately destroy hundreds of kilometers 
-           starting from the launch area or the area this ship falls on. Similar to nuclear war. Thus this ship proposal is more foolish 
+           can destroy the ship and cause the remaining nuclear bombs to explode and immediately destroy hundreds of kilometers 
+           of land starting from the launch area or the area this ship falls on. Similar to nuclear war. Thus this ship proposal is more foolish 
            than the tall rocket.
            </p>
                      
@@ -3427,6 +3427,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
