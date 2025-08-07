@@ -219,14 +219,19 @@ modalText.innerHTML = `
            
            <p>
            In the Russian language "Iskra" means Spark, especially one which ignites positive change. 
-           We of Kosmos Society are starting the iskra for Space to light the flame for utopian evolution 
-           so that every human can explore the entire universe to the max extent possible by humans and settle in space 
-           in a way that is simple, gentle, safe, pan-humanist in a progressive way and respectful of 
-           Nature and Nature’s laws. Space travel must become as common as bus travel, 
-           and space living as common as hotel stay, whenever he or she desires, with a minimal usage fee or 
-           no fee at all. Every human should be able to attain their potential in space. And this should flow into 
-           evolving human society on Earth too. All these in the now and in the far far future. 
-           This is the simple law of Nature.
+           We of Kosmos Society are starting the iskra to light the flame for utopian evolution of humans 
+           for Space and for Earth so that every human can explore the entire universe to the max extent possible by humans and 
+           settle in the universe in a way that is simple, gentle, safe, pan-humanist in a progressive way and respectful of 
+           Nature and Nature’s laws, and the good ideas formed for space and the good ideas formed in space benefit all humans 
+           collectively, including on Earth.
+           </p>
+           
+           <p>
+           Space travel must become as common as bus travel, and space living as common as hotel stay, whenever he or she desires, 
+           with a minimal usage fee or no fee at all. In fact in space, money should cease to exist as money has no existence in the universe 
+           except for the 6000 years or so that money has existed on Earth and has been one of the main reasons for 
+           needless oppressions and misery. Also should end all the other social restrictions which don't exist in Nature 
+           except created by some people on Earth. Ending these restrictions is the simple law of Nature.
            </p>
 
            <p>
@@ -234,27 +239,23 @@ modalText.innerHTML = `
            self-sustaining compact electricity generators or the spacesuits or the habitation systems or 
            the social system for space and every other necessary thing, and all this in a simplified and straightforward manner, 
            without caring for obsolete and needless "industry standards", unthoughtful academic postulations, cringey technological 
-           fashions, idiotic corporate language, ignoring of simple ideas, anti-democratic and anti-Nature social constructs.
+           fashions, stupid corporate language, ignoring of simple ideas, anti-democratic and anti-Nature social constructs.
            </p>
 
            <p>
            All our systems will be simplified, aesthetic, reliable, manufacturable cheaply, operable cheaply, repairable cheaply and tend towards 
            using biology where applicable because biology has existed intelligently for millions of years at least on Earth. We will use novel methods 
-           and natural methods, doesn't matter if we are the only ones using those or one of the few using those. 
-           What works, works. What is sensible, is sensible. What can be simplified, must be simplified. 
-           What is natural, has to be the system.
+           and natural methods, doesn't matter if we are the only ones using those or one of the few. What works, works. What is sensible, is sensible. 
+           What can be simplified, must be simplified. What is natural, has to be the system.
            </p>
 
            <p>
-           Most of our systems will be usable on Earth either directly or in derivation.
-           </p>
-           
-           <p>
            Starting 2035 our-designed spaceships will be able to carry some humans and goods safely to the Moon and 
            in subsequent years our-designed spaceships will be able to travel throughout the Inner Solar System and Outer Solar System  
-           i.e. from the Moon to towards the Sun and to the edges of the Solar System. This will be just the start.
+           i.e. from the Moon to towards the Sun and to the edges of the Solar System. This will be just the start. We will produce ideas 
+           that will take humans to the stars.
            </p>
-                       
+
            <p>
            The manufacturers of our techno systems will be national governments who will
            purchase from us the designs and engineering details of our systems for a reasonably cheap 
@@ -262,12 +263,16 @@ modalText.innerHTML = `
            systems cheaply and sustainably. We will propagate our pan-human democratic social system for space 
            to be adopted by these governments when they send out their citizens into space.
            </p>
-           
+
            <p>
            Once these techno systems are built by the governments they should charge their citizens minimal fees 
            or ideally no fees and no tax at all for personal ownership of some of these systems ( say our wearable computer ) 
            or when being passengers ( say on our spaceships ) or when living in space habitats. For example, an individual’s trip 
            to the Moon should have a max seat price of 100 dollars or ideally free.
+           </p>
+
+           <p>
+           Most of our systems will be usable on Earth either directly or in derivation.
            </p>
 
            <p>
@@ -3468,6 +3473,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
