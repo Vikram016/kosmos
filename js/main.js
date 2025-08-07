@@ -2766,26 +2766,6 @@ modalText.innerHTML = `
            </a>
            </p> 
 
-         <h2>Our name and logo</h2>
-         
-          <p>
-          We call ourselves as Kosmos Society because we want to be the vanguard techno-social organization 
-          taking human society into the kosmos... the universe... so that humans become gentle, observant 
-          and aware travelers and settlers of the universe, melding into the universe naturally 
-          and becoming the "Kosmos Society", respecting and adopting Nature's laws, 
-          including those reasonable laws and understandings which were part of human society for millennia, 
-          preached by the older philosophers and social reformers and those from true modern philosophers 
-          and those ideas from us.
-          </p>
-
-          <p>
-          Our logo has the cat because cats are gentle, observant, careful, empathetic, social, 
-          loving, sensitive, clean, beautiful, extremely intelligent, wise, loyal, sweet natured, 
-          graceful, robust, independent, proud, consider themselves equal to humans 
-          and create good vibes wherever they go. These qualities we desire in all 
-          of the human society going into the kosmos and on Earth.
-         </p>
-
          </div>
                            
        </div>
@@ -2842,7 +2822,7 @@ modalText.innerHTML = `
 
          <p>
          We credit the following people who are not part of our organization but have helped us either in person 
-         or by their ideas and works we found on the internet :
+         or by their ideas and works we found in paper or on the internet :
          </p>
        
            <p><span>&gt;&gt;</span> Vikram for the logo, the website design and for provoking the thought in Sameer to have this Credits page.</p>
@@ -3199,7 +3179,10 @@ modalText.innerHTML = `
              }
 
          </style>
-         <h2>Contact info</h2>
+         <h2>
+         Contact info for benefit of potential co-workers, investors, government space departments, 
+         industry collaborators, researchers
+         </h2>
          <div>
           <div class="contact-card">
                        
@@ -3262,3 +3245,4 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
