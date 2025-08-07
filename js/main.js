@@ -7,8 +7,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 card.addEventListener('click', function() {
 const chapter = card.getAttribute('data-chapter');
 
-// 01. Basis - Wrongs of the current space industry
-if (chapter === 'basis') {
+// 01. Our Iskra Plan
+if (chapter === 'iskra') {
 modalText.innerHTML = `
        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
          <style>
@@ -93,7 +93,7 @@ modalText.innerHTML = `
            
            <ul style='margin-bottom:1em;'>
              <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> Is complicated in design.
+             <span> >> </span> Complicated in design.
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
@@ -159,6 +159,13 @@ modalText.innerHTML = `
            than the tall rocket.
            </p>
 
+           <p>
+           Also, there are other techno systems required for space travel, like compact electricity production systems, 
+           reliable wearable computers, food production systems, general purpose spacesuits, to other-world ground and air vehicles 
+           and so on. These systems either don't exist or there is no passionate push towards realizing them 
+           from research form to daily-usage for, or there is no simplicity and universality in their design.
+           </p>
+
            <h2>Social restrictions of the current space industry</h2>
            
            <ul>
@@ -208,22 +215,22 @@ modalText.innerHTML = `
            
            <p>
            Thus presently most humans are excluded from going to space even if they are intelligent, gentle and respect Nature... 
-           even if experiencing space must be the easy human right of every human. But it is not Nature denying most people 
+           even if experiencing space must be the easy right of every human. But it is not Nature denying most people 
            access to space... it is anti-democratic systems among humans doing so. Also, for those very very few people on Earth 
            who are able to go to space, they go by sitting in very unsafe and unreliable systems which can explode any time 
            and kill them and many other humans around. And we are told to celebrate those feudal organizations which do these irrational exclusions 
            and create these unsafe systems. We are told to heroize the people who head these organizations.
            </p>
           
-           <h2>Our solutions</h2>
+           <h2>Our solution - The Iskra Plan</h2>
            
            <p>
            In the Russian language "Iskra" means Spark, especially one which ignites positive change. 
            We of Kosmos Society are starting the iskra to light the flame for utopian evolution of humans 
            for Space and for Earth so that every human can explore the entire universe to the max extent possible by humans and 
            settle in the universe in a way that is simple, gentle, safe, pan-humanist in a progressive way and respectful of 
-           Nature and Nature’s laws, and the good ideas formed for space and the good ideas formed in space benefit all humans 
-           collectively, including on Earth.
+           Nature and Nature’s laws, and the good ideas and technologies formed for space and the good ideas and technologies formed in space 
+           benefit all humans collectively, including on Earth.
            </p>
            
            <p>
@@ -231,15 +238,15 @@ modalText.innerHTML = `
            with a minimal usage fee or no fee at all. In fact in space, money should cease to exist as money has no existence in the universe 
            except for the 6000 years or so that money has existed on Earth and has been one of the main reasons for 
            needless oppressions and misery. Also should end all the other social restrictions which don't exist in Nature 
-           except created by some people on Earth. Ending these restrictions is the simple law of Nature.
+           but were created by some people on Earth. Ending these restrictions is the simple law of Nature.
            </p>
 
            <p>
-           We of Kosmos Society will build all the space systems, whether the spaceships or the computers or 
-           self-sustaining compact electricity generators or the spacesuits or the habitation systems or 
-           the social system for space and every other necessary thing, and all this in a simplified and straightforward manner, 
-           without caring for obsolete and needless "industry standards", unthoughtful academic postulations, cringey technological 
-           fashions, stupid corporate language, ignoring of simple ideas, anti-democratic and anti-Nature social constructs.
+           We of Kosmos Society will build all the space systems, whether spaceships or self-sustaining compact electricity generators 
+           or computers or spacesuits or habitation systems or the democratic and natural social system for space and every other necessary thing, 
+           and all this in a simplified and straightforward manner, without caring for obsolete and needless "industry standards", 
+           unthoughtful academic postulations, cringey technological fashions, stupid corporate language, ignoring of simple ideas, 
+           anti-democratic and anti-Nature social constructs.
            </p>
 
            <p>
@@ -251,24 +258,18 @@ modalText.innerHTML = `
 
            <p>
            Starting 2035 our-designed spaceships will be able to carry some humans and goods safely to the Moon and 
-           in subsequent years our-designed spaceships will be able to travel throughout the Inner Solar System and Outer Solar System  
+           in subsequent years our-designed spaceships will be able to travel throughout the Inner Solar System and Outer Solar System 
            i.e. from the Moon to towards the Sun and to the edges of the Solar System. This will be just the start. We will produce ideas 
            that will take humans to the stars.
            </p>
 
            <p>
-           The manufacturers of our techno systems will be national governments who will
+           We are a design house and the manufacturers of our techno systems will be national governments who will 
            purchase from us the designs and engineering details of our systems for a reasonably cheap 
            license fee and they will be able to set up factories in their own countries to produce our 
            systems cheaply and sustainably. We will propagate our pan-human democratic social system for space 
-           to be adopted by these governments when they send out their citizens into space.
-           </p>
-
-           <p>
-           Once these techno systems are built by the governments they should charge their citizens minimal fees 
-           or ideally no fees and no tax at all for personal ownership of some of these systems ( say our wearable computer ) 
-           or when being passengers ( say on our spaceships ) or when living in space habitats. For example, an individual’s trip 
-           to the Moon should have a max seat price of 100 dollars or ideally free.
+           to be adopted by these governments when they send out their citizens into space, for example they should charge 
+           their citizens a max seat price of 100 dollars to the Moon or ideally free.
            </p>
 
            <p>
@@ -446,7 +447,8 @@ modalText.innerHTML = `
            <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> Much simplified technology.</p>
 
            <p style='margin-left:2em;margin-bottom:10px;'><span>(b).</span> Decentralization and ease of production and 
-           usage which includes electricity generation.</p>
+           usage which includes electricity generation.
+           </p>
 
            <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> As much as possible, use of structural materials 
            and fuels that are available cheaply and available in many place or can be produced anywhere so that the manufacturers 
@@ -461,15 +463,20 @@ modalText.innerHTML = `
            <p style='margin-left:2em;margin-bottom:10px;'><span>(f).</span> Local empowerment.</p>
 
            <p style='margin-left:2em;margin-bottom:10px;'><span>(g).</span> Technology that is well-crafted
-            yet affordable by the masses.</p>
+            yet affordable by the masses.
+            </p>
 
            <p style='margin-left:2em;margin-bottom:10px;'><span>(h).</span> Technologies selected are simple, reliable and help
             return humanity anywhere to easier advancement or be resilient when situation becomes bad 
             because of natural or other events like unusually big solar storm, comet or asteroid strike, 
-            a pointless global war etc.</p>
+            a pointless global war etc.
+            </p>           
 
            <p><span>&gt;&gt;</span> Our technologies will align around our draft for a democratic, pan-human 
            and Nature-respecting social system for space, presented in the chapter of that name on this website.
+           </p>
+
+           <p><span>&gt;&gt;</span> As example of the above points, we will not use semiconductors.
            </p>
 
            <h2>Faradn electricity generator</h2>
@@ -553,27 +560,30 @@ modalText.innerHTML = `
            the whole structure of the airship automatically lifts into the air without any or much fuel expenditure 
            until it reaches to a height where the airship's lifting gas or gases find equilibrium 
            with the lesser atmospheric air at that height. From that atmospheric height for lift of the airship into space 
-           there will be other upwards push / propulsion methods required. The airship is much better than the Tall Rocket 
-           because the Tall Rocket requires lot of fuel just to lift itself one centimeter off the launch pad 
-           as we explained in our first chapter. Secondly, much less push-into-orbit fuel 
-           makes the airship type of spaceship much more safer in terms of explosion. Thirldy, 
-           the airship-spaceship can easily be made horizontally larger instead of the vertically huge of the Tall Rocket.
+           there will be other upwards push / propulsion methods required.
+           </p>
+           
+           <p>
+           The airship is much better than the Tall Rocket because the Tall Rocket requires lot of fuel just to lift itself 
+           one centimeter off the launch pad as we explained in our "Iskra" chapter. Secondly, much less push-into-orbit fuel 
+           makes the airship type of spaceship much more safer in terms of explosion. Thirdly, the airship-spaceship can easily 
+           be made horizontally larger instead of the vertically huge of the Tall Rocket.
            </p>
 
            <p>
            Our airship-spaceship is the Alef-A which will be shaped like an upside-down teacup without the handle,
            and its lift gases will be helium gas and hot air. An airship type or a balloon which uses this combination of a lift gas with heated air 
            is called a Roziere Balloon. The Alef-A's horizontal travel or lift into higher
-           atmosphere and then into space will be assisted by electric rotors, coal combustion and
+           atmosphere and then into space will be assisted by electric rotors, coal combustion and 
            water steam jets. Of course the gas lift and electric rotors are usable only if that world has air
-           / atmosphere. The coal propulsion and steam jets can be used on any world and when in atmosphere these fuels
-           are non-recoverable i.e. once they combust or are expelled they cannot be recovered to their
-           original form and be reused. And then once this craft is in space it will be propelled largely by
-           water steam jets where through an arrangement most of the steam is recovered to water and
-           reused to be jetted again to enable longer-distance continuous-thrust travel, thus the water
+           / atmosphere. The coal propulsion and steam jets can be used to ascend or descend on any world even without atmosphere. 
+           When ascending or descending these fuels are non-recoverable i.e. once they combust or are expelled they cannot be recovered to their 
+           original form and be reused. And then once this craft is in space it will be given brief pushes by coal combustion 
+           for high-speed direction-giving but will be propelled largely by water steam jets where through an arrangement most of the steam 
+           is recovered to water and reused to be jetted again to enable longer-distance continuous-thrust travel, thus the water
            steam here is a largely recoverable fuel. Coal combustion will also be used for 
-           effects like braking and positioning near destinations and then for descent on some world.
-           The Alef-A will allow for ascent / descent on a world and short-distance space travel like from Earth to Moon’s surface.
+           effects like braking and positioning near destinations and then for descent on some world. 
+           The Alef-A will also allow for short-distance space travel like from Earth to Moon’s surface.
            </p>
 
            <h2>The Alef-F space ferry</h2>
@@ -718,29 +728,29 @@ modalText.innerHTML = `
            <h2>A spacesuit called Stillsuit</h2>
            
            <p>
-           The design of this spacesuit is still in consideration but it will be a hardsuit to allow easy
+           The full design of this spacesuit is still in consideration but it will be a hardsuit to allow easy 
            movement of the wearer and better safety and it can also fly. The suit will use bio-mimicry
            and biological elements to also allow for self-repair.
            </p>
            
            <p>
            The suit system will include the helmet, shoes, breathing tanks ( oxygen-nitrogen mixture ),
-           water system ( including drinking straws and water recovery from urine ) and temperature
+           water system ( including drinking straws and water recovery from urine ) and temperature 
            control. There will be provision for collecting defecation and rendering it non-toxic and
-           non-smelly.
+           non-smelly. The defecation system will include cleaning using disinfectant-having water.
            </p>
-           
+
            <p>
            The helmet will include a simple, mechanical system to scratch the face, the eyelids and dab
            the face of sweat and tears.
            </p>
-           
+
            <p>
            The electrical system in the suit will be for some control and will include a mic and speakers.
            For detailed control, the electrical system will be connected to an external Dune Buk
            wearable computer worn on the back-of-the-upper arm of the suit and this computer will
-           show the status of the suit visually and using sound. This computer is described in the next
-           below section.
+           show the status of the suit visually and also using sound channeled into the suit using the speakers. 
+           This computer is described in the next section.
            </p>
 
            <p>
@@ -3473,6 +3483,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
