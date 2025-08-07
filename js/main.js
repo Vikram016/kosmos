@@ -511,14 +511,14 @@ modalText.innerHTML = `
            </p>
 
            <p>
-           Our Faradn generator system will be such a generator which is very non-nuclear and will 
-           power all our non-micro-sized products by sitting within them or just outside them. 
-           It will produce 24 volts DC which is enough for most purposes, neither too low a current 
-           nor dangerously high. Once started, this generator will be designed to continuously 
+           Our Faradn generator system will be such a generator which will power all our non-micro-sized products 
+           by sitting within them or just outside them. It will produce 24 volts DC which is enough for most purposes, 
+           neither too low a current nor dangerously high. Once started, this generator will be designed to continuously 
            produce current for at least a month... this is the self-sustained part.
            </p>
            
-           <p>For high voltage requirements we can externally connect this self-sustained generator to further amplifying systems 
+           <p>
+           For high voltage requirements we can externally connect this self-sustained generator to further amplifying systems 
            like a motor-generator. Within the Faradn generator itself there are two very simple approaches we are considering in generating 
            the initial low-voltage current before we amplify that current, clean it and provide it as the 24 volts DC output. 
            The two approaches are :
@@ -565,7 +565,7 @@ modalText.innerHTML = `
            
            <p>
            The airship is much better than the Tall Rocket because the Tall Rocket requires lot of fuel just to lift itself 
-           one centimeter off the launch pad as we explained in our "Iskra" chapter. Secondly, much less push-into-orbit fuel 
+           one centimeter off the launch pad as we explained in the "Our Iskra Plan" chapter. Secondly, much less push-into-orbit fuel 
            makes the airship type of spaceship much more safer in terms of explosion. Thirdly, the airship-spaceship can easily 
            be made horizontally larger instead of the vertically huge of the Tall Rocket.
            </p>
@@ -2065,7 +2065,7 @@ modalText.innerHTML = `
            should be managed by a collective human committee. We of Kosmos Society will keep this 
            as a necessary element when designing our Frema space-capable internet system. We will 
            also design systems that contribute to clearing up the current space debris around Earth. 
-           Please read the section about Serf satellite in the “Techno projects” chapter on this website.
+           Please read the section about Serf satellite in the “Our techno projects” chapter on this website.
            </p>
            
            <h2>Mining in space</h2>
@@ -3074,8 +3074,8 @@ modalText.innerHTML = `
            "revenue guidance", "state of the art" etc ). We are a techno-social organization set up to evolve humanity in multiple senses 
            through the far far future and that includes our co-workers being allowed to attain their fullest potential and this in a democratic way. 
            “Liberty, Equality, Fraternity” is after all one of our credos. So our company-internal organization of people 
-           employs the democratic concept of Workers Cooperative which is described in the “Social system for space" chapter on this website 
-           in the section "Social organization in space travel and space living". Please read that and return to 
+           employs the democratic concept of Workers Cooperative which is described in the “Our social system for space" chapter on this website 
+           in the section "Social organization for space travel and space living". Please read that and return to 
            this point.
            </p>
 
@@ -3483,6 +3483,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
