@@ -162,7 +162,7 @@ modalText.innerHTML = `
            <p>
            Also, there are other techno systems required for space travel, like compact electricity production systems, 
            reliable wearable computers, food production systems, general purpose spacesuits, to other-world ground and air vehicles 
-           and so on. These systems either don't exist or there is no passionate push towards realizing them 
+           and so on. These systems either don't exist presently or there is no passionate push towards realizing them 
            from research form to daily-usage for, or there is no simplicity and universality in their design.
            </p>
 
@@ -227,8 +227,8 @@ modalText.innerHTML = `
            <p>
            In the Russian language "Iskra" means Spark, especially one which ignites positive change. 
            We of Kosmos Society are starting the iskra to light the flame for utopian evolution of humans 
-           for Space and for Earth so that every human can explore the entire universe to the max extent possible by humans and 
-           settle in the universe in a way that is simple, gentle, safe, pan-humanist in a progressive way and respectful of 
+           for Space and for Earth so that every human can explore the entire universe to the max extent possible by humans, 
+           in a way that is simple, gentle, safe, pan-humanist in a progressive way and respectful of 
            Nature and Nature’s laws, and the good ideas and technologies formed for space and the good ideas and technologies formed in space 
            benefit all humans collectively, including on Earth.
            </p>
@@ -3483,6 +3483,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
