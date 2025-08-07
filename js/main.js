@@ -91,42 +91,45 @@ modalText.innerHTML = `
            The current means of going to space is the Tall Rocket which is a system that is :
            </p>
            
-           <li style="margin-left:1em; margin-bottom:10px;">
-           <span> >> </span> Is complicated in design.
-           </li>
+           <ul style='margin-bottom:1em;'>
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span> >> </span> Is complicated in design.
+             </li>
 
-           <li style="margin-left:1em; margin-bottom:10px;">
-           <span> >> </span> Uses a huge amount of fuel that is also dangerous for life and 
-           is expensive, non-recoverable after nozzle expulsion and very explosive.
-           </li>
-          
-           <li style="margin-left:1em; margin-bottom:10px;">
-           <span> >> </span> Is as safe as sitting on a huge bomb.
-           </li>
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span> >> </span> Uses a huge amount of fuel that is also dangerous for life and 
+             is expensive, non-recoverable after nozzle expulsion and very explosive.
+             </li>
 
-           <li style="margin-left:1em; margin-bottom:10px;">
-           <span> >> </span> Is very inefficient in terms of fuel, size and carrying capacity.
-           </li>
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span> >> </span> Is as safe as sitting on a huge bomb.
+             </li>
 
-           <li style="margin-left:1em; margin-bottom:10px;">
-           <span> >> </span> Has no single universal type that can carry both humans and other types 
-           of cargo.
-           </li>
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span> >> </span> Is very inefficient if we take a combo of fuel, size and carrying capacity.
+             </li>
 
-           <li style="margin-left:1em; margin-bottom:10px;">
-           <span> >> </span> Is very expensive to make.
-           </li>
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span> >> </span> Has no single universal type that can carry both humans and other types 
+             of cargo.
+             </li>
 
-           <li style="margin-left:1em; margin-bottom:10px;">
-           <span> >> </span> Is associated with a huge launch infrastructure.
-           </li>
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span> >> </span> Is very expensive to make.
+             </li>
 
-           <li style="margin-left:1em; margin-bottom:10px;">
-           <span> >> </span> Is as ugly as skyscrapers.
-           </li>
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span> >> </span> Is associated with a huge launch infrastructure.
+             </li>
+
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span> >> </span> Is as ugly as skyscrapers because of its unreasonable tallness.
+             </li>
+
+           </ul>
 
            <p>
-           The Tall Rocket is an obsolete method of travel to space.
+           The Tall Rocket is an obsolete and non-sensible method of travel to space.
            </p>
 
            <p>
@@ -140,7 +143,7 @@ modalText.innerHTML = `
            However, the space-plane cannot be used for long-distance space travel, like Earth to Red One, and 
            the space-plane shares the same disadvantages as a regular aeroplane so is also not the solution.
            </p>          
-            
+
            <p>
            Some academics propose creating huge spaceships whose undersides will have mechanism 
            to explode nuclear bombs whose massive force will push these spaceships with great speed 
@@ -155,7 +158,7 @@ modalText.innerHTML = `
            of land starting from the launch area or the area this ship falls on. Similar to nuclear war. Thus this ship proposal is more foolish 
            than the tall rocket.
            </p>
-                     
+
            <h2>Social restrictions of the current space industry</h2>
            
            <ul>
@@ -208,27 +211,25 @@ modalText.innerHTML = `
            even if experiencing space must be the easy human right of every human. But it is not Nature denying most people 
            access to space... it is anti-democratic systems among humans doing so. Also, for those very very few people on Earth 
            who are able to go to space, they go by sitting in very unsafe and unreliable systems which can explode any time 
-           and kill them and many other humans around. And we are demanded to celebrate those feudal organizations which do these irrational exclusions 
-           and create these unsafe systems. We are also to heroize the people who head these organizations.
+           and kill them and many other humans around. And we are told to celebrate those feudal organizations which do these irrational exclusions 
+           and create these unsafe systems. We are told to heroize the people who head these organizations.
            </p>
           
            <h2>Our solutions</h2>
            
-           <p style='margin-bottom:1em;'>
+           <p>
            In the Russian language "Iskra" means Spark, especially one which ignites positive change. 
-           In the context of our organization our Iskra Plan is our spark for all humans 
-           to light the flame to explore the entire universe to the max extent possible and settle 
-           in space in a way that is simple, gentle, safe, pan-humanist in a progressive way 
-           and respectful of Nature and Nature’s laws. Space travel must become as common as bus travel, 
-           and space living as common as hotel stay, and these should flow into evolving human 
-           society on Earth too. Potentially every human should be able to access space, 
-           live in space and attain their potential in space, whenever he or she desires, 
-           with a minimal usage fee or no fee at all, and no woman must be told to become heavily exercised 
-           to be allowed into space, ignoring her natural feminine form. All these in the now and in the far far future. 
+           We of Kosmos Society are starting the iskra for Space to light the flame for utopian evolution 
+           so that every human can explore the entire universe to the max extent possible by humans and settle in space 
+           in a way that is simple, gentle, safe, pan-humanist in a progressive way and respectful of 
+           Nature and Nature’s laws. Space travel must become as common as bus travel, 
+           and space living as common as hotel stay, whenever he or she desires, with a minimal usage fee or 
+           no fee at all. Every human should be able to attain their potential in space. And this should flow into 
+           evolving human society on Earth too. All these in the now and in the far far future. 
            This is the simple law of Nature.
            </p>
-           
-           <p style='margin-bottom:1em;'>
+
+           <p>
            We of Kosmos Society will build all the space systems, whether the spaceships or the computers or 
            self-sustaining compact electricity generators or the spacesuits or the habitation systems or 
            the social system for space and every other necessary thing, and all this in a simplified and straightforward manner, 
@@ -248,13 +249,13 @@ modalText.innerHTML = `
            Most of our systems will be usable on Earth either directly or in derivation.
            </p>
            
-           <p style='margin-bottom:1em;'>
+           <p>
            Starting 2035 our-designed spaceships will be able to carry some humans and goods safely to the Moon and 
            in subsequent years our-designed spaceships will be able to travel throughout the Inner Solar System and Outer Solar System  
            i.e. from the Moon to towards the Sun and to the edges of the Solar System. This will be just the start.
            </p>
                        
-           <p style='margin-bottom:1em;'>
+           <p>
            The manufacturers of our techno systems will be national governments who will
            purchase from us the designs and engineering details of our systems for a reasonably cheap 
            license fee and they will be able to set up factories in their own countries to produce our 
@@ -269,7 +270,7 @@ modalText.innerHTML = `
            to the Moon should have a max seat price of 100 dollars or ideally free.
            </p>
 
-           <p style='margin-bottom:1em;'>
+           <p>
            To start our journey to space, by 2031 two people will go to Low Earth Orbit in 
            our Alef-A airship-spaceship, orbit Earth and return gently through the atmosphere 
            by powered craft re-entry to the launch place.
@@ -3467,6 +3468,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
