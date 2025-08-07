@@ -43,7 +43,7 @@ modalText.innerHTML = `
            p{
            font-family: 'Roboto', sans-serif;
            color: #000;
-           font-size: 1.1em;
+           font-size: 1.0em;
            }
 
            span {
@@ -3651,6 +3651,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
