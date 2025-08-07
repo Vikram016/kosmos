@@ -51,6 +51,12 @@ modalText.innerHTML = `
              font-weight: bold;
              }
 
+             ul{
+             font-family: 'Roboto', sans-serif;
+           color: #000;
+           font-size: 1.1em;
+             }
+
          </style>
                    
            <h2>The disappointed million people desiring space travel</h2>
@@ -3461,6 +3467,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
