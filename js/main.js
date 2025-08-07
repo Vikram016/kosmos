@@ -3179,10 +3179,8 @@ modalText.innerHTML = `
              }
 
          </style>
-         <h2>
-         Contact info for benefit of potential co-workers, investors, government space departments, 
-         industry collaborators, researchers and journalists
-         </h2>
+         
+         <h2>Contact info</h2>
          <div>
           <div class="contact-card">
                        
@@ -3245,5 +3243,6 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
