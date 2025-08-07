@@ -43,7 +43,7 @@ modalText.innerHTML = `
            p{
            font-family: 'Roboto', sans-serif;
            color: #000;
-           font-size: 1.0em;
+           font-size: 0.9em;
            }
 
            span {
