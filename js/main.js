@@ -7,7 +7,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 card.addEventListener('click', function() {
 const chapter = card.getAttribute('data-chapter');
 
-// 01. Our Iskra Plan
+// Our Iskra Plan
 if (chapter === 'iskra') {
 modalText.innerHTML = `
        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -191,7 +191,12 @@ modalText.innerHTML = `
 
              <li style="margin-left:1em; margin-bottom:10px;">
              <span> >> </span> The aspiring space travelers have to generally have college degrees if they are 
-             not rich.
+             not rich. This is irrational and against Nature.
+             </li>
+
+             <li style="margin-left:1em; margin-bottom:10px;">
+             <span> >> </span> People who want to work in the space industry also must have college degrees. 
+             This too is irrational and against Nature.
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
@@ -295,7 +300,7 @@ modal.style.display = 'none';
 }
 }, 0);
 
-//02. Our techno projects
+// Our techno projects
 } else if (chapter === 'technoprojects'){
 modalText.innerHTML = `
        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -1214,7 +1219,7 @@ modalText.innerHTML = `
      `;
 modal.style.display = 'flex';
 
-// 03. Our social system for space
+// Our social system for space
 }  else if (chapter === 'socialsystem') {
 modalText.innerHTML = `
        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;font-family:Roboto,sans-serif;">
@@ -1622,19 +1627,7 @@ modalText.innerHTML = `
            <h2>Natural equality in accessing space and living in space</h2>
            
            <P>The current human-transport space industry is feudal where aspiring space travelers 
-           have to fit either of three categories :</P> 
-           
-          <P style="margin-left:1em; margin-bottom:10px";> <span>(a).</span> Be associated with the 
-          government. </p>
-          
-          <P style="margin-left:1em; margin-bottom:10px";> <span>(b).</span> Have huge monies to pay 
-          for a seat to space… at least 20 million dollars. </P>
-          
-          <P style="margin-left:1em; margin-bottom:10px";> <span>(c).</span> Be a regular person 
-          picked by the very few sponsored-trip space programs in a lottery 
-           system and this does not come true for almost all. </p>
-
-           <p>
+           have to fit those irrational categories described in our first chapter "Our Iskra Plan". 
            Other people simply don’t have a chance and this is unfair as it is only human social 
            constructs which are doing this preventing and not the universe through celestial messaging 
            where the universe displays an "Only allow them" list in Earth's night sky every night 
@@ -1643,19 +1636,22 @@ modalText.innerHTML = `
            </p>
                        
            <p>
-           But the upcoming commercial space industry promoted by certain groups on Earth pushes feudalism 
+           The upcoming commercial space industry promoted by certain groups on Earth pushes feudalism 
            and commerce to space, for example the strange art of affixing pointless commercial projection 
            slogans to space like “The trillion dollar space economy” where part of that trillion will come 
            from charging huge monies to take people to space and these huge monies will go into the 
            pockets of a very few and maintain an unfair system where these very rich few will not 
            enable cheap or free space travel just so that these huge monies continue. A cycle of 
-           unfairness.</p> 
+           unfairness.
+           </p> 
 
-           <P>The simple answer is to enable a cheaper, simpler and safer space industry which also 
+           <p>
+           The simple answer is to enable a cheaper, simpler and safer space industry which also 
            propagates true liberty, equality and progressive pan-human fraternity. We of Kosmos 
            Society will do this enabling. On Earth and in Space, manufacturers and deployers of 
            Kosmos Society’s simplified and cheaper space systems and other systems should collect 
-           minimal fees or no fees for : </P>
+           minimal fees or no fees for :
+           </P>
            
            <P style="margin-left:1em; margin-bottom:10px";><span>(a).</span> Providing and 
            repairing the personal systems like our Dune Buk wearable computer. </p>
@@ -1684,7 +1680,7 @@ modalText.innerHTML = `
            <h2>Social organization in space travel and space living</h2>
 
            <p>The primary reasons for the exploration in space will include : </p>
-           <p style="margin-left:1em; margin-bottom:10px";><span>(a).</span> Tourism. </p>
+           <p style="margin-left:1em; margin-bottom:10px";><span>(a).</span> Experiencing space. </p>
            <p style="margin-left:1em; margin-bottom:10px";><span>(b).</span> Finding new resources. </p>
            <p style="margin-left:1em; margin-bottom:10px";><span>(c).</span> Science which includes looking 
            for life and finding new homes for humans.</p> 
@@ -1740,7 +1736,8 @@ modalText.innerHTML = `
            </p>
 
           
-           <p> A Workers Cooperative has ten general outcomes :
+           <p>
+           A Workers Cooperative has eleven general outcomes :
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -1794,6 +1791,12 @@ modalText.innerHTML = `
            for their rights. With the Workers Cooperative concept all the workers equally own the company 
            and there no longer are the bosses of the past. If any worker i.e. co-owner of the company has issues, 
            he or she can directly call a discussion circle.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+           <span>(k).</span> The progressive, gentle, empathy-based and observant thinking enabled by 
+           the Workers Cooperative will make company leaders and other workers accept workers who don't have college degrees 
+           and other forms of needless and irrational social class discriminations.
            </p>
            
            <p> Other than Workers Cooperatives in space, there must be decentralization / 
@@ -2541,7 +2544,7 @@ modalText.innerHTML = `
      `;
 modal.style.display = 'flex';
        
-// 04. Our company's workers
+// Our company's workers
 } else if (chapter === 'cworkers') {
 modalText.innerHTML = `
        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -2789,7 +2792,7 @@ modalText.innerHTML = `
      `;
 modal.style.display = 'flex';
 
-// 05. Credits
+// Credits
 } else if (chapter === 'credits') {
 modalText.innerHTML = `
        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -2892,231 +2895,7 @@ modalText.innerHTML = `
      `;
 modal.style.display = 'flex';
 
-// 06. Why you can contact us
-} else if (chapter === 'whycontactus') {
-modalText.innerHTML = `
-       <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
-         <style>
-           /* Chrome, Edge, Safari */
-           #modalText > div::-webkit-scrollbar {
-             width: 10px;
-             height: 10px;
-             background: #fff;
-           }
-           #modalText > div::-webkit-scrollbar-thumb {
-             background: #fff;
-             border-radius: 10px;
-             border: 2px solid #222;
-           }
-           #modalText > div::-webkit-scrollbar-track {
-             background: #222;
-             border-radius: 10px;
-           }
-           /* Firefox */
-           #modalText > div {
-             scrollbar-width: thin;
-             scrollbar-color: #fff #222;
-           }
-
-           h2 {
-           font-family: 'Poppins', sans-serif;
-           color: #000;
-           text-align: center;
-           margin-bottom: 10px;
-           }
-
-           p{
-           font-family: 'Roboto', sans-serif;
-           color: #000;
-           font-size: 1.1em;
-           }
-
-           span {
-             color:#000;
-             font-weight: bold;
-             }
-
-         </style>
-         
-         <h2>Why you can contact us - Table of contents</h2>
-         <div style="color:#FFFFc5;font-size:1.1em;">
-           
-           <p><span>&gt;&gt;</span> 
-           If you want to invest funds in us.
-           </p>
-           
-           <p><span>&gt;&gt;</span> 
-           If you are a government space department wanting to look at our prototypes 
-           and purchase license for our products.
-           </p>
-
-           <p><span>&gt;&gt;</span> 
-           If you are an organization which wants to collaborate with us.
-           </p>
-           
-           <p><span>&gt;&gt;</span> 
-           If you are a journalist.
-           </p>
-           
-           <p><span>&gt;&gt;</span> 
-           If you want to become our co-worker.
-           </p>
-           
-           <h2>Info below in detail</h2>
-           
-           <h2>Info for investors</h2> 
-           
-           <p>
-           You can be a government or private investor, investing money in us 
-           so that we will be able to produce our prototypes and license them out 
-           to governments. Your return on investment will be share from our license fee 
-           we ask from the manufacturer governments. Once you invest in us for the first time 
-           your return on investment will be from the deals with the many governments on Earth. 
-           The industry of space travel is a permanent one, involving sciences and products 
-           of different kinds, and you will make profit with us as there are more than 100 countries 
-           whose governments can be approached to license our designs to them 
-           and this situation will exist as long as the system of money remains.
-           </p>
-
-           <p>
-           Your return on investment will also be the satisfaction of helping enable 
-           an evolved space industry and the evolved collective human society 
-           which no reasonable person can disagree with.
-           </p>
-           
-           <p>
-           But we are not yet ready for licensing out as we are just starting out as a formal company 
-           and still designing most of our our products in detail. Presently we are engaging 
-           with a manufacturer to have our Faradn self-sustaining compact electricity generator prototyped. 
-           Once this generator is developed as a prototype we will present it on our YouTube channel 
-           and also to the press and we will approach you or you can approach us.
-           </p>
-
-           <h2>Info for government space departments</h2>
-
-           <p>
-           We are just starting out formally but in the coming five to six years we will be able to 
-           license out to you the package of an entire human space program with all its associated systems 
-           at a reasonably cheap license fee. We will provide you the means to create a cheap and simple human space program 
-           so that potentially every citizen of yours can go to space and live in space 
-           and you can charge them minimal fees or ideally no fees. You can in five to six year 
-           contact us to watch the demonstrations of our prototypes.
-           </p>
-           
-           <p>
-           Our license fee includes product designs, engineering details, training, permanent on-site and telecom help 
-           by our company co-workers and continued development by us to improve our products. 
-           </p>
-           
-           <p>
-           Because space technology involves sciences of all kinds, our systems will also help 
-           evolve your Earthen nation to become a highly advanced society not only technologically 
-           but socially a cleaner, harmonious, serene, equal, just and collectively prosperous society 
-           which contributes to collective human evolution.
-           </p>
-           
-           <p>
-           Presently we are still designing most of our our products in detail. We are engaging 
-           with a manufacturer to have our Faradn self-sustaining compact electricity 
-           generator prototyped.
-           </p>
-
-           <h2>Info for organizational collaborators</h2>
-           
-           <p>
-           Collaborate with us, whether for technological collaboration or to become our equipment supplier. 
-           Have a read of our other pages and inform us how you can help us or what you can supply to us.
-           </p>
-           
-           <h2>Info for journalists</h2>
-
-           <p>
-           Contact us if you are a journalist curious about our simplified and radical approach to take 
-           potentially any human to space, through space and enable their safe and fulfilling life in space, 
-           all this in a cheap and democratic way. And also our systems contributing to evolution 
-           of human societies on Earth including reversal of Climate Change.
-           </p>
-           
-           <h2>You as our co-worker</h2> 
-
-           <p style="margin-bottom:10px;"> The industry of space travel and space living involves science of 
-           every reasonable kind - from computing to biology to materials to chemistry to many other things, 
-           except for sciences with no real basis in a simplified, non-trend-following, democracy-oriented 
-           and truly humanity-contributing organization, for examples teams for HR, accounting and 
-           "Corporate Social Responsibility". When you join us your collaboration with us will be on the basis of 
-           natural social equality and natural intelligence. We look for people ideally with the following attributes :
-           </p> 
-
-           <p style="margin-bottom:10px;"> <span> >> </span> You can be a school 10th class fail but if you have ideas, knowledge, willingness to work 
-           and maybe experience in tinkering and other areas then most welcome. </p>
-
-           <p style="margin-bottom:10px;"> <span> >> </span> You do innovative and simplifying thinking even if going against traditions, industry 
-           standards and fashions. </p> 
-
-          <p style="margin-bottom:10px;"> <span> >> </span> You are simple, gentle 
-          and not given to spouting corporate buzzwords. </p>
-
-          <p style="margin-bottom:10px;"> <span> >> </span> You have no love for money and 
-          feudalism. </p>
-
-          <p style="margin-bottom:10px;"> <span> >> </span> You desire a largely secular 
-           borderless unification of humanity on Earth and in Space. </p>
-
-          <p style="margin-bottom:10px;"> <span> >> </span> You consider the cat as the 
-          most perfect animal in the universe, ha ha. </p>
-
-          <p style="margin-bottom:10px;"> <span> >> </span> You consider tea as one of the
-           main human gifts giveable to alien cultures, ha ha. </p>
-
-          <p style="margin-bottom:10px;"> We are not a typical profiteering and feudalist corporate organization which works on 
-           fashionable and senseless technologies and uses senseless corporate lingo in every 
-           sentence ( “verticals”, “market fit”, “cost to company”, “we are letting you go”, “due diligence”, 
-           "revenue guidance", "state of the art" etc ). We are a techno-social organization set up to evolve humanity in multiple senses 
-           through the far far future and that includes our co-workers being allowed to attain their fullest potential and this in a democratic way. 
-           “Liberty, Equality, Fraternity” is after all one of our credos. So our company-internal organization of people 
-           employs the democratic concept of Workers Cooperative which is described in the “Our social system for space" chapter on this website 
-           in the section "Social organization for space travel and space living". Please read that and return to 
-           this point.
-           </p>
-
-           <p>
-           Additionally in our company :
-           </p>
-
-           <p style="margin-bottom:10px;"> <span> >> </span> For the sake of current company formation rules the company equity is divided in three 
-           parts : one part for the founders ( as at the time of formal registration of the company ), the 
-           second part for the investors, and the third part for any new co-workers where the founders 
-           will dilute their equity equally to spread equity equally among all the workers. </p>
-          
-          <p style="margin-bottom:10px;"> <span> >> </span> Salary will be an equal amount for all that is comfortable for all our workers in all our 
-           regions but the salary will be based on an Indian number since we will be HQed in India. </p>
-
-          <p style="margin-bottom:10px;"> <span> >> </span> The organization is arranged as a set of work groups which will be for the various 
-           research groups and maintenance groups. </p>
-           
-           <p style="margin-bottom:10px;"> <span> >> </span> The industry of space travel and space living is a permanent one 
-           so with us you will be in permanent employment. You will have a comfortable 
-           salary as long as the system of money remains. </p>
-
-           <p style="margin-bottom:10px;"> <span> >> </span> The organization will be headed by a General Coordinator ( GC ) who for some years to 
-           come will be Sameer who is described on this website in the "Our company's workers" chapter. The General Coordinator 
-           will be approachable to every worker, will be the interface within the organization and externally, 
-           and every worker if necessary can arrange to call a discussion circle with a notification sent 
-           to the GC. Further, each of our branches in other countries or regions ( those not India ) will 
-           have a Regional Coordinator. </p>
-
-          <p style="margin-bottom:10px;"> <span> >> </span> Please note that we are just starting out 
-          so it will be some time before you start getting salary and we all get salaries so please be patient 
-          and look at the big picture and the long term.
-          </p>
-         
-         </div>
-         
-       </div>
-     `;
-modal.style.display = 'flex';
-
-//07. Contact info
+// Contact info chapter
 }  else if (chapter === 'contactinfo') {
 modalText.innerHTML = `
        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -3483,21 +3262,3 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
