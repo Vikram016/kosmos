@@ -7,8 +7,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 card.addEventListener('click', function() {
 const chapter = card.getAttribute('data-chapter');
 
-// 01. Iskra Plan
-if (chapter === 'iskra') {
+// 01. Basis
+if (chapter === 'basis') {
 modalText.innerHTML = `
        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
          <style>
@@ -55,8 +55,10 @@ modalText.innerHTML = `
                    
            <h2>The disappointed million people desiring space travel</h2>
            
-           <p>Now in 2025 there must be at least one million people in the world desiring to go to space 
-           right now for the below reasons :</p>
+           <p>
+           Now in 2025 there must be at least one million people in the world desiring to go to space 
+           right now for the below reasons :
+           </p>
            
            <ul style='margin-bottom:1em;'>
              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> 
@@ -67,7 +69,7 @@ modalText.innerHTML = `
              asteroids and other space bodies.</li>
 
              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Research including to 
-             find life and to try to terraform other worlds to become newer versions of Earth.</li>
+             find life and to try to terraform other worlds to become new Earths.</li>
 
            </ul>
            
@@ -86,25 +88,20 @@ modalText.innerHTML = `
            
            <ul>
              <li style="margin-left:1em; margin-bottom:10px;"> 
-             <span>(a).</span> Inefficient : The rocket has to expend a lot of non-recoverable chemical fuel 
+             <span>(a).</span> Inefficient : The tall rocket has to expend a lot of non-recoverable fuel 
              to rise even one centimeter off the launch pad and then to keep rising through the atmosphere.
-             And once in orbital space it has to keep pushing out the non-recoverable fuel to give it the
-             push and the direction towards the destination and then for any course corrections and then
-             for braking once it is very near the destination. This requires lot of fuel and thus very large
+             Once in orbital space it has to keep pushing out the non-recoverable fuel to give it the
+             push towards the destination and then for any course corrections and then
+             for braking once it is very near the destination and then for descent. This requires lot of fuel and thus very large
              fuel tanks and these tanks increase the weight of the rocket and that creates a wrong cycle
-             which in the end leaves very less mass of the rocket for the cargo, say to carry even one
-             human. This disadvantage remains even when the rocket makers “stage” the rocket i.e.
-             divide it in at least two separate parts where the part which goes to space ( the spaceship )
-             will have its own fuel and engine and this part is pushed through most of the atmosphere by
+             which in the end leaves very less mass of the rocket for the cargo, even one human. This disadvantage 
+             remains even when the rocket makers “stage” the rocket i.e. divide it in at least two separate parts where the part 
+             which goes to space ( the spaceship ) will have its own fuel and engine and this part is pushed through most of the atmosphere by
              a booster rocket and in the upper atmosphere the parts separate and the booster falls or
              does powered descent towards the ground so that some mass from the spaceship is lessened and 
              the spaceship fires its own engines to go further out into space. For even slightly farther
              distances like the Moon, a very small cargo like a single human becomes a very small
-             carryable part of the original massive rocket. Some may think “Why not make the rocket 
-             more huge to be able to carry more humans ?” but the huge rocket will also need a massive 
-             launch and recovery tower and other infrastructure and that simply feels neither clean nor 
-             practical. An orbital spaceship should be able to launch and descend in most places without 
-             any special infrastructure.
+             carryable part of the originally massive rocket.
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;"> 
@@ -171,7 +168,7 @@ modalText.innerHTML = `
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;"> 
-             <span>(g).</span> Non-renewable : Tall rocket fuels like paraffix wax and kerosene are petroleum products which are easily understood to be 
+             <span>(g).</span> Non-renewable : Tall rocket fuels like paraffix wax and kerosene are petroleum products understood to be 
              non-renewable on Earth. The all-metal structures in tall rockets are also non-renewable in the sense that these metals have to be 
              mined in big quantity to obtain more material for more tall rockets and a lot of it even for a single tall rocket. And the nature 
              of the tall rocket means a bigger refinement process for the mined metals.
@@ -179,7 +176,9 @@ modalText.innerHTML = `
 
            </ul>
            
-           <p>Thus the Tall Rocket is an obsolete method of travel to space.</p>
+           <p>
+           Thus the Tall Rocket is an obsolete method of travel to space.
+           </p>
 
            <p>
            There is another type of launch system which is the Space-plane and this is under design by 
@@ -215,9 +214,9 @@ modalText.innerHTML = `
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
-             <span>(d).</span> The size of the space-plane becomes limited by the length and width of the runway, by the power of its lifting engines, 
-             by how much stress its necessary wings can take and by its inherent aeroplane-based complicatedness. Thus the space-plane will practically 
-             never be able to carry more than 20 people to space.
+             <span>(d).</span> The size of the space-plane becomes limited by the length and width of the runway, by the power and weight of its lifting engines, 
+             by how much stress its necessary wings can take and by its inherent aeroplane-based complicatedness. Practically, the space-plane may 
+             take only 20 people to space.
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
@@ -233,14 +232,16 @@ modalText.innerHTML = `
             
              <p>
              Some academics propose creating huge spaceships whose undersides will have mechanism 
-             to explode nuclear bombs whose massive force will push these spaceships rise with great speed 
-             into space. And they can use the same nuclear bomb mechanism to fly through space and land where they wish. 
-             However, as is obvious, use of nuclear bombs is not only dangerous for the environment these ships 
-             lift off from, say on Earth, because of the radiation released which will remain there for a long time, 
-             there will be possibly long-residing heavy nuclear radiation contaminating the space routes these ships 
+             to explode nuclear bombs whose massive force will push these spaceships with great speed 
+             up into space. And they can use the same nuclear bomb mechanism to fly through space. 
+             However, how will they land ? Will they carry some other fuel to land ? Given the massive size of these 
+             heavily armored craft, it will take a lot of fuel for landing. Secondly, use of nuclear bombs 
+             is not only dangerous for the environment these ships lift off from, say on Earth, because of the radiation released 
+             which will remain there for a long time and spread to long distances by air, there will be possibly long-residing 
+             heavy nuclear radiation contaminating the space routes these ships 
              travel through, but also is the point of the inherent massive danger of these ships using nuclear bombs 
              as propulsion... even one bomb exploding without intention can destroy the ship and cause the remaining 
-             nuclear bombs to explode and this can destroy hundreds of kilometers of the launch area 
+             nuclear bombs to explode and this can immediately destroy hundreds of kilometers from the launch area 
              or the area this ship falls on. Similar to nuclear war. Thus this ship proposal is more foolish 
              than the tall rocket.
              </p>
@@ -3650,6 +3651,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
