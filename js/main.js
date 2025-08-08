@@ -1348,21 +1348,16 @@ modalText.innerHTML = `
         <h2> Introduction to this chapter</h2>
         
            <p> 
-           We present the draft of a progressive pan-humanist social system for space, which is for all humans 
-           going and living in the kosmos / universe / space and hopefully this social system finds adoption 
-           throughout Earth in time. We want through this draft social system a harmonious unity of
-           humankind in space, removed of all the artificial and needless unpleasantnesses, tragedies and anti-natural beliefs 
-           that humans do or endure presently on Earth, and we promote all the approaches which are natural, rational, simple and 
-           gentle. We must build a kosmic utopia, making humankind an evolved kosmos society.
+           We present the draft of a social system for space, which is simple, progressive, pan-humanist, harmonious 
+           and Nature-ordained and is for all humans going and living in the kosmos / universe / space and hopefully 
+           this social system finds adoption throughout Earth in time. This draft social system seeks to remove all the artificial and 
+           needless unpleasantnesses, tragedies and anti-natural beliefs that humans do or endure presently on Earth, 
+           and we promote all the approaches which are natural, rational, simple, enlightened and gentle.
            </p>
 
            <p>
-           This chapter describes a social system for simple, harmonious and Nature-ordained organization and 
-           rights for humans in space so that groups in space operate harmoniously within themselves and with other 
-           individuals or groups in space who are fellow humans from anywhere on Earth and fellow humans 
-           from beyond when humans settle on other worlds and in free space. In going through space and living 
-           in space, every human must have an enlightened spirit including by selflessly sharing space resources 
-           with every other human in an equal manner without demanding ransoms like money, tax, college degrees, race, 
+           In going through space and living in space, every human must have an enlightened spirit including by selflessly sharing space resources 
+           with every other human in an equal manner without needless taxes like money, college degrees, race, 
            belief in certain divinities, Earthen passport and other human-made social positions.
            </p>
 
@@ -1372,13 +1367,13 @@ modalText.innerHTML = `
            and then beyond to the edges of the Solar System and then to the stars. Our social system will help 
            humans from those starting 12 years to the far far future which is unknown now but what is known 
            is that how much ever humans become superior biologically and intellectually they must live 
-           within the laws and ways of Nature, with the realization that Nature is supreme.
+           within the laws and ways of Nature, with the realization that Nature is supreme. We must build 
+           a kosmic utopia, making humankind an evolved kosmos society.
            </p>
 
            <p>
-           This draft is not a full preparation but still substantial and we will further 
-           it by discussions in progressive forums like World Social Forum and join it with others’ drafts 
-           for this purpose. Some points below are “To be done”.
+           This draft is substantial and we will further it by discussions in progressive forums like World Social Forum and 
+           join it with others’ drafts for this purpose. Some points below are “To be done”.
            </p>
 
            <h2>The universe and human nations on Earth</h2>
@@ -3244,6 +3239,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
