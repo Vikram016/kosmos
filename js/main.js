@@ -2231,6 +2231,103 @@ modalText.innerHTML = `
              in exams in a sneaky way, just so that they get those meaningless numbers called Exam Marks 
              by not truly learning but memorizing facts and sentences to vomit those on the exam paper.
            </p>
+
+           <p>
+             <span> >> </span> In some societies exams are the measures for even parents to judge the intelligence of their 
+             own children. They live with their children for two decades even but will not listen to their children's ideas and 
+             desires but will instead listen to third parties called school principals and exam answer sheet examiners who have 
+             no real interest in these parents' student children's intelligence and potential. For these third parties 
+             the student is either just a direct source of income ( school tax / school fees ) or just a duty from which he or she 
+             will earn salary for that task. No more.
+           </p>
+
+           <p>
+             <span> >> </span> These societies are also extremely Capitalist where the parents have no true love and 
+             loyalty to their children but love only for the potential later income their children will bring to the 
+             family through wage employment and this income will continue when the parents are retired from their own 
+             wage employment and their society provides them with little source of survival by them having 
+             little money leftover. Therefore in such societies, children are a future financial investment 
+             no different than investment in the stock market or interest-based bank investments. Put money once 
+             and encash for years ignoring the immorality of it.
+           </p>
+
+           <p>
+             <span> >> </span> In such societies, competition is prevalent in every day in most things including employment. 
+             Since these societies have no rational, scientific, empathy-based and collectivized work distribution system 
+             where the whole society benefits and humanity benefits, the situation is every-person-for-themselves... dog-eat-dog... 
+             a rat-race everyday especially in employment. Employments will be wage-based for mediocre or totally unnecessary things 
+             which nobody really wants in the world but geopolitics by powerful governments creates such employments in their subordinate societies. 
+             And these wage employments are obtained by high competition among the candidates who recently graduated from the schooling system 
+             or have been wagers for decades even. Since the employments are not scientific and collectivist, the way they are obtained 
+             will also be not scientific and collectivist, which is by every candidate trying to outdo the other by showing his or her 
+             higher marks in exams down years in the so-called education system, so that the interviewers are impressed with these 
+             meaningless numbers on paper and give them the wage-based employment.
+           </p>
+
+           <p>
+             <span> >> </span> All this creates a social environment where competition of exam marks and future potential money earnings 
+             are extremely respected and the non-love and non-loyalty of the parents for their children make the parents put extreme pressure 
+             on their children for as high exam marks as is possible by students. The parents want to tom-tom these high exam marks 
+             to neighbors, colleagues and relatives as their "good upbringing" of their children whose "future is secured" 
+             by a "good job" which really is not for the children themselves but for the parents socio-economic well-being. 
+             This is fake pride on baseless things.
+           </p>
+
+           <p>
+             <span> >> </span> In a few of these competition-based societies is the even sadder aspect of families getting 
+             socio-economically boycotted by the local community and by relatives if that family doesn't have sufficient money income. 
+             Since the income has to come from competition-obtained wage employment for most people, especially the middle class, 
+             the parents in these families who anyway don't love their children truly, they don't want to be socio-economically 
+             boycotted and lose their means of food, water, transport etc. They don't want to be taunted by the cruel 
+             community. This is another aspect of such parents putting pressure on their children for higher and higher 
+             exams marks... 600 out of 600... 900 out of 900... "Get that gold medal".
+           </p>
+
+           <p>
+             <span> >> </span> The children of these parents may be highly intelligent and have potential for many things, 
+             whether painting or inventing machines or understanding the kosmos or singing and so on. 
+             However, they are not supported by their cruel and selfish parents who in a cloud of 
+             lust for money, fake pride and fear of socio-economic boycott. These parents therefore will not rebel 
+             against their community and the society's system and want their society to become humane, empathetic, 
+             scientific, gentle and evolved, but instead bring their society's pressure onto their children. 
+             The children who are intelligent will naturally not accept the exams-based life as their judge of intelligence 
+             nor will they like their true interests and talents to lose time to preparing for exams. The children undergo 
+             these conflicts as internal torture every hour and also taunts by their parents for not putting full mind 
+             to the exam preparation books.
+           </p>
+
+           <p>
+             <span> >> </span> Many times to reach the competition-based wage employments, 
+             the path is through so-called prestigious colleges which are nothing assembly lines to prepare 
+             drones for useless employments based on fashionable technology trends and finance trends. 
+             And for the student to get into these "prestigious colleges" he or she must write competitive exams 
+             called Entrance Exams and to prepare for these Entrance Exams the student must enter Coaching Institutes 
+             of whose famous ones may have their own entrance exams in addition to high money enrollment fee tax. 
+             So those non-loving and selfish parents will push their children into these coaching centers 
+             and the children will undergo torture everyday, forced to do something not of their interest, forced to ignore 
+             their interest, and in fact their very obtaining of food will come from the parents' satisfaction with 
+             their children's progress through the coaching center. No high performance, no food, no new clothes, 
+             no mobile phone recharge, no travel money, no living quarters rent money.            
+           </p>
+
+           <p>
+             <span> >> </span> So, many of these students being tortured by their parents mindlessness, 
+             lust for money, fake pride, fear of socio-economic boycott, not rejecting this oppressive system, 
+             not being supportive of their children including for basic food and housing... all this presents the idea 
+             of suicide in many students and many of them suicide. They jump from the sixth storey of their 
+             coaching center or from a bridge or hang themselves from their room's fan or consume some pesticide 
+             they could purchase from their meagre spare money. The coaching centers are not held accountable, 
+             the parents show fake grief for two days and go back to their routine, the system continues to find 
+             more student victims.
+           </p>
+
+           <p>
+             <span> >> </span> 
+           </p>
+           
+           where exams Since the two bench mates competing with each other are not really friends, 
+             
+           </p>
            
            <p>
              <span> >> </span> In India there is the stereotype of the Soda Glass Student who is forever top of his class 
@@ -2241,11 +2338,7 @@ modalText.innerHTML = `
              at close range, hence his "soda glass" to amplify the texts. However, how many of these "soda glass" exam fanatic people 
              have we known to have created marvelous technologies for humanity and simple social systems for humanity ?
            </p>
-
-           <p>
-             <span> >> </span> 
-           </p>
-
+        
            <p>
              <span> >> </span> 
            </p>
@@ -3510,6 +3603,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
