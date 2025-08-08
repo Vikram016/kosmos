@@ -62,8 +62,8 @@ modalText.innerHTML = `
            <h2>The disappointed million people desiring space travel</h2>
            
            <p>
-           Now in 2025 there must be at least one million people in the world desiring to go to space 
-           right now for the below reasons :
+             Now in 2025 there must be at least one million people in the world desiring to go to space 
+             right now for the below reasons :
            </p>
            
            <ul style='margin-bottom:1em;'>
@@ -80,15 +80,15 @@ modalText.innerHTML = `
            </ul>
            
            <p>
-           But in the context of the current space industry most people will never be able to go to space 
-           because the space industry imposes technological restrictions and anti-democratic social restrictions 
-           which we list below.
+             But in the context of the current space industry most people will never be able to go to space 
+             because the space industry imposes technological restrictions and anti-democratic social restrictions 
+             which we list below.
            </p>
            
            <h2>Technological restrictions of the current space industry</h2>
            
            <p>
-           The current means of going to space is the Tall Rocket which is a system that is :
+            The current means of going to space is the Tall Rocket which is a system that is :
            </p>
            
            <ul style='margin-bottom:1em;'>
@@ -129,41 +129,41 @@ modalText.innerHTML = `
            </ul>
 
            <p>
-           The Tall Rocket is an obsolete and non-sensible method of travel to space.
+            The Tall Rocket is an obsolete and non-sensible method of travel to space.
            </p>
 
            <p>
-           There is another type of launch system which is the Space-plane and this is under design by 
-           some organizations. This system has the spaceship formed like a regular aeroplane and takes off 
-           from the ground from a runway like a regular aeroplane usually using jet engines but when it 
-           reaches higher atmosphere it fires another set of engines which are a multiple of small rocket 
-           engines which push the space-plane to orbit and then farther into not-distant space. A variation 
-           has a single type of engine whose multiples are fixed in the spaceplane and they will operate first as 
-           the takeoff engines and then in higher Earthen atmosphere they will operate as the space-taking engines. 
-           However, the space-plane cannot be used for long-distance space travel, like Earth to Red One, and 
-           the space-plane shares the same disadvantages as a regular aeroplane so is also not the solution.
+             There is another type of launch system which is the Space-plane and this is under design by 
+             some organizations. This system has the spaceship formed like a regular aeroplane and takes off 
+             from the ground from a runway like a regular aeroplane usually using jet engines but when it 
+             reaches higher atmosphere it fires another set of engines which are a multiple of small rocket 
+             engines which push the space-plane to orbit and then farther into not-distant space. A variation 
+             has a single type of engine whose multiples are fixed in the spaceplane and they will operate first as 
+             the takeoff engines and then in higher Earthen atmosphere they will operate as the space-taking engines. 
+             However, the space-plane cannot be used for long-distance space travel, like Earth to Red One, and 
+             the space-plane shares the same disadvantages as a regular aeroplane so is also not the solution.
            </p>          
 
            <p>
-           Some academics propose creating huge spaceships whose undersides will have mechanism 
-           to explode nuclear bombs whose massive force will push these spaceships with great speed 
-           up into space. And they can use the same nuclear bomb mechanism to fly through space. 
-           However, how will they land ? Will they carry some other fuel to land ? Given the massive size of these 
-           heavily armored craft, it will take a lot of fuel for landing. Secondly, use of nuclear bombs 
-           is dangerous for the environment these ships lift off from, say on Earth, because of the radiation released 
-           which will remain there for a long time and spread to long distances by air, birds and insects. There will also be possibly 
-           long-residing heavy nuclear radiation contaminating the space routes these ships travel through. There is also the point 
-           of the inherent massive danger of these ships using nuclear bombs as propulsion... even one bomb exploding without intention 
-           can destroy the ship and cause the remaining nuclear bombs to explode and immediately destroy hundreds of kilometers 
-           of land starting from the launch area or the area this ship falls on. Similar to nuclear war. Thus this ship proposal is more foolish 
-           than the tall rocket.
+             Some academics propose creating huge spaceships whose undersides will have mechanism 
+             to explode nuclear bombs whose massive force will push these spaceships with great speed 
+             up into space. And they can use the same nuclear bomb mechanism to fly through space. 
+             However, how will they land ? Will they carry some other fuel to land ? Given the massive size of these 
+             heavily armored craft, it will take a lot of fuel for landing. Secondly, use of nuclear bombs 
+             is dangerous for the environment these ships lift off from, say on Earth, because of the radiation released 
+             which will remain there for a long time and spread to long distances by air, birds and insects. There will also be possibly 
+             long-residing heavy nuclear radiation contaminating the space routes these ships travel through. There is also the point 
+             of the inherent massive danger of these ships using nuclear bombs as propulsion... even one bomb exploding without intention 
+             can destroy the ship and cause the remaining nuclear bombs to explode and immediately destroy hundreds of kilometers 
+             of land starting from the launch area or the area this ship falls on. Similar to nuclear war. Thus this ship proposal is more foolish 
+             than the tall rocket.
            </p>
 
            <p>
-           Also, there are other techno systems required for space travel, like compact electricity production systems, 
-           reliable wearable computers, food production systems, general purpose spacesuits, to other-world ground and air vehicles 
-           and so on. These systems either don't exist presently or there is no passionate push towards realizing them 
-           from research form to daily-usage for, or there is no simplicity and universality in their design.
+             Also, there are other techno systems required for space travel, like compact electricity production systems, 
+             reliable wearable computers, food production systems, general purpose spacesuits, to other-world ground and air vehicles 
+             and so on. These systems either don't exist presently or there is no passionate push towards realizing them 
+             from research form to daily-usage for, or there is no simplicity and universality in their design.
            </p>
 
            <h2>Social restrictions of the current space industry</h2>
@@ -219,73 +219,73 @@ modalText.innerHTML = `
            </ul>
            
            <p>
-           Thus presently most humans are excluded from going to space even if they are intelligent, gentle and respect Nature... 
-           even if experiencing space must be the easy right of every human. But it is not Nature denying most people 
-           access to space... it is anti-democratic systems among humans doing so. Also, for those very very few people on Earth 
-           who are able to go to space, they go by sitting in very unsafe and unreliable systems which can explode any time 
-           and kill them and many other humans around. And we are told to celebrate those feudal organizations which do these irrational exclusions 
-           and create these unsafe systems. We are told to heroize the people who head these organizations.
+             Thus presently most humans are excluded from going to space even if they are intelligent, gentle and respect Nature... 
+             even if experiencing space must be the easy right of every human. But it is not Nature denying most people 
+             access to space... it is anti-democratic systems among humans doing so. Also, for those very very few people on Earth 
+             who are able to go to space, they go by sitting in very unsafe and unreliable systems which can explode any time 
+             and kill them and many other humans around. And we are told to celebrate those feudal organizations which do these irrational exclusions 
+             and create these unsafe systems. We are told to heroize the people who head these organizations.
            </p>
           
            <h2>Our solution - The Iskra Plan</h2>
            
            <p>
-           In the Russian language "Iskra" means Spark, especially one which ignites positive change. 
-           We of Kosmos Society are starting the iskra to light the flame for utopian evolution of humans 
-           for Space and for Earth so that every human can explore the entire universe to the max extent possible by humans, 
-           in a way that is simple, gentle, safe, pan-humanist in a progressive way and respectful of 
-           Nature and Nature’s laws, and the good ideas and technologies formed for space and the good ideas and technologies formed in space 
-           benefit all humans collectively, including on Earth.
+             In the Russian language "Iskra" means Spark, especially one which ignites positive change. 
+             We of Kosmos Society are starting the iskra to light the flame for utopian evolution of humans 
+             for Space and for Earth so that every human can explore the entire universe to the max extent possible by humans, 
+             in a way that is simple, gentle, safe, pan-humanist in a progressive way and respectful of 
+             Nature and Nature’s laws, and the good ideas and technologies formed for space and the good ideas and technologies formed in space 
+             benefit all humans collectively, including on Earth.
            </p>
            
            <p>
-           Space travel must become as common as bus travel, and space living as common as hotel stay, whenever he or she desires, 
-           with a minimal tax aka usage fee, or no tax at all. Money is a form of tax and in fact in space, 
-           tax and money should cease to exist as they have no natural existence in the universe 
-           except for the 6000 years or so that they have existed on Earth and have been among the main reasons for needless oppressions, misery and 
-           complicatedness. Also should end all the other social restrictions which don't exist in Nature 
-           but were created by some people on Earth. Ending these restrictions is the simple law of Nature.
+             Space travel must become as common as bus travel, and space living as common as hotel stay, whenever he or she desires, 
+             with a minimal tax aka usage fee, or no tax at all. Money is a form of tax and in fact in space, 
+             tax and money should cease to exist as they have no natural existence in the universe 
+             except for the 6000 years or so that they have existed on Earth and have been among the main reasons for needless oppressions, misery and 
+             complicatedness. Also should end all the other social restrictions which don't exist in Nature 
+             but were created by some people on Earth. Ending these restrictions is the simple law of Nature.
            </p>
 
            <p>
-           We of Kosmos Society will build all the space systems, whether spaceships or self-sustaining compact electricity generators 
-           or computers or spacesuits or habitation systems or the democratic and natural social system for space and every other necessary thing, 
-           and all this in a simplified and straightforward manner, without caring for obsolete and needless "industry standards", 
-           unthoughtful academic postulations, cringey technological fashions, stupid corporate language, ignoring of simple ideas, 
-           anti-democratic and anti-Nature social constructs.
+             We of Kosmos Society will build all the space systems, whether spaceships or self-sustaining compact electricity generators 
+             or computers or spacesuits or habitation systems or the democratic and natural social system for space and every other necessary thing, 
+             and all this in a simplified and straightforward manner, without caring for obsolete and needless "industry standards", 
+             unthoughtful academic postulations, cringey technological fashions, stupid corporate language, ignoring of simple ideas, 
+             anti-democratic and anti-Nature social constructs.
            </p>
 
            <p>
-           All our systems will be simplified, aesthetic, reliable, manufacturable cheaply, operable cheaply, repairable cheaply and tend towards 
-           using biology where applicable because biology has existed intelligently for millions of years at least on Earth. We will use novel methods 
-           and natural methods, doesn't matter if we are the only ones using those or one of the few. What works, works. What is sensible, is sensible. 
-           What can be simplified, must be simplified. What is natural, has to be the system.
+             All our systems will be simplified, aesthetic, reliable, manufacturable cheaply, operable cheaply, repairable cheaply and tend towards 
+             using biology where applicable because biology has existed intelligently for millions of years at least on Earth. We will use novel methods 
+             and natural methods, doesn't matter if we are the only ones using those or one of the few. What works, works. What is sensible, is sensible. 
+             What can be simplified, must be simplified. What is natural, has to be the system.
            </p>
 
            <p>
-           Starting 2035 our-designed spaceships will be able to carry some humans and goods safely to the Moon and 
-           in subsequent years our-designed spaceships will be able to travel throughout the Inner Solar System and Outer Solar System 
-           i.e. from the Moon to towards the Sun and to the edges of the Solar System. This will be just the start. We will produce ideas 
-           that will take humans to the stars.
+             Starting 2035 our-designed spaceships will be able to carry some humans and goods safely to the Moon and 
+             in subsequent years our-designed spaceships will be able to travel throughout the Inner Solar System and Outer Solar System 
+             i.e. from the Moon to towards the Sun and to the edges of the Solar System. This will be just the start. We will produce ideas 
+             that will take humans to the stars.
            </p>
 
            <p>
-           We are a non-profit design house and the manufacturers of our techno systems will be national governments who will 
-           purchase from us the designs and engineering details of our systems for a reasonably cheap 
-           license fee and they will be able to set up factories in their own countries to produce our 
-           systems cheaply and sustainably. We will propagate our pan-human democratic social system for space 
-           to be adopted by these governments when they send out their citizens into space, for example they should charge 
-           their citizens a max seat price of 100 dollars to the Moon or ideally free.
+             We are a non-profit design house and the manufacturers of our techno systems will be national governments who will 
+             purchase from us the designs and engineering details of our systems for a reasonably cheap 
+             license fee and they will be able to set up factories in their own countries to produce our 
+             systems cheaply and sustainably. We will propagate our pan-human democratic social system for space 
+             to be adopted by these governments when they send out their citizens into space, for example they should charge 
+             their citizens a max seat price of 100 dollars to the Moon or ideally free.
            </p>
 
            <p>
-           Most of our systems will be usable on Earth either directly or in derivation.
+             Most of our systems will be usable on Earth either directly or in derivation.
            </p>
 
            <p>
-           To start our journey to space, by 2031 two people will go to Low Earth Orbit in 
-           our Alef-A airship-spaceship, orbit Earth and return gently through the atmosphere 
-           by powered craft re-entry to the launch place.
+             To start our journey to space, by 2031 two people will go to Low Earth Orbit in 
+             our Alef-A airship-spaceship, orbit Earth and return gently through the atmosphere 
+             by powered craft re-entry to the launch place.
            </p>
            
          </div>
@@ -431,190 +431,202 @@ modalText.innerHTML = `
 
          <h2>Our progressive product design principles</h2>
          <div>
-           <p><span>&gt;&gt;</span> Liberty, Equality, Fraternity, Humanism, Simplicity, Beauty, Gentleness, 
-           Human safety as much as possible, Respect for Nature including reversing Climate Change on Earth. 
-           A "Gentleness" example is renaming of the planet “Mars” to “Red One” as the former is the Roman 
-           god of war while the latter is a gentle name. A "Human safety" example is not following the 
-           silliness of nuclear fusion as the means to generate electricity.
+           <p><span>&gt;&gt;</span>
+             Liberty, Equality, Fraternity, Humanism, Simplicity, Beauty, Gentleness, 
+             Human safety as much as possible, Respect for Nature including reversing Climate Change on Earth. 
+             A "Gentleness" example is renaming of the planet “Mars” to “Red One” as the former is the Roman 
+             god of war while the latter is a gentle name. A "Human safety" example is not following the 
+             silliness of nuclear fusion as the means to generate electricity.
            </p>
            
-           <p><span>&gt;&gt;</span> Readiness to explore sensible methods that are from old times or are unusual.
+           <p><span>&gt;&gt;</span> 
+             Readiness to explore sensible methods that are from old times or are unusual.
            </p>
            
-           <p><span>&gt;&gt;</span> We won’t do a technology just because there are a hundred other companies doing it 
-           or it has been done for a hundred years or just because it has been proposed by some celebrated scientist but 
-           the idea is not sensible, for example the concept called Dyson Sphere aka Dyson Swarm.
+           <p><span>&gt;&gt;</span> 
+             We won’t do a technology just because there are a hundred other companies doing it 
+             or it has been done for a hundred years or just because it has been proposed by some celebrated scientist but 
+             the idea is not sensible, for example the concept called Dyson Sphere aka Dyson Swarm.
            </p>
 
-           <p><span>&gt;&gt;</span> Employ the concept of Circular Economy which also relates 
-           to :
+           <p><span>&gt;&gt;</span> 
+             Employ the concept of Circular Economy which also relates to :
            </p>
                                   
            <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> Much simplified technology.</p>
 
-           <p style='margin-left:2em;margin-bottom:10px;'><span>(b).</span> Decentralization and ease of production and 
-           usage which includes electricity generation.
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(b).</span> 
+             Decentralization and ease of production and usage which includes electricity generation.
            </p>
 
-           <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> As much as possible, use of structural materials 
-           and fuels that are available cheaply and available in many place or can be produced anywhere so that the manufacturers 
-           can produce our products cheaply and make them available to the masses cheaply. Examples, water, air, wood, biocoal 
-           and electricity that is produced by a simple, compact, self-sustaining generator.
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> 
+             As much as possible, use of structural materials 
+             and fuels that are available cheaply and available in many place or can be produced anywhere so that the manufacturers 
+             can produce our products cheaply and make them available to the masses cheaply. Examples, water, air, wood, biocoal 
+             and electricity that is produced by a simple, compact, self-sustaining generator.
            </p>
 
-            <p style='margin-left:2em;margin-bottom:10px;'><span>(d).</span> Bio-mimicry and Engineered Biology wherever applicable.</p>
-
-           <p style='margin-left:2em;margin-bottom:10px;'><span>(e).</span> Low-tech when applicable.</p>
-
-           <p style='margin-left:2em;margin-bottom:10px;'><span>(f).</span> Local empowerment.</p>
-
-           <p style='margin-left:2em;margin-bottom:10px;'><span>(g).</span> Technology that is well-crafted
-            yet affordable by the masses.
-            </p>
-
-           <p style='margin-left:2em;margin-bottom:10px;'><span>(h).</span> Technologies selected are simple, reliable and help
-            return humanity anywhere to easier advancement or be resilient when situation becomes bad 
-            because of natural or other events like unusually big solar storm, comet or asteroid strike, 
-            a pointless global war etc.
-            </p>           
-
-           <p><span>&gt;&gt;</span> Our technologies will align around our draft for a democratic, pan-human 
-           and Nature-respecting social system for space, presented in the chapter of that name on this website.
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(d).</span> 
+             Bio-mimicry and Engineered Biology wherever applicable.
            </p>
 
-           <p><span>&gt;&gt;</span> As example of the above points, we will not use semiconductors.
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(e).</span> 
+             Low-tech when applicable.
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(f).</span> 
+             Local empowerment.
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(g).</span> 
+             Technology that is well-crafted yet affordable by the masses.
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(h).</span> 
+             Technologies selected are simple, reliable and help return humanity anywhere to easier advancement 
+             or be resilient when situation becomes bad because of natural or other events like unusually big solar storm, 
+             comet or asteroid strike, a pointless global war etc.
+           </p>           
+
+           <p><span>&gt;&gt;</span> 
+             Our technologies will align around our draft for a democratic, pan-human 
+             and Nature-respecting social system for space, presented in the chapter of that name on this website.
+           </p>
+
+           <p><span>&gt;&gt;</span> 
+             As example of the above points, we will not use semiconductors.
            </p>
 
            <h2>Faradn electricity generator</h2>
            
            <p>
-           Advancement in electricity generation is not to make the generators huge, 
-           centralized, complicated, unsafe, polluting and needless like nuclear, hydropower dams,
-           huge on-sea wind turbines, huge under-sea wave machines etc along with their complicated 
-           and huge system controls, power controls and power delivery mechanisms and 
-           all these stretched hundreds of kilometers or even millions of kilometers like 
-           the idiotic concept Dyson Swarm. 
+             Advancement in electricity generation is not to make the generators huge, 
+             centralized, complicated, unsafe, polluting and needless like nuclear, hydropower dams,
+             huge on-sea wind turbines, huge under-sea wave machines etc along with their complicated 
+             and huge system controls, power controls and power delivery mechanisms and 
+             all these stretched hundreds of kilometers or even millions of kilometers like 
+             the idiotic concept Dyson Swarm. 
            </p>
            
            <p>
-           There’s also an unspoken nefarious element in the promotion of Space-based Solar Power 
-           where huge photovoltaic panels will sit in Earth orbit and convert the abundant sunlight there to electricity, 
-           then convert the electricity to high-power microwaves and send down the microwaves to certain large-focus spots on Earth 
-           where on those spots on the ground the microwaves are converted back to electricity by rectennas 
-           to be supplied to the grid. The nefarious element here is the potential of this system to be used to zap 
-           humans and other things using the high-power microwaves by moving these power 
-           satellites over targets.
+             There’s also an unspoken nefarious element in the promotion of Space-based Solar Power 
+             where huge photovoltaic panels will sit in Earth orbit and convert the abundant sunlight there to electricity, 
+             then convert the electricity to high-power microwaves and send down the microwaves to certain large-focus spots on Earth 
+             where on those spots on the ground the microwaves are converted back to electricity by rectennas 
+             to be supplied to the grid. The nefarious element here is the potential of this system to be used to zap 
+             humans and other things using the high-power microwaves by moving these power 
+             satellites over targets.
            </p>          
 
            <p>
-           Actual advancement in electricity generation is to make generators simple, compact, 
-           self-sustaining, safe and decentralized, where the generator sits within the small and large machines 
-           needing electricity or just outside them. Making generators compact will also enable 
-           redundancy, easy replacement and easy placement in any place which needs electricity 
-           instead of centralized single points of failure. Within-machine compact generators also contribute 
-           to democracy where the individual user freely owns the electricity generation mechanism and its 
-           produced electricity.
+             Actual advancement in electricity generation is to make generators simple, compact, 
+             self-sustaining, safe and decentralized, where the generator sits within the small and large machines 
+             needing electricity or just outside them. Making generators compact will also enable 
+             redundancy, easy replacement and easy placement in any place which needs electricity 
+             instead of centralized single points of failure. Within-machine compact generators also contribute 
+             to democracy where the individual user freely owns the electricity generation mechanism and its 
+             produced electricity.
            </p>
 
            <p>
-           Our Faradn generator system will be such a generator which will power all our non-micro-sized products 
-           by sitting within them or just outside them. It will produce 24 volts DC which is enough for most purposes, 
-           neither too low a current nor dangerously high. Once started, this generator will be designed to continuously 
-           produce current for at least a month... this is the self-sustained part.
+             Our Faradn generator system will be such a generator which will power all our non-micro-sized products 
+             by sitting within them or just outside them. It will produce 24 volts DC which is enough for most purposes, 
+             neither too low a current nor dangerously high. Once started, this generator will be designed to continuously 
+             produce current for at least a month... this is the self-sustained part.
            </p>
            
            <p>
-           For high voltage requirements we can externally connect this self-sustained generator to further amplifying systems 
-           like a motor-generator. Within the Faradn generator itself there are two very simple approaches we are considering in generating 
-           the initial low-voltage current before we amplify that current, clean it and provide it as the 24 volts DC output. 
-           The two approaches are :
+             For high voltage requirements we can externally connect this self-sustained generator to further amplifying systems 
+             like a motor-generator. Within the Faradn generator itself there are two very simple approaches we are considering in generating 
+             the initial low-voltage current before we amplify that current, clean it and provide it as the 24 volts DC output. 
+             The two approaches are :
            </p>
            
            <p>
-           (a). A thermo-mechanical piston mechanism which includes a "sand battery".
+             (a). A thermo-mechanical piston mechanism which includes a "sand battery".
            </p>
 
            <p>
-           (b). A simple magnet-repulsion motor mechanism with at least two magnet sets.
+             (b). A simple magnet-repulsion motor mechanism with at least two magnet sets.
            </p>
 
            <p>
-           Please check the “Credits” chapter to see where we derive most of our ideas for the 
-           generator.
+             Please check the “Credits” chapter to see where we derive most of our ideas for the 
+             generator.
            </p>
            
            <p>
-           The name of this system, Faradn, refers to two things : an acknowledgement to Michael
-           Faraday and a nod to the Dune story which has the character Farad’n.
+             The name of this system, Faradn, refers to two things : an acknowledgement to Michael
+             Faraday and a nod to the Dune story which has the character Farad’n.
            </p>                    
            
            <p>
-           There can be a rechargeable battery included within this system or outside this 
-           system to provide short-duration backup and enable generator switchover when one 
-           generator fails But this battery will have to be safe, eco-friendly and socially harmonious 
-           in terms of its electricity storage materials, electrodes and packaging. Very much not 
-           the lithium-ion battery which has been one of humanity's most idiotic inventions 
-           alongisde the motorcycle and of course money.
+             There can be a rechargeable battery included within this system or outside this 
+             system to provide short-duration backup and enable generator switchover when one 
+             generator fails But this battery will have to be safe, eco-friendly and socially harmonious 
+             in terms of its electricity storage materials, electrodes and packaging. Very much not 
+             the lithium-ion battery which has been one of humanity's most idiotic inventions 
+             alongisde the motorcycle and of course money.
            </p>
            
            <h2>The Alef-A airship-spaceship</h2>
            
            <p>
-           We use the airship type of craft to ascend to orbital space from any atmosphere-having world 
-           because it has the advantage of operating on the balloon principle i.e. when the airship's gas bags 
-           are filled with a lifting gas or combination of lifting gases which are lighter than the surrounding air, 
-           the whole structure of the airship automatically lifts into the air without any or much fuel expenditure 
-           until it reaches to a height where the airship's lifting gas or gases find equilibrium 
-           with the lesser atmospheric air at that height. From that atmospheric height for lift of the airship into space 
-           there will be other upwards push / propulsion methods required.
+             We use the airship type of craft to ascend to orbital space from any atmosphere-having world 
+             because it has the advantage of operating on the balloon principle i.e. when the airship's gas bags 
+             are filled with a lifting gas or combination of lifting gases which are lighter than the surrounding air, 
+             the whole structure of the airship automatically lifts into the air without any or much fuel expenditure 
+             until it reaches to a height where the airship's lifting gas or gases find equilibrium 
+             with the lesser atmospheric air at that height. From that atmospheric height for lift of the airship into space 
+             there will be other upwards push / propulsion methods required.
            </p>
            
            <p>
-           The airship is much better than the Tall Rocket because the Tall Rocket requires lot of fuel just to lift itself 
-           one centimeter off the launch pad as we explained in the "Our Iskra Plan" chapter. Secondly, much less push-into-orbit fuel 
-           makes the airship type of spaceship much more safer in terms of explosion. Thirdly, the airship-spaceship can easily 
-           be made horizontally larger instead of the vertically huge of the Tall Rocket.
+             The airship is much better than the Tall Rocket because the Tall Rocket requires lot of fuel just to lift itself 
+             one centimeter off the launch pad as we explained in the "Our Iskra Plan" chapter. Secondly, much less push-into-orbit fuel 
+             makes the airship type of spaceship much more safer in terms of explosion. Thirdly, the airship-spaceship can easily 
+             be made horizontally larger instead of the vertically huge of the Tall Rocket.
            </p>
 
            <p>
-           Our airship-spaceship is the Alef-A which will be shaped like an upside-down teacup without the handle,
-           and its lift gases will be helium gas and hot air. An airship type or a balloon which uses this combination of a lift gas with heated air 
-           is called a Roziere Balloon. The Alef-A's horizontal travel or lift into higher
-           atmosphere and then into space will be assisted by electric rotors, coal combustion and 
-           water steam jets. Of course the gas lift and electric rotors are usable only if that world has air
-           / atmosphere. The coal propulsion and steam jets can be used to ascend or descend on any world even without atmosphere. 
-           When ascending or descending these fuels are non-recoverable i.e. once they combust or are expelled they cannot be recovered to their 
-           original form and be reused. And then once this craft is in space it will be given brief pushes by coal combustion 
-           for high-speed direction-giving but will be propelled largely by water steam jets where through an arrangement most of the steam 
-           is recovered to water and reused to be jetted again to enable longer-distance continuous-thrust travel, thus the water
-           steam here is a largely recoverable fuel. Coal combustion will also be used for 
-           effects like braking and positioning near destinations and then for descent on some world. 
-           The Alef-A will also allow for short-distance space travel like from Earth to Moon’s surface.
+             Our airship-spaceship is the Alef-A which will be shaped like an upside-down teacup without the handle,
+             and its lift gases will be helium gas and hot air. An airship type or a balloon which uses this combination of a lift gas with heated air 
+             is called a Roziere Balloon. The Alef-A's horizontal travel or lift into higher
+             atmosphere and then into space will be assisted by electric rotors, coal combustion and 
+             water steam jets. Of course the gas lift and electric rotors are usable only if that world has air
+             / atmosphere. The coal propulsion and steam jets can be used to ascend or descend on any world even without atmosphere. 
+             When ascending or descending these fuels are non-recoverable i.e. once they combust or are expelled they cannot be recovered to their 
+             original form and be reused. And then once this craft is in space it will be given brief pushes by coal combustion 
+             for high-speed direction-giving but will be propelled largely by water steam jets where through an arrangement most of the steam 
+             is recovered to water and reused to be jetted again to enable longer-distance continuous-thrust travel, thus the water
+             steam here is a largely recoverable fuel. Coal combustion will also be used for 
+             effects like braking and positioning near destinations and then for descent on some world. 
+             The Alef-A will also allow for short-distance space travel like from Earth to Moon’s surface.
            </p>
 
            <h2>The Alef-F space ferry</h2>
            
            <p>
-           The Alef-F will be a space-bound ferry large enough to carry five Alef-A crafts and a hundred
-           humans and a hundred tons of other cargo and will be primarily propelled by water steam
-           jets but will include coal propulsion for momentary high-thrust-requiring situations. It will have 
-           proper water-using baths and toilets with the toilets having disinfectant-having water spray for hygienic and satisfying 
-           cleaning after defecation. The ferry will also have sufficient growing facilities for food crop, 
-           fuel crop ( for the coal via biocoal ), other crops, a clinic, mini mills for textile, woodwork, 
-           metalwork, bio-engineering, electricals and computers, then tailoring, research facility, mineral processing, 
-           water storage, a small swimming pool that is time-segregated for men and women… 
-           all this for largely self-sustained long-term living and far travel. And telescopes. This ferry will be able to 
-           travel from the Inner Solar System to the Outer Solar System and station around various worlds and 
-           space objects to enable from-orbit observations and allow descent-ascent using the Alef-A crafts. 
-           The cargo can be anything including mining equipment and habitation-building material. 
-           Thus this ferry craft is much better than the current and proposed space stations around Earth and the Moon. 
-           It can also be called a colony ship.
+             The Alef-F will be a space-bound ferry large enough to carry five Alef-A crafts and a hundred
+             humans and a hundred tons of other cargo and will be primarily propelled by water steam
+             jets but will include coal propulsion for momentary high-thrust-requiring situations. It will have 
+             proper water-using baths and toilets with the toilets having disinfectant-having water spray for hygienic and satisfying 
+             cleaning after defecation. The ferry will also have sufficient growing facilities for food crop, 
+             fuel crop ( for the coal via biocoal ), other crops, a clinic, mini mills for textile, woodwork, 
+             metalwork, bio-engineering, electricals and computers, then tailoring, research facility, mineral processing, 
+             water storage, a small swimming pool that is time-segregated for men and women… 
+             all this for largely self-sustained long-term living and far travel. And telescopes. This ferry will be able to 
+             travel from the Inner Solar System to the Outer Solar System and station around various worlds and 
+             space objects to enable from-orbit observations and allow descent-ascent using the Alef-A crafts. 
+             The cargo can be anything including mining equipment and habitation-building material. 
+             Thus this ferry craft is much better than the current and proposed space stations around Earth and the Moon. 
+             It can also be called a colony ship.
            </p>
 
            <p> 
-           This ferry craft will be constructed in Earth orbit and in other world orbits and will always
-           remain in space, never to descend on any world. The construction material will be carried to
-           orbit by the Alef-A crafts.
+             This ferry craft will be constructed in Earth orbit and in other world orbits and will always
+             remain in space, never to descend on any world. The construction material will be carried to
+             orbit by the Alef-A crafts.
            </p>
 
            <h2>About both Alef-A and Alef-F spaceships</h2>
@@ -631,8 +643,9 @@ modalText.innerHTML = `
              our organization Further will be more types. </li>
            </ul>
            
-           <p>Both the Alef-A and the Alef-F will be primarily propelled in space by water steam 
-           jets and this is advantageous because :</p>
+           <p>
+             Both the Alef-A and the Alef-F will be primarily propelled in space by water steam 
+             jets and this is advantageous because :</p>
            
            <ul>
              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Steam is made 
@@ -652,30 +665,30 @@ modalText.innerHTML = `
            </ul>
            
            <p>
-            It may be possible to form these two spaceships to have artificial gravity generation
-            using spin by spinning sections of the craft This enabling will allow humans to live 
-            in healthy Earth-like gravity for most of their space journeys and also configure 
-            lower or higher gravity to prepare the human travellers for the gravity of other 
-            worlds like the Moon or Red One.
-            </p>
+             It may be possible to form these two spaceships to have artificial gravity generation
+             using spin by spinning sections of the craft This enabling will allow humans to live 
+             in healthy Earth-like gravity for most of their space journeys and also configure 
+             lower or higher gravity to prepare the human travellers for the gravity of other 
+             worlds like the Moon or Red One.
+           </p>
            
-             <h2> Ra-K hovercraft-wheelcraft-aircraft </h2>
+           <h2> Ra-K hovercraft-wheelcraft-aircraft </h2>
            
            <p> 
-           The name of this vehicle comes from the name Ra who was the supreme ancient Egyptian
-           god who had the head of a cat and the body of a man - a hybrid. Other than the dedication to
-           cats the name is also because this Ra-K vehicle is a hybrid vehicle as below. And the “K” is
-           because it will carry humans in kosmos / environments in contrast to our other Ra hybrid
-           machines which are described in further sections. 
+             The name of this vehicle comes from the name Ra who was the supreme ancient Egyptian
+             god who had the head of a cat and the body of a man - a hybrid. Other than the dedication to
+             cats the name is also because this Ra-K vehicle is a hybrid vehicle as below. And the “K” is
+             because it will carry humans in kosmos / environments in contrast to our other Ra hybrid
+             machines which are described in further sections. 
            </p>
            
            <p>
-           Ra-K will be universal on-world vehicles to carry humans and small cargo on large space
-           bodies, whether air-having or airless. They will carry three spacesuited humans in a
-           medium-sized pressurized cabin and behind the cabin will be an airlock to the outside. On
-           top of the vehicle will be a closable cargo box which can hold 500 kilograms. There will be a
-           telescoping cargo lifting arm on the front of the vehicle which will load things into the top
-           cargo box.
+             Ra-K will be universal on-world vehicles to carry humans and small cargo on large space
+             bodies, whether air-having or airless. They will carry three spacesuited humans in a
+             medium-sized pressurized cabin and behind the cabin will be an airlock to the outside. On
+             top of the vehicle will be a closable cargo box which can hold 500 kilograms. There will be a
+             telescoping cargo lifting arm on the front of the vehicle which will load things into the top
+             cargo box.
            </p>
 
            <p>For propulsion this craft will use a combination of :</p>
@@ -691,269 +704,269 @@ modalText.innerHTML = `
            </ul>
 
            <p>
-           Hovercraft mode will be used on air-having / atmosphere-having worlds ( like Red One and
-           maybe Titan ) where there is air to lift the vehicle but dependent on the situation on the
-           ground like having safe desert beneath the vehicle or a lake so the vehicle can hover and
-           when coming upon mountainous or uncertain ground it can switch to wheelcraft mode to
-           travel carefully inch by inch or can deploy the rotors to start flying.
+             Hovercraft mode will be used on air-having / atmosphere-having worlds ( like Red One and
+             maybe Titan ) where there is air to lift the vehicle but dependent on the situation on the
+             ground like having safe desert beneath the vehicle or a lake so the vehicle can hover and
+             when coming upon mountainous or uncertain ground it can switch to wheelcraft mode to
+             travel carefully inch by inch or can deploy the rotors to start flying.
            </p>
 
            <p>
-           When in aircraft mode, lift is done by six sets of two contra-rotating electric rotors where the
-           arms having the rotors are normally folded up above the craft and will unfold when flying
-           mode is activated and the rotors will lift the craft vertically and descend it vertically.
-           Horizontal movement is done by two pusher propellers. There may be foldable wings
-           attached to the rotor arms to provide glide facility and extra lift.
+             When in aircraft mode, lift is done by six sets of two contra-rotating electric rotors where the
+             arms having the rotors are normally folded up above the craft and will unfold when flying
+             mode is activated and the rotors will lift the craft vertically and descend it vertically.
+             Horizontal movement is done by two pusher propellers. There may be foldable wings
+             attached to the rotor arms to provide glide facility and extra lift.
            </p>
             
            <p>
-           Just wheelcraft mode will be used on airless / non-atmosphere worlds like the Moon
-           because there will be no air to make the vehicle hover or fly.
+             Just wheelcraft mode will be used on airless / non-atmosphere worlds like the Moon
+             because there will be no air to make the vehicle hover or fly.
            </p>
            
            <p>
-           The main cabin will be pressurized with Earth-type breathing gas mixture ( oxygen and
-           nitrogen ) and able to take three people. The cabin will have racks for food, medicine, small
-           tools, instruments and research objects.
+             The main cabin will be pressurized with Earth-type breathing gas mixture ( oxygen and
+             nitrogen ) and able to take three people. The cabin will have racks for food, medicine, small
+             tools, instruments and research objects.
            </p>
            
            <p>
-           This craft can be put in semi-autonomous mode so that a Ra-K carrying people is in front
-           and there is a train of non-peopled Ra-Ks behind carrying cargo in the top cargo box, and
-           each behind Ra-K connected to the forward Ra-K using signals-carrying fiber optic cables.
-           The behind Ra-Ks will use hovercraft mode or wheelcraft mode or aircraft mode based on
-           the directions sent from the first people-carrying Ra-K.
+             This craft can be put in semi-autonomous mode so that a Ra-K carrying people is in front
+             and there is a train of non-peopled Ra-Ks behind carrying cargo in the top cargo box, and
+             each behind Ra-K connected to the forward Ra-K using signals-carrying fiber optic cables.
+             The behind Ra-Ks will use hovercraft mode or wheelcraft mode or aircraft mode based on
+             the directions sent from the first people-carrying Ra-K.
            </p>
            
            <p>
-           The coal combustion propulsion mode will be used in aircraft mode in emergencies like
-           safely landing the craft when the rotors fail or getting the vehicle away from some
-           emergency in a certain location.
+             The coal combustion propulsion mode will be used in aircraft mode in emergencies like
+             safely landing the craft when the rotors fail or getting the vehicle away from some
+             emergency in a certain location.
            </p>
            
            <h2>A spacesuit called Stillsuit</h2>
            
            <p>
-           The full design of this spacesuit is still in consideration but it will be a hardsuit to allow easy 
-           movement of the wearer and better safety and it can also fly. The suit will use bio-mimicry
-           and biological elements to also allow for self-repair.
+             The full design of this spacesuit is still in consideration but it will be a hardsuit to allow easy 
+             movement of the wearer and better safety and it can also fly. The suit will use bio-mimicry
+             and biological elements to also allow for self-repair.
            </p>
            
            <p>
-           The suit system will include the helmet, shoes, breathing tanks ( oxygen-nitrogen mixture ),
-           water system ( including drinking straws and water recovery from urine ) and temperature 
-           control. There will be provision for collecting defecation and rendering it non-toxic and
-           non-smelly. The defecation system will include cleaning using disinfectant-having water.
+             The suit system will include the helmet, shoes, breathing tanks ( oxygen-nitrogen mixture ),
+             water system ( including drinking straws and water recovery from urine ) and temperature 
+             control. There will be provision for collecting defecation and rendering it non-toxic and
+             non-smelly. The defecation system will include cleaning using disinfectant-having water.
            </p>
 
            <p>
-           The helmet will include a simple, mechanical system to scratch the face, the eyelids and dab
-           the face of sweat and tears.
+             The helmet will include a simple, mechanical system to scratch the face, the eyelids and dab
+             the face of sweat and tears.
            </p>
 
            <p>
-           The electrical system in the suit will be for some control and will include a mic and speakers.
-           For detailed control, the electrical system will be connected to an external Dune Buk
-           wearable computer worn on the back-of-the-upper arm of the suit and this computer will
-           show the status of the suit visually and also using sound channeled into the suit using the speakers. 
-           This computer is described in the next section.
+             The electrical system in the suit will be for some control and will include a mic and speakers.
+             For detailed control, the electrical system will be connected to an external Dune Buk
+             wearable computer worn on the back-of-the-upper arm of the suit and this computer will
+             show the status of the suit visually and also using sound channeled into the suit using the speakers. 
+             This computer is described in the next section.
            </p>
 
            <p>
-           The suit will be paired with separate rubberized guards to be worn on the knees and elbows
-           in the manner of cyclists and skaters.
+             The suit will be paired with separate rubberized guards to be worn on the knees and elbows
+             in the manner of cyclists and skaters.
            </p>
 
            <p>
-           On the back of the suit will be a jet pack with wings to use for short-distance flying to
-           descend and ascend and hop on smaller and larger air-having and airless space bodies and
-           fly in open space depending on the situation. Of course the wings cannot be used on airless
-           bodies and in open space. The fuel design of this jet pack we are still considering. It will also
-           have parachute for extra safety on air-having bodies. Maybe for even more safety and also
-           efficiency, during descent and ascent, each jet pack can team up with the jet packs of
-           adjacent wearers using an electrically-stiffened rope mechanism. This will be like mountain
-           climbers on Earth being connected by a single rope.
+             On the back of the suit will be a jet pack with wings to use for short-distance flying to
+             descend and ascend and hop on smaller and larger air-having and airless space bodies and
+             fly in open space depending on the situation. Of course the wings cannot be used on airless
+             bodies and in open space. The fuel design of this jet pack we are still considering. It will also
+             have parachute for extra safety on air-having bodies. Maybe for even more safety and also
+             efficiency, during descent and ascent, each jet pack can team up with the jet packs of
+             adjacent wearers using an electrically-stiffened rope mechanism. This will be like mountain
+             climbers on Earth being connected by a single rope.
            </p>
 
            <p>
-           The name of this spacesuit, Stillsuit, derives from the suit the Fremen people wear in the
-           Dune stories when they go out into the desert.
+             The name of this spacesuit, Stillsuit, derives from the suit the Fremen people wear in the
+             Dune stories when they go out into the desert.
            </p>
            
            <h2>Dune Buk wearable computer</h2>
            
            <p>
-           Dune Buk will be a general-purpose space-operable wearable computer which will be about
-           three feet long and worn on the back of the upper arm using two straps - one around the
-           upper arm and another over the shoulder, and thus can be used with any kind of clothing (
-           spacesuits, office dress etc ) and will be aesthetic enough for the stylish person.
+             Dune Buk will be a general-purpose space-operable wearable computer which will be about
+             three feet long and worn on the back of the upper arm using two straps - one around the
+             upper arm and another over the shoulder, and thus can be used with any kind of clothing (
+             spacesuits, office dress etc ) and will be aesthetic enough for the stylish person.
            </p>
           
            <p>
-           The processor will be called Meow and will use sound for the computations. “Meow” usually
-           is the sweetest of sounds. Some of the processor’s design will derive from our previous
-           processor+OS project, Kosmos, which was an open source project that remains documented
-           on the OpenCores website on this page [ opencores.org/projects/taar ]. The Meow processor
-           will have two computation parts which both use sound - a digital part for regular
-           computations and an analog part for more complex computations like image recognition.
+             The processor will be called Meow and will use sound for the computations. “Meow” usually
+             is the sweetest of sounds. Some of the processor’s design will derive from our previous
+             processor+OS project, Kosmos, which was an open source project that remains documented
+             on the OpenCores website on this page [ opencores.org/projects/taar ]. The Meow processor
+             will have two computation parts which both use sound - a digital part for regular
+             computations and an analog part for more complex computations like image recognition.
            </p>
            
            <p>
-           This computer will use novel methods for data storage in form of faster visuals-based
-           temporary memory and fast micromechanical switches for slower permanent memory.
+             This computer will use novel methods for data storage in form of faster visuals-based
+             temporary memory and fast micromechanical switches for slower permanent memory.
            </p>
            
            <p>
-           Our proposed simple and universal way of sensing the electromagnetic spectrum using
-           sound.
+             Our proposed simple and universal way of sensing the electromagnetic spectrum using
+             sound.
            </p>
            
            <p>
-           The display will be a projected display system showing GUI on a screen pullable to the front
-           of the user, parallel to the standing surface. Screen input will be performed using a special
-           pen for regular input as well as on-screen virtual keyboard for extended typing. The display system 
-           will also use sound.
+             The display will be a projected display system showing GUI on a screen pullable to the front
+             of the user, parallel to the standing surface. Screen input will be performed using a special
+             pen for regular input as well as on-screen virtual keyboard for extended typing. The display system 
+             will also use sound.
            </p>
            
            <p>
-           File system will be non-hierarchical and categories-recording.
+             File system will be non-hierarchical and categories-recording.
            </p>
            
            <p>
-           There will be a note-taking application which can record drawing, handwriting, typed writing,
-           voice, video and pictures.
+             There will be a note-taking application which can record drawing, handwriting, typed writing,
+             voice, video and pictures.
            </p>
            
            <p>
-           Frema is our own in-design wireless internet system for Space and Earth which will be used
-           by our Dune Buk wearable computer. Frema will use radio-frequency for normal
-           communication. The system will be based on peer-to-peer architecture which among other
-           things will require very few transmission relay towers. The system will also do signaling
-           using light or magnetic pulse / field or infrasound as per situation. The signaling system and
-           the communication protocol will factor-in the delay-included conditions of long-distance
-           communication in space. Further, the wearable will be directly able to connect from the
-           ground to low orbiting communication satellites to enable live voice, video, text and other
-           data communication. There will be a messaging system where different kinds of data will be
-           played in the same type of window. The data can be text, still pic, vid, just voice, forms and
-           other data. Text will be displayed like paper book pages. The played data can be locally
-           stored or can come from another Dune Buk comp and in case of the latter, if there are
-           multiple participants in a chat the data will be forwarded to all the participants' comps in a
-           peer-to-peer forwarding way. The wearable will be connectable to the current internet using
-           bridge computers.
+             Frema is our own in-design wireless internet system for Space and Earth which will be used
+             by our Dune Buk wearable computer. Frema will use radio-frequency for normal
+             communication. The system will be based on peer-to-peer architecture which among other
+             things will require very few transmission relay towers. The system will also do signaling
+             using light or magnetic pulse / field or infrasound as per situation. The signaling system and
+             the communication protocol will factor-in the delay-included conditions of long-distance
+             communication in space. Further, the wearable will be directly able to connect from the
+             ground to low orbiting communication satellites to enable live voice, video, text and other
+             data communication. There will be a messaging system where different kinds of data will be
+             played in the same type of window. The data can be text, still pic, vid, just voice, forms and
+             other data. Text will be displayed like paper book pages. The played data can be locally
+             stored or can come from another Dune Buk comp and in case of the latter, if there are
+             multiple participants in a chat the data will be forwarded to all the participants' comps in a
+             peer-to-peer forwarding way. The wearable will be connectable to the current internet using
+             bridge computers.
            </p>
 
            <p>
-           The computer will operate on 24 volts DC as this higher voltage than in most current semiconductor-based electronics space systems, 
-           will be less affected by space radiation. Additionally, the computations and the other systems use sound also because sound 
-           is lot lot less affected by space radiation and temperature than semiconductor electronics, unless the radiation is so high 
-           that the sound producing elements, the sound transmitting channels, the sound computation chambers, sound receiving elements 
-           and other sound elements are physically deformed by the radiation. But of course, such high radiation will kill our wearable computer's 
-           wearer first despite every humanly possible protection, and the only use of such a system is recording such an event. Sound is also easier and 
-           cheaper to produce, receive and use in computation and storage than light ( optical computing and storage ).
+             The computer will operate on 24 volts DC as this higher voltage than in most current semiconductor-based electronics space systems, 
+             will be less affected by space radiation. Additionally, the computations and the other systems use sound also because sound 
+             is lot lot less affected by space radiation and temperature than semiconductor electronics, unless the radiation is so high 
+             that the sound producing elements, the sound transmitting channels, the sound computation chambers, sound receiving elements 
+             and other sound elements are physically deformed by the radiation. But of course, such high radiation will kill our wearable computer's 
+             wearer first despite every humanly possible protection, and the only use of such a system is recording such an event. Sound is also easier and 
+             cheaper to produce, receive and use in computation and storage than light ( optical computing and storage ).
            </p>
            
            <p>
-           There will be an associated home cinema system with a wall screen and multi-channel
-           speakers.
+             There will be an associated home cinema system with a wall screen and multi-channel
+             speakers.
            </p>
 
            <p>
-           On Earth this wearable computer will be used by our customers in parallel with their mobile
-           phones and desktops, and in space will be the sole computers that our customers will carry
-           on their person and which separately can control other machines like our vehicles.
+             On Earth this wearable computer will be used by our customers in parallel with their mobile
+             phones and desktops, and in space will be the sole computers that our customers will carry
+             on their person and which separately can control other machines like our vehicles.
            </p>
 
            <p>
-           A further development will be enabling disabled people to use the wearable.
+             A further development will be enabling disabled people to use the wearable.
            </p>
 
            <h2>The Dune Buk wearable is related to two other machines</h2>
                        
            <p>
-           <span>(a).</span> Ra-D, a heater-equipped drone small enough to fit on top of the Dune Buk wearable
-           computer. This drone will be powered electrically and have the ability to fly, to wheel along
-           the ground and swim. In flight mode it can be launched from the hand and return to the
-           hand. This drone when flying will be used for vlogging, searching, communications relay,
-           emergencies and as a forward scout when people travel in ground vehicles on unknown
-           territory. Similar cases for its wheeling mode and swimming mode. This drone will be usable
-           on air-having worlds like Earth, in airless low-gravity places like the Moon, on water worlds
-           etc.
+             <span>(a).</span> Ra-D, a heater-equipped drone small enough to fit on top of the Dune Buk wearable
+             computer. This drone will be powered electrically and have the ability to fly, to wheel along
+             the ground and swim. In flight mode it can be launched from the hand and return to the
+             hand. This drone when flying will be used for vlogging, searching, communications relay,
+             emergencies and as a forward scout when people travel in ground vehicles on unknown
+             territory. Similar cases for its wheeling mode and swimming mode. This drone will be usable
+             on air-having worlds like Earth, in airless low-gravity places like the Moon, on water worlds
+             etc.
            </p>
            
            <p>
-           <span>(b).</span> Iceworm, a heater-equipped ice borer and drone carrier that will carry a swarm of
-           weight-attached Ra-D drones down into the ice-covered water sea of some ice moon or ice
-           planet by melting / “boring” through the ice. The name Iceworm derives from the Sandworm
-           animal in the Dune stories but here for ice.
+             <span>(b).</span> Iceworm, a heater-equipped ice borer and drone carrier that will carry a swarm of
+             weight-attached Ra-D drones down into the ice-covered water sea of some ice moon or ice
+             planet by melting / “boring” through the ice. The name Iceworm derives from the Sandworm
+             animal in the Dune stories but here for ice.
            </p>   
                     
            <h2>Exoskeleton</h2>
 
            <p>
-           Exoskeletons may be assisted by electricity though largely will depend on human movement.
-           This mechanism will allow for :
+             Exoskeletons may be assisted by electricity though largely will depend on human movement.
+             This mechanism will allow for :
            </p>
 
            <p>
-           <span> >> </span> Lifting heavy-weight and bulky materials which normally a human cannot lift.
+             <span> >> </span> Lifting heavy-weight and bulky materials which normally a human cannot lift.
            </p>
 
            <p>
-           <span> >> </span> Lifting heavy-weight and bulky materials which normally a human cannot lift.
+             <span> >> </span> Lifting heavy-weight and bulky materials which normally a human cannot lift.
            </p>
            
            <p>
-           <span> >> </span> Digging the ground.
+             <span> >> </span> Digging the ground.
            </p>
            
            <p>
-           <span> >> </span> Reaching small heights.
+             <span> >> </span> Reaching small heights.
            </p>
            
            <p>
-           <span> >> </span> When a person is incapacitated because of injury of limbs, back, neck etc and the
-           exoskeleton will help the person not only in movement just after injury but also in healing.
+             <span> >> </span> When a person is incapacitated because of injury of limbs, back, neck etc and the
+             exoskeleton will help the person not only in movement just after injury but also in healing.
            </p>
            
            <p>
-           Exoskeletons may not allow smooth movements but this mechanism is anyway not for
-           normal usages.
+             Exoskeletons may not allow smooth movements but this mechanism is anyway not for
+             normal usages.
            </p>
            
            <h2>Biology researches like</h2>
            
            <p>
-           <span> >> </span> The ideal plants to derive biocoal for the coal needed to propel the Alef spaceships and
-           the Ra vehicles. These plants should be growable in space.
+             <span> >> </span> The ideal plants to derive biocoal for the coal needed to propel the Alef spaceships and
+             the Ra vehicles. These plants should be growable in space.
            </p>
            
            <p>
-           <span> >> </span> Strengthened and fire-proof wood for structures in the spaceships, spacesuits and
-           habitations. Such wood is preferable to metal in many cases. The trees for the wood should
-           be growable in space.
+             <span> >> </span> Strengthened and fire-proof wood for structures in the spaceships, spacesuits and
+             habitations. Such wood is preferable to metal in many cases. The trees for the wood should
+             be growable in space.
            </p>
 
            <p>
-           <span> >> </span> Transparent wood to replace glass in some applications. The trees for the wood should 
-           be growable in space.
+             <span> >> </span> Transparent wood to replace glass in some applications. The trees for the wood should 
+             be growable in space.
            </p>
 
            <p> 
-           <span> >> </span> Structures of spaceships, spacesuits and habitations to be bio-mimicking and also made of biological elements for radiation shielding, self-repair and a sense of more naturality. For
-           example, there is interest in the fungus Cladosporium sphaerospermum which was first
-           identified in the Chernobyl reactor's remains and converts the area’s radiation into energy for
-           itself, a process called radiosynthesis which is comparable to plants converting light to
-           energy through photosynthesis. This fungus eats the radiation.
+             <span> >> </span> Structures of spaceships, spacesuits and habitations to be bio-mimicking and also made of biological elements for radiation shielding, self-repair and a sense of more naturality. For
+             example, there is interest in the fungus Cladosporium sphaerospermum which was first
+             identified in the Chernobyl reactor's remains and converts the area’s radiation into energy for
+             itself, a process called radiosynthesis which is comparable to plants converting light to
+             energy through photosynthesis. This fungus eats the radiation.
            </p>
 
            <p>
-           <span> >> </span> Engineered bacteria can be used to do mining and perhaps even construct useful matter from other existent
-           matter like asteroid rock. This is the concept of bio-transmutation and will remove the need for a lot of mechano-chemical 
-           mineral processing factories and their attendant pollution and human physical labor. Examples of use :
+             <span> >> </span> Engineered bacteria can be used to do mining and perhaps even construct useful matter from other existent
+             matter like asteroid rock. This is the concept of bio-transmutation and will remove the need for a lot of mechano-chemical 
+             mineral processing factories and their attendant pollution and human physical labor. Examples of use :
            </p>
 
            <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> To get the helium gas which our Alef-A airships require 
-           as their main lift gas.
+             as their main lift gas.
            </p>
            
            <p style='margin-left:2em;margin-bottom:10px;'><span>(b).</span> To get the nitrogen gas for adding to oxygen 
@@ -967,21 +980,21 @@ modalText.innerHTML = `
            </p>
             
            <p> 
-           <span> >> </span> The previously described phenomenon of radiosynthesis has an interesting application for space which uses the idea 
-           similar to the Astrophage bio-organism in Andy Weir's sci-fi book of 2021 called Project Hail Mary. This application is spaceship propulsion. 
-           The use of self-replicating bacteria which absorb / eat the different radiations in space, store those radiation energies internally 
-           like an electrical capacitor and can be made to release / discharge those energies in a single burst at extremely 
-           high energy levels just like a high-voltage electrical capacitor discharge, and this high energy discharge by these 
-           bio-organisms can propel spaceships at very very high speeds. This mechanism can be used in association with our regular steam propulsion 
-           where the bacteria give initial extremely high speed pushes to spaceships and then are not used and then the steam engines with their recoverable water mechanism, 
-           are turned on to give continuous propulsion so that higher speeds are reached. Before water collection points in space, 
-           the bacteria propulsion on the front of the spaceship is turned on to brake the spaceship 
-           and use its steam propulsion to do precise orientation. Maybe our coal propulsion can be used here or 
-           it may not need to be used. Water is collected and the propulsion process repeated. 
-           At the destination, again the combination of bacteria braking and steam-based positioning is used 
-           and maybe to descend on a world the bacteria propulsion can be used in addition to the coal and steam propulsion. 
-           This system may allow us lot faster and shorter-duration travel to the stars in a sustainable way using 
-           bacteria-constructed matter, than is possible with current propulsion methods or proposed methods like even anti-matter.
+             <span> >> </span> The previously described phenomenon of radiosynthesis has an interesting application for space which uses the idea 
+             similar to the Astrophage bio-organism in Andy Weir's sci-fi book of 2021 called Project Hail Mary. This application is spaceship propulsion. 
+             The use of self-replicating bacteria which absorb / eat the different radiations in space, store those radiation energies internally 
+             like an electrical capacitor and can be made to release / discharge those energies in a single burst at extremely 
+             high energy levels just like a high-voltage electrical capacitor discharge, and this high energy discharge by these 
+             bio-organisms can propel spaceships at very very high speeds. This mechanism can be used in association with our regular steam propulsion 
+             where the bacteria give initial extremely high speed pushes to spaceships and then are not used and then the steam engines with their recoverable water mechanism, 
+             are turned on to give continuous propulsion so that higher speeds are reached. Before water collection points in space, 
+             the bacteria propulsion on the front of the spaceship is turned on to brake the spaceship 
+             and use its steam propulsion to do precise orientation. Maybe our coal propulsion can be used here or 
+             it may not need to be used. Water is collected and the propulsion process repeated. 
+             At the destination, again the combination of bacteria braking and steam-based positioning is used 
+             and maybe to descend on a world the bacteria propulsion can be used in addition to the coal and steam propulsion. 
+             This system may allow us lot faster and shorter-duration travel to the stars in a sustainable way using 
+             bacteria-constructed matter, than is possible with current propulsion methods or proposed methods like even anti-matter.
            </p>
 
            <p>
@@ -993,226 +1006,224 @@ modalText.innerHTML = `
            </p>
                       
            <p>
-           <span> >> </span> Intelligent computation using a combination of human brain cells and our Dune Buk
-           wearable computer. This will allow autonomous, compact-sized intelligent computation to be
-           carried out even without the complete need of humans like in places where humans cannot
-           go or are too far away.
+             <span> >> </span> Intelligent computation using a combination of human brain cells and our Dune Buk
+             wearable computer. This will allow autonomous, compact-sized intelligent computation to be
+             carried out even without the complete need of humans like in places where humans cannot
+             go or are too far away.
            </p>
 
            <p>
-           <span> >> </span> Bio-engineered production of not only plant-based foods but also 
-           nutritious originally animal products like sheep milk, chicken egg and honey.
+             <span> >> </span> Bio-engineered production of not only plant-based foods but also 
+             nutritious originally animal products like sheep milk, chicken egg and honey.
            </p>
            
            <p>
-           <span> >> </span> Bio-engineered animal products growing also leads to another interesting thing : 
-           synthetic wombs for growing human organs and cat organs and entire living humans and this is important not
-           only for solving diseases like blindness and kidney failure but also for populating space with
-           humans and also protecting the desirable Earthen lifeforms in case of global devastations.
+             <span> >> </span> Bio-engineered animal products growing also leads to another interesting thing : 
+             synthetic wombs for growing human organs and cat organs and entire living humans and this is important not
+             only for solving diseases like blindness and kidney failure but also for populating space with
+             humans and also protecting the desirable Earthen lifeforms in case of global devastations.
            </p>
 
            <p>
-           <span> >> </span> The idea that instead of making great effort in building electro-mechanical limbed robots 
-           and even bio-mimicking robots which have bio-inspired muscles, to do work in space and on space objects 
-           where the environment is dangerous for current regular humans, better is to use natural biology 
-           in form of biologically enhanced biological humans to go to those places and also have good clothing against 
-           those environmental conditions. This involves creating within humans the abilities for self-repair, 
-           space-tolerance and enhanced strength. To get these abilities may require biological elements 
-           acting with non-bio nanomachines within the body. It should be possible to thus increase continuous human life span 
-           to 2000 years at least.
+             <span> >> </span> The idea that instead of making great effort in building electro-mechanical limbed robots 
+             and even bio-mimicking robots which have bio-inspired muscles, to do work in space and on space objects 
+             where the environment is dangerous for current regular humans, better is to use natural biology 
+             in form of biologically enhanced biological humans to go to those places and also have good clothing against 
+             those environmental conditions. This involves creating within humans the abilities for self-repair, 
+             space-tolerance and enhanced strength. To get these abilities may require biological elements 
+             acting with non-bio nanomachines within the body. It should be possible to thus increase continuous human life span 
+             to 2000 years at least.
            </p>
 
            <p>
-           <span> >> </span> However, in enabling biology-based super-enhancement and synthetic wombs for humans, 
-           care will be taken that such acquired abilities do not transform humans from their human form into something else 
-           i.e. the extreme imagined forms of Transhumanism. So, for example a cat should recognize an enhanced human as a human, 
-           a human with gentleness, wisdom, sensitiveness and empathy who a cat can trust... certainly not the robotic 
-           massively-muscled enhanced beings of some Hollywood films who do not seem "human".
+             <span> >> </span> However, in enabling biology-based super-enhancement and synthetic wombs for humans, 
+             care will be taken that such acquired abilities do not transform humans from their human form into something else 
+             i.e. the extreme imagined forms of Transhumanism. So, for example a cat should recognize an enhanced human as a human, 
+             a human with gentleness, wisdom, sensitiveness and empathy who a cat can trust... certainly not the robotic 
+             massively-muscled enhanced beings of some Hollywood films who do not seem "human".
            </p>
 
-           <h2> One derivation of these researches is eradicating hunger on Earth. Hunger is a two part
-             problem
-             </h2>
+           <h2> One derivation of these researches is eradicating hunger on Earth. Hunger is a two part problem</h2>
            
-             <p>
-              <span>(a).</span> A technological problem via use of traditional methods of growing food in open farms
-               which are inefficient, centralized, polluting, climate-vulnerable and pest-vulnerable.
-              </p>
+           <p>
+             <span>(a).</span> A technological problem via use of traditional methods of growing food in open farms
+             which are inefficient, centralized, polluting, climate-vulnerable and pest-vulnerable.
+           </p>
           
-             <p>
+           <p>
              <span>(b).</span> A social problem largely via tax on food, within-family feudalist unequal distribution of food, 
              private profiteering by merchants and geopolitical interferences in the food industry. So many people go hungry or 
              die of hunger despite abundance of food. There are additional culture-dependent wastages of food.
-             </p>
+           </p>
              
-             <p>
+           <p>
              The simple solution for hunger is not only social enlightenment but also a technological 
              combination of bio-engineered plant-based foods and the nutritious originally animal products 
              like given above, and these productions done in decentralized, neighborhood-level indoor farms.
-             </p>
+           </p>
 
            <h2> Machines for water which include</h2>
            
            <p>
-           <span> >> </span> Portable extractors of water from ice, open water, soil and air.
+             <span> >> </span> Portable extractors of water from ice, open water, soil and air.
            </p>
 
            <p>
-           <span> >> </span> Water purifiers.
+             <span> >> </span> Water purifiers.
            </p>
 
            <p>
-           <span> >> </span> Electrolysis machines.
+             <span> >> </span> Electrolysis machines.
            </p>
 
            <h2>Habitat construction on other worlds</h2>
 
            <p>
-           <span>(a).</span> Building most of the habitation underground for protection against space radiation, low
-           temperature, high temperature and space dust / small rocks. The topside will be accessed
-           by a pressurized tunnel which is topped with local soil including radiation-stopping volcanic
-           soil, and connected to the outside by an airlock.
+             <span>(a).</span> Building most of the habitation underground for protection against space radiation, low
+             temperature, high temperature and space dust / small rocks. The topside will be accessed
+             by a pressurized tunnel which is topped with local soil including radiation-stopping volcanic
+             soil, and connected to the outside by an airlock.
            </p>
 
            <p>
-           <span>(b).</span> Some of the wall of the airlock can be strengthened transparent wood window which transmits
-           outside natural light to a mirror on the far inner side which then transmits that light to the
-           inner section of the habitation.
+             <span>(b).</span> Some of the wall of the airlock can be strengthened transparent wood window which transmits
+             outside natural light to a mirror on the far inner side which then transmits that light to the
+             inner section of the habitation.
            </p>
 
            <p>
-           <span>(c).</span> Compartmentizing the tunnel’s walls like ship hulls so that a breach in one compartment,
-           maybe because of space pebbles crashing into it, can be easily sealed off and can also be
-           self-sealing.
+             <span>(c).</span> Compartmentizing the tunnel’s walls like ship hulls so that a breach in one compartment,
+             maybe because of space pebbles crashing into it, can be easily sealed off and can also be
+             self-sealing.
            </p>
 
            <p>
-           <span>(d).</span> The internal walls will be made of strengthened wood. Wood is lighter than a metal like
-           steel and also growable in the form of its trees.
+             <span>(d).</span> The internal walls will be made of strengthened wood. Wood is lighter than a metal like
+             steel and also growable in the form of its trees.
            </p>
 
            <p>
-           <span>(e).</span> Use of bio-mimicry and biology in the structures for purposes described in previous
-           sections.
+             <span>(e).</span> Use of bio-mimicry and biology in the structures for purposes described in previous
+             sections.
            </p>
 
            <p>
-           <span>(f).</span> Living quarters can be made to spin at Earth gravity level for healthy living.
+             <span>(f).</span> Living quarters can be made to spin at Earth gravity level for healthy living.
            </p>
 
            <p>
-           <span>(g).</span> The ground vehicles will be parked outside the tunnel in protected sheds.
+             <span>(g).</span> The ground vehicles will be parked outside the tunnel in protected sheds.
            </p>
 
            <p>
-           <span>(h).</span> All this construction has to be quake-proof.
+             <span>(h).</span> All this construction has to be quake-proof.
            </p>
 
            <p>
-           <span>(i).</span> All this construction has to be aesthetic. No need to discard aesthetics just because we
-           are in space. Form and function, both are important.
+             <span>(i).</span> All this construction has to be aesthetic. No need to discard aesthetics just because we
+             are in space. Form and function, both are important.
            </p>         
            
            <h2>Serf autonomous satellite for Earth orbit debris cleaning</h2>  
            
            <p>
-           There are an estimated 100 million human-made pieces of various sizes in Earth orbit, made
-           of metal and other material, which are debris from parts of non-functioning satellites and
-           parts from other discarded space vehicles. These pieces size from tiny to large and travel
-           around Earth at very high speeds ( 20,000+ kmph ). As human-carrying spaceships rise into
-           Earth orbit at various altitudes they have chance of getting hit by these high-speed pieces
-           and getting destroyed along with their human cargo or getting very damaged in context of
-           current spaceship-building methods. The two current space stations in Earth orbit also can
-           get this risk. This debris was unfortunately ignored in the previous decades but now is
-           awareness about not only the simple needlessness of it but also that the debris will soon
-           make human travel through Earth orbit very dangerous or even impossible.
+             There are an estimated 100 million human-made pieces of various sizes in Earth orbit, made
+             of metal and other material, which are debris from parts of non-functioning satellites and
+             parts from other discarded space vehicles. These pieces size from tiny to large and travel
+             around Earth at very high speeds ( 20,000+ kmph ). As human-carrying spaceships rise into
+             Earth orbit at various altitudes they have chance of getting hit by these high-speed pieces
+             and getting destroyed along with their human cargo or getting very damaged in context of
+             current spaceship-building methods. The two current space stations in Earth orbit also can
+             get this risk. This debris was unfortunately ignored in the previous decades but now is
+             awareness about not only the simple needlessness of it but also that the debris will soon
+             make human travel through Earth orbit very dangerous or even impossible.
            </p>
 
            <p>
-           This debris resulted from thoughtlessness where exists the so-called United Nations
-           Organization which should have been the manager of all satellites on behalf of a collective
-           and peaceful humanity and the provider to all humanity of the services of the satellites. Thus
-           satellites around Earth orbit would have been very few and been in-orbit-repairable or
-           retrievable-to-Earth and all their services would have been provided to every human
-           individual for free, without taxes, which all is ideal and very easily achieved but the UN was
-           and is just UN-involved in any peace-bringing and life-simplifying efforts. Therefore the
-           UN-involved allowed :
+             This debris resulted from thoughtlessness where exists the so-called United Nations
+             Organization which should have been the manager of all satellites on behalf of a collective
+             and peaceful humanity and the provider to all humanity of the services of the satellites. Thus
+             satellites around Earth orbit would have been very few and been in-orbit-repairable or
+             retrievable-to-Earth and all their services would have been provided to every human
+             individual for free, without taxes, which all is ideal and very easily achieved but the UN was
+             and is just UN-involved in any peace-bringing and life-simplifying efforts. Therefore the
+             UN-involved allowed :
            </p>
 
            <p>
-           <span>(a).</span> A race of governments to individually have their own Earth observation satellites in Earth
-           orbit for purposes of Earth natural resource observation, pollution observation, climate
-           observation, habitation observation, infrastructure observation and of course spying.
+             <span>(a).</span> A race of governments to individually have their own Earth observation satellites in Earth
+             orbit for purposes of Earth natural resource observation, pollution observation, climate
+             observation, habitation observation, infrastructure observation and of course spying.
            </p>
 
            <p>
-           <span>(b).</span> Commerce where commercial satellites were sent by profiteering corporations to provide
-           phone communication, internet communication and TV relaying to people around the world
-           but largely for fees.
+             <span>(b).</span> Commerce where commercial satellites were sent by profiteering corporations to provide
+             phone communication, internet communication and TV relaying to people around the world
+             but largely for fees.
            </p>
 
            <p>
-           Therefore the result was these debris fields and we of Kosmos Society are joining the effort
-           of various individuals and groups in the world coming up with ideas to increasingly lessen
-           this debris until it is no longer there.
+             Therefore the result was these debris fields and we of Kosmos Society are joining the effort
+             of various individuals and groups in the world coming up with ideas to increasingly lessen
+             this debris until it is no longer there.
            </p>
 
            <p>
-           We are currently designing an autonomous satellite called Serf which will carry a large
-           robust detachable net. The satellite will reach a particular Earth orbit and achieve the same
-           speed as the debris in that orbit and then the net which has electrically stiffening branches,
-           will use that to envelop some of the debris and the satellite will disengage from that debris
-           section and make journey towards the Sun to as close as safely possible near the Sun,
-           where the detachable net is detached and simultaneously given push so that the net with its
-           debris goes into the Sun. The Sun is the best garbage burner we have. The Serf satellite will
-           return to the Earth orbit debris fields, extract another net from its inbuilt net store and do its
-           work again and again. And there will be a swarm of Serf satellites to do the job better.
+             We are currently designing an autonomous satellite called Serf which will carry a large
+             robust detachable net. The satellite will reach a particular Earth orbit and achieve the same
+             speed as the debris in that orbit and then the net which has electrically stiffening branches,
+             will use that to envelop some of the debris and the satellite will disengage from that debris
+             section and make journey towards the Sun to as close as safely possible near the Sun,
+             where the detachable net is detached and simultaneously given push so that the net with its
+             debris goes into the Sun. The Sun is the best garbage burner we have. The Serf satellite will
+             return to the Earth orbit debris fields, extract another net from its inbuilt net store and do its
+             work again and again. And there will be a swarm of Serf satellites to do the job better.
            </p>
 
            <p>
-           The Serf satellite will be propelled by water steam jets in the same water-recovery
-           propulsion system as in the Alef spaceships which means the Serf can do its job for a long
-           time before being called to a safe Earth orbit and be water-refilled and refurbished.
+             The Serf satellite will be propelled by water steam jets in the same water-recovery
+             propulsion system as in the Alef spaceships which means the Serf can do its job for a long
+             time before being called to a safe Earth orbit and be water-refilled and refurbished.
            </p>
 
            <p>
-           For the swarm of Serf satellites to begin work in the first instance, the swarm is released into
-           safe Earth orbit by an Alef-A craft.
+             For the swarm of Serf satellites to begin work in the first instance, the swarm is released into
+             safe Earth orbit by an Alef-A craft.
            </p>
 
            <p>
-           This is the current thinking of us about this cleaner satellite but there may be additions later
-           to the satellite.
+             This is the current thinking of us about this cleaner satellite but there may be additions later
+             to the satellite.
            </p>
 
            <p>
-           The Serf satellite is called so in honor of the oppressed serfs of Earth, in history and present,
-           who toil in dangerous or demanding occupations, doing things the controlling feudals will
-           never do themselves and many times the products and services that are made by the serfs,
-           are not of useful usage but are made only to increase the clink of the coin in the bank
-           accounts of the feudals but the serfs will never hear these coins clink in their own pockets.
-           The serf toils to survive in an artificially created wrong situation.
+             The Serf satellite is called so in honor of the oppressed serfs of Earth, in history and present,
+             who toil in dangerous or demanding occupations, doing things the controlling feudals will
+             never do themselves and many times the products and services that are made by the serfs,
+             are not of useful usage but are made only to increase the clink of the coin in the bank
+             accounts of the feudals but the serfs will never hear these coins clink in their own pockets.
+            The serf toils to survive in an artificially created wrong situation.
            </p>
            
            <h2>Terraforming</h2>
 
            <p>
-           Explore how to terraform other worlds like Red One. For example, because Red One doesn’t
-           have a natural magnetosphere to protect it from most of the Sun’s radiation and cosmic
-           radiation, we can create a magnetosphere by installing large electromagnetic field
-           generators around Red One to prevent most radiation from reaching the atmosphere of Red
-           One and its surface. These field generators will be powered by our Faradn generators.
-           Having multiple generators will be useful in terms of redundancy and multi-level 
-           coverage.
+             Explore how to terraform other worlds like Red One. For example, because Red One doesn’t
+             have a natural magnetosphere to protect it from most of the Sun’s radiation and cosmic
+             radiation, we can create a magnetosphere by installing large electromagnetic field
+             generators around Red One to prevent most radiation from reaching the atmosphere of Red
+             One and its surface. These field generators will be powered by our Faradn generators.
+             Having multiple generators will be useful in terms of redundancy and multi-level 
+             coverage.
            </p>
 
            <h2>Anti-gravity</h2>
 
            <p>
-           A more natural means to fly from worlds ( like Earth ) to space and descend on worlds via “anti-gravity” 
-           mechanism aka Gravity Manipulation and this is if possible at all. Such a craft can be very large and of any shape 
-           and able to carry maybe hundreds of people at a time, like the lander ships 
-           in the Dune story.
+             A more natural means to fly from worlds ( like Earth ) to space and descend on worlds via “anti-gravity” 
+             mechanism aka Gravity Manipulation and this is if possible at all. Such a craft can be very large and of any shape 
+             and able to carry maybe hundreds of people at a time, like the lander ships 
+             in the Dune story.
            </p>
 
          </div>
@@ -3387,6 +3398,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
