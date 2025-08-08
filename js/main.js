@@ -1739,7 +1739,7 @@ modalText.innerHTML = `
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";><span>(e).</span> 
-             Transporting research equipment.
+             Transporting research equipment and conducting research.
            </p> 
            
            <p style="margin-left:1em; margin-bottom:10px";><span>(f).</span> 
@@ -1766,8 +1766,8 @@ modalText.innerHTML = `
            for life and finding new homes for humans.</p> 
            
            <p>
-             All this of course will require the effort of work groups, including for escorting tourists, and 
-             this must be done it in a thoughtful, gentle and kind way where all work participants are 
+             All this of course will require the effort of work groups, including for escorting tourists, 
+             and this must be done it in a thoughtful, gentle and kind way where all work participants are 
              equal in effort and benefit, with no feudal boss lording over them and unjustly grabbing most 
              of the benefits of the work that had the effort of all. The purpose of the group must also be 
              achieved harmoniously. The universe is for all to benefit from, including just the simple act of 
@@ -1781,9 +1781,10 @@ modalText.innerHTML = `
              organizing them as Workers Cooperatives. The idea of Workers Cooperative has association 
              with the older ideas of liberty, equality and fraternity, and enables true democracy via participatory 
              democracy where every human present in the organzation participates in the continuance 
-             of that organization equally and benefits from it equal to other members.
+             of that organization equally and benefits from it equal to other members and has the same human rights 
+             as the others.
            </p>
-           
+
            <p>
              And when that "rogue anti-democracy nation" is being genocided and being given "Democracy", 
              our middle class person will continue to be a voluntary slave in his feudalist corporation, 
@@ -1818,148 +1819,162 @@ modalText.innerHTML = `
            women, but he will not consider that he himself has voluntarily lived a slave life and he has put his 
            children into this slave life and he advises any youngster he comes across to also do so.
            </p>
-
           
            <p>
-           A Workers Cooperative has eleven general outcomes :
+             A Workers Cooperative has seventeen general outcomes for space and in general for anywhere among human presence :
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-           <span>(a).</span> It is all the workers who directly own and manage an organization and equally divide 
-           amongst themselves any money income.
+             <span>(a).</span> It is all the workers who directly own and manage an organization and equally divide 
+             amongst themselves any money income and other material benefits.
            </p>
            
            <p style="margin-left:1em; margin-bottom:10px";> 
-           <span>(b).</span> There is no feudal boss and no subordinate… all the workers are equal co-workers in 
-           respect, right to participate in the organization’s decisions, voluntary idea giving and 
-           cross-team idea giving. Any worker can call a discussion circle for a complaint, issue raising 
-           or idea suggestion, and the other workers must listen and participate.
+             <span>(b).</span> There is no exploitative feudal boss and no subordinate… all the workers are equal co-workers in 
+             respect, right to participate in the organization’s decisions, voluntary idea giving and 
+             cross-team idea giving. Any worker can call a discussion circle for a complaint, issue raising 
+             or idea suggestion, and the other workers must listen and participate.
            </p>
 
-           <p style="margin-left:1em; margin-bottom:10px";> <span>(c).</span> All involved in the organization are “co-workers” 
-           and not “workers” or "employees".
-           </p>
-           
-           <p style="margin-left:1em; margin-bottom:10px";> 
-          <span>(d).</span> There will be a natural tendency to not have a “boss cabin”.</p>
-
-           <p style="margin-left:1em; margin-bottom:10px";> 
-           <span>(e).</span> Worker loyalty towards the organization is high because the worker is given due respect 
-           as an individual human with feelings, personality, concerns and potential.
-            </p>
-
-           <p style="margin-left:1em; margin-bottom:10px";> 
-           <span>(f).</span> Every worker has to be accepting of internal critique but will have the right to defend 
-           themselves. 
-           </p>
-
-           <p style="margin-left:1em; margin-bottom:10px";> 
-           <span>(g).</span> Efficiency and production variety of the organization is greatly increased because of the 
-           diversity of useful ideas, skills and experiences from the various volunteering workers.
-           </p>
-
-           <p style="margin-left:1em; margin-bottom:10px";> 
-           <span>(h).</span> The collective human society composed of Workers Cooperatives, whether on Earth or 
-           in space, becomes an actually developed, gentle, evolved, harmonious and prosperous 
-           society. As smile-bringing as the city of Istanbul with cats everywhere.</p>
-
-           <p style="margin-left:1em; margin-bottom:10px";> 
-           <span>(i).</span> The existence of a Workers Cooperative doesn’t depend on if the economic system 
-           works with money system or money has been abolished. The Workers Cooperative concept 
-           is efficient in both situations. 
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(c).</span> All involved in the organization are “co-workers” and not “workers” or "employees".
            </p>
            
            <p style="margin-left:1em; margin-bottom:10px";> 
-           <span>(j).</span> The need for a workers union now becomes not necessary because the 
-           company is no longer divided into bosses and workers where the workers have to agitate 
-           for their rights. With the Workers Cooperative concept all the workers equally own the company 
-           and there no longer are the bosses of the past. If any worker i.e. co-owner of the company has issues, 
-           he or she can directly call a discussion circle.
+             <span>(d).</span> There will be a natural tendency to not have a “boss cabin”.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-           <span>(k).</span> The progressive, gentle, empathy-based and observant thinking enabled by 
-           the Workers Cooperative will make company leaders and other workers accept workers who don't have college degrees 
-           and other forms of needless and irrational social class discriminations.
-           </p>
-           
-           <p> Other than Workers Cooperatives in space, there must be decentralization / 
-           self-governance, gentleness, a non-corporate environment, a non-militarist environment and 
-           a pan-human outlook. This also means no hierarchy and no traditional aerospace titles like 
-           “Captain” and “Commander”. It also means giving every member the same salary and other 
-           needs. The environment in the group should be relaxing and focused towards the purpose of 
-           the group’s setting-up and not for hierarchy-induced disharmony and “making a career”. This 
-           also means no separate “high class” living arrangement for some boss and no lower 
-           “economy class” arrangements for others. All people will be given equally comfortable living 
-           arrangements. 
+             <span>(e).</span> Worker loyalty towards the organization is high because the worker is given due respect 
+             as an individual human with feelings, personality, concerns and potential.
            </p>
 
-           <p>This will be as true for the spaceships as for habitations on some world.</P>
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(f).</span> Every worker has to be accepting of internal critique but will have the right to defend 
+             themselves. 
+           </p>
 
-           <p>So, all work participants on one spaceship or an independent group on one planetary 
-           research station or an independent group on one mining station etc are collectively called a 
-           Workers Cooperative. Work will be distributed as per skill, interest and requirement. The first 
-           two things are not written in stone that they can’t be acquired as time progresses. The tasks 
-           can be water management, food, communication, engines, waste management, caring for 
-           the tourists, understanding possible Moon landing sites, understanding an asteroid etc. 
-           There will be one or more members for each task as per requirement and total group size. 
-           There has to be one person who has to be the interface between the internal Workers 
-           Cooperative members and also the interface of that Workers Cooperative to the outside and 
-           that person will be the Coordinator.
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(g).</span> Efficiency and production variety of the organization is greatly increased because of the 
+             diversity of useful ideas, skills and experiences from the various volunteering workers.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(h).</span> The collective human society composed of Workers Cooperatives, whether on Earth or 
+             in space, becomes an actually developed, gentle, evolved, harmonious and prosperous 
+             society. As smile-bringing as the city of Istanbul with cats everywhere.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(i).</span> The existence of a Workers Cooperative doesn’t depend on if the economic system 
+             works with money system or money has been abolished. The Workers Cooperative concept 
+             is efficient in both situations. 
            </p>
            
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(j).</span> The need for a workers union now becomes not necessary because the 
+             company is no longer divided into bosses and workers where the workers have to agitate 
+             for their rights. With the Workers Cooperative concept all the workers equally own the company 
+             and there no longer are the bosses of the past. If any worker i.e. co-owner of the company has issues, 
+             he or she can directly call a discussion circle.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(k).</span> The progressive, gentle, empathy-based and observant thinking enabled by 
+             the Workers Cooperative will make company leaders and other workers accept workers who don't have college degrees 
+             and other forms of needless and irrational social class discriminations.
+           </p>
+           
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(l).</span> This system leads to thinking about decentralization / 
+             self-governance, gentleness, a non-corporate environment, a non-militarist environment and 
+             a pan-human outlook. This also means in the space context, no hierarchy and no traditional 
+             aerospace titles like “Captain” and “Commander”. The environment in the group will be relaxing and 
+             focused towards the purpose of the group’s setting-up and not for hierarchy-induced disharmony and “making a career”. 
+             This also means no separate “high class” living arrangement for some boss and no lower 
+             “economy class” arrangements for others. All people will be given equally comfortable living 
+             arrangements.
+           </p>
+           
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(m).</span> So, all work participants on one spaceship or an independent group on one planetary 
+             research station or an independent group on one mining station etc are collectively called a 
+             Workers Cooperative. Work will be distributed as per skill, interest, requirement and in rotation. 
+             The first two things are not written in stone that they can’t be acquired as time progresses. The tasks 
+             can be water management, food, communication, engines, waste management, caring for 
+             the tourists, understanding possible Moon landing sites, understanding an asteroid etc. 
+             There will be one or more members for each task as per requirement and total group size.
+           </p>
+           
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(n).</span> There has to be one person who has to be the interface between the internal Workers 
+             Cooperative members and also the interface of that Workers Cooperative to the outside and 
+             that person will be the Coordinator. The Coordinator is a time-bound position decided by democratic discussion and consensus 
+             within that cooperative and in accordance with Natural laws. All the workers including the Coordinator 
+             can be of any naturally reasonable responsible age, whether 13 or 30 or 90... anyone as long as they make sense 
+             and are willing and able to put physical or intellectual effort including being a good leader. And this responsibility of 
+             “Coordinator” can rotate between the cooperative’s members as per requirement or 
+             consensus.
+           </p>
+
            <p>
-           The Coordinator is a time-bound position decided by democratic discussion and consensus 
-           within that cooperative and in accordance with Natural laws. All the workers including the Coordinator 
-           can be of any naturally reasonable responsible age, whether 13 or 30 or 90... anyone as long as they make sense 
-           and are willing and able to put physical or intellectual effort including being a good leader. And this responsibility of 
-           “Coordinator” can rotate between the cooperative’s members as per requirement or 
-           consensus. So a Workers Cooperative is democratic, enables harmony and enables more 
-           focus on the group’s purpose. 
+             <span>(o).</span> So a Workers Cooperative is democratic, enables harmony and enables more 
+             focus on the group’s purpose. 
            </p>
 
-           <p> Further, a tourist in space a few hundred thousand kilometers from Earth ( the Moon ) or a 
-           few hundred million kilometers from Earth ( the Asteroid Belt ) will naturally feel deprived 
-           from Earthen settings including the social aspect and the simple fact of feeling the Sun’s 
-           heat on the open face and this deprivation will depress a person for a moment or more, 
-           despite that tourist’s purpose of tourism. But if every person in the space efforts, including 
-           the tourist, participates in the tasks by being part of the space Workers Cooperatives it will 
-           keep him or her engaged and away from depression, enable fraternity and contribute to one 
-           more hand in the tasks. </p>
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(p).</span> Further, a tourist in space a few hundred thousand kilometers from Earth ( the Moon ) or a 
+             few hundred million kilometers from Earth ( the Asteroid Belt ) will naturally feel deprived 
+             from Earthen settings including the social aspect and the simple fact of feeling the Sun’s 
+             heat on the open face and this deprivation will depress a person for a moment or more, 
+             despite that tourist’s purpose of tourism. But if every person in the space efforts, including 
+             the tourist, participates in the tasks by being part of the space Workers Cooperatives it will 
+             keep him or her engaged and away from depression, enable fraternity and contribute to one 
+             more hand in the tasks.
+           </p>
 
-           <p> So, humans in space will be a collection of Workers Cooperatives collaborating with each 
-           other on a common and equal human level regardless of their origin nation and social station 
-           on Earth and they will agree on the same ideal natural laws for humans and help each other. 
-           Thus harmony in space and also harmony contributed on Earth when these people return to 
-           Earth carrying their gentle experiences in the space Workers Cooperatives. </P>
+           <p>
+             <span>(q).</span> So, humans in space will be a collection of Workers Cooperatives collaborating with each 
+             other on a common and equal human level regardless of their origin nation and social station 
+             on Earth and they will agree on the same ideal natural laws for humans and help each other. 
+             Thus harmony in space and also harmony contributed on Earth when these people return to 
+             Earth carrying their gentle experiences in the space Workers Cooperatives.
+           </p>
 
            <h2 >Tea and Space</h2>
 
-           <p> Intoxicating substances like alcohol should not be used in the inherently risks-filled 
-           environment of space, including the social mistakes people will make by such consumption 
-           and lead to disaster in space. Celebrations can be done with rounds of tea and biscuits. Tea 
-           has been such a great multi-purpose discovery… the drink of philosophers, revolutionaries, 
-           inventors, discussers, intellectual and physical laborers, lovers of taste and refinement, 
-           providing energy and relief in heat, cold and rain, in the heat of the deserts and the cold of the 
-           same deserts at night, in the cold of snows and the heights of the high mountains, the 
-           adda tea houses of Calcutta city with the Calcuttans doing rounds of tea and discussing the 
-           world… all the while the tea providing health benefits.</p>
-
-           <p> Tea is one of the good inventions of China which got added with three additions from other 
-           lands : milk in tea from Mongolia, sugar in tea from Britain and Egypt-origin biscuits. And tea 
-           comes in various varieties whether in tea leaf, additional addings for taste, health and 
-           experience like lemongrass, ginger and tapioca pearls, and preferences like the water-based 
-           Sulaimani chai or the milk-based Assam tea or the ice tea. </p>
-
-           <p> In space, other than the non-intoxicating, energizing and health-bringing nature of tea 
-           usage, regular tea’ing also will hydrate the skin which may become dry in spaceships and 
-           spacesuits and will also create solidarity because of group drinking. Tea is also a good 
-           laxative including when starting the day. Further, tea leaves are a good natural fertilizer for 
-           plants.
+           <p>
+             Intoxicating substances like alcohol should not be used in the inherently risks-filled 
+             environment of space, including the social mistakes people will make by such consumption 
+             and lead to disaster in space. Celebrations can be done with rounds of tea and biscuits. Tea 
+             has been such a great multi-purpose discovery… the drink of philosophers, revolutionaries, 
+             inventors, discussers, intellectual and physical laborers, lovers of taste and refinement, 
+             providing energy and relief in heat, cold and rain, in the heat of the deserts and the cold of the 
+             same deserts at night, in the cold of snows and the heights of the high mountains, the 
+             adda tea houses of Calcutta city with the Calcuttans doing rounds of tea and discussing the 
+             world… all the while the tea providing health benefits.
            </p>
 
-           <p> And maybe tea grown in space may become a new variety or multiple varieties in 
-           accordance with conditions in different space locations. </p>
+           <p>
+             Tea is one of the good inventions of China which got added with three additions from other 
+             lands : milk in tea from Mongolia, sugar in tea from Britain and Egypt-origin biscuits. And tea 
+             comes in various varieties whether in tea leaf, additional addings for taste, health and 
+             experience like lemongrass, ginger and tapioca pearls, and preferences like the water-based 
+             Sulaimani chai or the milk-based Assam tea or the ice tea.
+             </p>
+
+           <p>
+             In space, other than the non-intoxicating, energizing and health-bringing nature of tea 
+             usage, regular tea’ing also will hydrate the skin which may become dry in spaceships and 
+             spacesuits and will also create solidarity because of group drinking. Tea is also a good 
+             laxative including when starting the day. Further, tea leaves are a good natural fertilizer for 
+             plants.
+           </p>
+
+           <p>
+             And maybe tea grown in space may become a new variety or multiple varieties in 
+             accordance with conditions in different space locations.
+           </p>
          
            <h2>Appearance and personality of the space travellers</h2>
            
@@ -1975,28 +1990,36 @@ modalText.innerHTML = `
 
            <h2>Sports and recreation in space</h2>
 
-           <p> These should be rational, gentle, health-building, natural, humanist and contribute to 
-           harmony and collaborativeness in the risks-filled environment of Space. A system better and 
-           very unlike the sports and recreation systems in a lot of the Earthen world now. We consider 
-           badminton, swimming, walking, floor exercises, pull-ups and light gymming ( the last three 
-           only for men ) to not only be the ideal sports for Earth but also among the best ones for 
-           Space though with considerations of low-gravity places like the Moon and no-gravity places 
-           like the Alef-F ferry when its spin system has been turned off. </p>
+           <p>
+             These should be rational, gentle, health-building, natural, humanist and contribute to 
+             harmony and collaborativeness in the risks-filled environment of Space. A system better and 
+             very unlike the sports and recreation systems in a lot of the Earthen world now. We consider 
+             badminton, swimming, walking, floor exercises, pull-ups and light gymming ( the last three 
+             only for men ) to not only be the ideal sports for Earth but also among the best ones for 
+             Space though with considerations of low-gravity places like the Moon and no-gravity places 
+             like the Alef-F ferry when its spin system has been turned off.
+           </p>
 
-           <p> Other recreations can be poetry, painting, pottery, music, writing stories and long discussions 
-           over tea. </p>
+           <p>
+             Other recreations can be poetry, painting, pottery, music, writing stories and long discussions 
+             over tea.
+           </p>
 
-           <p> And to explain these selections as being good we can look at what is bad since that 
-           information is easily analyzed. </p>
+           <p>
+             And to explain these selections as being good we can look at what is bad since that 
+             information is easily analyzed.
+           </p>
            
            <p>[ To be done ] </p>
            
            <h2>Human language in space</h2>
 
-           <p> English is the most appropriate language and will be the base language in our Frema 
-           internet system but provision must be there for use of other languages but with the 
-           understanding that such communications must be open and translatable and pronounceable 
-           by other language speakers. </p>
+           <p>
+             English is the most appropriate language and will be the base language in our Frema 
+             internet system but provision must be there for use of other languages but with the 
+             understanding that such communications must be open and translatable and pronounceable 
+             by other language speakers.
+           </p>
 
            <h2>Education in space</h2> 
 
@@ -3364,6 +3387,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
