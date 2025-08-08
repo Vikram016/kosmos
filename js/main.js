@@ -1515,44 +1515,42 @@ modalText.innerHTML = `
 
            <p>
              To extend Tagore's idea, there is difference between patriotism and nationalism. 
-             Patriotism means inherent love for the oppressed, the innocent and the sensible of one's own society and 
+             Patriotism means inherent love ane empathy for the oppressed, the innocent and the sensible of one's own society and 
              wanting one's society to become gentle, empathetic, just, rights-filled, having all reasonable freedoms and evolved 
-             and having fraternity with all of humanity. Nationalism, in particular Ultranationalism, however is the opposite, 
+             and having fraternity with all of humanity. However, Nationalism, in particular Ultranationalism, is the opposite, 
              narrow and contradictory concept which ignores the oppressed, the innocent and the sensible in one's own society and 
-             in fact maintains class-based and community-based hate and contempt for the oppressed, the innocent and the sensible 
-             in one's own society but has a strange hate for unknown people outside one's borders who have done them no harm.
+             in fact participates in maintaining class-based and community-based hate and contempt for the oppressed, the innocent and 
+             the sensible in one's own society but has a strange hate for unknown people outside one's borders who have done them no harm.
            </p>
 
            <p>
-             Often, ultranationalism is most present in those societies which have class system 
-             and in these it is the middle class especially who indulge in this contradiction. The middle class person 
+             Often, ultranationalism is most present among the middle class especially. The middle class person 
              often employed in feudal organizations as a monthly wager, on his daily trip to and from his office, 
-             passes by the same homeless and hungry people on the footpath, but will never stop 
-             to take a blanket, clothes and food to them, will never even give 20 dollars to them, 
-             never will fill with tears after hearing that some of those homeless died of hunger 
-             that morning, never will be anger and disappointment and a "What ???" when hearing that that homeless person 
-             lay hungry for three days, in full view of the road, and another middle class person brought luxurious food for five dogs 
-             on that same road 20 feet away from the hungry person, and then that hungry human died of hunger.
+             passes by the same homeless and hungry people on the footpath, but will never stop to take a blanket, 
+             clothes and food to them, will never even give 20 dollars to them, never will fill with tears after hearing 
+             that some of those homeless died of hunger that morning, never will be anger and disappointment and a "What ???" 
+             when hearing that that homeless person lay hungry for three days, in full view of the road, 
+             and another middle class person brought luxurious food for five dogs on that same road 20 feet away from the hungry person, 
+             and then that hungry human died of hunger.
            </p>
            
            <p>
              But this same apathetic, monthly-wage middle class person is the first to scream war against a progressive society 
              5000 kilometers away where there are no homeless and hungry humans and no wage slaves because every human there is closer 
-             to having all the natural freedoms due to humans who don't depend on measly wage from rich exploitative feudals who would have
-             rather wished that they did not have to give even that measly wage but could extract every work 
-             from the workers. And in that other faraway progressive society citizens don't have to struggle to take ungiving permissions of family elders 
-             just to love a person of the opposite gender or to invent, write, paint and observe the universe without being told to either 
-             earn money to be called of worth or just die silently. But our unthinking middle class person will call that humanist society a "rogue nation" 
-             which must be changed even by genocide so that "Democracy" can be brought there and Free Market can be brought there 
-             and the anti-worker teachings of B-schools can be brought there, LOL. We will speak 
-             of the apathetic middle classee in further sections in this chapter.
+             to having all the natural freedoms due to humans who don't depend on measly wage from rich exploitative feudals who rather wish
+             that they did not have to give even that measly wage but could extract every work from the workers. And in that other faraway 
+             progressive society citizens don't have to struggle to take ungiving permissions of family elders just to love a person of the opposite gender 
+             or to invent, write, paint and observe the universe and won't be told to either earn money to be called of worth or just die silently. 
+             But our unthinking middle class person will call that humanist society a "rogue nation" which must be changed even by genocide so that 
+             "Democracy" can be brought there and Free Market can be brought there and the anti-worker teachings of B-schools can be brought there, 
+             LOL. We will speak of the apathetic middle classee in further sections in this chapter.
            </p>
 
            <p>
-             Tagore further says in that 1917 essay that societies try to unite their citizens into one idea 
+             Rabindranath Tagore further says in that 1917 essay that societies try to unite their citizens into one idea 
              but he says that unless their internal oppressive contradictions and oppressive social customs are addressed and resolved, 
-             the societies will not unite and humanity in general will not unite. Tagore spoke of this 
-             in 1917 yet now in 2025, almost a century after his essay, most societies on Earth continue go counter to Tagore's 
+             the societies will not unite and humanity in general will not unite. Tagore spoke of this in 1917 yet now in 2025, 
+             more than a century after his essay, most societies on Earth continue go counter to Tagore's 
              appeal to reason and to pan-human liberty, equality and fraternity.
            </p>
 
@@ -1601,11 +1599,11 @@ modalText.innerHTML = `
            <p>
              To bring back the concept of trans-border progressive influences, in India
              of the late 1700s, in the era of the French Revolution, the kingdom of Mysore in the region
-             of Deccan India was administered by Tipu Sultan who was an internationalist
-             inspired by the French Revolution and corresponded with the leader of revolutionary France, Napoleon Bonaparte.
-             Tipu is said to have established a Jacobin Club in his stronghold city of Srirangapatna,
-             for the benefit of Indians to discuss social change and replicate the ideas
-             of revolutionary France including in fighting against the British colonial rule.
+             of Deccan India was administered by Tipu Sultan who was an internationalist inspired by the French Revolution and 
+             corresponded with the leader of revolutionary France, Napoleon Bonaparte. Tipu is said to have 
+             established a Jacobin Club in his stronghold city of Srirangapatna, for the benefit of Indians 
+             to discuss social enlightenment and replicate the ideas of revolutionary France including 
+             in fighting against the British colonial rule.
            </p>
 
            <p>
@@ -1617,24 +1615,20 @@ modalText.innerHTML = `
 
            <p>
              About technology influences again, today we all humans use electrical machines every second and it was a Britisher
-             by name Michael Faraday living in the 1800s who enabled our modern use of electrical machines
-             by devising the mechanisms and understandings of electro-magnetism and electro-chemistry.
-             Going about 2000 years earlier than Faraday, the Greeks used an entirely mechanical machine to determine
-             astronomical positions and events like eclipses years in advance. This machine
-             is now called Antikythera Mechanism because one sample of this machine was found under
-             the waters off the Greek island of Antikythera in 1901. This mechanical machine is considered
-             the earliest analog computer and used the lunar calendar from Ancient Egypt possibly dating back a thousand years
+             by name Michael Faraday living in the 1800s who enabled our modern use of electrical machines by devising the mechanisms and 
+             understandings of electro-magnetism and electro-chemistry. Going about 2000 years earlier than Faraday, the Greeks used an entirely 
+             mechanical machine to determine astronomical positions and events like eclipses years in advance. This machine
+             is now called Antikythera Mechanism because one sample of this machine was found under the waters off the Greek island of Antikythera in 1901. 
+             This mechanical machine is considered the earliest analog computer and used the lunar calendar from Ancient Egypt possibly dating back a thousand years
              previous to the devising of this machine, which means more than 3000 years previous
              to our present modern age.
            </p>         
 
            <p>
-             Jumping back to the modern age, in India between the 1850s and 1930s 
-             lived the "polymath" Jagadish Chandra Bose... a man interested in many sciences including humane social conduct.
-             He was the first to investigate microwave radiofrequency and made great discoveries
+             Jumping back to the modern age, in India between the 1850s and 1930s lived the general researcher Jagadish Chandra Bose... a man interested in many sciences 
+             including humane social conduct. He was the first to investigate microwave radiofrequency and made great discoveries
              in botany and among his researches living now is our modern telecom including the everywhere-present
-             cell phone. He treated other humans in an equal manner, whether they be
-             of "lower caste" or of other religions, and he was against the patent system
+             cell phone. He treated other humans in an equal manner, whether they be of "lower caste" or of other religions, and he was against the patent system
              so in today's terms he can be called part of the earlier Open Source Knowledge movement
              that benefits all of Earth.
            </p>
@@ -1794,42 +1788,7 @@ modalText.innerHTML = `
              democracy where every human present in the organzation participates in the continuance 
              of that organization equally and benefits from it equal to other members and has the same human rights 
              as the others.
-           </p>
-
-           <p>
-             And when that "rogue anti-democracy nation" is being genocided and being given "Democracy", 
-             our middle class person will continue to be a voluntary slave in his feudalist corporation, 
-             never speaking of actual democracy in his own feudal workplace he has worked for 30 years, never calling for equal division of rights, labor and income among all involved in the company, 
-             never speaking for reforming the local monarchs in the company in form of the few company owners and the Management who do the irrational thing of taking away the majority of the 
-             company's income which had very less of their own labor and most labor was by the lower workers, and will shout and order around 
-             the lower workers, and will even cut money from the measly income of the workers by calling these cuts as 
-             charges for the few reluctantly given facilites like canteen and transport.
-           </p>
-
-           <p>
-           Our typical middle classee will have even seen his colleagues having their hands cut up by a machine 
-           and the bosses not caring, but our middle classee will not protest this apathy of the bosses, 
-           and he will not call for a million dollars to be given to the injured worker from the many millions owned by the bosses. 
-           He will see a co-worker in the very next workstation die of heart failure because of needless over-work 
-           which never got that dead person the same million-dollar salary as the boss, but neither our 
-           middle classee will attend the funeral of his co-worker nor will the bosses. Our middle classee 
-           will instead consider this apathy of the bosses and his own apathy as part of "professional life". He will not take his injured or dying colleagues 
-           to be seen to but will take leave from workplace to go on his third religious pilgrimage in five years and 
-           will bring back "holy water" to give to his middle class office colleagues, neighbors and relatives 
-           who receive it with reverence.
-           </p>
-           
-           <p>
-           This middle class person will enter into this exploitative, feudal workplace at age 25 and will spend his next 40 years there, 
-           without the thought of natural human dignity and rights as a worker, without protest, and then he will be told he is now 
-           65 of age and he has arrived upon the age of Retirement and must leave the workplace. 
-           He then is left with not much money to live by. He has been a voluntary slave for 40 years 
-           and will push his children too into this life of slavery. In neighborhood parks in the morning 
-           he will sit with other retirees and a set of younger followers and will vent outrage at supposed sale 
-           of women in open markets in some other culture, declaring this culture to be evil which enslaves 
-           women, but he will not consider that he himself has voluntarily lived a slave life and he has put his 
-           children into this slave life and he advises any youngster he comes across to also do so.
-           </p>
+           </p>          
           
            <p>
              A Workers Cooperative has seventeen general outcomes for space and in general for anywhere among human presence :
@@ -1952,6 +1911,23 @@ modalText.innerHTML = `
              Earth carrying their gentle experiences in the space Workers Cooperatives.
            </p>
 
+           <p>           
+             This simple system of employment above we hope the middle class person especially will adopt 
+             and propagate including to his children. All that the typical middle classee has since the end of 
+             Second World War is enter into an exploitative, feudal workplace at age 25 and spent his next 40 years 
+             there, without the thought of natural human dignity and rights as a worker, without protest, 
+             and then he will be told he is now 65 of age and he has arrived upon the age of Retirement and 
+             must leave the workplace. He then is left with not much money to live by. He has been a voluntary slave 
+             for 40 years and will push his children too into this life of slavery. In neighborhood parks in the morning 
+             he will sit with other retirees and a set of younger followers and will vent outrage at tales of supposed sale 
+             of women in open markets in some other culture, declaring this culture to be evil which enslaves 
+             women, but he will not consider that he himself has voluntarily lived a slave life and he has put his 
+             children into this slave life and he advises any youngster he comes across to also do so. Therefore the middle classee 
+             must look at our descriptions of the liberating and very simple system of Workers Cooperatives, for Earth 
+             and for Space since he will be looking at "making a career" for his children in the 
+             "unicorn" sector of space.
+           </p>
+
            <h2 >Tea and Space</h2>
 
            <p>
@@ -2034,137 +2010,160 @@ modalText.innerHTML = `
 
            <h2>Education in space</h2> 
 
-           <p>The purposes of education are : </p> 
+           <p>The purposes of education are :</p> 
 
-          <P> <span> >> </span> To liberate oneself from any wrong, oppressive and unscientific traditional cultural 
-           impositions and thus to know one’s reasonable rights as a human. </p>
+           <p> <span> >> </span> To liberate oneself from any wrong, oppressive and unscientific 
+             traditional cultural impositions and thus to know one’s reasonable rights as a human.
+           </p>
 
-           <p> <span> >> </span> To understand that as a human we must collaborate with others in local society and in 
-           humanity in general and that the good of society and humanity is our good. And good acts 
-           must be done not to earn points so that heaven’s door opens for us but to be genuine in 
-           empathy for others. That we must be gentle, sensitive, empathetic and selfless instead of 
-           sneaky, amoral and selfish.</p> 
+           <p> <span> >> </span> 
+             To understand that as a human we must collaborate with others in local society and 
+             in humanity in general and that the good of society and humanity is our good. And good acts 
+             must be done not to earn points so that heaven’s door opens for us but to be genuine in 
+             empathy for others. That we must be gentle, sensitive, empathetic and selfless instead of 
+             sneaky, amoral and selfish.
+           </p> 
 
            <p> <span> >> </span> To begin to understand the timeless and infinite universe and acknowledge our very 
-           humble individual place in the grandness of the universe, thus our approach to the universe 
-           must be with gentleness, sensitiveness, receptiveness and humbleness. A single medium-sized star like the Sun 
-           is uncountably more powerful than any mere human who is a billionaire with ten college degrees, 40 years of experience 
-           in the corporate world and very proud of his culture. The Kosmos / Universe / Space does not care for these arrogant human 
-           affiliations.
-           </p>
-
-           <p> The above learnings should be our approach to space and the resulting bettering of 
-           the individual and the bettering of humanity.</p>
-
-           <p> Decades of in-person human presence in space has been in a very limited way, with most of 
-           it in Low Earth Orbit and a little on the Moon. Cosmonauts have reported their in-person 
-           understandings of space like they seeing flashes in their eyes even when they close their 
-           eyes. Other experiences like smelling burnt smell when they are in the airlock. These 
-           experiences were not proposed by academics who usually pretend to be experts of the 
-           Universe despite never having stepped into the Universe even once.
+             humble individual place in the grandness of the universe, thus our approach to the universe 
+             must be with gentleness, sensitiveness, receptiveness and humbleness. A single medium-sized star like the Sun 
+             is uncountably more powerful than any mere human who is a billionaire with ten college degrees, 40 years of experience 
+             in the corporate world and very proud of his culture. The Kosmos / Universe / Space does not care for these arrogant human 
+             affiliations.
            </p>
 
            <p>
-           The Big Bang Theory confidently declares the birth of the Kosmos / Universe / Space to be 13.8 billion years ago but this is a 
-           theory mainly forwarded by academia, proposed solely on the basis of mathematical equations on paper and origining 98 years ago. 
-           This way these maths-as-a-religion academics are no different from astrologers.
+             The above learnings should be our approach to space and the resulting bettering of 
+             the individual and the bettering of humanity.
+           </p>
+
+           <p>
+             Decades of in-person human presence in space has been in a very limited way, with most of 
+             it in Low Earth Orbit and a little on the Moon. Cosmonauts have reported their in-person 
+             understandings of space like they seeing flashes in their eyes even when they close their 
+             eyes. Other experiences like smelling burnt smell when they are in the airlock. These 
+             experiences were not proposed by academics who usually pretend to be experts of the 
+             Universe despite never having stepped into the Universe even once.
+           </p>
+
+           <p>
+             The Big Bang Theory confidently declares the birth of the Kosmos / Universe / Space to be 13.8 billion years ago but this is a 
+             theory mainly forwarded by academia, proposed solely on the basis of mathematical equations on paper and origining 98 years ago. 
+             This way these maths-as-a-religion academics are no different from astrologers.
            </p>
            
            <p>
-           These academics went about lectures and conferences chanting “Big Bang Theory” for almost a hundred years 
-           when until recently someone proposed a second Big Bang which "created Dark Matter". Dark Matter is 
-           again another nonsensical maths-basis idea which has been around for many decades but 
-           has never been observed in Nature, let alone measured. These academics don’t know how big the 
-           universe is, they have never stepped into the universe, yet they confidently declare its 
-           birthday to the microsecond, LOL.
+             These academics went about lectures and conferences chanting “Big Bang Theory” for almost a hundred years 
+             when until recently someone proposed a second Big Bang which "created Dark Matter". Dark Matter is 
+             again another nonsensical maths-basis idea which has been around for many decades but 
+             has never been observed in Nature, let alone measured. These academics don’t know how big the 
+             universe is, they have never stepped into the universe, yet they confidently declare its 
+             birthday to the microsecond, LOL.
            </p>
            
-           <p> So to understand space / universe we must reject the current dominance of mathematics in 
-           astronomy and be humble, gentle, sensitive, receptive and natural to the knowledge of 
-           space / universe by actually going into space and narrating our every experience to the rest 
-           of humanity. </p>
+           <p>
+             So to understand space / universe we must reject the current dominance of mathematics in 
+             astronomy and be humble, gentle, sensitive, receptive and natural to the knowledge of 
+             space / universe by actually going into space and narrating our every experience to the rest 
+             of humanity.
+           </p>
            
-           <p> We must also accept the very simple idea that space / universe is timeless and infinite and 
-           we don’t know what all kinds of objects are in space and what kinds of life types are in 
-           Space and that these life types may not evolve from the same ecosystem conditions as on Earth. </p>
+           <p>
+             We must also accept the very simple idea that space / universe is timeless and infinite and 
+             we don’t know what all kinds of objects are in space and what kinds of life types are in 
+             Space and that these life types may not evolve from the same ecosystem conditions as on Earth.
+           </p>
 
-           <p> We must look at the natural, observant and non-arrogant responses of the first two human travellers to space - Yuri 
-           Gagarin and Gherman Titov.</p> 
+           <p>
+             We must look at the natural, observant and non-arrogant responses of the first two human travellers to space - Yuri 
+             Gagarin and Gherman Titov.
+           </p> 
 
            <p> Among the statements of Cosmonaut Yuri are : </p>
            
-           <p style="margin-left:1em; margin-bottom:10px";> <span>(a).</span> “Orbiting Earth in the spaceship, I saw how beautiful our planet is. People, let us 
-           preserve and increase this beauty, not destroy it!” </p>
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(a).</span> “Orbiting Earth in the spaceship, I saw how beautiful our planet is. People, let us 
+             preserve and increase this beauty, not destroy it!”
+           </p>
            
-           <p style="margin-left:1em; margin-bottom:10px";> <span>(b).</span> “Rays were blazing through the atmosphere of the earth, the horizon became bright 
-           orange, gradually passing into all the colors of the rainbow : from light blue to dark blue, to 
-           violet and then to black. What an indescribable gamut of colors ! Just like the paintings of the 
-           artist Nicholas Roerich.” </p>
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(b).</span> “Rays were blazing through the atmosphere of the earth, the horizon became bright 
+             orange, gradually passing into all the colors of the rainbow : from light blue to dark blue, to 
+             violet and then to black. What an indescribable gamut of colors ! Just like the paintings of the 
+             artist Nicholas Roerich.”
+           </p>
            
-           <p style="margin-left:1em; margin-bottom:10px";> <span>(c).</span> “The main force in man — is the power of the spirit.”. Here “Man” of course means 
-           Human.</p> 
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(c).</span> “The main force in man — is the power of the spirit.”. Here “Man” of course means 
+             Human.
+           </p> 
            
-           <p> The most famous statement of Cosmonaut Gherman was when he visited USA in 1962 and 
-           was asked by reporters how his space flight affected his understanding of life. He said 
-           "Sometimes people are saying that God is out there. I was looking around attentively all day 
-           but I didn't find anybody there. I saw neither angels nor God". </p>
+           <p>
+             The most famous statement of Cosmonaut Gherman was when he visited USA in 1962 and 
+             was asked by reporters how his space flight affected his understanding of life. He said 
+             "Sometimes people are saying that God is out there. I was looking around attentively all day 
+             but I didn't find anybody there. I saw neither angels nor God".
+           </p>
 
-           <p> These two people were humble and natural in their approach to space and to life. Certainly 
-           not the arrogance of maths-driven academics and astrologers, nor the unthinking ordinary 
-           people who accept their arrogant pronouncements without questioning because they think 
-           even simple questions will make them seem foolish. However, it is the simple, “foolish” 
-           questions which have benefited humanity throughout its history in its bettered social systems 
-           and better technology and the presence of Human in space. </p>
-           
-           <p> Knowledge is bettered when it is shared freely with all, without being taxed and without demands that the 
-           receiver must only be of certain artificial social classes including having two college degrees 
-           compulsorily. There are some societies which have more college degree graduates presently 
-           than the entire human populations of some other societies. However, the former societies 
-           generally are not considered among the contributors of science and technology nor of better 
-           human systems despite these societies considering a college degree as being the mark of 
-           knowledge. Indeed, these societies are mere users of machines and knowledges that other 
-           societies and individual people of natural thinking created over thousands of years without 
-           consideration of college degrees or other kinds of artificial social separations.
+           <p>
+             These two people were humble and natural in their approach to space and to life. Certainly 
+             not the arrogance of maths-driven academics and astrologers, nor the unthinking ordinary 
+             people who accept their arrogant pronouncements without questioning because they think 
+             even simple questions will make them seem foolish. However, it is the simple, “foolish” 
+             questions which have benefited humanity throughout its history in its bettered social systems 
+             and better technology and the presence of Human in space.
            </p>
            
            <p>
-           Michael Faraday is the person whose experiments in electro-magnetism and electro-chemistry have 
-           led to our modern world using electrical machinery whether the lamp, the motor car, 
-           the washing machine or the cell phone. And he studied only till middle school 
-           in terms of the modern assembly-line degree-based education system. 
-           He was not at all a college graduate, let alone one with three post-graduate diplomas 
-           including from a "management" course and subsequent years of experience in the corporate world. 
-           This means many from those societies which place great multi-generational emphasis on college degrees, 
-           will disrespect anyone not achieving degrees, so they must stop using electrical machinery 
-           because this field was forwarded by the “unschooled” Michael Faraday. 
-           Stopping thus will be a principled stand. But will they ?
+             Knowledge is bettered when it is shared freely with all, without being taxed and without demands that the 
+             receiver must only be of certain artificial social classes including having two college degrees 
+             compulsorily. There are some societies which have more college degree graduates presently 
+             than the entire human populations of some other societies. However, the former societies 
+             generally are not considered among the contributors of science and technology nor of better 
+             human systems despite these societies considering a college degree as being the mark of 
+             knowledge. Indeed, these societies are mere users of machines and knowledges that other 
+             societies and individual people of natural thinking created over thousands of years without 
+             consideration of college degrees or other kinds of artificial social separations.
            </p>
            
            <p>
-           [ To be done ]
+             Michael Faraday is the person whose experiments in electro-magnetism and electro-chemistry have 
+             led to our modern world using electrical machinery whether the lamp, the motor car, 
+             the washing machine or the cell phone. And he studied only till middle school 
+             in terms of the modern assembly-line degree-based education system. 
+             He was not at all a college graduate, let alone one with three post-graduate diplomas 
+             including from a "management" course and subsequent years of experience in the corporate world. 
+             This means many from those societies which place great multi-generational emphasis on college degrees, 
+             will disrespect anyone not achieving degrees, so they must stop using electrical machinery 
+             because this field was forwarded by the “unschooled” Michael Faraday. 
+             Stopping thus will be a principled stand. But will they ?
            </p>
            
            <p>
-           In the modern world, other than paper literature, there have been four big examples of untaxed 
-           and for-all education and collaboration systems : one the internet itself, second the Open Source Computing movement, 
-           third the Wikipedia and fourth the Khan Academy. These examples should be continued in the exploration and settlement of 
-           space.
+             [ To be done ]
            </p>
            
            <p>
-           Since we speak for Workers Cooperatives as the organizational method for humans 
-           in space, each of the people involved in the cooperatives should be participants in 
-           live-narrating their experiences in space as also later recording their experiences and 
-           adding these experiences to the Frema internet blog that is produced by each Worker 
-           Cooperative, and these blogs being accessible by every human in Space and on Earth. The 
-           blogs will have text, voice, still pictures and videos because someone’s experience will 
-           become non-limited in explanation by presenting it in different formats. And these blogs will 
-           have a response system for the readers and viewers though of course the reception of these 
-           informations by the readers and their responses by the readers may take small delays to 
-           very large delays because of the in-space location of the blog producers and their duties 
-           and other activities. The one-way communication time itself may be from about a second ( 
-           the Moon ) to 13 minutes ( Red One ) to many many hours, and these delays just within the 
-           Solar System.
+             In the modern world, other than paper literature, there have been four big examples of untaxed 
+             and for-all education and collaboration systems : one the internet itself, second the Open Source Computing movement, 
+             third the Wikipedia and fourth the Khan Academy. These examples should be continued in the exploration and settlement of 
+             space.
+           </p>
+           
+           <p>
+             Since we speak for Workers Cooperatives as the organizational method for humans 
+             in space, each of the people involved in the cooperatives should be participants in 
+             live-narrating their experiences in space as also later recording their experiences and 
+             adding these experiences to the Frema internet blog that is produced by each Worker 
+             Cooperative, and these blogs being accessible by every human in Space and on Earth. The 
+             blogs will have text, voice, still pictures and videos because someone’s experience will 
+             become non-limited in explanation by presenting it in different formats. And these blogs will 
+             have a response system for the readers and viewers though of course the reception of these 
+             informations by the readers and their responses by the readers may take small delays to 
+             very large delays because of the in-space location of the blog producers and their duties 
+             and other activities. The one-way communication time itself may be from about a second ( 
+             the Moon ) to 13 minutes ( Red One ) to many many hours, and these delays just within the 
+             Solar System.
            </p>         
 
            <p>
@@ -2173,486 +2172,519 @@ modalText.innerHTML = `
            
            <h2>Basis of satellite design</h2>
            
-           <p> There should be no design of needless nano-satellites and larger satellites that are currently 
-           built by every second engineering college and launched into Earth orbit by misguided launch 
-           organizations and cumulatively make Earth orbit dangerous for humans to travel in - an 
-           unnecessary situation brought about by profit-mindedness, competition in education, 
-           unscientific thinking and avoidable ultranational posturing.
+           <p>
+             There should be no design of needless nano-satellites and larger satellites that are currently 
+             built by every second engineering college and launched into Earth orbit by misguided launch 
+             organizations and cumulatively make Earth orbit dangerous for humans to travel in - an 
+             unnecessary situation brought about by profit-mindedness, competition in education, 
+             unscientific thinking and avoidable ultranational posturing.
            </p>
            
            <p>
-           On the contrary, satellites around Earth or other worlds or in open space should be few and larger trackable systems which 
-           can be repaired in orbit or in place or retrieved for recycling. Secondly, all new satellites 
-           should be managed by a collective human committee. We of Kosmos Society will keep this 
-           as a necessary element when designing our Frema space-capable internet system. We will 
-           also design systems that contribute to clearing up the current space debris around Earth. 
-           Please read the section about Serf satellite in the “Our techno projects” chapter on this website.
+             On the contrary, satellites around Earth or other worlds or in open space should be few and larger trackable systems which 
+             can be repaired in orbit or in place or retrieved for recycling. Secondly, all new satellites 
+             should be managed by a collective human committee. We of Kosmos Society will keep this 
+             as a necessary element when designing our Frema space-capable internet system. We will 
+             also design systems that contribute to clearing up the current space debris around Earth. 
+             Please read the section about Serf satellite in the “Our techno projects” chapter on this website.
            </p>
            
            <h2>Mining in space</h2>
            
-           <p> Space belongs to no single human nation state and certainly to no feudal corporation. 
-           Space belongs to all humankind in a collective sense and no nation state can endanger other humans by placing weapons of 
-           mass destruction in open space or around space bodies nor can a nation state exclusively 
-           claim space objects for taking resources ( say even from a star like the Sun ). Similar is the 
-           agreement undertaken at UNOOSA ( United Nations Office for Outer Space Affairs ) 
-           which is a department of the UN. Though the UN has failed to prevent invasions, needless conflicts, genocides and subversions 
-           since its inception in 1945 and has served only as a decoration, very much not uniting nations despite its name, 
-           its UNOOSA department at least makes sense.</p> 
+           <p>
+             Space belongs to no single human nation state and certainly to no feudal corporation. 
+             Space belongs to all humankind in a collective sense and no nation state can endanger other humans by placing weapons of 
+             mass destruction in open space or around space bodies nor can a nation state exclusively 
+             claim space objects for taking resources ( say even from a star like the Sun ). Similar is the 
+             agreement undertaken at UNOOSA ( United Nations Office for Outer Space Affairs ) 
+             which is a department of the UN. Though the UN has failed to prevent invasions, needless conflicts, genocides and subversions 
+             since its inception in 1945 and has served only as a decoration, very much not uniting nations despite its name, 
+             its UNOOSA department at least makes sense.
+           </p> 
            
-           <p> In space no one should be a Scrooge McDuck i.e. not greedily see space as yet another 
-           natural resource to do selfish profiteering from, to the exclusion of other humans and to the 
-           exploitation of the workers working for that corporation in the dangers of space and to the 
-           consequent spoiling of Nature, but instead seeing space resources as the means to bring easy material 
-           collective enrichment of every human on Earth and beyond Earth on an equal basis, where all humans are 
-           collectively prosperous. It then also follows the necessity that national governments on Earth 
-           will participate in such a democratic pan-humanist effort.</p>                
+           <p>
+             In space no one should be a Scrooge McDuck i.e. not greedily see space as yet another 
+             natural resource to do selfish profiteering from, to the exclusion of other humans and to the 
+             exploitation of the workers working for that corporation in the dangers of space and to the 
+             consequent spoiling of Nature, but instead seeing space resources as the means to bring easy material 
+             collective enrichment of every human on Earth and beyond Earth on an equal basis, where all humans are 
+             collectively prosperous. It then also follows the necessity that national governments on Earth 
+             will participate in such a democratic pan-humanist effort.
+           </p>                
 
            <h2>Project Mirkeen-01</h2>
 
-           <p> Project Mirkeen-01 will be our effort in building a humanity-uniting progressive research base 
-           on the Moon ( Earth's moon ), having the name “Mirkeen-01” and to be built beginning in 2036. </p>
-
-           <p> Presently, Artemis Accords and ILRS ( International Lunar Research Station ) are two 
-           projects for the near-future construction of bases and other infrastructure on the Moon and 
-           includes the space vehicles needed to carry humans and luggage between Earth and the 
-           Moon towards the construction of the bases and during their operation. Artemis Accords is 
-           led by the USA government and the ILRS is led by the governments of China and Russia, 
-           and these three governments have needlessly extended to the Moon their disharmony-filled 
-           Earthen bloc politics when instead they should have proposed a pan-human, collective Moon 
-           Base effort. So we of Kosmos Society propose a third way… sometimes there is a third way 
-           as nicely put in the slogan of the World Social Forum - "Another world is possible". We call 
-           this third way as “Project Mirkeen-01".</p>
-
-           <p> “Mirkeen” is a combination of “Mir” and “Keen”. “Mir” means Peace in the Russian language 
-           and also World. “Keen” is the main city in the Dune story. Our project involves building a 
-           separate base on the Moon called Mirkeen-01, separate to Artemis Accords and ILRS, in the 
-           following way : </p>
-
-           <p style="margin-left:1em; margin-bottom:10px";><span>(a). </span>Bring together private citizens 
-           from Earth who believe in natural human beliefs including pan-human fraternity and 
-           want to settle on the Moon whether semi-permanently or with regular visits to Earth. 
-           The participating citizens of Earth can be from The Global South, from pan-humanist private organizations 
-           from anywhere and any other pan-humanist individual citizens of humanity.</p>
-
-           <p style="margin-left:1em; margin-bottom:10px";><span>(b).</span> With all this brought-together “snapshot of humanity” 
-           we begin to build the Mirkeen-01 base on the Moon starting 2036, using our to-Moon transport means
-           ( our-designed Alef-A airship-spaceships manufactured by partner governments ) and our 
-           other technologies and the technologies of other partner pan-humanist organizations with 
-           common protocols. The construction workers will base themselves in the Alef-As until the 
-           base is built. </p>
-
-           <p style="margin-left:1em; margin-bottom:10px";><span>(c).</span> We will site the Mirkeen-01 base underground 
-           in a place which will be in line-of-sight with Earth but not far from the Moon's Far Side. 
-           These criteria are for safety from space rocks and radiation, to be in constant communication with Earth 
-           and to sally out to the Far Side at will to learn deep-space operations as well as to obtain water from the possible water ice 
-           there and possibly from Moon soil. There will be at least one communications relay satellite in the Moon's orbit above Far 
-           Side to connect to a few relay satellites above Earth with these relay satellites being 
-           operated by our partner organizations.</p>
-
-           <p style="margin-left:1em; margin-bottom:10px";><span>(d).</span> The Mirkeen-01 base will be designed to be partly self-sufficient food-wise, 
-           in water, in production of clothing, computers, ground vehicles etc but be extendible for meeting with 
-           future self-sufficiency situations. The electricity will be decentralized and will use our safe, 
-           self-sustaining, modular and easily repairable Faradn generators. </p>
-
-           <p style="margin-left:1em; margin-bottom:10px";><span>(e).</span> The construction materials for the Mirkeen-01 base, ground vehicles etc 
-           will be partly materials carried from Earth in our Alef-A airship-spaceships and partly local materials as 
-           per application ( ISRU - In Situ Resource Utilization ). The ground vehicles will be our Ra-K 
-           vehicles.</p>
-
-           <p style="margin-left:1em; margin-bottom:10px";> <span>(f).</span> The social organization system of the Mirkeen-01 base will be the points in this chapter. </p>
-
-           <p style="margin-left:1em; margin-bottom:10px";><span>(g).</span> The Mirkeen-01 base will be the first very advanced society 
-           which won’t have money, tax and feudalism. The true wealth of a society is not in the money, mansions and luxury 
-           motorcars held by a few privileged. The true wealth is the potential and the positive ideas and works of the citizens 
-           and these can exist without money. In fact the potential of a society is eroded by the presence of money because 
-           so many people have potential but when they get socially excluded through the various aspects of money 
-           they don’t get the opportunity to realize their potential and their society does not get to benefit. 
-           This realization extends to all of humanity. </p>
-           
-           <p style="margin-left:1em; margin-bottom:10px";><span>(h).</span> For the time being the Mirkeen-01 base can engage in commercial activities 
-           to sustain itself other than getting support from Kosmos Society and its partners on Earth. This 
-           commerce will be in accordance with our social system for space. The commerce 
-           can be about Moon-available minerals needed on Earth ( iron, silicon etc ) or on others’ 
-           space stations around Earth; the commerce can be about those produced materials and 
-           services which benefit from the low-gravity and vacuum conditions on the Moon; the 
-           commerce can be tourism on the Moon; etc.</p> 
-
-           <p style="margin-left:1em; margin-bottom:10px";><span>(i).</span> The Mirkeen-01 base can 
-           also have guests from the Artemis Accords base and the ILRS base. All human-spirited gentle people 
-           will be welcomed with tea and biscuits. </p>
-
-            <p style="margin-left:1em; margin-bottom:10px";><span>(j).</span> The Mirkeen-01 base will serve 
-            as a store for desirable biological material and technological recipes so that if Earth is threatened 
-            by natural events ( asteroids, comets, big solar flares, pandemics, super volcanoes etc ) 
-            or unfortunately done human-made events ( global war etc ), advanced human life and other desirable lifeforms 
-            on Earth ( like plants, cats, fish, birds, deer etc ) can recover and thrive. This arrangement 
-            will supplement the Svalbard Global Seed Vault.
-             </p>
-
-             <p style="margin-left:1em; margin-bottom:10px";><span>(k).</span> The Mirkeen-01 base will also serve 
-             as an example to replicate its techno systems and social system on other worlds like Red One 
-             and Red One's moons and the Asteroid Belt. Each new such base will be named Mirkeen but with 
-             increasing numbers like 02, 05, 20 and going into hexadecimal numbers like 0A, 4C and FA.
-             </p>
-
-<h2> Meetings or sightings of aliens</h2>
-           
-           <p>It is not known what kinds of alien life we will encounter, whether on Red One or on Europa 
-           or beyond the Solar System, whether in the form of bacteria or as plants or as more 
-           intelligent animals or something else. It is not known if they have been communicating with 
-           us or with any other lifeforms in the infinite universe. Some humans say we must actively 
-           find them, some say it is dangerous to try communicating with other lifeforms because they 
-           may seek us out to wipe us out. But advancement is of course seeking them and we must be open 
-           to the types of life we may find and the different ecological situations on their worlds,
-           not limiting our understanding of space lifes to the ecological situations on Earth.
+           <p>
+             Project Mirkeen-01 will be our effort in building a humanity-uniting progressive research base 
+             on the Moon ( Earth's moon ), having the name “Mirkeen-01” and to be built beginning in 2036.
            </p>
 
            <p>
-           Actually humans don't even know so much of life forms on Earth including in the seas. 
-           For example, the jaguar cats of the Amazon forests hunt crocodiles for food but this was rarely
-           recorded on camera, perhaps never, until 2013 when photographer Kedar Hippalgaonkar along with his wife 
-           Parul, recorded a jaguar locally named Mick Jaguar hunting a croc in a river in Brazil's 
-           Pantanal wetlands. Kedar's photos went viral on the internet. And only recently has it been researched 
-           how octopuses collaborate with certain types of fishes to hunt other fishes. So, as we seek lifes beyond Earth 
-           we must not have preconceived notions and set academic dictations on where we will find these lifes and how they will be.
+             Presently, Artemis Accords and ILRS ( International Lunar Research Station ) are two 
+             projects for the near-future construction of bases and other infrastructure on the Moon and 
+             includes the space vehicles needed to carry humans and luggage between Earth and the 
+             Moon towards the construction of the bases and during their operation. Artemis Accords is 
+             led by the USA government and the ILRS is led by the governments of China and Russia, 
+             and these three governments have needlessly extended to the Moon their disharmony-filled 
+             Earthen bloc politics when instead they should have proposed a pan-human, collective Moon 
+             Base effort. So we of Kosmos Society propose a third way… sometimes there is a third way 
+             as nicely put in the slogan of the World Social Forum - "Another world is possible". We call 
+             this third way as “Project Mirkeen-01".
+           </p>
+
+           <p>
+             “Mirkeen” is a combination of “Mir” and “Keen”. “Mir” means Peace in the Russian language 
+             and also World. “Keen” is the main city in the Dune story. Our project involves building a 
+             separate base on the Moon called Mirkeen-01, separate to Artemis Accords and ILRS, in the 
+             following way :
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(a). </span>Bring together private citizens from Earth who believe in natural human beliefs 
+             including pan-human fraternity and want to settle on the Moon whether semi-permanently or 
+             with regular visits to Earth. The participating citizens of Earth can be from The Global South, 
+             from pan-humanist private organizations from anywhere and any other pan-humanist individual citizens of humanity.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(b).</span> With all this brought-together “snapshot of humanity” we begin to build the Mirkeen-01 base on the Moon 
+             starting 2036, using our to-Moon transport means ( our-designed Alef-A airship-spaceships manufactured by partner governments ) and 
+             our other technologies and the technologies of other partner pan-humanist organizations with 
+             common protocols. The construction workers will base themselves in the Alef-As until the 
+             base is built.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(c).</span> We will site the Mirkeen-01 base underground in a place which will be in line-of-sight with Earth but not far from 
+             the Moon's Far Side. These criteria are for safety from space rocks and radiation, to be in constant communication with Earth 
+             and to sally out to the Far Side at will to learn deep-space operations as well as to obtain water from the possible water ice 
+             there and possibly from Moon soil. There will be at least one communications relay satellite in the Moon's orbit above Far 
+             Side to connect to a few relay satellites above Earth with these relay satellites being 
+             operated by our partner organizations.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(d).</span> The Mirkeen-01 base will be designed to be partly self-sufficient food-wise, 
+             in water, in production of clothing, computers, ground vehicles etc but be extendible for meeting with 
+             future self-sufficiency situations. The electricity will be decentralized and will use our safe, 
+             self-sustaining, modular and easily repairable Faradn generators.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(e).</span> The construction materials for the Mirkeen-01 base, ground vehicles etc 
+             will be partly materials carried from Earth in our Alef-A airship-spaceships and partly local materials as 
+             per application ( ISRU - In Situ Resource Utilization ). The ground vehicles will be our Ra-K 
+             vehicles.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(f).</span> The social organization system of the Mirkeen-01 base will be the points in this chapter.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(g).</span> The Mirkeen-01 base will be the first very advanced society which won’t have feudalism and 
+             tax in any form including money. The true wealth of a society is not in the money, mansions and luxury motorcars 
+             held by a few privileged. The true wealth is the potential and the positive ideas and works of the citizens 
+             and these can exist without money. In fact the potential of a society is eroded by the presence of money because 
+             so many people have potential but when they get socially excluded through the various aspects of tax  
+             they don’t get the opportunity to realize their potential and their society does not get to benefit. 
+             This realization extends to all of humanity.
+           </p>
+           
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(h).</span> For the time being the Mirkeen-01 base can engage in commercial activities 
+             to sustain itself other than getting support from Kosmos Society and its partners on Earth. This 
+             commerce will be in accordance with our social system for space. The commerce 
+             can be about Moon-available minerals needed on Earth ( iron, silicon etc ) or on others’ 
+             space stations around Earth; the commerce can be about those produced materials and 
+             services which benefit from the low-gravity and vacuum conditions on the Moon; the 
+             commerce can be tourism on the Moon; etc.
+           </p> 
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(i).</span> The Mirkeen-01 base can also have guests from the Artemis Accords base and the ILRS base. 
+             All human-spirited gentle people will be welcomed with tea and biscuits.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(j).</span> The Mirkeen-01 base will serve as a store for desirable biological material and technological recipes 
+             so that if Earth is threatened by natural events ( asteroids, comets, big solar flares, pandemics, super volcanoes etc ) 
+             or unfortunately done human-made events ( global war etc ), advanced human life and other desirable lifeforms 
+             on Earth ( like plants, cats, fish, birds, deer etc ) can recover and thrive. This arrangement 
+             will supplement the Svalbard Global Seed Vault.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(k).</span> The Mirkeen-01 base will also serve as an example to replicate its techno systems and 
+             social system on other worlds like Red One and Red One's moons and the Asteroid Belt. Each new such base 
+             will be named Mirkeen but with increasing numbers like 02, 05, 20 and going into hexadecimal numbers like 
+             0A, 4C and FA.
+           </p>
+
+           <h2> Meetings or sightings of aliens</h2>
+           
+           <p>
+             It is not known what kinds of alien life we will encounter, whether on Red One or on Europa 
+             or beyond the Solar System, whether in the form of bacteria or as plants or as more 
+             intelligent animals or something else. It is not known if they have been communicating with 
+             us or with any other lifeforms in the infinite universe. Some humans say we must actively 
+             find them, some say it is dangerous to try communicating with other lifeforms because they 
+             may seek us out to wipe us out. But advancement is of course seeking them and we must be open 
+             to the types of life we may find and the different ecological situations on their worlds,
+             not limiting our understanding of space lifes to the ecological situations on Earth.
+           </p>
+
+           <p>
+             Actually humans don't even know so much of life forms on Earth including in the seas. 
+             For example, the jaguar cats of the Amazon forests hunt crocodiles for food but this was rarely
+             recorded on camera, perhaps never, until 2013 when photographer Kedar Hippalgaonkar along with his wife 
+             Parul, recorded a jaguar locally named Mick Jaguar hunting a croc in a river in Brazil's 
+             Pantanal wetlands. Kedar's photos went viral on the internet. And only recently has it been researched 
+             how octopuses collaborate with certain types of fishes to hunt other fishes. So, as we seek lifes beyond Earth 
+             we must not have preconceived notions and set academic dictations on where we will find these lifes and how they will be.
            </p>
            
            <p>
-           And if we seek them we must of course ideally have collective human prosperity, collective 
-           harmony, gentleness, sensitiveness, empathy and intelligent consensus as that will present 
-           our best unified side to any other intelligent lifeforms and that will come by agreeing on 
-           sensible manifestos for humanity like ours.
+             And if we seek them we must of course ideally have collective human prosperity, collective 
+             harmony, gentleness, sensitiveness, empathy and intelligent consensus as that will present 
+             our best unified side to any other intelligent lifeforms and that will come by agreeing on 
+              sensible manifestos for humanity like ours.
            </p>
            
-           <p>There is a wonderful story written and posted on LinkedIn by Don Michael Feeney called 
-           “The Interplanetary Civilian : A Novella of Mars and Memory”. This story speaks of the 
-           building of the first human settlements in space in terms of technologies and social systems 
-           including pan-human development, decentralized governance, the first human baby born in 
-           space, an artificial intelligence included with empathy and learning from unprogrammed space events,
-           and a very different kind of alien encounter. This story prepares us to look for intelligent lifeforms by being open-minded as 
-           to their type and their reaction to us and our reaction to them. This is the link to the story [  <a href=" https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-feeney-676nf " target="_blank" style="color:#0000FF;">https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-fee
+           <p>
+             There is a wonderful story written and posted on LinkedIn by Don Michael Feeney called 
+             “The Interplanetary Civilian : A Novella of Mars and Memory”. This story speaks of the 
+             building of the first human settlements in space in terms of technologies and social systems 
+             including pan-human development, decentralized governance, the first human baby born in 
+             space, an artificial intelligence included with empathy and learning from unprogrammed space events,
+             and a very different kind of alien encounter. This story prepares us to look for intelligent lifeforms by being open-minded as 
+             to their type and their reaction to us and our reaction to them. This is the link to the story [  <a href=" https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-feeney-676nf " target="_blank" style="color:#0000FF;">https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-fee
            ney-676nf </a> ].
            </p>
           
            <p>
-           While looking for alien life or encountering them by chance, we must acknowledge the 
-           general idea that ultimately we and every kind of life origined maybe within dying stars and 
-           within the dust around stars and maybe the gas clouds in free space, we must develop 
-           pan-universe fraternity though subject to those lifes having or not having beauty and gentleness.
+             While looking for alien life or encountering them by chance, we must acknowledge the 
+             general idea that ultimately we and every kind of life origined maybe within dying stars and 
+             within the dust around stars and maybe the gas clouds in free space, we must develop 
+             pan-universe fraternity though subject to those lifes having or not having gentleness.
            </p>
           
            <p>
-           It is said that space-origined lifes were carried through space in various forms like spores, 
-           viruses, eggs etc and seeded various worlds including ours to various levels and then 
-           evolutionary steps took over in many of those worlds depending on the conditions of those 
-           worlds. This idea is called Panspermia. For example, it is said that the octopus and squid in 
-           Earth’s seas are not from Earth but from space, their eggs carried within ice rocks and then 
-           released on Earth when the ice rocks fell into the seas here. This is a good read about this 
-           topic [ <a href=" https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/ target="_blank" style="color:#0000FF;"> https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/"</a> ]. 
+             It is said that space-origined lifes were carried through space in various forms like spores, 
+             viruses, eggs etc and seeded various worlds including ours to various levels and then 
+             evolutionary steps took over in many of those worlds depending on the conditions of those 
+             worlds. This idea is called Panspermia. For example, it is said that the octopus and squid in 
+             Earth’s seas are not from Earth but from space, their eggs carried within ice rocks and then 
+             released on Earth when the ice rocks fell into the seas here. This is a good read about this 
+             topic [ <a href=" https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/ target="_blank" style="color:#0000FF;"> https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/"</a> ]. 
            </p>           
           
            <p> And who knows, we may find that cats are indeed aliens as goes the internet legend, LOL.</p>
         
            <h2> City design and city reconfiguration on Earth</h2>
            
-           <p>The space experiences including the Mirkeen-01 base and our Space machines will provide 
-           derivations for city design for Earth and its transportation. This effort will consist of designing 
-           large and small cities which are aesthetic; clean; scientifically-built; citizen-managed through participatory democracy 
-           ( which is true democracy ) by using the concept of Workers Cooperatives; humanist; largely food-wise self-sufficient;
-           largely employment-wise self-sufficient; gentle. These new cities will take the pressure off current chaotic cities and 
-           also bring reasonable city culture to rural people because generally great ideas, discussions and developments happen in the cities. 
-           The public transportation system in these new cities will be built around our Ra-E buses, bicycle lanes and footpaths. 
-           The only personal vehicles allowed will be pedal-only bicycles. The gentleness in these cities will also come from 
-           creating a safe and comfy environment for cats to prosper. </p>
+           <p>
+             The space experiences including the Mirkeen-01 base and our Space machines will provide 
+             derivations for city design for Earth and its transportation. This effort will consist of designing 
+             large and small cities which are aesthetic; clean; scientifically-built; citizen-managed through participatory democracy 
+             ( which is true democracy ) by using the concept of Workers Cooperatives; humanist; largely food-wise self-sufficient;
+             largely employment-wise self-sufficient; gentle. These new cities will take the pressure off current chaotic cities and 
+             also bring reasonable city culture to rural people because generally great ideas, discussions and developments happen in the cities. 
+             The public transportation system in these new cities will be built around our Ra-E buses, bicycle lanes and footpaths. 
+             The only personal vehicles allowed will be pedal-only bicycles. The gentleness in these cities will also come from 
+             creating a safe and comfy environment for cats to prosper.
+           </p>
 
            <p>
-           First here we will speak of intra-city and inter-city public transportation in detail.
+             First here we will speak of intra-city and inter-city public transportation in detail.
            </p>
           
            <p>
-           We will make a derivation of our Ra-K vehicle for Earthen public transportation in the form of 
-           a 15-passenger bus called Ra-E which can be used for full capacity mass public transport or 
-           as a taxi for people going for special occasions. The Earthen Ra-E will normally use 
-           hovercraft mode on the current roads and other paths and switch to wheelcraft mode and 
-           aircraft mode when needed… for example, travel on mountain roads is dangerous in 
-           hovercraft mode so wheels are needed. Traveling between cities can be done by using the 
-           aircraft mode. These Ra-E vehicles will be capable of being the sole means of mass public 
-           transport in cities and other habitations on Earth, replacing most current personal vehicles 
-           except for the pedal bicycle.
+             We will make a derivation of our Ra-K vehicle for Earthen public transportation in the form of 
+             a 15-passenger bus called Ra-E which can be used for full capacity mass public transport or 
+             as a taxi for people going for special occasions. The Earthen Ra-E will normally use 
+             hovercraft mode on the current roads and other paths and switch to wheelcraft mode and 
+             aircraft mode when needed… for example, travel on mountain roads is dangerous in 
+             hovercraft mode so wheels are needed. Traveling between cities can be done by using the 
+             aircraft mode. These Ra-E vehicles will be capable of being the sole means of mass public 
+             transport in cities and other habitations on Earth, replacing most current personal vehicles 
+             except for the pedal bicycle.
            </p>
 
            <p>
-           Presently, the few billion motorized personal vehicles on Earth are greatly the cause of all 
-           kinds of needless pollution, noise, mishaps, crimes, Climate Change, social inequality, 
-           disharmony and unsightliness. Many governments have tried to resolve this problem within 
-           their countries or cities by taking half-steps like “Odd, even formula” ( allow on road the 
-           vehicles with odd numbered number plates one day and even numbered the next day ) and 
-           building more flyovers and metro lines. But these governments have not considered the very 
-           simple fact that road traffic problems exist because of what causes the traffic - vehicles… in 
-           particular personal vehicles.
+             Presently, the few billion motorized personal vehicles on Earth are greatly the cause of all 
+             kinds of needless pollution, noise, mishaps, crimes, Climate Change, social inequality, 
+             disharmony and unsightliness. Many governments have tried to resolve this problem within 
+             their countries or cities by taking half-steps like “Odd, even formula” ( allow on road the 
+             vehicles with odd numbered number plates one day and even numbered the next day ) and 
+             building more flyovers and metro lines. But these governments have not considered the very 
+             simple fact that road traffic problems exist because of what causes the traffic - vehicles… in 
+             particular personal vehicles.
            </p>
 
            <p>
-           About road mishaps, in India every year there are about 400,000 mishaps out of which 
-           about 150,000 people die and countless are maimed. These mishaps are mostly caused by 
-           presence of personal motor vehicles. In USA there are at least 40,000 people dying in these mishaps. 
-           In many other countries too, similar situation. This is genocide every year, caused by the personal vehicles industry.
+             About road mishaps, in India every year there are about 400,000 mishaps out of which 
+             about 150,000 people die and countless are maimed. These mishaps are mostly caused by 
+             presence of personal motor vehicles. In USA there are at least 40,000 people dying in these mishaps. 
+             In many other countries too, similar situation. This is genocide every year, caused by the personal vehicles industry.
            </p>
 
            <p>
-           About Climate Change, there are regular COP summits of world leaders to supposedly discuss 
-           Climate Change but these are mainly wine and dine events with vague promises of reduction of Climate Change 
-           instead of discussion about immediate beginning of reversal of Climate Change. 
-           The activist Greta Thunberg noted about the COP26 conference in Glasgow in 2021 
-           that it was a failure and a "Greenwash" and that many of the participating leaders 
-           profit from the destruction of Earth's ecosystem. The simple realization is that the biggest culprit 
-           which caused Climate Change is the personal motor vehicles industry but the COP conferences don't address this.
+             About Climate Change, there are regular COP summits of world leaders to supposedly discuss 
+             Climate Change but these are mainly wine and dine events with vague promises of reduction of Climate Change 
+             instead of discussion about immediate beginning of reversal of Climate Change. 
+             The activist Greta Thunberg noted about the COP26 conference in Glasgow in 2021 
+             that it was a failure and a "Greenwash" and that many of the participating leaders 
+             profit from the destruction of Earth's ecosystem. The simple realization is that the biggest culprit 
+             which caused Climate Change is the personal motor vehicles industry but the COP conferences don't address this.
            </p>
 
            <p>
-           To manage traffic, in some cities the city municipal corporations build flyovers but this is senseless 
-           as building flyovers only makes the unthinking public to purchase even more personal vehicles 
-           to the extent that many families have at least two vehicles for no other reason than to display their 
-           middle class new-pseudo-rich wealth and the result is that in some cities there are now at least 
-           five million personal motor vehicles. In the city of Bangalore the vehicle population is more than its 
-           human population.
+             To manage traffic, in some cities the city municipal corporations build flyovers but this is senseless 
+             as building flyovers only makes the unthinking public to purchase even more personal vehicles 
+             to the extent that many families have at least two vehicles for no other reason than to display their 
+             middle class new-pseudo-rich wealth and the result is that in some cities there are now at least 
+             five million personal motor vehicles. In the city of Bangalore the vehicle population is more than its 
+             human population.
            </p>
 
            <p>
-           Putting metro lines has also not caused the public to stop using their personal vehicles and take personal responsibility 
-           to contribute to create serenity, cleanliness, much reduced pollution and remove social inequality in their cities. 
-           On the contrary, the metro lines have only led to narrowed roads leading to funnel effect on the roads 
-           and thus doubled chaos and of course contributing to more pollution because of the production of cement, iron and other materials 
-           needed in the construction of the metro infrastructure, added with the petro fuel pollution because of the 
-           vehicles involved in the construction of the metro infrastructure.
+             Putting metro lines has also not caused the public to stop using their personal vehicles and take personal responsibility 
+             to contribute to create serenity, cleanliness, much reduced pollution and remove social inequality in their cities. 
+             On the contrary, the metro lines have only led to narrowed roads leading to funnel effect on the roads 
+             and thus doubled chaos and of course contributing to more pollution because of the production of cement, iron and other materials 
+             needed in the construction of the metro infrastructure, added with the petro fuel pollution because of the 
+             vehicles involved in the construction of the metro infrastructure.
            </p>
 
            <p>           
-           Thousands of personal vehicles continue to be purchased every day in the cities with metro lines. Flyovers and metro lines 
-           are problems which add to the existing problem caused by personal vehicles.
+             Thousands of personal vehicles continue to be purchased every day in the cities with metro lines. Flyovers and metro lines 
+             are problems which add to the existing problem caused by personal vehicles.
            </p>
 
            <p>
-           City corporations installing expensive “artificial intelligence” systems to control traffic lights will also never solve the problem 
-           because the AI traffic lights will not make the millions of traffic-causing personal vehicles vanish. These AI traffic control systems 
-           will only help the profiteering corporations who have convinced the city corporations 
-           to purchase their useless systems.
+             City corporations installing expensive “artificial intelligence” systems to control traffic lights will also never solve the problem 
+             because the AI traffic lights will not make the millions of traffic-causing personal vehicles vanish. These AI traffic control systems 
+             will only help the profiteering corporations who have convinced the city corporations 
+             to purchase their useless systems.
            </p>
 
            <p>               
-           Further problems are the disharmony and unsightliness caused by personal vehicles parked 
-           on roads in residential areas and public areas. Residents have to engage in quarrels with 
-           personal vehicle owners who park their vehicles in front of someone’s house gate or these 
-           vehicles creating obstruction on the roads. Many times vehicles are parked on footpaths thus 
-           blocking citizens from using the footpaths and forcing them to walk on the road, leading to potential mishaps 
-           for the citizens by getting hit by vehicles coming from front or back. Personal 
-           vehicles also clog public areas whether by being parked haphazardly in front of shops or 
-           other public establishments or in squares or just clogging the roads whether they are parked 
-           or running.
+             Further problems are the disharmony and unsightliness caused by personal vehicles parked 
+             on roads in residential areas and public areas. Residents have to engage in quarrels with 
+             personal vehicle owners who park their vehicles in front of someone’s house gate or these 
+             vehicles creating obstruction on the roads. Many times vehicles are parked on footpaths thus 
+             blocking citizens from using the footpaths and forcing them to walk on the road, leading to potential mishaps 
+             for the citizens by getting hit by vehicles coming from front or back. Personal 
+             vehicles also clog public areas whether by being parked haphazardly in front of shops or 
+             other public establishments or in squares or just clogging the roads whether they are parked 
+             or running.
            </p>
            
            <p>
-           In some societies the citizens using personal vehicles use the horn needlessly as if the vehicles 
-           in front will take off like aeroplanes on hearing the horn from behind.
+             In some societies the citizens using personal vehicles use the horn needlessly as if the vehicles 
+             in front will take off like aeroplanes on hearing the horn from behind.
            </p>
 
            <p>
-           A great problem is many people, especially misguided males, purchasing big and noisy personal vehicles including 
-           both cars and motorcycles. There are some motorcycles which make very loud, 
-           heart-piercing thumping sounds as they pass by people, terrorizing those people and possibly causing 
-           health problems to those people. The motorcycle has been one of humanity's most idiotic inventions, 
-           like the lithium-ion battery and of course money. The motorcycle is a danger to the riders and to those it passes by. 
-           Most times the loud-thump motorcycle owners want to intimidate those they pass by, 
-           especially with the modern fashion of such riders adopting an aggressive look. 
-           This situation is unacceptable for any society with even a miniscule amount of intellectuals 
-           who desire serenity and harmony.
+             A great problem is many people, especially misguided males, purchasing big and noisy personal vehicles including 
+             both cars and motorcycles. There are some motorcycles which make very loud, 
+             heart-piercing thumping sounds as they pass by people, terrorizing those people and possibly causing 
+             health problems to those people. The motorcycle has been one of humanity's most idiotic inventions, 
+             like the lithium-ion battery and of course money. The motorcycle is a danger to the riders and to those it passes by. 
+             Most times the loud-thump motorcycle owners want to intimidate those they pass by, 
+             especially with the modern fashion of such riders adopting an aggressive look. 
+             This situation is unacceptable for any society with even a miniscule amount of intellectuals 
+             who desire serenity and harmony.
            </p>
 
            <p>
-           In many cases these riders want to appear "tough and manly" because in their real life 
-           they will be wage slaves in some feudal corporation, not daring to talk back to their oppressive bosses 
-           much less willing to help their co-worker in the next workstation who is being oppressed 
-           by the company management.
+             In many cases these riders want to appear "tough and manly" because in their real life 
+             they will be wage slaves in some feudal corporation, not daring to talk back to their oppressive bosses 
+             much less willing to help their co-worker in the next workstation who is being oppressed 
+             by the company management.
            </p>
 
            <p>
-           In other cases such motorcycle riders are socially powerful in the local context and their big and loud motorcycle, 
-           sometimes ridden with dark glasses, is meant to instill artificial respect in the masses being passed by.
+             In other cases such motorcycle riders are socially powerful in the local context and their big and loud motorcycle, 
+             sometimes ridden with dark glasses, is meant to instill artificial respect in the masses being passed by.
            </p>
 
            <p>
-           In a few cases, men who ride these loud-thumpers are decent people but just caught up by the propaganda surrounding such vehicles.
+             In a few cases, men who ride these loud-thumpers are decent people but just caught up by the propaganda surrounding such vehicles.
            </p>
 
            <p>
-           Then is the modern fashion of the new-pseudo-rich middle class in some societies 
-           riding heavy motorcycles on long trips including to serene and pristine nature spots and 
-           creating disharmony and pollution there. Sometimes there is an entire gang of such 
-           motorcycle trippers. An unfortunate effect is some women riding these heavy long-trip motorcycles 
-           where in their misguided understanding they have achieved gender emancipation by riding 
-           these heavy motorcycles on long trips because only men used to do this earlier. 
-           However, not only should men not ride these cringey and dangerous heavy motorcycles 
-           but when these women return from their heavy-motorcycle riding trips they return to societies 
-           which remain unchanged for them as women. Additionally, these women lose their feminineness by riding 
-           these heavy motorcycles in addition to this act seeming as cringe as a woman tottering 
-           on high heels.
+             Then is the modern fashion of the new-pseudo-rich middle class in some societies 
+             riding heavy motorcycles on long trips including to serene and pristine nature spots and 
+             creating disharmony and pollution there. Sometimes there is an entire gang of such 
+             motorcycle trippers. An unfortunate effect is some women riding these heavy long-trip motorcycles 
+             where in their misguided understanding they have achieved gender emancipation by riding 
+             these heavy motorcycles on long trips because only men used to do this earlier. 
+             However, not only should men not ride these cringey and dangerous heavy motorcycles 
+             but when these women return from their heavy-motorcycle riding trips they return to societies 
+             which remain unchanged for them as women. Additionally, these women lose their feminineness by riding 
+             these heavy motorcycles in addition to this act seeming as cringe as a woman tottering 
+             on high heels.
            </p>
 
            <p>
-           Then is the unfortunate situation of misguided youth filling into big cars 
-           like the SUVs and driving out in convoys with the youth hanging out of the windows and 
-           shouting and making themselves a nuisance. Also, these convoys create danger of 
-           mishaps for themselves and for the others on the road. These youth should realize 
-           that they are being anti-social and so cringey.
+             Then is the unfortunate situation of misguided youth filling into big cars 
+             like the SUVs and driving out in convoys with the youth hanging out of the windows and 
+             shouting and making themselves a nuisance. Also, these convoys create danger of 
+             mishaps for themselves and for the others on the road. These youth should realize 
+             that they are being anti-social and so cringey.
            </p>
 
            <p>
-           There is also the callous situation of the middle class and the rich enclosing themselves 
-           in air-conditioned cars and daily going to their feudal workplaces, ignoring the homeless and 
-           the hungry people so clearly sitting on the footpaths, under bridges and in abandoned bus stops, 
-           having to live in the open under the elements, the pollution and the chaos. The car people 
-           never think of parking their cars to get out and give a hundred dollars so that that homeless person 
-           can eat good food at least for the next two days. And when a child of five, living in poverty, 
-           comes up to these car-enclosed people to sell pens or flowers, the car people may have extra money 
-           which they can freely give to the seller child to help him but most times the car people roll up their 
-           window and cruelly abandon that child.
+             There is also the callous situation of the middle class and the rich enclosing themselves 
+             in air-conditioned cars and daily going to their feudal workplaces, ignoring the homeless and 
+             the hungry people so clearly sitting on the footpaths, under bridges and in abandoned bus stops, 
+             having to live in the open under the elements, the pollution and the chaos. The car people 
+             never think of parking their cars to get out and give a hundred dollars so that that homeless person 
+             can eat good food at least for the next two days. And when a child of five, living in poverty, 
+             comes up to these car-enclosed people to sell pens or flowers, the car people may have extra money 
+             which they can freely give to the seller child to help him but most times the car people roll up their 
+             window and cruelly abandon that child.
            </p>
 
            <p>
-           Then is the obscene display of newly acquired wealth by celebs in form of expensive personal motorcycles and sports cars. 
-           The contradiction of a celeb in Bombay cruising in a four crore rupees flashy orange open-top sports car, wearing huge and expensive dark glasses, 
-           passing by five-year-old boys and girls struggling to earn 50 rupees a day by selling 
-           flowers, pens and washing the windscreen of the same four crore rupees sports car, 
-           and its newly-rich celeb owner waving away those boys and girls in irritation. Also, this expensive 
-           car is just a silly personal road vehicle, not a spaceship which can take 100 people to Pluto, 
-           and it is not a survivable vehicle for its celeb owner in case it gets into a road mishap, 
-           so there should be no allure and aspiration attached to it, especially if it 
-           separates human from human through class system and doesn't provide safety to its owner 
-           and other riders in case of mishap and becomes a very expensive piece of twisted metal 
-           and expensive flames.
+             Then is the obscene display of newly acquired wealth by celebs in form of expensive personal motorcycles and sports cars. 
+             The contradiction of a celeb in Bombay cruising in a four crore rupees flashy orange open-top sports car, wearing huge and expensive dark glasses, 
+             passing by five-year-old boys and girls struggling to earn 50 rupees a day by selling 
+             flowers, pens and washing the windscreen of the same four crore rupees sports car, 
+             and its newly-rich celeb owner waving away those boys and girls in irritation. Also, this expensive 
+             car is just a silly personal road vehicle, not a spaceship which can take 100 people to Pluto, 
+             and it is not a survivable vehicle for its celeb owner in case it gets into a road mishap, 
+             so there should be no allure and aspiration attached to it, especially if it 
+             separates human from human through class system and doesn't provide safety to its owner 
+             and other riders in case of mishap and becomes a very expensive piece of twisted metal 
+             and expensive flames. Celebs should instead realize their wrongs and use their influence 
+             to enlighten others in their local society and in rest of humanity.
            </p>
 
            <p>
-           Often is the case that the callous people who shut their car windows to the poor people, are the most 
-           nationalist and most ritualist in religious terms.
+             Often is the case that the callous people who shut their car windows to the poor people, are the most 
+             nationalist and most ritualist in religious terms.
            </p>
 
            <p>
-           Another sad modern phenomenon is the exploitation of delivery people of the billion-dollar 
-           "unicorn" e-shop startups. The delivery people are forced by poverty to ride two-wheelers to deliver the packages 
-           through sun, rain, cold, pollution and dangerous traffic many times a day, many times without helmet, 
-           many times without protective clothing against the weather and not at all protective clothing 
-           for two-wheelers, many times they earn a pittance, many times deliver to rude or arrogant customers, 
-           some times fall prey to armed robbery, some times have to break their legs because of jumping a building storey 
-           to escape a customer's attacking dog, some times beg the customers for five-star ratings because 
-           these e-shops provide the meagre incentive based on those ratings, many times have to dangerously zip through traffic red lights 
-           because their e-shop has promised quick delivery to the customers and many times is the blatant class discrimination where the delivery people 
-           and the domestic servants have to only use service lifts or stairs in the 30-storey buildings 
-           that house the middle class. The billion-dollar "unicorn" e-shops have luxury cars cars for the owners but do not even consider 
-           providing safer and covered company four-wheelers to their own delivery people who are among those in the company to actually bring 
-           income to the company, and the poor delivery people have to resort to using the dangerous personal two-wheelers.
+             Another sad modern phenomenon is the exploitation of delivery people of the billion-dollar 
+             "unicorn" e-shop startups. The delivery people are forced by poverty to ride two-wheelers to deliver the packages 
+             through sun, rain, cold, pollution and dangerous traffic many times a day, many times without helmet, 
+             many times without protective clothing against the weather and not at all protective clothing 
+             for two-wheelers, many times they earn a pittance, many times deliver to rude or arrogant customers, 
+             some times fall prey to armed robbery, some times have to break their legs because of jumping a building storey 
+             to escape a customer's attacking dog, some times beg the customers for five-star ratings because 
+             these e-shops provide the meagre incentive based on those ratings, many times have to dangerously zip through traffic red lights 
+             because their e-shop has promised quick delivery to the customers and many times is the blatant class discrimination where the delivery people 
+             and the domestic servants have to only use service lifts or stairs in the 30-storey buildings 
+             that house the middle class. The billion-dollar "unicorn" e-shops have luxury cars cars for the owners but do not even consider 
+             providing safer and covered company four-wheelers to their own delivery people who are among those in the company to actually bring 
+             income to the company, and the poor delivery people have to resort to using the dangerous personal two-wheelers.
            </p>
 
            <p>
-           Also must be noted that in the cities especially in the recent 20 years the thousands of students and the millions of workers 
-           get transported daily to and from their schools, colleges and offices by personal vehicles, whether self-driven or 
-           driven by parents or colleagues. This adds to millions of personal vehicles on the roads at least 
-           twice a day and the times these vehicles clog the roads are known as "peak traffic hours". This situation happens 
-           because the public transporation system is very inadequate in numbers and and frequency. There is no rational reason 
-           the students and workers should not take public transport, yet they take personal vehicles but not only because of 
-           inadequate public transport system but also because of the misguided idea that a person owning at least one 
-           personal vehicle is someone respectworthy who is superior to the poor person having to pedal a 
-           bicycle or even walk long distances.
+             Also must be noted that in the cities especially in the recent 20 years the thousands of students and the millions of workers 
+             get transported daily to and from their schools, colleges and offices by personal vehicles, whether self-driven or 
+             driven by parents or colleagues. This adds to millions of personal vehicles on the roads at least 
+             twice a day and the times these vehicles clog the roads are known as "peak traffic hours". This situation happens 
+             because the public transporation system is very inadequate in numbers and and frequency. There is no rational reason 
+             the students and workers should not take public transport, yet they take personal vehicles but not only because of 
+             inadequate public transport system but also because of the misguided idea that a person owning at least one 
+             personal vehicle is someone respectworthy who is superior to the poor person having to pedal a 
+             bicycle or even walk long distances.
            </p>
 
            <p>
-           All these experiences caused by personal vehicles directly and indirectly, 
-           render the society full of chaos, apathy, cruelty, crime, mishaps, injustice, inequality, mishealth, disharmony, 
-           competition, pollution, dirtiness, unsightliness and the society's unproductiveness and non-progress for decades... 
-           in other words, dystopia.
-           </p>
-
-           <p> But these are artificial and avoidable problems so they can be solved, at least starting with 
-           acknowledging that part of these problems exist because of the existence of personal vehicles 
-           and will be solved with the simple act of abolishing personal vehicles with the exception of the simple pedal bicycle. 
-           Sometimes the problems are social so the solutions must be social but also must be supplemented with 
-           technological solutions.
+             All these experiences caused by personal vehicles directly and indirectly, 
+             render the society full of chaos, apathy, cruelty, crime, mishaps, injustice, inequality, mishealth, disharmony, 
+             competition, pollution, dirtiness, unsightliness and the society's unproductiveness and non-progress for decades... 
+             in other words, dystopia.
            </p>
 
            <p>
-           The act of abolishing personal vehicles is social and our organization 
-           will provide the technological solution to supplement this social act. So the few billion personal vehicles 
-           across Earth that are abolished must be replaced with a few hundred thousand public mass transport vehicles 
-           which are not only cheaper to build, not only provide a universal solution, not only are aesthetic but also are 
-           electric in an eco-friendly way to enable a sustainable and social-equality-bringing public transportation mechanism 
-           all over Earth.
+             But these are artificial and avoidable problems so they can be solved, at least starting with 
+             acknowledging that part of these problems exist because of the existence of personal vehicles 
+             and will be solved with the simple act of abolishing personal vehicles with the exception of the simple pedal bicycle. 
+             Sometimes the problems are social so the solutions must be social but also must be supplemented with 
+             technological solutions.
            </p>
 
            <p>
-           Our solution is our Ra-E bus which is a hybrid vehicle of hovercraft-wheelcraft-aircraft type, 
-           deriving from our designed-for-space Ra-K vehicle, and each Ra-E will carry 15 passengers and a few hundred thousand 
-           of our Ra-E buses combined all over Earth will resolve all those above listed transportation-related direct problems 
-           and indirect problems.
+             The act of abolishing personal vehicles is social and our organization 
+             will provide the technological solution to supplement this social act. So the few billion personal vehicles 
+             across Earth that are abolished must be replaced with a few hundred thousand public mass transport vehicles 
+             which are not only cheaper to build, not only provide a universal solution, not only are aesthetic but also are 
+             electric in an eco-friendly way to enable a sustainable and social-equality-bringing public transportation mechanism 
+             all over Earth.
            </p>
 
            <p>
-           In regular intra-city travel the Ra-E buses will use hovercraft mode to travel 
-           on the current roads but switching to wheelcraft mode on hilly roads. For inter-city travel 
-           the Ra-E buses will turn on aircraft mode and follow the current highways or 
-           travel above open land. All this travel of the Ra-E buses will be guided by 
-           control centers and vehicle-to-vehicle communications ( v2v ) between the Ra-Es.
-           </p>
-
-           <p> Another advantage of Ra-E buses will be preventing the need to build a large number of 
-           bridges across rivers in cities because with just the presence of a small ramp on the 
-           riverside these public-carrying Ra-E craft in hovercraft mode can smoothly transit from land 
-           to river and the reverse, not needing most bridges which mainly carry wheeled vehicles. A 
-           further advantage in using hovercraft mode is enabling smooth public transport in 
-           badly-designed cities which face yearly flooding. And when needed these Ra-E vehicles can 
-           turn aircraft mode on and travel short distances by air within cities but not so much that they 
-           become an eyesore and noisy nuisances and privacy destroyers by traveling over houses and other
-           places.
+             Our solution is our Ra-E bus which is a hybrid vehicle of hovercraft-wheelcraft-aircraft type, 
+             deriving from our designed-for-space Ra-K vehicle, and each Ra-E will carry 15 passengers and a few hundred thousand 
+             of our Ra-E buses combined all over Earth will resolve all those above listed transportation-related direct problems 
+             and indirect problems.
            </p>
 
            <p>
-           The Ra-E bus platform can also be made into other kinds of vehicles like ambulance, public 
-           security vehicle, garbage collection vehicle, packages delivery vehicle, etc. Better, bigger 
-           and universal-use versions of the "Spinner" flying police cars in the beautiful 1982 film Blade Runner 
-           where these cars fly through future Los Angeles city of 2019. These cars can do VTOL and drive on the ground too. 
-           We must of course negate the dystopia of that future Los Angeles with its tall buildings, 
-           synthetically-grown biologically-enhanced slave humans, industrial towers sending huge fires into the night sky, 
-           congested markets and perpetual rain probably because of pollution-induced localized Climate Change. Below are links to 
-           screenshots from Blade Runner with the Spinner flying cars :
+             In regular intra-city travel the Ra-E buses will use hovercraft mode to travel 
+             on the current roads but switching to wheelcraft mode on hilly roads. For inter-city travel 
+             the Ra-E buses will turn on aircraft mode and follow the current highways or 
+             travel above open land. All this travel of the Ra-E buses will be guided by 
+             control centers and vehicle-to-vehicle communications ( v2v ) between the Ra-Es.
            </p>
 
            <p>
-           <a href="https://scpr.brightspotcdn.com/dims4/default/adf950e/2147483647/strip/true/crop/730x489+0+0/resize/1760x1178!/format/webp/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2Flegacy%2Fi%2F65fa0fe81e1bee7f3ed280338d8ce9f2%2F5dc09412c92b3500089d2e61-eight.jpg" target="_blank" style="color:#0000FF;">Photo 1</a> from 
-           <a href="https://laist.com/news/entertainment/blade-runners-2019-los-angeles-then-now-future-past" target="_blank" style="color:#0000FF;">this article</a>.
+             Another advantage of Ra-E buses will be preventing the need to build a large number of 
+             bridges across rivers in cities because with just the presence of a small ramp on the 
+             riverside these public-carrying Ra-E craft in hovercraft mode can smoothly transit from land 
+             to river and the reverse, not needing most bridges which mainly carry wheeled vehicles. A 
+             further advantage in using hovercraft mode is enabling smooth public transport in 
+             badly-designed cities which face yearly flooding. And when needed these Ra-E vehicles can 
+             turn aircraft mode on and travel short distances by air within cities but not so much that they 
+             become an eyesore and noisy nuisances and privacy destroyers by traveling over houses and other
+             places.
            </p>
 
            <p>
-           <a href="https://ichef.bbci.co.uk/news/800/cpsprodpb/12E7E/production/_109483477_c1045498-a109-42a8-b6fd-6ccb2e959d37.png.webp" target="_blank" style="color:#0000FF;">Photo 2</a> from 
-           <a href="https://www.bbc.com/news/technology-50247479" target="_blank" style="color:#0000FF;">this article</a>.
+             The Ra-E bus platform can also be made into other kinds of vehicles like ambulance, public 
+             security vehicle, garbage collection vehicle, packages delivery vehicle, etc. Better, bigger 
+             and universal-use versions of the "Spinner" flying police cars in the beautiful 1982 film Blade Runner 
+             where these cars fly through future Los Angeles city of 2019. These cars can do VTOL and drive on the ground too. 
+             We must of course negate the dystopia of that future Los Angeles with its tall buildings, 
+             synthetically-grown biologically-enhanced slave humans, industrial towers sending huge fires into the night sky, 
+             congested markets and perpetual rain probably because of pollution-induced localized Climate Change. Below are links to 
+             screenshots from Blade Runner with the Spinner flying cars :
            </p>
 
            <p>
-           <a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/05/blade-runner-spinner-pic-1.jpg?q=50&fit=crop&w=825&dpr=1.5" target="_blank" style="color:#0000FF;">Photo 3</a> from 
-           <a href="https://screenrant.com/blade-runner-movie-mistakes-goofs/" target="_blank" style="color:#0000FF;">this article</a>.
+             <a href="https://scpr.brightspotcdn.com/dims4/default/adf950e/2147483647/strip/true/crop/730x489+0+0/resize/1760x1178!/format/webp/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2Flegacy%2Fi%2F65fa0fe81e1bee7f3ed280338d8ce9f2%2F5dc09412c92b3500089d2e61-eight.jpg" target="_blank" style="color:#0000FF;">Photo 1</a> from 
+             <a href="https://laist.com/news/entertainment/blade-runners-2019-los-angeles-then-now-future-past" target="_blank" style="color:#0000FF;">this article</a>.
            </p>
 
            <p>
-           One memorable line in that so-nice film is in the end, said by the dying villain-hero 
-           Roy Batty - "Memories lost in time, like tears in rain".
+             <a href="https://ichef.bbci.co.uk/news/800/cpsprodpb/12E7E/production/_109483477_c1045498-a109-42a8-b6fd-6ccb2e959d37.png.webp" target="_blank" style="color:#0000FF;">Photo 2</a> from 
+             <a href="https://www.bbc.com/news/technology-50247479" target="_blank" style="color:#0000FF;">this article</a>.
            </p>
 
            <p>
-           We of Kosmos Society will help build good Earthen cities instead of that dystopian Los Angeles of 2019 
-           and the self-sufficiency of these cities, filled with people of scientific temper, 
-           will prevent tens of thousands of needless out-of-city daily travellers, or even a few hundred thousand. 
-           It will then be very few people travelling beyond their cities on a daily basis 
-           and these few people will be easily able to travel in our Ra-E buses in aircraft mode. 
-           This lesser daily out-of-city travel will also contribute to serene Earthen societies.
+             <a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/05/blade-runner-spinner-pic-1.jpg?q=50&fit=crop&w=825&dpr=1.5" target="_blank" style="color:#0000FF;">Photo 3</a> from 
+             <a href="https://screenrant.com/blade-runner-movie-mistakes-goofs/" target="_blank" style="color:#0000FF;">this article</a>.
+           </p>
+
+           <p>
+             One memorable line in that so-nice film is in the end, said by the dying villain-hero 
+             Roy Batty - "Memories lost in time, like tears in rain".
+           </p>
+
+           <p>
+             We of Kosmos Society will help build good Earthen cities instead of that dystopian Los Angeles of 2019 
+             and the self-sufficiency of these cities, filled with people of scientific temper, 
+             will prevent tens of thousands of needless out-of-city daily travellers, or even a few hundred thousand. 
+             It will then be very few people travelling beyond their cities on a daily basis 
+             and these few people will be easily able to travel in our Ra-E buses in aircraft mode. 
+             This lesser daily out-of-city travel will also contribute to serene Earthen societies.
            </p>
 
            <p>[ To be done ] </p> 
@@ -3398,6 +3430,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
