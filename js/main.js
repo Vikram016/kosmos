@@ -1333,7 +1333,7 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             12. Wrongness of competition.
+             12. Why competition is wrong for space.
            </p>
 
            <p>
@@ -2211,7 +2211,7 @@ modalText.innerHTML = `
              Solar System.
            </p>         
 
-           <h2>The wrongness of competition</h2>
+           <h2>Why competition is wrong for space</h2>
 
            <p>
              <span> >> </span> Competition is anti-Nature because it is an irrational way to decided someone's capabilities 
@@ -2224,8 +2224,13 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             <span> >> </span> Competition creates social disharmony. For example, in the schooling system in many 
-             societies, two students sitting on the same bench in school declare themselves to be mutual good friends 
+           </p>
+
+           <p>
+             <span> >> </span> Competition creates social disharmony where people don't support each other, 
+             don't trust and want to step on each other's heads to progress through the wrong systems that 
+             allow competition. For example, in the schooling system in many societies, two students sitting 
+             on the same bench in school declare themselves to be mutual good friends 
              but in truth they are competing with each other for exam marks all year round. Meaning they are not 
              true friends of each other but a little more than the "hi, bye" types. Both want to outdo each other 
              in exams in a sneaky way, just so that they get those meaningless numbers called Exam Marks 
@@ -2235,10 +2240,12 @@ modalText.innerHTML = `
            <p>
              <span> >> </span> In some societies exams are the measures for even parents to judge the intelligence of their 
              own children. They live with their children for two decades even but will not listen to their children's ideas and 
-             desires but will instead listen to third parties called school principals and exam answer sheet examiners who have 
+             desires however wonderful they may be and however gentle the children may be, but the parents will instead listen 
+             to third parties called school principals and exam answer sheet examiners who have 
              no real interest in these parents' student children's intelligence and potential. For these third parties 
              the student is either just a direct source of income ( school tax / school fees ) or just a duty from which he or she 
-             will earn salary for that task. No more.
+             will earn salary for that task. No more. These parents therefore do not trust in their own intelligence 
+             to judge their children's intelligence.
            </p>
 
            <p>
@@ -2318,29 +2325,46 @@ modalText.innerHTML = `
              coaching center or from a bridge or hang themselves from their room's fan or consume some pesticide 
              they could purchase from their meagre spare money. The coaching centers are not held accountable, 
              the parents show fake grief for two days and go back to their routine, the system continues to find 
-             more student victims.
+             more student victims. This has been the story of the Indian city of Kota probably for many decades. 
+             This has been the story of Pakistan, South Korea, Japan and China.
            </p>
 
            <p>
-             <span> >> </span> 
+             <span> >> </span> Coming back to the two bench mates competing with each other in exams all year round, 
+             since they do not have true loyalty to each other they will not be sad when one of them suicides 
+             because of the internal torture after failing in an exam or because of no interest in taking an exam. 
+             The living friend will not be sad and will not march on the roads with banners to abolish the exams system 
+             and its associated competition-based life throughout life. There is also the lack of rebel spirit and 
+             lack of confidence in the non-protest.
            </p>
-           
-           where exams Since the two bench mates competing with each other are not really friends, 
-             
-           </p>
-           
+
            <p>
-             <span> >> </span> In India there is the stereotype of the Soda Glass Student who is forever top of his class 
-             in exams by scoring very high exam marks and being a "Distinction student" or "Gold medalist student". 
-             The Soda Glass Student is mostly male and is called so because he wears thick-glassed spectacles 
-             ( the "soda glass" ) because he has been memorizing his school and college text books and taking notes 
-             on paper for so many years that the words on the paper have damaged his eyes and caused him unable to see things
-             at close range, hence his "soda glass" to amplify the texts. However, how many of these "soda glass" exam fanatic people 
-             have we known to have created marvelous technologies for humanity and simple social systems for humanity ?
+             <span> >> </span> In case the student doesn't suicide, he or she lives onto usually do wage slavery 
+             in feudal corporations which are exploitative. The parents again don't care. And this newly 
+             wage-employed person may die of heart attack because of the exploitative over-work or may suicide. 
+             Most parents won't care.
+           </p>
+
+           <p>
+             <span> >> </span> To add another point about the idiocy of exams, in India there is the stereotype of 
+             the Soda Glass Student who is forever top of his class in exams by scoring very high exam marks and 
+             being a "Distinction student" or "Gold medalist student". The Soda Glass Student is mostly male and 
+             is called so because he wears thick-glassed spectacles ( the "soda glass" ) because he has been memorizing 
+             his school and college text books and taking notes on paper for so many years that the words on the paper 
+             have damaged his eyes and caused him unable to see things at close range, hence his "soda glass" to amplify the texts. 
+             However, there are a few hundred million of these "soda glass" exam fanatic people and how many of them have we known 
+             to have created marvelous technologies for humanity and simple social systems for humanity ?
            </p>
         
            <p>
-             <span> >> </span> 
+             In conclusion, competition is neither good for Earth and certainly has space in Space 
+             where Nature will not reveal its wonders to only someone with high exam marks and 
+             also keep that person alive while all those exam failures will be automatically sucked into 
+             a star. Further, the environment of space has many risks at every moment and for humans to be 
+             in space safely and attain their research and contribute to humanity, they must be able to trust 
+             their fellow space mates. Competition will not create that trust but will create sneaky and 
+             untrustworthy people. There can be mass death in space because of exams. So, education system 
+             in space must be abolished of the exams system.
            </p>
            
            <h2>Basis of satellite design</h2>
@@ -3603,6 +3627,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
