@@ -1379,69 +1379,78 @@ modalText.innerHTML = `
            <h2>The universe and human nations on Earth</h2>
            
            <p>
-           The universe has existed forever, much before some modern human scientists and academics foolishly
-           affixed an age to it on the basis of needless mathematics i.e. the Big Bang Theory and now
-           there are two Big Bang theories. Space has existed before human nations existed on Earth,
-           before Earth itself existed. The concept of Earthen Nations / Nation States
-           does not exist in Nature / Kosmos / Universe / Space and comes on Earth
-           from as recent as the French Revolution of the late 1700s which led to France becoming a
-           Republic which was meant to become citizen-governed with natural human freedoms as
-           against France previously being a typical kingdom governed by a supreme oppressive feudal lord.
-           We must look at this further to understand the non-kosmos non-natural basis of human nations.
+             The universe has existed forever, much before some modern human scientists and academics foolishly
+             affixed an age to it on the basis of needless mathematics i.e. the Big Bang Theory and now
+             there are two Big Bang theories. Space has existed before human nations existed on Earth,
+             before Earth itself existed. The concept of Earthen Nations / Nation States
+             does not exist in Nature / Kosmos / Universe / Space and comes on Earth
+             from as recent as the French Revolution of the late 1700s which led to France becoming a
+             Republic which was meant to become citizen-governed with natural human freedoms as
+             against France previously being a typical kingdom governed by a supreme oppressive feudal lord.
+             We must look at this further to understand the non-kosmos non-natural basis of human nations.
            </p>
 
            <p>
              The famous slogan "Liberty, Equality, Fraternity" which our organization uses, 
              it is used in other progressive thought streams including the Preamble ( introduction ) to the Indian Constitution 
              whose main archictect was the great liberator in India, BR Ambedkar, and this constitution was mainly drafted 
-             during the 1940s and discussed by other progressives like Hasrat Mohani and Brajeshwar Prasad 
-             who wanted India to be a Socialist society, including Hasrat Mohani wanting to name India 
-             as UISR - Union of Indian Socialistic Republics, which derived from the name USSR, the first modern Socialist soicety, 
+             during the 1940s and before adoption at country level, it was discussed in the in-development parliament by other progressives 
+             like Hasrat Mohani and Brajeshwar Prasad. They wanted India to be a Socialist society, including Hasrat Mohani wanting to name India 
+             as UISR - Union of Indian Socialistic Republics, which derived from the name USSR, the first modern Socialist society, 
              and Brajeshwar Prasad wanting to introduce "Socialist" into the preamble ( introduction ) of the in-design 
-             Indian constitution. He also said that "Liberty" and "Equality" do not go together unless 
-             that society becomes a class-less society.
-             </p>
+             Indian constitution to describe what newly independent India must be. He also said that "Liberty" and "Equality" do not go together unless 
+             that society becomes a class-less society. He also said that India, and by extension other countries,
+             should not use "Sovereign" to describe themselves because that word implies war and imperialism and these are of course 
+             against pan-human fraternity, the third word in "Liberty, Equality, Fraternity".
+           </p>
 
-             <p>
+           <p>
              But this slogan of "Liberty, Equality, Fraternity" was produced much earlier in the struggle of the French masses in the late 1700s 
              against the feudal dominance of the French kings and queens where the kings considered themselves
-             appointed to eternal kinghood by God, by the God of Jesus Christ they claimed, 
-             but this is contradiction as Jesus / Isa was one of the greatest rebels, liberators and social reformers
-             of history whose idea of God was not the oppressor which these kings of France were
-             and these kings were supported by priests, and priests were a class opposed by Jesus, 
-             and the kings were also supported by merchants who took usury and profited in every form off the misery 
-             of fellow citizens. Such merchants also had been rebelled against by Jesus. And these three types of 
-             mutually-back-scratching self-appointed socially superior people in royal France lived grandly by walking 
+             appointed to eternal kinghood by God, by the God of Jesus Christ they claimed, but this is contradiction as Jesus / Isa was one of the 
+             greatest rebels, liberators and social reformers of history whose idea of God was not the oppressor which these kings of France were
+             and these kings were supported by priests, and priests were a class opposed by Jesus, and the kings were also supported by merchants 
+             who did usury and profited in every form off the misery of fellow citizens. Such merchants also had been rebelled against by Jesus. 
+             And these three types of mutually-back-scratching self-appointed socially superior people in royal France lived grandly by walking 
              on the backs of the ordinary French people. And these oppressed ordinary people were told to be grateful for being oppressed 
              for millenia.
-             </p>
+           </p>
 
-             <p>        
+           <p>        
              The ordinary French citizen lived in multi-generational slum life in the cities
              and in multi-generational serfdom in the villages and these poor citizens were taxed
              all their life, for all their succeeding generations, despite their so visible poverty
              while the ruling royalty used those taxes to daily wine, dine and wear velvet and jewelry
              whose typical single necklace cost more money than the money collectively owned by a serf family 
              maybe in fifty generations. The royalty and its associated lower feudals, profiteering merchants and 
-             the greedy priests lived in well-defended mansions surrounded by vast, clean gardens
-             while the ordinary citizens lived in dirty urban slums and damp rural hovels
-             with ever present danger of raids by bandits who often were fellow citizens driven by poverty
-             to loot. The ordinary people also had to enlist in the wars the kings waged 
+             the greedy priests lived in well-defended mansions surrounded by vast, clean gardens and slept on 
+             soft, luxurious beds while the ordinary citizens lived in dirty urban slums and rural hovels whose floors were of mud 
+             and they slept on grass beds with possibly logs to support the neck and there were rats and other pests 
+             running about these "houses".
+           </p>
+             
+           <p>
+             And there was the ever present danger of raids by bandits who often were fellow citizens driven by poverty
+             to loot.
+           </p>
+           
+           <p>
+             The ordinary people also had to enlist in the wars the kings waged 
              and all these wars brought were more land for the kings to exploit, more gold and jewels 
              for the kings' treasury and more death, maiming and famine for the ordinary French. 
              The king ate the most luxuriously prepared dinners and the ordinary French endured 
-             famine with usually not even the basic bread.
-             </p>
+             famines with usually not even the basic bread.
+           </p>
 
-            <p>
-            System-promoted language in Royal France and remainder of Medieval Europe also took on the class oppression 
-            attitude of the system. The word "Villain" now is taken to be someone inherently bad, somebody evil, but the word's
-            origin is a classist slur used by the rich against the "low-born" of the poor "villa" houses. The system especially the French priests 
-            declared that to be poor automatically meant the person is bad and he and she were condemned by God to remain poor because of their inherent 
-            "badness" and that the French king was massively rich to easily afford multiple diamond necklaces because God ordained the king to be rich 
-            because the king was without blame and blemish. This promoted belief was ridiculously contradictory to the realizations and 
-            teachings of Isa / Christ but his ideas had been hijacked by priests who did oppression in his name.
-            </p>
+           <p>
+             System-promoted language in Royal France and remainder of Medieval Europe also took on the class oppression 
+             attitude of the system. The word "Villain" now is taken to be someone inherently bad, somebody evil, but the word's
+             origin is a classist slur used by the rich against the "low-born" of the poor "villa" houses. The system especially the French priests 
+             declared that to be poor automatically meant the person is bad and he and she were condemned by God to remain poor because of their inherent 
+             "badness" and that the French king was massively rich to easily afford multiple diamond necklaces because God ordained the king to be rich 
+             because the king was without blame. This promoted belief was ridiculously contradictory to the realizations and 
+             teachings of Isa / Christ but his ideas had been hijacked by priests who did oppression in his name.
+           </p>
             
             <p>
             So it became that these anti-Nature and anti-human social inequalities and oppressions in Royal France were discussed by the intellectuals and 
@@ -2825,55 +2834,84 @@ modalText.innerHTML = `
          <h2>Credits</h2>
          <div>
 
-         <p>
-         We credit the following people who are not part of our organization but have helped us either in person 
-         or by their ideas and works we found in paper or on the internet :
-         </p>
+           <p>
+             We credit the following people who are not part of our organization but have helped us either in person 
+             or by their ideas and works we found in paper or on the internet :
+           </p>
        
-           <p><span>&gt;&gt;</span> Vikram for the logo, the website design and for provoking the thought in Sameer to have this Credits page.</p>
+           <p><span>&gt;&gt;</span> 
+             Vikram for the logo, the website design and for provoking the thought in Sameer to have this Credits page.
+           </p>
            
-           <p><span>&gt;&gt;</span> Apoorva JR for presenting to us an Instagram page in 2023 which contained reports on eco-friendly ways 
-           of generating electricity and which led to our discovery of the “sand battery” which we use in our design of the Faradn generator. 
-           Apoorva’s LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#0000FF;">https://www.linkedin.com/in/apoorvajr</a> ].
-           Sadly we forgot the Insta page's name but we are thankful to that page's maintainer. 
-           That Insta page spoke of the company Polar Night Energy which applied the sand battery in a real life setting and we are thankful to this company.
+           <p><span>&gt;&gt;</span> 
+             Apoorva JR for presenting to us an Instagram page in 2023 which contained reports on eco-friendly ways 
+             of generating electricity and which led to our discovery of the “sand battery” which we use in our design of the Faradn generator. 
+             Apoorva’s LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#0000FF;">https://www.linkedin.com/in/apoorvajr</a> ].
+             Sadly we forgot the Insta page's name but we are thankful to that page's maintainer. 
+             That Insta page spoke of the company Polar Night Energy which applied the sand battery in a real life setting and we are thankful to this company.
            </p>
-                       
-           <p><span>&gt;&gt;</span> Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, made using an electro-magnetic relay. This vid called “1026 The easiest inverter you will ever make” is on this page [ <a href="https://www.youtube.com/watch?v=L-vC9SvU2Lo" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-vC9SvU2Lo</a> ]. This we use in our design of the Faradn generator.</p>
+
+           <p><span>&gt;&gt;</span> 
+             Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, made using an electro-magnetic relay. This vid called “1026 The easiest inverter you will ever make” is on this page [ <a href="https://www.youtube.com/watch?v=L-vC9SvU2Lo" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-vC9SvU2Lo</a> ]. 
+             This we use in our design of the Faradn generator.
+           </p>
            
-           <p><span>&gt;&gt;</span> The YouTube channel “The Action Lab” for the idea about using heat to run a self-sustained piston engine. 
-           This vid called “This engine runs on sound waves” is on this page [ <a href="https://www.youtube.com/watch?v=xCnxsoXtlmY" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=xCnxsoXtlmY</a> ].
+           <p><span>&gt;&gt;</span> 
+             The YouTube channel “The Action Lab” for the idea about using heat to run a self-sustained piston engine. 
+             This vid called “This engine runs on sound waves” is on this page [ <a href="https://www.youtube.com/watch?v=xCnxsoXtlmY" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=xCnxsoXtlmY</a> ].
            </p>
 
-           <p><span>&gt;&gt;</span> The YouTube channel "Mech Marvels" for the idea about using mutually repelling magnets 
-           to form a self-sustained sustained motor. This vid called "Magnets - the key to endless power ?" 
-           is on this page [ <a href="https://www.youtube.com/shorts/yTHXh-5uxRM" target="_blank" style="color:#0000FF;">https://www.youtube.com/shorts/yTHXh-5uxRM</a> ].
+           <p><span>&gt;&gt;</span> 
+             The YouTube channel "Mech Marvels" for the idea about using mutually repelling magnets 
+             to form a self-sustained sustained motor. This vid called "Magnets - the key to endless power ?" 
+             is on this page [ <a href="https://www.youtube.com/shorts/yTHXh-5uxRM" target="_blank" style="color:#0000FF;">https://www.youtube.com/shorts/yTHXh-5uxRM</a> ].
            </p>
 
-           <p><span>&gt;&gt;</span> The above two mechanisms we have considered for use in our Faradn electricity generator. 
-           We will use one of them and to select we must experiment on them and we are presently engaging 
-           with a manufacturer to experiment on them in the road to develop our generator's prototype.
+           <p><span>&gt;&gt;</span> 
+             The above two mechanisms we have considered for use in our Faradn electricity generator. 
+             We will use one of them and to select we must experiment on them and we are presently engaging 
+             with a manufacturer to experiment on them in the road to develop our generator's prototype.
            </p>
 
-           <p><span>&gt;&gt;</span> Farzad Zangeneh-Nejad and Romain Fleury at the Federal Institute of Technology (
-             EPFL ) in Lausanne, Switzerland, for the idea of using sound to do analog computing.</p>
+           <p><span>&gt;&gt;</span> 
+             Farzad Zangeneh-Nejad and Romain Fleury at the Federal Institute of Technology (
+             EPFL ) in Lausanne, Switzerland, for the idea of using sound to do analog computing.
+           </p>
             
-           <p><span>&gt;&gt;</span> Planetary Science Division of NASA for the idea of creating an artificial magnetosphere
-            for Red One.</p>
-
-           <p><span>&gt;&gt;</span> Coke Studio Bangla Season One for presenting the song “Shob Lokey Koy” which is among our inspirations for our social system for space. 
-           This song is in the Bengali and Hindi languages and is a celebration of two past South Asian humanitarian mystics, 
-           Lalon Fakir and Kabir Das, and calls for unity of humans because they all are the waters from the
-           same well except for some differences in the vessels which then contain the waters. 
-           The song is available on YouTube on this page [ <a href="https://www.youtube.com/watch?v=L-arhlgPiy8" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-arhlgPiy8</a> ].
+           <p><span>&gt;&gt;</span>
+             Planetary Science Division of NASA for the idea of creating an artificial magnetosphere
+             for Red One.
            </p>
-            
-           <p><span>&gt;&gt;</span> Rabindranath Tagore for his essay that speaks against Nationalism. The essay can be
-            read here [ <a href="https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf" target="_blank" style="color:#0000FF;">https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf</a> ].</p>
 
-           <p><span>&gt;&gt;</span> Background picture for the website is from the DeviantArt website’s DreamUp AI picture generation facility.</p>
+           <p><span>&gt;&gt;</span>
+             Coke Studio Bangla Season One for presenting the song “Shob Lokey Koy” which is among our inspirations for our social system for space. 
+             This song is in the Bengali and Hindi languages and is a celebration of two past South Asian humanitarian mystics, 
+             Lalon Fakir and Kabir Das, and calls for unity of humans because they all are the waters from the
+             same well except for some differences in the vessels which then contain the waters. 
+             The song is available on YouTube on this page [ <a href="https://www.youtube.com/watch?v=L-arhlgPiy8" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-arhlgPiy8</a> ].
+           </p>
+
            
-           <p><span>&gt;&gt;</span> In general all the good thinkers of the past and present whose thoughts and works we use in our projects.</p>
+           <p>
+             Ashok on the "Nationalizer" account on medium.com for his essay about the Indian progressive Brajeshwar Prasad 
+             who spoke in favour of Socialism during the design years of the Indian constitution. The essay can be read here 
+             [ <a href="https://nationalizer.medium.com/socialist-and-secular-but-not-sovereign-brajeshwar-prasad-s-amendment-to-preamble-1bb8a1e8142e" 
+             target="_blank" style="color:#0000FF;">https://nationalizer.medium.com/socialist-and-secular-but-not-sovereign-brajeshwar-prasad-s-amendment-to-preamble-1bb8a1e8142e ]
+           </p>
+         
+           <p><span>&gt;&gt;</span>
+             Rabindranath Tagore for his essay that speaks against Nationalism. The essay can be
+             read here [ <a href="https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf" target="_blank" style="color:#0000FF;">https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf</a> ].
+           </p>
+
+           <p><span>&gt;&gt;</span> 
+             Background picture for the website is from the DeviantArt website’s DreamUp AI picture generation facility.
+           </p>
+
+           <p><span>&gt;&gt;</span> 
+             In general all the good thinkers of the past and present whose thoughts and works we use in our projects.
+           </p>
+         
          </div>
          
        </div>
@@ -3248,6 +3286,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
