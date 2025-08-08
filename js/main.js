@@ -240,9 +240,10 @@ modalText.innerHTML = `
            
            <p>
            Space travel must become as common as bus travel, and space living as common as hotel stay, whenever he or she desires, 
-           with a minimal usage fee or no fee at all. In fact in space, money should cease to exist as money has no existence in the universe 
-           except for the 6000 years or so that money has existed on Earth and has been one of the main reasons for 
-           needless oppressions and misery. Also should end all the other social restrictions which don't exist in Nature 
+           with a minimal tax aka usage fee, or no tax at all. Money is a form of tax and in fact in space, 
+           tax and money should cease to exist as they have no natural existence in the universe 
+           except for the 6000 years or so that they have existed on Earth and have been among the main reasons for needless oppressions, misery and 
+           complicatedness. Also should end all the other social restrictions which don't exist in Nature 
            but were created by some people on Earth. Ending these restrictions is the simple law of Nature.
            </p>
 
@@ -269,7 +270,7 @@ modalText.innerHTML = `
            </p>
 
            <p>
-           We are a design house and the manufacturers of our techno systems will be national governments who will 
+           We are a non-profit design house and the manufacturers of our techno systems will be national governments who will 
            purchase from us the designs and engineering details of our systems for a reasonably cheap 
            license fee and they will be able to set up factories in their own countries to produce our 
            systems cheaply and sustainably. We will propagate our pan-human democratic social system for space 
@@ -3243,6 +3244,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
