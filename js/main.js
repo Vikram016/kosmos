@@ -1720,43 +1720,50 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             For us, Kosmos Society, the simple answer is to enable a cheaper, simpler and safer space industry which also propagates true liberty, equality and 
-             progressive pan-human fraternity, and we will do this by designing space machinery which are simplified, reliable, aesthetic and universal in usage 
+             For us, Kosmos Society, the simple answer is to enable a cheaper, simpler and safer space industry which also propagates true progressive pan-human 
+             liberty, equality and fraternity, and we will do this by designing space machinery which are simplified, reliable, aesthetic and universal in usage 
              and can be built for cheap, operated for cheap and repaired for cheap. can be enabling. And these systems will be built and deployed by governments to benefit 
              their citizens and all citizens of humanity, on Earth and in Space, and these governments should collect no tax or minimal tax for :
            </p>
 
-           <p style="margin-left:1em; margin-bottom:10px";><span>(a).</span> 
-             Providing and repairing the personal systems like our Dune Buk wearable computer.
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(a).</span> Providing and repairing the personal systems like 
+             our Dune Buk wearable computer.
            </p>
            
-           <p style="margin-left:1em; margin-bottom:10px";><span>(b).</span> 
-             Transporting people in our designed spaceships and our Earthen public transport vehicles, the Ra-Es.
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(b).</span> Transporting people in our designed spaceships and 
+             our Earthen public transport vehicles, the Ra-Es.
            </p>
            
-           <p style="margin-left:1em; margin-bottom:10px";><span>(c).</span> 
-             Selflessly providing food, communication, health support and rescue in space.
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(c).</span> Selflessly providing food, communication, health support and rescue in space.
            </p> 
            
-           <p style="margin-left:1em; margin-bottom:10px";><span>(d).</span> 
-             Transporting any habitation equipment in space not makeable via ISRU ( In-situ 
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(d).</span> Transporting any habitation equipment in space not makeable via ISRU ( In-situ 
              Resource Utilization ).
            </p>
 
-           <p style="margin-left:1em; margin-bottom:10px";><span>(e).</span> 
-             Transporting research equipment and conducting research.
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(e).</span> Transporting research equipment and conducting research.
            </p> 
            
-           <p style="margin-left:1em; margin-bottom:10px";><span>(f).</span> 
-             Transporting any large reasonable leisure equipment.
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(f).</span> Transporting any large reasonable leisure equipment.
            </p> 
            
-           <p style="margin-left:1em; margin-bottom:10px";><span>(g).</span> 
-             Transporting mining equipment and mined produce in space.
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(g).</span> Transporting mining equipment and mined produce in space.
            </p>
            
-           <p style="margin-left:1em; margin-bottom:10px";><span>(h).</span> 
-             Providing habitation in space.
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(h).</span> Providing habitation in space.
+           </p>
+           
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(i).</span> Providing education in space. Please read of this topic more 
+             in the below section of that name.
            </p> 
 
            <h2>Social organization in space travel and space living</h2>
@@ -3430,6 +3437,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
