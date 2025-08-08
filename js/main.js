@@ -1333,23 +1333,27 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             12. Basis of satellite design.
+             12. Competition.
            </p>
 
            <p>
-             13. Mining in space.
+             13. Basis of satellite design.
            </p>
 
            <p>
-             14. Project Mirkeen-01.
+             14. Mining in space.
            </p>
 
            <p>
-             15. Meetings or sightings of aliens.
+             15. Project Mirkeen-01.
+           </p>
+
+           <p>
+             16. Meetings or sightings of aliens.
            </p>
          
            <p>
-             16. City design and city reconfiguration on Earth.
+             17. City design and city reconfiguration on Earth.
            </p>
 
            <p>
@@ -2122,8 +2126,8 @@ modalText.innerHTML = `
            </p>
            
            <p>
-             Knowledge is bettered when it is shared freely with all, without being taxed and without demands that the 
-             receiver must only be of certain artificial social classes including having two college degrees 
+             Knowledge is bettered when it is shared freely with all, without being taxed in various forms 
+             like the receiver must only be of certain artificial social classes including having two college degrees 
              compulsorily. There are some societies which have more college degree graduates presently 
              than the entire human populations of some other societies. However, the former societies 
              generally are not considered among the contributors of science and technology nor of better 
@@ -2131,34 +2135,68 @@ modalText.innerHTML = `
              knowledge. Indeed, these societies are mere users of machines and knowledges that other 
              societies and individual people of natural thinking created over thousands of years without 
              consideration of college degrees or other kinds of artificial social separations.
-           </p>
+           </p>          
            
+           <p>
+             The wrong system of college degrees was started by a Muslim African woman by name Fatima al-Fihri 
+             in year 859 AD when she established the university in Qayrawan city in what is now Morocco. 
+             This university was the first known university in the world and still operates. It started as a theology 
+             place for Islam and most probably other beliefs but later it added other sciences including astronomy and 
+             it became a famous general university. However, Fatima as the founder decided to start the system of degrees 
+             which in her mind was to limit the student intake which was big because of the university's 
+             popularity and also probably because she thought degrees will give her passing students prestige and 
+             also give the university more elite status than the libraries of Alexandria and Baghdad. But she didn't consider 
+             that instead of creating this needless competition for intake of students ( entrance exams ) and competition for 
+             "respectable" exits ( final exams ) she could have established more branches of her university across Africa and 
+             West Asia to start with and thus any number of students could have benefited from her original good intention.
+           </p>
+
+           <p>
+             What college degree system Fatima started more than 1100 years ago in Africa has now led to multi-generation misery and 
+             oppressions in most places across Earth now in 2025 for billions of people. This act of Fatima is the single wrong thing 
+             in the about thousand years of the Islamic Golden Age which was a period which forwarded past brilliant knowledges 
+             from the Greeks and the Egyptians and the West Asians and Buddha and the Chinese, and forwarded some good things 
+             by its contemporary Brahmans in India, and was the direct influence on establishment of the Enlightenment period 
+             in Europe and its consequent Industrial Revolution whose benefits we use now. But that single act of Fatima 
+             of adding competition to education more than a thousand years ago has created such sadness. We speak more on the wrongness
+             of competition in a below section called "Competition".
+           </p>          
+           
+           <p>
+             In the modern world if the college degree is one form of tax to get respect, to get the college degree itself 
+             requires other taxes like money and high exams marks in the preceeding school years but how is this rational ? 
+             Will knowledge not enter into a person's mind if he or she do not acquire these preceeding taxes and 
+             the suceeding taxes ? We now have so many knowledges, technologies, amenities and progressive social systems 
+             because of free knowledge distribution by thousands of brilliant people before us who in their time either did not 
+             have the modern assembly-line degree-based education system of now or did not go to the formal universities of their time 
+             and instead were self-taught engineers, doctors, philosophers, astronomers, naturalists etc, or they went to colleges 
+             only because that was their social situation to obtain knowledge. Like Michael Faraday and Jagadish Chandra Bose. 
+             We use their ideas and works now yet so many of us will hold in contempt if they did time travel to now 
+             and we met these undegreed people.
+           </p>  
+
            <p>
              Michael Faraday is the person whose experiments in electro-magnetism and electro-chemistry have 
              led to our modern world using electrical machinery whether the lamp, the motor car, 
              the washing machine or the cell phone. And he studied only till middle school 
-             in terms of the modern assembly-line degree-based education system. 
-             He was not at all a college graduate, let alone one with three post-graduate diplomas 
-             including from a "management" course and subsequent years of experience in the corporate world. 
-             This means many from those societies which place great multi-generational emphasis on college degrees, 
-             will disrespect anyone not achieving degrees, so they must stop using electrical machinery 
-             because this field was forwarded by the “unschooled” Michael Faraday. 
-             Stopping thus will be a principled stand. But will they ?
+             in terms of the modern assembly-line degree-based education system. He was not at all a college graduate, 
+             let alone one with three post-graduate diplomas including from a B-school and subsequent years 
+             of experience in the corporate world. This means many from those societies which place great multi-generational 
+             emphasis on college degrees, will disrespect anyone not achieving degrees, so they must stop using electrical machinery 
+             because this field was forwarded by the “unschooled” Michael Faraday. Stopping thus will be a principled stand. 
+             But will they ?
            </p>
-           
+
            <p>
-             [ To be done ]
+             JC Bose disagreed with the modern patents system and he and Michael Faraday would have agreed with the four big 
+             examples of untaxed and for-all education and collaboration systems in modern times : one the internet itself, 
+             second the Open Source Computing movement, third the Wikipedia and fourth the Khan Academy. Both those gents and 
+             every naturally intelligent contributor in history would have wanted the four above examples to become the system 
+             of education on Earth and in the exploration and settlement of space.
            </p>
-           
+
            <p>
-             In the modern world, other than paper literature, there have been four big examples of untaxed 
-             and for-all education and collaboration systems : one the internet itself, second the Open Source Computing movement, 
-             third the Wikipedia and fourth the Khan Academy. These examples should be continued in the exploration and settlement of 
-             space.
-           </p>
-           
-           <p>
-             Since we speak for Workers Cooperatives as the organizational method for humans 
+             Next, since we speak for Workers Cooperatives as the organizational method for humans 
              in space, each of the people involved in the cooperatives should be participants in 
              live-narrating their experiences in space as also later recording their experiences and 
              adding these experiences to the Frema internet blog that is produced by each Worker 
@@ -2173,8 +2211,9 @@ modalText.innerHTML = `
              Solar System.
            </p>         
 
+           <h2>Competition</h2>
+
            <p>
-           [ To be done ]
            </p>
            
            <h2>Basis of satellite design</h2>
@@ -3437,6 +3476,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
