@@ -1333,7 +1333,7 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             12. Competition.
+             12. Wrongness of competition.
            </p>
 
            <p>
@@ -2211,9 +2211,43 @@ modalText.innerHTML = `
              Solar System.
            </p>         
 
-           <h2>Competition</h2>
+           <h2>The wrongness of competition</h2>
 
            <p>
+             <span> >> </span> Competition is anti-Nature because it is an irrational way to decided someone's capabilities 
+             because a highly intelligent person may not enter a competition or drop out from competition 
+             because he simply is bored by it. Intelligence is also known by a person learning from others 
+             which means Collaboration. The intelligent person will also find the system that promotes competition 
+             to be not respectable and an insult to his dignity. In schooling systems the numbers on a paper 
+             called Exam Marks does not show the intelligence or lack of it of a student. Or the intelligence 
+             of the persons who set the exam question papers. This we have shown in previous sections.
+           </p>
+
+           <p>
+             <span> >> </span> Competition creates social disharmony. For example, in the schooling system in many 
+             societies, two students sitting on the same bench in school declare themselves to be mutual good friends 
+             but in truth they are competing with each other for exam marks all year round. Meaning they are not 
+             true friends of each other but a little more than the "hi, bye" types. Both want to outdo each other 
+             in exams in a sneaky way, just so that they get those meaningless numbers called Exam Marks 
+             by not truly learning but memorizing facts and sentences to vomit those on the exam paper.
+           </p>
+           
+           <p>
+             <span> >> </span> In India there is the stereotype of the Soda Glass Student who is forever top of his class 
+             in exams by scoring very high exam marks and being a "Distinction student" or "Gold medalist student". 
+             The Soda Glass Student is mostly male and is called so because he wears thick-glassed spectacles 
+             ( the "soda glass" ) because he has been memorizing his school and college text books and taking notes 
+             on paper for so many years that the words on the paper have damaged his eyes and caused him unable to see things
+             at close range, hence his "soda glass" to amplify the texts. However, how many of these "soda glass" exam fanatic people 
+             have we known to have created marvelous technologies for humanity and simple social systems for humanity ?
+           </p>
+
+           <p>
+             <span> >> </span> 
+           </p>
+
+           <p>
+             <span> >> </span> 
            </p>
            
            <h2>Basis of satellite design</h2>
@@ -3476,6 +3510,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
