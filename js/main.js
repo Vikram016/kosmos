@@ -1649,90 +1649,151 @@ modalText.innerHTML = `
 
            <h2>Natural equality in accessing space and living in space</h2>
            
-           <P>The current human-transport space industry is feudal where aspiring space travelers 
-           have to fit those irrational categories described in our first chapter "Our Iskra Plan". 
-           Other people simply don’t have a chance and this is unfair as it is only human social 
-           constructs which are doing this preventing and not the universe through celestial messaging 
-           where the universe displays an "Only allow them" list in Earth's night sky every night 
-           where the list shows names of only the moneyed and the other unfairly privileged. But in truth 
-           the kosmos knows neither money nor rank.
+           <p>
+             The current human-transport space industry is feudal where aspiring space travelers 
+             have to fit those irrational categories described in our first chapter "Our Iskra Plan". 
+             Other people simply don’t have a chance and this is unfair as it is only human social 
+             constructs which are doing this preventing and not the universe through celestial messaging 
+             where the universe displays an "Only allow them" list in Earth's night sky every night 
+             where the list shows names of only the moneyed and the other unfairly privileged. But in truth 
+             the kosmos knows neither money nor rank.
            </p>
                        
            <p>
-           The upcoming commercial space industry promoted by certain groups on Earth pushes feudalism 
-           and commerce to space, for example the strange art of affixing pointless commercial projection 
-           slogans to space like “The trillion dollar space economy” where part of that trillion will come 
-           from charging huge monies to take people to space and these huge monies will go into the 
-           pockets of a very few and maintain an unfair system where these very rich few will not 
-           enable cheap or free space travel just so that these huge monies continue. A cycle of 
-           unfairness.
-           </p> 
+             The upcoming commercial space industry promoted by certain groups on Earth pushes feudalism 
+             and commerce to space, for example the strange art of some MBA affixing pointless commercial projection 
+             slogans to space like “The trillion dollar space economy”. First is how do these projection-making 
+             foolish MBAs know how much money can be made even from two big rocks in the Asteroid Belt which is 
+             hundreds of millions of kilometers away from Earth, let alone knowing money wealth from the universe ?
+             Second is that part of that trillion of the wannabe space billionaires will come from charging huge tax ransoms 
+             to take people to space and keep them alive in space and provide them with communication and food and healthcare and rescue 
+             and collaboration and other things. Things that should be available to every human without he or she 
+             being taxed. How can there be tax on oxygen, water and food in space ? Surely these billionaires 
+             are not Nature to have produced them or surely when these billionaires on Earth see rain falling from the sky and it feeding the rivers
+             and the seas and seeding plants and feeding the birds and the other animals, the billionaires don't find Nature's message in the sky 
+             demanding that they pay Nature tax and only then it will send them rain to their gardens and to the farms 
+             from where they get their luxury food. Does the Sun send its life-giving light to them by demanding tax ? If the billionaires 
+             don't get taxed by Nature, how can they tax us ?
+           </p>
 
            <p>
-           The simple answer is to enable a cheaper, simpler and safer space industry which also 
-           propagates true liberty, equality and progressive pan-human fraternity. We of Kosmos 
-           Society will do this enabling. On Earth and in Space, manufacturers and deployers of 
-           Kosmos Society’s simplified and cheaper space systems and other systems should collect 
-           minimal fees or no fees for :
-           </P>
+             About taxing telecommunication in space, imagine a scene where you and your friend are talking across a table 
+             and someone comes and demands that both of you pay him tax so that you can speak to each other. This demand cannot be called 
+             anything but ransom. When the wannabe space billionaires want to tax you to use light and radio-frequency to communicate with, 
+             these two things are productions of Nature which our billionaires themselves will not tax themselves to use or give tax to Nature 
+             so why should they expect that other humans must be taxed for communication ? As for taxing the machines for telecom in space, 
+             if every society makes its own such machines which are common in design and can be made for cheap and are provided to every citizen 
+             for cheap then we don't need the monopoly of the wannabe space billionaires.
+           </p>            
+
+           <p>
+             About taxing healthcare in space, surely when the billionaires demand tax from you to make them save your life 
+             or treat your injuries a million kilometers from Earth, even as you lie there helpless and in pain, 
+             and if you don't give them that tax they will let you die or allow your wounds to become septic and you lose your leg, 
+             can their taxing be called anything but murder ?
+           </p>
+
+           <p>
+             Similarly other taxed things.
+           </p>
+
+           <p>
+             And when these wannabe space billionaires and trillionaires and pentalillionaires make their wealth off you, 
+             will they ever respect you as a person and invite you for tea and dinner at their mansions on the Moon because 
+             their vast money and material wealth had a bit of your contribution ? Or will they have you thrown on the Moon soil 
+             outside their Moon mansion if you should approach 100 feet from the gate ?
+           </p>
+
+           <p>
+             These wannabe space billionaires and trillionaires maintain an unfair system where does not have cheap 
+             or tax-free space travel and space living just so that these huge monies continue into the non-Nature-origin electronic signals 
+             in the data stores of their banks. A cycle of unfairness but which must not be allowed to take root now in the 
+             beginning years of the space exploration industry. Tax is not from Nature... neither in form of money or in form of other demands like 
+             compulsory college degrees, "adult age" 18, belief in certain divinities, their idea of "fitness" for space travel, 
+             belonging to only certain Earthen countries their governments like, and so on. The universe belongs to all humans 
+             as long as they respect Nature and Nature's laws and do not be cruel and apathetic to others.
+           </p>
+
+           <p>
+             For us, Kosmos Society, the simple answer is to enable a cheaper, simpler and safer space industry which also propagates true liberty, equality and 
+             progressive pan-human fraternity, and we will do this by designing space machinery which are simplified, reliable, aesthetic and universal in usage 
+             and can be built for cheap, operated for cheap and repaired for cheap. can be enabling. And these systems will be built and deployed by governments to benefit 
+             their citizens and all citizens of humanity, on Earth and in Space, and these governments should collect no tax or minimal tax for :
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";><span>(a).</span> 
+             Providing and repairing the personal systems like our Dune Buk wearable computer.
+           </p>
            
-           <P style="margin-left:1em; margin-bottom:10px";><span>(a).</span> Providing and 
-           repairing the personal systems like our Dune Buk wearable computer. </p>
+           <p style="margin-left:1em; margin-bottom:10px";><span>(b).</span> 
+             Transporting people in our designed spaceships and our Earthen public transport vehicles, the Ra-Es.
+           </p>
            
-           <p style="margin-left:1em; margin-bottom:10px";><span>(b).</span> Transporting people. </p>
+           <p style="margin-left:1em; margin-bottom:10px";><span>(c).</span> 
+             Selflessly providing food, communication, health support and rescue in space.
+           </p> 
            
-           <p style="margin-left:1em; margin-bottom:10px";><span>(c).</span> Selflessly providing food,
-            communication, health support and rescue in space.</p> 
+           <p style="margin-left:1em; margin-bottom:10px";><span>(d).</span> 
+             Transporting any habitation equipment in space not makeable via ISRU ( In-situ 
+             Resource Utilization ).
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";><span>(e).</span> 
+             Transporting research equipment.
+           </p> 
            
-           <p style="margin-left:1em; margin-bottom:10px";><span>(d).</span> Transporting 
-           any habitation equipment in space not makeable via ISRU ( In-situ 
-           Resource Utilization ). </p>
+           <p style="margin-left:1em; margin-bottom:10px";><span>(f).</span> 
+             Transporting any large reasonable leisure equipment.
+           </p> 
            
-           <p style="margin-left:1em; margin-bottom:10px";><span>(e).</span> Transporting 
-           research equipment.</p> 
+           <p style="margin-left:1em; margin-bottom:10px";><span>(g).</span> 
+             Transporting mining equipment and mined produce in space.
+           </p>
            
-           <p style="margin-left:1em; margin-bottom:10px";><span>(f).</span> Transporting any large
-           reasonable leisure equipment.</p> 
-           
-           <p style="margin-left:1em; margin-bottom:10px";><span>(g).</span> Transporting 
-           mining equipment and mined produce in space. </p>
-           
-           <p style="margin-left:1em; margin-bottom:10px";><span>(h).</span> Providing habitation 
-           in space.</p> 
+           <p style="margin-left:1em; margin-bottom:10px";><span>(h).</span> 
+             Providing habitation in space.
+           </p> 
 
            <h2>Social organization in space travel and space living</h2>
 
-           <p>The primary reasons for the exploration in space will include : </p>
+           <p>
+             The primary reasons for the exploration in space will include :
+           </p>
+
            <p style="margin-left:1em; margin-bottom:10px";><span>(a).</span> Experiencing space. </p>
            <p style="margin-left:1em; margin-bottom:10px";><span>(b).</span> Finding new resources. </p>
            <p style="margin-left:1em; margin-bottom:10px";><span>(c).</span> Science which includes looking 
            for life and finding new homes for humans.</p> 
            
-           <p>All this of course will require the effort of work groups, including for escorting tourists, and 
-           this must be done it in a thoughtful, gentle and kind way where all work participants are 
-           equal in effort and benefit, with no feudal boss lording over them and unjustly grabbing most 
-           of the benefits of the work that had the effort of all. The purpose of the group must also be 
-           achieved harmoniously. The universe is for all to benefit from, including just the simple act of 
-           seeing the sights, and to acknowledge that every human is a speck in the universe, one no 
-           more privileged than another in that infinite and timeless vastness. Feudalism is bad enough 
-           on Earth to be carried over into space. </p>
-
-           <p>So the organization of work groups in space should be democratic and that is easily done by 
-           organizing them as Workers Cooperatives. The idea of Workers Cooperative has association 
-           with the older ideas of liberty, equality and fraternity, and enables true democracy via participatory 
-           democracy where every human present in the organzation participates in the continuance 
-           of that organization equally and benefits from it equal to other members.
+           <p>
+             All this of course will require the effort of work groups, including for escorting tourists, and 
+             this must be done it in a thoughtful, gentle and kind way where all work participants are 
+             equal in effort and benefit, with no feudal boss lording over them and unjustly grabbing most 
+             of the benefits of the work that had the effort of all. The purpose of the group must also be 
+             achieved harmoniously. The universe is for all to benefit from, including just the simple act of 
+             seeing the sights, and to acknowledge that every human is a speck in the universe, one no 
+             more privileged than another in that infinite and timeless vastness. Feudalism is bad enough 
+             on Earth to be carried over into space.
+           </p>
 
            <p>
-           And when that "rogue anti-democracy nation" is being genocided and being given "Democracy", 
-           our middle class person will continue to be a voluntary slave in his feudalist corporation, 
-           never speaking of actual democracy in his own feudal workplace he has worked for 30 years, never calling for equal division of rights, labor and income among all involved in the company, 
-           never speaking for reforming the local monarchs in the company in form of the few company owners and the Management who do the irrational thing of taking away the majority of the 
-           company's income which had very less of their own labor and most labor was by the lower workers, and will shout and order around 
-           the lower workers, and will even cut money from the measly income of the workers by calling these cuts as 
-           charges for the few reluctantly given facilites like canteen and transport.
+             So the organization of work groups in space should be democratic and that is easily done by 
+             organizing them as Workers Cooperatives. The idea of Workers Cooperative has association 
+             with the older ideas of liberty, equality and fraternity, and enables true democracy via participatory 
+             democracy where every human present in the organzation participates in the continuance 
+             of that organization equally and benefits from it equal to other members.
            </p>
            
+           <p>
+             And when that "rogue anti-democracy nation" is being genocided and being given "Democracy", 
+             our middle class person will continue to be a voluntary slave in his feudalist corporation, 
+             never speaking of actual democracy in his own feudal workplace he has worked for 30 years, never calling for equal division of rights, labor and income among all involved in the company, 
+             never speaking for reforming the local monarchs in the company in form of the few company owners and the Management who do the irrational thing of taking away the majority of the 
+             company's income which had very less of their own labor and most labor was by the lower workers, and will shout and order around 
+             the lower workers, and will even cut money from the measly income of the workers by calling these cuts as 
+             charges for the few reluctantly given facilites like canteen and transport.
+           </p>
+
            <p>
            Our typical middle classee will have even seen his colleagues having their hands cut up by a machine 
            and the bosses not caring, but our middle classee will not protest this apathy of the bosses, 
@@ -2674,122 +2735,123 @@ modalText.innerHTML = `
            color: white;
        }
            
-         </style>
+       </style>
                   
-           <h2>Our company's workers</h2>
+       <h2>Our company's workers</h2>
           
-            <div>
-            <img src="assets/Sameer .jpeg" 
-            alt="Mohammed Sameer" 
-            class="profile-image">
-            </div>
+       <div>
+         <img src="assets/Sameer .jpeg" 
+         alt="Mohammed Sameer" 
+         class="profile-image">
+       </div>
 
-            <p class=name> Mohammed Sameer - General Coordinator</p>
+       <p class=name> Mohammed Sameer - General Coordinator</p>
 
-            <p style="margin-bottom:4px;">
-           Sameer is originally from computing background but he considers himself a 
-           general researcher with interests ranging from generation of electricity to organization of 
-           society, like those "polymaths" of old like Hasan Ibn al-Haytham, Leonardo da Vinci and 
-           Jagadish Chandra Bose. And perhaps "Polymath" is not a proper word and must have a good replacement.
-           </p>
+       <p style="margin-bottom:4px;">
+         Sameer is originally from computing background but he considers himself a 
+         general researcher with interests ranging from generation of electricity to organization of 
+         society, like those "polymaths" of old like Hasan Ibn al-Haytham, Leonardo da Vinci and 
+         Jagadish Chandra Bose. And perhaps "Polymath" is not a proper word and must have a good replacement.
+       </p>
            
-            <a href="https://linkedin.com/in/sameer-kosmos-society" target="_blank" rel="noopener noreferrer" class="minimal-tag">
-               <svg class="linkedin-icon" width="16" height="16" viewBox="0 0 24 24">
-                   <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
-               </svg>
-               Connect on LinkedIn
-           </a>
+       <a href="https://linkedin.com/in/sameer-kosmos-society" target="_blank" rel="noopener noreferrer" class="minimal-tag">
+          <svg class="linkedin-icon" width="16" height="16" viewBox="0 0 24 24">
+              <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+          </svg>
+          Connect on LinkedIn
+       </a>
            
-           <div>
-           <img src="assets/Gajendran photo.jpeg" 
-            alt="Gajendran Chandran" 
-            class="profile-image">
-            </div>
+       <div>
+         <img src="assets/Gajendran photo.jpeg" 
+         alt="Gajendran Chandran" 
+          class="profile-image">
+       </div>
 
-           <p class=name> Prof. Dr. Gajendran Chandran - Chief Advisor </p>
+       <p class=name> Prof. Dr. Gajendran Chandran - Chief Advisor </p>
            
-           <p style="margin-bottom:4px;"> 
-            Dr. Gajendran is a veteran aerospace scientist but his interests are many -
-           from philosophy to nano tech to power generation and other fields in a nuanced and 
-           humanist way. He has been an advisor to Sameer for years and brings a practised, practical 
-           and also system-level thinking to the organization not only about technology but the human 
-           condition too.</p>
+       <p style="margin-bottom:4px;"> 
+         Dr. Gajendran is a veteran aerospace scientist but his interests are many -
+         from philosophy to nano tech to power generation and other fields in a nuanced and 
+         humanist way. He has been an advisor to Sameer for years and brings a practised, practical 
+         and also system-level thinking to the organization not only about technology but the human 
+        condition too.
+       </p>
             
-           <!-- Minimal Style Tag -->
-           <a href="https://in.linkedin.com/in/prof-dr-gajendran-chandran-79866320" target="_blank" rel="noopener noreferrer" class="minimal-tag">
-               <svg class="linkedin-icon" width="16" height="16" viewBox="0 0 24 24">
-                   <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
-               </svg>
-               Connect on LinkedIn
-           </a>
+       <!-- Minimal Style Tag -->
+       <a href="https://in.linkedin.com/in/prof-dr-gajendran-chandran-79866320" target="_blank" rel="noopener noreferrer" class="minimal-tag">
+          <svg class="linkedin-icon" width="16" height="16" viewBox="0 0 24 24">
+              <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+          </svg>
+          Connect on LinkedIn
+       </a>
             
            
-           <div>
-           <img src="assets/Siddharth photo.jpeg" 
-            alt="Dr. Siddharth Dabhade" 
-            class="profile-image">
-            </div>
+       <div>
+         <img src="assets/Siddharth photo.jpeg" 
+          alt="Dr. Siddharth Dabhade" 
+          class="profile-image">
+       </div>
 
-           <p class=name> Prof. Dr. Siddharth Dabhade - Advisor </p>
+       <p class=name> Prof. Dr. Siddharth Dabhade - Advisor </p>
            
-           <p style="margin-bottom:4px;"> 
-           
+         <p style="margin-bottom:4px;"> 
            Dr. Siddharth has been a patient supporter of the organization for more than 
            two years. He joined our more little group when we didn’t have this organization and our sole 
            project was the Kosmos microprocessor+OS. Presently, he has been an advisor in a 
-           system-level way.</p>
+           system-level way.
+         </p>
 
-            <!-- Minimal Style Tag -->
-          <a href="https://in.linkedin.com/in/siddharth-dabhade-a6392025" target="_blank" rel="noopener noreferrer" class="minimal-tag">
+         <!-- Minimal Style Tag -->
+         <a href="https://in.linkedin.com/in/siddharth-dabhade-a6392025" target="_blank" rel="noopener noreferrer" class="minimal-tag">
            <svg class="linkedin-icon" width="16" height="16" viewBox="0 0 24 24">
-               <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+             <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
            </svg>
            Connect on LinkedIn
-          </a>
-          
+         </a>
 
-          <p style="margin-bottom:10px;"> <span> Afzal - Advisor </span>
+         <p style="margin-bottom:10px;"> <span> Afzal - Advisor </span>
            Afzal is a practical person but also philosophical. He has been a patient 
            supporter of the organization from the time it was thought up in early 2023. He contributes 
            presently to our electricity generator project, our spaceship projects and the 
-           hovercraft-wheelcraft-aircraft project. </p>
+           hovercraft-wheelcraft-aircraft project.
+         </p>
 
-           <div>
+         <div>
            <img src="assets/Mahmoud photo (1).png" 
-            alt="Mahmoud Hosny " 
-            class="profile-image">
-           </div>
+             alt="Mahmoud Hosny " 
+             class="profile-image">
+         </div>
 
-           <p class=name> Mahmoud Hosny - Regional Coordinator, Africa and West Asia </p>
+         <p class=name> Mahmoud Hosny - Regional Coordinator, Africa and West Asia </p>
            
            <p style="margin-bottom:4px;"> 
-           Mahmoud is based in Cairo and will manage liaison to the administrations and 
-           the masses in the vast regions that are Africa and West Asia. He is a straight-talking person 
-           and patient including the time it took for the organization to come to this level.  </p>
-            
-           <div>
+             Mahmoud is based in Cairo and will manage liaison to the administrations and 
+             the masses in the vast regions that are Africa and West Asia. He is a straight-talking person 
+             and patient including the time it took for the organization to come to this level.
+           </p>
+
+         <div>
            <img src="assets/Athiq photo.jpeg" 
-            alt="Syed Athiq Jeelani " 
-            class="profile-image">
-           </div>
-           <p class=name> Syed Athiq Jeelani - Advisor </p>
+              alt="Syed Athiq Jeelani " 
+              class="profile-image">
+         </div>
+
+         <p class=name> Syed Athiq Jeelani - Advisor </p>
 
            <p style="margin-bottom:4px;"> 
-
-           Athiq dabbles in various fields like power adapter design, ready-to-cook foods 
-           and management of a school. Athiq is inquisitive, patient and provides a practical side to 
-           things. He is our electrical expert.
+             Athiq dabbles in various fields like power adapter design, ready-to-cook foods 
+             and management of a school. Athiq is inquisitive, patient and provides a practical side to 
+             things. He is our electrical expert.
+           </p> 
 
            <!-- Minimal Style Tag -->
            <a href="https://in.linkedin.com/in/saj-iot" target="_blank" rel="noopener noreferrer" class="minimal-tag">
-           <svg class="linkedin-icon" width="16" height="16" viewBox="0 0 24 24">
+             <svg class="linkedin-icon" width="16" height="16" viewBox="0 0 24 24">
                <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
-           </svg>
-           Connect on LinkedIn
+             </svg>
+             Connect on LinkedIn
            </a>
-           </p> 
-
-         </div>
+        </div>
                            
        </div>
      `;
@@ -2900,9 +2962,16 @@ modalText.innerHTML = `
              The song is available on YouTube on this page [ <a href="https://www.youtube.com/watch?v=L-arhlgPiy8" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-arhlgPiy8</a> ].
            </p>
 
+           <p>
+             The website [ constitutionofindia.net ] for the info about the discussions during the early years 
+             of the design of the Indian constitution, in particular the proposals by Socialists Hasrat Mohani 
+             and Brajeshwar Prasad including naming India as Union of Indian Socialistic Republics and constructing India 
+             as a Socialist society. The proposals can be read here [ <a href="https://www.constitutionofindia.net/debates/17-oct-1949/" 
+             target="_blank" style="color:#0000FF;">https://www.constitutionofindia.net/debates/17-oct-1949/ ]
+           </p>
            
            <p>
-             Ashok on the "Nationalizer" account on medium.com for his essay about the Indian progressive Brajeshwar Prasad 
+             Ashok on the "Nationalizer" account on [ medium.com ] for his essay about the Indian progressive Brajeshwar Prasad 
              who spoke in favour of Socialism during the design years of the Indian constitution. The essay can be read here 
              [ <a href="https://nationalizer.medium.com/socialist-and-secular-but-not-sovereign-brajeshwar-prasad-s-amendment-to-preamble-1bb8a1e8142e" 
              target="_blank" style="color:#0000FF;">https://nationalizer.medium.com/socialist-and-secular-but-not-sovereign-brajeshwar-prasad-s-amendment-to-preamble-1bb8a1e8142e ]
@@ -3295,6 +3364,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
