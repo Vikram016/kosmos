@@ -1547,7 +1547,7 @@ modalText.innerHTML = `
              or to invent, write, paint and observe the universe and won't be told to either earn money to be called of worth or just die silently. 
              But our unthinking middle class person will call that humanist society a "rogue nation" which must be changed even by genocide so that 
              "Democracy" can be brought there and Free Market can be brought there and the anti-worker teachings of B-schools can be brought there, 
-             LOL. We will speak of the apathetic middle classee in further sections in this chapter.
+             LOL.
            </p>
 
            <p>
@@ -1671,16 +1671,22 @@ modalText.innerHTML = `
            <p>
              The upcoming commercial space industry promoted by certain groups on Earth pushes feudalism 
              and commerce to space, for example the strange art of some MBA affixing pointless commercial projection 
-             slogans to space like “The trillion dollar space economy”. First is how do these projection-making 
-             foolish MBAs know how much money can be made even from two big rocks in the Asteroid Belt which is 
+             slogans to space like “The trillion dollar space economy”. Two things to comment on this :
+           </p>
+           
+           <p>
+             First is how do these projection-making foolish MBAs know how much money can be made even from two big rocks in the Asteroid Belt which is 
              hundreds of millions of kilometers away from Earth, let alone knowing money wealth from the universe ?
+           </p>
+
+           <p>
              Second is that part of that trillion of the wannabe space billionaires will come from charging huge tax ransoms 
              to take people to space and keep them alive in space and provide them with communication and food and healthcare and rescue 
              and collaboration and other things. Things that should be available to every human without he or she 
              being taxed. How can there be tax on oxygen, water and food in space ? Surely these billionaires 
              are not Nature to have produced them or surely when these billionaires on Earth see rain falling from the sky and it feeding the rivers
              and the seas and seeding plants and feeding the birds and the other animals, the billionaires don't find Nature's message in the sky 
-             demanding that they pay Nature tax and only then it will send them rain to their gardens and to the farms 
+             demanding that they pay Nature tax and only then it will send rain to their gardens and to the farms 
              from where they get their luxury food. Does the Sun send its life-giving light to them by demanding tax ? If the billionaires 
              don't get taxed by Nature, how can they tax us ?
            </p>
@@ -1690,9 +1696,12 @@ modalText.innerHTML = `
              and someone comes and demands that both of you pay him tax so that you can speak to each other. This demand cannot be called 
              anything but ransom. When the wannabe space billionaires want to tax you to use light and radio-frequency to communicate with, 
              these two things are productions of Nature which our billionaires themselves will not tax themselves to use or give tax to Nature 
-             so why should they expect that other humans must be taxed for communication ? As for taxing the machines for telecom in space, 
-             if every society makes its own such machines which are common in design and can be made for cheap and are provided to every citizen 
-             for cheap then we don't need the monopoly of the wannabe space billionaires.
+             so why should they expect that other humans must be taxed for communication ?
+           </p>
+           
+           <p>
+             As for taxing the machines for telecom in space, if every society makes its own telecom machines which are common in design and 
+             can be made for cheap and are provided to every citizen for cheap then we don't need the monopoly of the wannabe space billionaires.
            </p>            
 
            <p>
@@ -1717,8 +1726,12 @@ modalText.innerHTML = `
              These wannabe space billionaires and trillionaires maintain an unfair system where does not have cheap 
              or tax-free space travel and space living just so that these huge monies continue into the non-Nature-origin electronic signals 
              in the data stores of their banks. A cycle of unfairness but which must not be allowed to take root now in the 
-             beginning years of the space exploration industry. Tax is not from Nature... neither in form of money or in form of other demands like 
-             compulsory college degrees, "adult age" 18, belief in certain divinities, their idea of "fitness" for space travel, 
+             beginning years of the space exploration industry.
+           </p>
+
+           <p>
+             Tax is not from Nature... neither in form of money or in form of other demands like 
+             compulsory college degrees, "adult age 18", belief in certain divinities, their idea of "physical fitness" for space travel, 
              belonging to only certain Earthen countries their governments like, and so on. The universe belongs to all humans 
              as long as they respect Nature and Nature's laws and do not be cruel and apathetic to others.
            </p>
@@ -1898,7 +1911,7 @@ modalText.innerHTML = `
              consensus.
            </p>
 
-           <p>
+           <p style="margin-left:1em; margin-bottom:10px";> 
              <span>(o).</span> So a Workers Cooperative is democratic, enables harmony and enables more 
              focus on the group’s purpose. 
            </p>
@@ -1914,7 +1927,7 @@ modalText.innerHTML = `
              more hand in the tasks.
            </p>
 
-           <p>
+           <p style="margin-left:1em; margin-bottom:10px";> 
              <span>(q).</span> So, humans in space will be a collection of Workers Cooperatives collaborating with each 
              other on a common and equal human level regardless of their origin nation and social station 
              on Earth and they will agree on the same ideal natural laws for humans and help each other. 
@@ -2145,21 +2158,21 @@ modalText.innerHTML = `
              it became a famous general university. However, Fatima as the founder decided to start the system of degrees 
              which in her mind was to limit the student intake which was big because of the university's 
              popularity and also probably because she thought degrees will give her passing students prestige and 
-             also give the university more elite status than the libraries of Alexandria and Baghdad. But she didn't consider 
+             probably give her university more elite status than the libraries of Alexandria and Baghdad. But she didn't consider 
              that instead of creating this needless competition for intake of students ( entrance exams ) and competition for 
-             "respectable" exits ( final exams ) she could have established more branches of her university across Africa and 
+             "respectable" exits ( final exams ) she could simply have established more branches of her university across Africa and 
              West Asia to start with and thus any number of students could have benefited from her original good intention.
            </p>
 
            <p>
              What college degree system Fatima started more than 1100 years ago in Africa has now led to multi-generation misery and 
              oppressions in most places across Earth now in 2025 for billions of people. This act of Fatima is the single wrong thing 
-             in the about thousand years of the Islamic Golden Age which was a period which forwarded past brilliant knowledges 
-             from the Greeks and the Egyptians and the West Asians and Buddha and the Chinese, and forwarded some good things 
+             in the about thousand year period of the Islamic Golden Age which was a period which forwarded past brilliant knowledges 
+             from the Greeks, the Egyptians, the West Asians, Buddha, Isa and the Chinese, and forwarded some good things 
              by its contemporary Brahmans in India, and was the direct influence on establishment of the Enlightenment period 
              in Europe and its consequent Industrial Revolution whose benefits we use now. But that single act of Fatima 
              of adding competition to education more than a thousand years ago has created such sadness. We speak more on the wrongness
-             of competition in a below section called "Competition".
+             of competition in a below section called "Why competition is wrong for space".
            </p>          
            
            <p>
@@ -2171,7 +2184,7 @@ modalText.innerHTML = `
              have the modern assembly-line degree-based education system of now or did not go to the formal universities of their time 
              and instead were self-taught engineers, doctors, philosophers, astronomers, naturalists etc, or they went to colleges 
              only because that was their social situation to obtain knowledge. Like Michael Faraday and Jagadish Chandra Bose. 
-             We use their ideas and works now yet so many of us will hold in contempt if they did time travel to now 
+             We use their ideas and works now yet so many of us will hold them in contempt if they did time travel to now 
              and we met these undegreed people.
            </p>  
 
@@ -2191,8 +2204,9 @@ modalText.innerHTML = `
              JC Bose disagreed with the modern patents system and he and Michael Faraday would have agreed with the four big 
              examples of untaxed and for-all education and collaboration systems in modern times : one the internet itself, 
              second the Open Source Computing movement, third the Wikipedia and fourth the Khan Academy. Both those gents and 
-             every naturally intelligent contributor in history would have wanted the four above examples to become the system 
-             of education on Earth and in the exploration and settlement of space.
+             every naturally intelligent contributor in history would have wanted the four above examples to contribute to 
+             the system of education on Earth and in the exploration and settlement of space, with the understanding that 
+             there is much material in those places which are misinfo and disinfo.
            </p>
 
            <p>
@@ -2358,25 +2372,30 @@ modalText.innerHTML = `
            </p>
 
            <p>
+             <span> >> </span> By all these needless sacrifices of the youth for the sake of exams and wage employment income 
+             what have so many societies achieved ?
+           </p>
+
+           <p>
              <span> >> </span> To add another point about the idiocy of exams, in India there is the stereotype of 
              the Soda Glass Student who is forever top of his class in exams by scoring very high exam marks and 
-             being a "Distinction student" or "Gold medalist student". The Soda Glass Student is mostly male and 
+             being a "Distinction rank student" or "Gold medalist student". The Soda Glass Student is mostly male and 
              is called so because he wears thick-glassed spectacles ( the "soda glass" ) because he has been memorizing 
-             his school and college text books and taking notes on paper for so many years that the words on the paper 
-             have damaged his eyes and caused him unable to see things at close range, hence his "soda glass" to amplify the texts. 
+             his school and college text books and taking notes on paper so much for so many years that it has 
+             damaged his eyes and caused him unable to see things at close range, hence his "soda glass" to amplify the texts. 
              However, there are a few hundred million of these "soda glass" exam fanatic people and how many of them have we known 
              to have created marvelous technologies for humanity and simple social systems for humanity ?
            </p>
         
            <p>
-             In conclusion, competition is neither good for Earth and certainly has space in Space 
+             In conclusion, competition is neither good for Earth and certainly has no space in Space 
              where Nature will not reveal its wonders to only someone with high exam marks and 
              also keep that person alive while all those exam failures will be automatically sucked into 
              a star. Further, the environment of space has many risks at every moment and for humans to be 
              in space safely and attain their research and contribute to humanity, they must be able to trust 
              their fellow space mates. Competition will not create that trust but will create sneaky and 
-             untrustworthy people. There can be mass death in space because of exams. So, education system 
-             in space must be abolished of the exams system.
+             untrustworthy people. There can be mass death in space because of exams or other forms of competition. 
+             So, space must not have competition.
            </p>
            
            <h2>Basis of satellite design</h2>
@@ -3237,19 +3256,19 @@ modalText.innerHTML = `
              The song is available on YouTube on this page [ <a href="https://www.youtube.com/watch?v=L-arhlgPiy8" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-arhlgPiy8</a> ].
            </p>
 
-           <p>
+           <p><span>&gt;&gt;</span>
              The website [ constitutionofindia.net ] for the info about the discussions during the early years 
              of the design of the Indian constitution, in particular the proposals by Socialists Hasrat Mohani 
              and Brajeshwar Prasad including naming India as Union of Indian Socialistic Republics and constructing India 
              as a Socialist society. The proposals can be read here [ <a href="https://www.constitutionofindia.net/debates/17-oct-1949/" 
-             target="_blank" style="color:#0000FF;">https://www.constitutionofindia.net/debates/17-oct-1949/ ]
+             target="_blank" style="color:#0000FF;">https://www.constitutionofindia.net/debates/17-oct-1949/ </a> ]
            </p>
            
-           <p>
+           <p><span>&gt;&gt;</span>
              Ashok on the "Nationalizer" account on [ medium.com ] for his essay about the Indian progressive Brajeshwar Prasad 
              who spoke in favour of Socialism during the design years of the Indian constitution. The essay can be read here 
              [ <a href="https://nationalizer.medium.com/socialist-and-secular-but-not-sovereign-brajeshwar-prasad-s-amendment-to-preamble-1bb8a1e8142e" 
-             target="_blank" style="color:#0000FF;">https://nationalizer.medium.com/socialist-and-secular-but-not-sovereign-brajeshwar-prasad-s-amendment-to-preamble-1bb8a1e8142e ]
+             target="_blank" style="color:#0000FF;">https://nationalizer.medium.com/socialist-and-secular-but-not-sovereign-brajeshwar-prasad-s-amendment-to-preamble-1bb8a1e8142e </a> ]
            </p>
          
            <p><span>&gt;&gt;</span>
@@ -3639,6 +3658,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
