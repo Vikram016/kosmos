@@ -2350,7 +2350,7 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             <span> >> </span> In case the student doesn't suicide, he or she lives onto usually do wage slavery 
+             <span> >> </span> In case the student doesn't suicide, he or she lives on to usually do wage slavery 
              in feudal corporations which are exploitative. The parents again don't care. And this newly 
              wage-employed person may die of heart attack because of the exploitative over-work or may suicide. 
              Most parents won't care.
@@ -3658,6 +3658,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
