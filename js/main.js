@@ -1394,7 +1394,16 @@ modalText.innerHTML = `
              The famous slogan "Liberty, Equality, Fraternity" which our organization uses, 
              it is used in other progressive thought streams including the Preamble ( introduction ) to the Indian Constitution 
              whose main archictect was the great liberator in India, BR Ambedkar, and this constitution was mainly drafted 
-             during the 1940s. But this slogan was produced much earlier in the struggle of the French masses in the late 1700s 
+             during the 1940s and discussed by other progressives like Hasrat Mohani and Brajeshwar Prasad 
+             who wanted India to be a Socialist society, including Hasrat Mohani wanting to name India 
+             as UISR - Union of Indian Socialistic Republics, which derived from the name USSR, the first modern Socialist soicety, 
+             and Brajeshwar Prasad wanting to introduce "Socialist" into the preamble ( introduction ) of the in-design 
+             Indian constitution. He also said that "Liberty" and "Equality" do not go together unless 
+             that society becomes a class-less society.
+             </p>
+
+             <p>
+             But this slogan of "Liberty, Equality, Fraternity" was produced much earlier in the struggle of the French masses in the late 1700s 
              against the feudal dominance of the French kings and queens where the kings considered themselves
              appointed to eternal kinghood by God, by the God of Jesus Christ they claimed, 
              but this is contradiction as Jesus / Isa was one of the greatest rebels, liberators and social reformers
@@ -3239,6 +3248,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
