@@ -2216,16 +2216,13 @@ modalText.innerHTML = `
            <p>
              <span> >> </span> Competition is anti-Nature because it is an irrational way to decided someone's capabilities 
              because a highly intelligent person may not enter a competition or drop out from competition 
-             because he simply is bored by it. Intelligence is also known by a person learning from others 
+             because he or she simply is bored by it. Intelligence is also known by a person learning from others 
              which means Collaboration. The intelligent person will also find the system that promotes competition 
-             to be not respectable and an insult to his dignity. In schooling systems the numbers on a paper 
+             to be not respectable and an insult to his or her dignity. In schooling systems the numbers on a paper 
              called Exam Marks does not show the intelligence or lack of it of a student. Or the intelligence 
              of the persons who set the exam question papers. This we have shown in previous sections.
            </p>
-
-           <p>
-           </p>
-
+           
            <p>
              <span> >> </span> Competition creates social disharmony where people don't support each other, 
              don't trust and want to step on each other's heads to progress through the wrong systems that 
@@ -2327,7 +2324,7 @@ modalText.innerHTML = `
              the parents show fake grief for two days and go back to their routine, the system continues to find 
              more student victims. This has been the story of the Indian city of Kota probably for many decades. 
              This has been the story of Pakistan, South Korea, Japan and China.
-           </p>
+           </p>          
 
            <p>
              <span> >> </span> Coming back to the two bench mates competing with each other in exams all year round, 
@@ -2343,6 +2340,21 @@ modalText.innerHTML = `
              in feudal corporations which are exploitative. The parents again don't care. And this newly 
              wage-employed person may die of heart attack because of the exploitative over-work or may suicide. 
              Most parents won't care.
+           </p>
+
+           <p>
+             <span> >> </span> Regularly in a few societies the parents themselves murder their own children 
+             because the children did something that harmed the parents' fake pride, lust for potential future income and 
+             safety from socio-economic boycott. This murder is called Honor Killing and also happens to students 
+             and young workers in addition to men loving women from free will and women loving men from free will.
+           </p>
+
+           <p>
+             <span> >> </span> These suiciding and murdered workers, students and lovers live in cities of millions and 
+             in countries of more than a billion but they do not find support for their internal torture. Not their parents, 
+             not their neighbors and most times not their colleagues. They die in isolation, either through suicide or murder. 
+             This is the effect of competition on societies in addition to tax in other forms like class, 
+             social respect through tradition-following and money.
            </p>
 
            <p>
@@ -3627,6 +3639,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
