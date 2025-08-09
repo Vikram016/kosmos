@@ -329,131 +329,143 @@ modal.style.display = 'none';
 // Our techno projects
 } else if (chapter === 'technoprojects'){
 modalText.innerHTML = `
-       <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
-         <style>
-           /* Chrome, Edge, Safari */
-           #modalText > div::-webkit-scrollbar {
-             width: 10px;
-             height: 10px;
-             background: #222;
-           }
-           #modalText > div::-webkit-scrollbar-thumb {
-             background: #fff;
-             border-radius: 10px;
-             border: 2px solid #222;
-           }
-           #modalText > div::-webkit-scrollbar-track {
-             background: #222;
-             border-radius: 10px;
-           }
-           /* Firefox */
-           #modalText > div {
-             scrollbar-width: thin;
-             scrollbar-color: #fff #222;
-           }
-
-           h2 {
-           font-family: 'Poppins', sans-serif;
-           color: #000;
-           text-align: center;
-           margin-bottom: 10px;
-           }
-
-           p {
-           font-family: 'Roboto', sans-serif;
-           color: #000;
-           font-size: 1.1em;
-           }
-
-           span {
-             color:#000;
-             font-weight: bold;
-             }
-
-             li{
-             font-family: 'Roboto', sans-serif;
-           color: #000;
-           font-size: 1.1em;
-             }
-
-         </style>
+       <div style="position:relative;padding:0;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:600px;overflow:hidden;">
+          <style>
+            #modalText > div::-webkit-scrollbar {
+              width: 10px;
+              height: 10px;
+              background: #fff;
+            }
+            #modalText > div::-webkit-scrollbar-thumb {
+              background: #fff;
+              border-radius: 10px;
+              border: 2px solid #222;
+            }
+            #modalText > div::-webkit-scrollbar-track {
+              background: #222;
+              border-radius: 10px;
+            }
+            #modalText > div {
+              scrollbar-width: thin;
+              scrollbar-color: #fff #222;
+            }
+            h2 {
+              font-family: 'Poppins', sans-serif;
+              color: #000;
+              text-align: center;
+              margin-bottom: 20px;
+            }
+            .nav-links {
+              position: sticky;
+              top: 0;
+              background: #fff;
+              padding: 10px 0 0 0;
+              border-bottom: 1px solid #ddd;
+              margin-bottom: 20px;
+              z-index: 1000;
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+            }
+            #topics-toggle {
+              margin-bottom: 10px;
+              font-family: 'Poppins', sans-serif;
+              font-weight: 600;
+              letter-spacing: 0.5px;
+              padding: 10px 30px;
+              font-size: 1.1em;
+              background: #000;
+              color: #fff;
+              border: none;
+              border-radius: 25px;
+              cursor: pointer;
+              transition: background 0.2s, color 0.2s;
+            }
+            #topics-toggle:hover {
+              background: #222;
+              color: #fff;
+            }
+            #topics-links {
+              display: none;
+              flex-direction: column;
+              align-items: center;
+              gap: 10px;
+              margin-bottom: 10px;
+            }
+            #topics-links a {
+              color: #000;
+              text-decoration: none;
+              font-size: 1em;
+              margin: 0;
+              padding: 6px 0;
+              transition: color 0.2s;
+            }
+            #topics-links a:hover {
+              color: #0066cc;
+            }
+            .scroll-content {
+              max-height: 500px;
+              overflow-y: auto;
+              padding: 0 2em 1em 2em;
+            }
+            .section {
+              margin-bottom: 30px;
+            }
+            .section h3 {
+              color: #000;
+              font-family: 'Poppins', sans-serif;
+              margin-bottom: 10px;
+            }
+            .section p {
+              font-family: 'Roboto', sans-serif;
+              color: #000;
+              line-height: 1.6;
+            }
+            .back-to-top {
+              position: fixed;
+              bottom: 20px;
+              right: 20px;
+              background: #000;
+              color: #fff;
+              padding: 10px;
+              border-radius: 50%;
+              cursor: pointer;
+              display: none;
+              z-index: 1000;
+            }
+            span {
+              color: #000;
+              font-weight: bold;
+            }
+          </style>
+          
+          <div class="nav-links">
+            <button id="topics-toggle">Topics &#9660;</button>
+            <div id="topics-links">
+              <a href="#principles">&gt;&gt; Our progressive product design principles</a>
+              <a href="#faradn">&gt;&gt; Faradn electricity generator</a>
+              <a href="#alefa">&gt;&gt; Alef-A airship-spaceship</a>
+              <a href="#aleff">&gt;&gt; Alef-F space ferry</a>
+              <a href="#bothships">&gt;&gt; About both Alef-A and Alef-F spaceship</a>
+              <a href="#rak">&gt;&gt; Ra-K hovercraft-wheelcraft-aircraft</a>
+              <a href="#stillsuit">&gt;&gt; A spacesuit called Stillsuit</a>
+              <a href="#dunebuk">&gt;&gt; Dune Buk wearable computer</a>
+              <a href="#dbukrelated">&gt;&gt; Two other machines related to the Dune Buk wearable</a>
+              <a href="#exoskeleton">&gt;&gt; Exoskeleton</a>              
+              <a href="#biology">&gt;&gt; Biology researches</a>
+              <a href="#wmachines">&gt;&gt; Machines for water</a>
+              <a href="#habitat">&gt;&gt; Habitat construction on other worlds</a>
+              <a href="#serf">&gt;&gt; Serf autonomous satellite for Earth orbit debris cleaning</a>
+              <a href="#terraforming">&gt;&gt; Terraforming</a>
+              <a href="#antigravity">&gt;&gt; Anti-gravity</a>
+            </div>
+          </div>
+         
+         <div class="scroll-content">
 
          <h2>Our techno projects</h2>
          
-         <div>
-         
-         <p>
-         -----
-         </p>
-         
-         <p>
-         Table of contents :
-         </p>
-         
-         <p>
-         01. Our progressive product design principles.
-         </p>
-
-         <p>
-         02. Faradn electricity generator.
-         </p>
-
-         <p>
-         03. The Alef-A airship-spaceship.
-         </p>
-
-         <p>
-         04. The Alef-F space ferry.
-         </p>
-
-         <p>
-         05. About both Alef-A and Alef-F spaceships.
-         </p>
-
-         <p>
-         06. Ra-K hovercraft-wheelcraft-aircraft.
-         </p>
-
-         <p>
-         07. A spacesuit called Stillsuit.
-         </p>
-
-         <p>
-         08. Dune Buk wearable computer.
-         </p>
-
-         <p>
-         09. Exoskeleton.
-         </p>
-
-         <p>
-         10. Biology researches.
-         </p>
-         
-         <p>
-         11. Machines for water.
-         </p>
-
-         <p>
-         12. Habitat construction on other worlds.
-         </p>
-                   
-         <p>
-         13. Serf autonomous satellite for Earth orbit debris cleaning.
-         </p>
-
-         <p>
-         14. Terraforming.
-         </p>
-
-         <p>
-         15. Anti-gravity.
-         </p>
-
-         <p>
-         -----
-         </p>
-
+         <div id="principles" class="section">
          <h2>Our progressive product design principles</h2>
          <div>
            <p><span>&gt;&gt;</span>
@@ -522,6 +534,11 @@ modalText.innerHTML = `
              As example of the above points, we will not use semiconductors.
            </p>
 
+           </div>
+
+           </div>
+
+           <div id="faradn" class="section">
            <h2>Faradn electricity generator</h2>
            
            <p>
@@ -593,7 +610,10 @@ modalText.innerHTML = `
              the lithium-ion battery which has been one of humanity's most idiotic inventions 
              alongisde the motorcycle and of course money.
            </p>
-           
+
+           </div>
+
+           <div id="alefa" class="section">           
            <h2>The Alef-A airship-spaceship</h2>
            
            <p>
@@ -629,6 +649,9 @@ modalText.innerHTML = `
              The Alef-A will also allow for short-distance space travel like from Earth to Moon’s surface.
            </p>
 
+           </div>
+
+           <div id="aleff" class="section">
            <h2>The Alef-F space ferry</h2>
            
            <p>
@@ -654,6 +677,9 @@ modalText.innerHTML = `
              orbit by the Alef-A crafts.
            </p>
 
+           </div>
+
+           <div id="bothships" class="section">
            <h2>About both Alef-A and Alef-F spaceships</h2>
            
            <p>The name “Alef” is a joined word with the below meaning :</p>
@@ -696,7 +722,10 @@ modalText.innerHTML = `
              lower or higher gravity to prepare the human travellers for the gravity of other 
              worlds like the Moon or Red One.
            </p>
-           
+
+           </div>
+
+           <div id="rak" class="section">           
            <h2> Ra-K hovercraft-wheelcraft-aircraft </h2>
            
            <p> 
@@ -768,7 +797,10 @@ modalText.innerHTML = `
              safely landing the craft when the rotors fail or getting the vehicle away from some
              emergency in a certain location.
            </p>
-           
+
+           </div>
+
+           <div id="stillsuit" class="section">           
            <h2>A spacesuit called Stillsuit</h2>
            
            <p>
@@ -817,7 +849,10 @@ modalText.innerHTML = `
              The name of this spacesuit, Stillsuit, derives from the suit the Fremen people wear in the
              Dune stories when they go out into the desert.
            </p>
-           
+
+           </div>
+
+           <div id="dunebuk" class="section">           
            <h2>Dune Buk wearable computer</h2>
            
            <p>
@@ -905,7 +940,10 @@ modalText.innerHTML = `
              A further development will be enabling disabled people to use the wearable.
            </p>
 
-           <h2>The Dune Buk wearable is related to two other machines</h2>
+           </div>
+
+           <div id="dbukrelated" class="section">
+           <h2>Two other machines related to the Dune Buk wearable</h2>
                        
            <p>
              <span>(a).</span> Ra-D, a heater-equipped drone small enough to fit on top of the Dune Buk wearable
@@ -923,8 +961,11 @@ modalText.innerHTML = `
              weight-attached Ra-D drones down into the ice-covered water sea of some ice moon or ice
              planet by melting / “boring” through the ice. The name Iceworm derives from the Sandworm
              animal in the Dune stories but here for ice.
-           </p>   
-                    
+           </p>
+
+           </div>
+
+           <div id="exoskeleton" class="section">
            <h2>Exoskeleton</h2>
 
            <p>
@@ -957,7 +998,10 @@ modalText.innerHTML = `
              Exoskeletons may not allow smooth movements but this mechanism is anyway not for
              normal usages.
            </p>
-           
+
+           </div>
+
+           <div id="biology" class="section">           
            <h2>Biology researches like</h2>
            
            <p>
@@ -1087,6 +1131,9 @@ modalText.innerHTML = `
              like given above, and these productions done in decentralized, neighborhood-level indoor farms.
            </p>
 
+           </div>
+
+           <div id="wmachines" class="section">
            <h2> Machines for water which include</h2>
            
            <p>
@@ -1101,6 +1148,9 @@ modalText.innerHTML = `
              <span> >> </span> Electrolysis machines.
            </p>
 
+           </div>
+
+           <div id="habitat" class="section">
            <h2>Habitat construction on other worlds</h2>
 
            <p>
@@ -1147,8 +1197,11 @@ modalText.innerHTML = `
            <p>
              <span>(i).</span> All this construction has to be aesthetic. No need to discard aesthetics just because we
              are in space. Form and function, both are important.
-           </p>         
-           
+           </p>
+
+           </div>
+
+           <div id="serf" class="section">           
            <h2>Serf autonomous satellite for Earth orbit debris cleaning</h2>  
            
            <p>
@@ -1229,7 +1282,10 @@ modalText.innerHTML = `
              accounts of the feudals but the serfs will never hear these coins clink in their own pockets.
             The serf toils to survive in an artificially created wrong situation.
            </p>
-           
+
+           </div>
+
+           <div id="terraforming" class="section">           
            <h2>Terraforming</h2>
 
            <p>
@@ -1242,6 +1298,9 @@ modalText.innerHTML = `
              coverage.
            </p>
 
+           </div>
+
+           <div id="antigravity" class="section">
            <h2>Anti-gravity</h2>
 
            <p>
@@ -1250,6 +1309,8 @@ modalText.innerHTML = `
              and able to carry maybe hundreds of people at a time, like the lander ships 
              in the Dune story.
            </p>
+
+           </div>
 
          </div>
        </div>
@@ -1397,23 +1458,23 @@ modalText.innerHTML = `
          <div class="nav-links">
             <button id="topics-toggle">Topics &#9660;</button>
             <div id="topics-links">
-              <a href="#intro">&gt;&gt;&gt; Introduction to this chapter </a>
-              <a href="#universe">&gt;&gt;&gt; The Universe and human nations on Earth </a>
-              <a href="#equality">&gt;&gt;&gt; Natural equality in accessing Space and living in Space </a>
-              <a href="#organization">&gt;&gt;&gt; Social organization in Space travel and Space living </a>
-              <a href="#tea">&gt;&gt;&gt; Tea and Space</a>
-              <a href="#appearance">&gt;&gt;&gt; Appearance and personality of the Space travellers </a>
-              <a href="#life">&gt;&gt;&gt; Effects of greatly increased human life </a>
-              <a href="#family">&gt;&gt;&gt; Family system in Space </a>
-              <a href="#sports">&gt;&gt;&gt; Sports and recreation in Space </a>
-              <a href="#language">&gt;&gt;&gt; Human language in Space </a>
-              <a href="#education">&gt;&gt;&gt; Education in Space </a>
-              <a href="#competition">&gt;&gt;&gt; Why competition is wrong in space </a>
-              <a href="#satellite">&gt;&gt;&gt; Basis of satellite design </a>
-              <a href="#mining">&gt;&gt;&gt; Mining in Space </a>
-              <a href="#mirkeen01">&gt;&gt;&gt; Project Mirkeen-01 </a>
-              <a href="#aliens">&gt;&gt;&gt; Meetings or sightings of aliens </a>
-              <a href="#city">&gt;&gt;&gt; City design and city reconfiguration on Earth </a>             
+              <a href="#intro">&gt;&gt; Introduction to this chapter </a>
+              <a href="#universe">&gt;&gt; The Universe and human nations on Earth </a>
+              <a href="#equality">&gt;&gt; Natural equality in accessing Space and living in Space </a>
+              <a href="#organization"&gt;&gt; Social organization in Space travel and Space living </a>
+              <a href="#tea">&gt;&gt; Tea and Space</a>
+              <a href="#appearance">&gt;&gt; Appearance and personality of the Space travellers </a>
+              <a href="#life">&gt;&gt; Effects of greatly increased human life </a>
+              <a href="#family">&gt;&gt; Family system in Space </a>
+              <a href="#sports">&gt;&gt; Sports and recreation in Space </a>
+              <a href="#language">&gt;&gt; Human language in Space </a>
+              <a href="#education">&gt;&gt; Education in Space </a>
+              <a href="#competition">&gt;&gt; Why competition is wrong in space </a>
+              <a href="#satellite">&gt;&gt; Basis of satellite design </a>
+              <a href="#mining">&gt;&gt; Mining in Space </a>
+              <a href="#mirkeen01">&gt;&gt; Project Mirkeen-01 </a>
+              <a href="#aliens">&gt;&gt; Meetings or sightings of aliens </a>
+              <a href="#city">&gt;&gt; City design and city reconfiguration on Earth </a>             
             </div>
          </div>
 
@@ -3812,6 +3873,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
