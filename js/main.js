@@ -1277,89 +1277,34 @@ modalText.innerHTML = `
              }
              
          </style>
+
+         <div class="nav-links">
+            <button id="topics-toggle">Topics &#9660;</button>
+            <div id="topics-links">
+              <a href="#intro">&gt;&gt;&gt; Introduction to this chapter </a>
+              <a href="#universe">&gt;&gt;&gt; The Universe and human nations on Earth </a>
+              <a href="#equality">&gt;&gt;&gt; Natural equality in accessing Space and living in Space </a>
+              <a href="#organization">&gt;&gt;&gt; Social organization in Space travel and Space living </a>
+              <a href="#tea">&gt;&gt;&gt; Tea and Space</a>
+              <a href="#appearance">&gt;&gt;&gt; Appearance and personality of the Space travellers </a>
+              <a href="#life">&gt;&gt;&gt; Effects of greatly increased human life </a>
+              <a href="#family">&gt;&gt;&gt; Family system in Space </a>
+              <a href="#sports">&gt;&gt;&gt; Sports and recreation in Space </a>
+              <a href="#language">&gt;&gt;&gt; Human language in Space </a>
+              <a href="#education">&gt;&gt;&gt; Education in Space </a>
+              <a href="#competition">&gt;&gt;&gt; Why competition is wrong in space </a>
+              <a href="#satellite">&gt;&gt;&gt; Basis of satellite design </a>
+              <a href="#mining">&gt;&gt;&gt; Mining in Space </a>
+              <a href="#mirkeen01">&gt;&gt;&gt; Project Mirkeen-01 </a>
+              <a href="#aliens">&gt;&gt;&gt; Meetings or sightings of aliens </a>
+              <a href="#city">&gt;&gt;&gt; City design and city reconfiguration on Earth </a>             
+            </div>
+         </div>
+         <div class="scroll-content">
+         
          <h2> Our social system for space</h2>
-         <div>
-
-           <p>
-           -----
-           </p>
-
-           <p>
-           Table of contents :
-           </p>
-
-           <p>
-             01. Introduction to this chapter.
-           </p>
          
-           <p>
-             02. The universe and human nations on Earth.
-           </p>
-
-           <p>
-             03. Natural equality in accessing space and living in space.
-           </p>
-
-           <p>
-             04. Social organization in space travel and space living.
-           </p>
-
-           <p>
-             05. Tea and Space.
-           </p>
-         
-           <p>
-             06. Appearance and personality of the space travellers.
-           </p>
-
-           <p>
-             07. Effects of greatly increased human life.
-           </p>
-
-           <p>
-             08. Family system in space.
-           </p>
-
-           <p>
-             09. Sports and recreation in space.
-           </p>
-
-           <p>
-             10. Human language in space.
-           </p>
-
-           <p>
-             11. Education in space.
-           </p>
-
-           <p>
-             12. Why competition is wrong for space.
-           </p>
-
-           <p>
-             13. Basis of satellite design.
-           </p>
-
-           <p>
-             14. Mining in space.
-           </p>
-
-           <p>
-             15. Project Mirkeen-01.
-           </p>
-
-           <p>
-             16. Meetings or sightings of aliens.
-           </p>
-         
-           <p>
-             17. City design and city reconfiguration on Earth.
-           </p>
-
-           <p>
-             -----
-           </p>
-
+         <div id="intro" class="section">
            <h2> Introduction to this chapter</h2>
         
            <p> 
@@ -1391,6 +1336,9 @@ modalText.innerHTML = `
              join it with others’ drafts for this purpose. Some points below are “To be done”.
            </p>
 
+           </div>
+
+           <div id="universe" class="section">
            <h2>The universe and human nations on Earth</h2>
            
            <p>
@@ -1654,8 +1602,11 @@ modalText.innerHTML = `
              peaceful exploration medium, mining place and settlement place of a collective humanity 
              under a truly democratic framework. National boundaries are artificial but human fraternity is 
              natural.
-           </p> 
+           </p>
 
+           </div>
+
+           <div id="equality" class="section">
            <h2>Natural equality in accessing space and living in space</h2>
            
            <p>
@@ -1781,8 +1732,11 @@ modalText.innerHTML = `
            <p style="margin-left:1em; margin-bottom:10px";>
              <span>(i).</span> Providing education in space. Please read of this topic more 
              in the below section of that name.
-           </p> 
+           </p>
 
+           </div>
+
+           <div id="organization" class="section">
            <h2>Social organization in space travel and space living</h2>
 
            <p>
@@ -1952,6 +1906,9 @@ modalText.innerHTML = `
              "unicorn" sector of space.
            </p>
 
+           </div>
+
+           <div id="tea" class="section">
            <h2 >Tea and Space</h2>
 
            <p>
@@ -1986,19 +1943,31 @@ modalText.innerHTML = `
              And maybe tea grown in space may become a new variety or multiple varieties in 
              accordance with conditions in different space locations.
            </p>
-         
+
+           </div>
+
+           <div id="appearance" class="section">         
            <h2>Appearance and personality of the space travellers</h2>
            
            <p> [ To be done ] </p>
 
+           </div>
+
+           <div id="life" class="section">
            <h2> Effects of greatly increased human life</h2>
            
            <p> [ To be done ] </p>
-           
+
+           </div>
+
+           <div id="family" class="section">
            <h2> Family system in space</h2>
            
            <p> [ To be done ] </p>
 
+           </div>
+
+           <div id="sports" class="section">
            <h2>Sports and recreation in space</h2>
 
            <p>
@@ -2022,7 +1991,10 @@ modalText.innerHTML = `
            </p>
            
            <p>[ To be done ] </p>
-           
+
+           </div>
+
+           <div id="language" class="section">           
            <h2>Human language in space</h2>
 
            <p>
@@ -2032,6 +2004,9 @@ modalText.innerHTML = `
              by other language speakers.
            </p>
 
+           </div>
+
+           <div id="education" class="section">
            <h2>Education in space</h2> 
 
            <p>The purposes of education are :</p> 
@@ -2416,7 +2391,10 @@ modalText.innerHTML = `
              also design systems that contribute to clearing up the current space debris around Earth. 
              Please read the section about Serf satellite in the “Our techno projects” chapter on this website.
            </p>
-           
+
+           </div>
+
+           <div id="universe" class="section">           
            <h2>Mining in space</h2>
            
            <p>
@@ -3658,6 +3636,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
