@@ -448,7 +448,7 @@ modalText.innerHTML = `
               <a href="#aleff">&gt;&gt; Alef-F space ferry</a>
               <a href="#bothships">&gt;&gt; About both Alef-A and Alef-F spaceship</a>
               <a href="#rak">&gt;&gt; Ra-K hovercraft-wheelcraft-aircraft</a>
-              <a href="#stillsuit">&gt;&gt; A spacesuit called Stillsuit</a>              
+              <a href="#stillsuit">&gt;&gt; A spacesuit called Stillsuit</a>
               <a href="#dunebuk">&gt;&gt; Dune Buk wearable computer</a>
               <a href="#rad">&gt;&gt; Ra-D drone for the Dune Buk wearable</a>
               <a href="#iceworm">&gt;&gt; Iceworm ice borer</a>
@@ -1372,38 +1372,33 @@ modal.style.display = 'flex';
 // Our social system for space
 }  else if (chapter === 'socialsystem') {
 modalText.innerHTML = `
-       <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;font-family:Roboto,sans-serif;">
-         <!-- Only left-side close button remains; right-side removed -->
-         <style>
-           /* Chrome, Edge, Safari */
-           #modalText > div::-webkit-scrollbar {
-             width: 10px;
-             height: 10px;
-             background: #222;
-           }
-           #modalText > div::-webkit-scrollbar-thumb {
-             background: #fff;
-             border-radius: 10px;
-             border: 2px solid #222;
-           }
-           #modalText > div::-webkit-scrollbar-track {
-             background: #222;
-             border-radius: 10px;
-           }
-           /* Firefox */
-           #modalText > div {
-             scrollbar-width: thin;
-             scrollbar-color: #fff #222;
-           }
-
+       <div style="position:relative;padding:0;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:600px;overflow:hidden;">
+          <style>
+            #modalText > div::-webkit-scrollbar {
+              width: 10px;
+              height: 10px;
+              background: #fff;
+            }
+            #modalText > div::-webkit-scrollbar-thumb {
+              background: #fff;
+              border-radius: 10px;
+              border: 2px solid #222;
+            }
+            #modalText > div::-webkit-scrollbar-track {
+              background: #222;
+              border-radius: 10px;
+            }
+            #modalText > div {
+              scrollbar-width: thin;
+              scrollbar-color: #fff #222;
+            }
             h2 {
-           font-family: 'Poppins', sans-serif;
-           color: #000;
-           text-align: center;
-           margin-bottom: 10px;
-           }
-
-           .nav-links {
+              font-family: 'Poppins', sans-serif;
+              color: #000;
+              text-align: center;
+              margin-bottom: 20px;
+            }
+            .nav-links {
               position: sticky;
               top: 0;
               background: #fff;
@@ -1439,18 +1434,6 @@ modalText.innerHTML = `
               align-items: center;
               gap: 10px;
               margin-bottom: 10px;
-              max-height: 220px;
-              overflow-y: auto;
-              scrollbar-width: thin;
-              scrollbar-color: #222 #fff;
-            }
-            #topics-links::-webkit-scrollbar {
-              width: 8px;
-              background: #fff;
-            }
-            #topics-links::-webkit-scrollbar-thumb {
-              background: #000;
-              border-radius: 8px;
             }
             #topics-links a {
               color: #000;
@@ -1493,18 +1476,10 @@ modalText.innerHTML = `
               display: none;
               z-index: 1000;
             }
-
-           //p{
-           //font-family: 'Roboto', sans-serif;
-           //color: #000;
-           //font-size: 1.1em;
-           //}
-
-           span {
-             color:#000;
-             font-weight: bold;
-             }
-             
+            span {
+              color: #000;
+              font-weight: bold;
+            }
          </style>
 
          <div class="nav-links">
