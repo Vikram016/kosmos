@@ -448,10 +448,11 @@ modalText.innerHTML = `
               <a href="#aleff">&gt;&gt; Alef-F space ferry</a>
               <a href="#bothships">&gt;&gt; About both Alef-A and Alef-F spaceship</a>
               <a href="#rak">&gt;&gt; Ra-K hovercraft-wheelcraft-aircraft</a>
-              <a href="#stillsuit">&gt;&gt; A spacesuit called Stillsuit</a>
+              <a href="#stillsuit">&gt;&gt; A spacesuit called Stillsuit</a>              
               <a href="#dunebuk">&gt;&gt; Dune Buk wearable computer</a>
-              <a href="#dbukrelated">&gt;&gt; Two other machines related to the Dune Buk wearable</a>
-              <a href="#exoskeleton">&gt;&gt; Exoskeleton</a>              
+              <a href="#rad">&gt;&gt; Ra-D drone for the Dune Buk wearable</a>
+              <a href="#iceworm">&gt;&gt; Iceworm ice borer</a>
+              <a href="#exoskeleton">&gt;&gt; Exoskeleton</a>
               <a href="#biology">&gt;&gt; Biology researches</a>
               <a href="#wmachines">&gt;&gt; Machines for water</a>
               <a href="#habitat">&gt;&gt; Habitat construction on other worlds</a>
@@ -942,11 +943,11 @@ modalText.innerHTML = `
 
            </div>
 
-           <div id="dbukrelated" class="section">
-           <h2>Two other machines related to the Dune Buk wearable</h2>
+           <div id="rad" class="section">
+           <h2>Ra-D drone for the Dune Buk wearable</h2>
                        
            <p>
-             <span>(a).</span> Ra-D, a heater-equipped drone small enough to fit on top of the Dune Buk wearable
+             Ra-D drone will be a heater-equipped drone small enough to fit on top of the Dune Buk wearable
              computer. This drone will be powered electrically and have the ability to fly, to wheel along
              the ground and swim. In flight mode it can be launched from the hand and return to the
              hand. This drone when flying will be used for vlogging, searching, communications relay,
@@ -955,12 +956,18 @@ modalText.innerHTML = `
              on air-having worlds like Earth, in airless low-gravity places like the Moon, on water worlds
              etc.
            </p>
+
+           </div>
+
+           <div id="iceworm" class="section">
+           <h2>Iceworm ice borer</h2>
            
            <p>
-             <span>(b).</span> Iceworm, a heater-equipped ice borer and drone carrier that will carry a swarm of
+             Iceworm, a heater-equipped ice borer and drone carrier that will carry a swarm of
              weight-attached Ra-D drones down into the ice-covered water sea of some ice moon or ice
-             planet by melting / “boring” through the ice. The name Iceworm derives from the Sandworm
-             animal in the Dune stories but here for ice.
+             planet by melting / “boring” through the ice. This machine will be controlled from the top side 
+             by the Dune Buk wearable computer. The name Iceworm derives from the Sandworm animal in the Dune stories 
+             but here for ice.
            </p>
 
            </div>
@@ -1112,7 +1119,11 @@ modalText.innerHTML = `
              massively-muscled enhanced beings of some Hollywood films who do not seem "human".
            </p>
 
-           <h2> One derivation of these researches is eradicating hunger on Earth. Hunger is a two part problem</h2>
+           <h2>Eradicating hunger on Earth</h2>
+
+           <p>
+             Hunger on Earth is a two part problem :
+           </p>
            
            <p>
              <span>(a).</span> A technological problem via use of traditional methods of growing food in open farms
@@ -1128,7 +1139,7 @@ modalText.innerHTML = `
            <p>
              The simple solution for hunger is not only social enlightenment but also a technological 
              combination of bio-engineered plant-based foods and the nutritious originally animal products 
-             like given above, and these productions done in decentralized, neighborhood-level indoor farms.
+             like given in the just above section, and these productions done in decentralized, neighborhood-level indoor farms.
            </p>
 
            </div>
@@ -3914,6 +3925,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
