@@ -1501,7 +1501,7 @@ modalText.innerHTML = `
               <a href="#mining">&gt;&gt; Mining in Space </a>
               <a href="#mirkeen01">&gt;&gt; Project Mirkeen-01 </a>
               <a href="#aliens">&gt;&gt; Meetings or sightings of aliens </a>
-              <a href="#city">&gt;&gt; City design and city reconfiguration on Earth </a>             
+              <a href="#city">&gt;&gt; City design and city reconfiguration on Earth </a>
             </div>
          </div>
 
@@ -3122,7 +3122,8 @@ modalText.innerHTML = `
          </div>
        </div>
      `;
-      // Attach Topics toggle event after DOM update
+modal.style.display = 'flex';
+// Attach Topics toggle event after DOM update
       setTimeout(function() {
         var toggleBtn = document.getElementById('topics-toggle');
         var linksDiv = document.getElementById('topics-links');
@@ -3161,8 +3162,9 @@ modalText.innerHTML = `
           });
         }
       }, 0);
-// End of modalText.innerHTML assignment
-// modal.style.display = 'flex';
+      // End of modalText.innerHTML assignment
+      modal.style.display = 'flex';
+
        
 // Our company's workers
 } else if (chapter === 'cworkers') {
@@ -3900,6 +3902,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
