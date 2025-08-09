@@ -2408,7 +2408,7 @@ modalText.innerHTML = `
            </div>
 
            <div id="competition" class="section">
-           <h2>Why competition is wrong for space</h2>
+           <h2>Why competition is wrong in space</h2>
 
            <p>
              <span> >> </span> Competition is anti-Nature because it is an irrational way to decided someone's capabilities 
@@ -3119,7 +3119,6 @@ modalText.innerHTML = `
 
            </div>
 
-         </div>
        </div>
      `;
 modal.style.display = 'flex';
@@ -3902,6 +3901,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
