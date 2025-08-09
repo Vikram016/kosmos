@@ -1290,11 +1290,102 @@ modalText.innerHTML = `
            margin-bottom: 10px;
            }
 
-           p{
-           font-family: 'Roboto', sans-serif;
-           color: #000;
-           font-size: 1.1em;
-           }
+           .nav-links {
+              position: sticky;
+              top: 0;
+              background: #fff;
+              padding: 10px 0 0 0;
+              border-bottom: 1px solid #ddd;
+              margin-bottom: 20px;
+              z-index: 1000;
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+            }
+            #topics-toggle {
+              margin-bottom: 10px;
+              font-family: 'Poppins', sans-serif;
+              font-weight: 600;
+              letter-spacing: 0.5px;
+              padding: 10px 30px;
+              font-size: 1.1em;
+              background: #000;
+              color: #fff;
+              border: none;
+              border-radius: 25px;
+              cursor: pointer;
+              transition: background 0.2s, color 0.2s;
+            }
+            #topics-toggle:hover {
+              background: #222;
+              color: #fff;
+            }
+            #topics-links {
+              display: none;
+              flex-direction: column;
+              align-items: center;
+              gap: 10px;
+              margin-bottom: 10px;
+              max-height: 220px;
+              overflow-y: auto;
+              scrollbar-width: thin;
+              scrollbar-color: #222 #fff;
+            }
+            #topics-links::-webkit-scrollbar {
+              width: 8px;
+              background: #fff;
+            }
+            #topics-links::-webkit-scrollbar-thumb {
+              background: #000;
+              border-radius: 8px;
+            }
+            #topics-links a {
+              color: #000;
+              text-decoration: none;
+              font-size: 1em;
+              margin: 0;
+              padding: 6px 0;
+              transition: color 0.2s;
+            }
+            #topics-links a:hover {
+              color: #0066cc;
+            }
+            .scroll-content {
+              max-height: 500px;
+              overflow-y: auto;
+              padding: 0 2em 1em 2em;
+            }
+            .section {
+              margin-bottom: 30px;
+            }
+            .section h3 {
+              color: #000;
+              font-family: 'Poppins', sans-serif;
+              margin-bottom: 10px;
+            }
+            .section p {
+              font-family: 'Roboto', sans-serif;
+              color: #000;
+              line-height: 1.6;
+            }
+            .back-to-top {
+              position: fixed;
+              bottom: 20px;
+              right: 20px;
+              background: #000;
+              color: #fff;
+              padding: 10px;
+              border-radius: 50%;
+              cursor: pointer;
+              display: none;
+              z-index: 1000;
+            }
+
+           //p{
+           //font-family: 'Roboto', sans-serif;
+           //color: #000;
+           //font-size: 1.1em;
+           //}
 
            span {
              color:#000;
@@ -3721,6 +3812,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
