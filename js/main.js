@@ -1316,6 +1316,47 @@ modalText.innerHTML = `
        </div>
      `;
 modal.style.display = 'flex';
+// Attach Topics toggle event after DOM update
+      setTimeout(function() {
+        var toggleBtn = document.getElementById('topics-toggle');
+        var linksDiv = document.getElementById('topics-links');
+        if (toggleBtn && linksDiv) {
+          toggleBtn.addEventListener('click', function() {
+            if (linksDiv.style.display === 'none' || linksDiv.style.display === '') {
+              linksDiv.style.display = 'flex';
+              toggleBtn.innerHTML = 'Topics &#9650;';
+            } else {
+              linksDiv.style.display = 'none';
+              toggleBtn.innerHTML = 'Topics &#9660;';
+            }
+          });
+          // Add event listeners to links to close topics box on click
+          var navLinks = linksDiv.querySelectorAll('a');
+          navLinks.forEach(function(link) {
+            link.addEventListener('click', function(e) {
+              linksDiv.style.display = 'none';
+              toggleBtn.innerHTML = 'Topics &#9660;';
+              // Prevent default anchor behavior
+              e.preventDefault();
+              // Get the target section
+              var targetId = link.getAttribute('href').replace('#', '');
+              var targetElem = document.getElementById(targetId);
+              // Remove the hash from the URL without reloading
+              if (window.location.hash) {
+                history.replaceState(null, '', window.location.pathname + window.location.search);
+              }
+              // Scroll to the section after closing Topics box
+              if (targetElem) {
+                setTimeout(function() {
+                  targetElem.scrollIntoView({behavior: 'smooth'});
+                }, 200);
+              }
+            });
+          });
+        }
+      }, 0);
+      // End of modalText.innerHTML assignment
+      modal.style.display = 'flex';
 
 // Our social system for space
 }  else if (chapter === 'socialsystem') {
@@ -3873,6 +3914,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
