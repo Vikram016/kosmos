@@ -1,4 +1,7 @@
-﻿// Modal logic for chapter cards
+// Helper: Add scroll event listener only once
+let projectsScrollListenerAdded = false;
+
+// Modal logic for chapter cards
 const modal = document.getElementById('chapterModal');
 const modalText = document.getElementById('modalText');
 const closeModal = document.getElementById('closeModal');
@@ -8,6 +11,28 @@ card.addEventListener('click', function() {
 const chapter = card.getAttribute('data-chapter');
 
 // Our Iskra Plan
+
+// Always ensure modalText has scrollbars and max-height
+      modalText.style.overflow = 'auto';
+      modalText.style.maxHeight = '90vh';
+      modal.style.display = 'flex';
+      // Always scroll modal to top when opened
+      setTimeout(function() {
+        var modalTextDiv = document.getElementById('modalText');
+        if (modalTextDiv) {
+          modalTextDiv.scrollTop = 0;
+        }
+        // Also scroll any scrollable child div to top
+        var scrollContent = modalTextDiv ? modalTextDiv.querySelector('.scroll-content') : null;
+        if (scrollContent) {
+          scrollContent.scrollTop = 0;
+        }
+      }, 0);
+      // Remove the hash from the URL without reloading whenever modal is opened
+      if (window.location.hash) {
+        history.replaceState(null, '', window.location.pathname + window.location.search);
+      }       
+       
 if (chapter === 'iskra') {
 modalText.innerHTML = `
        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -1300,6 +1325,7 @@ modalText.innerHTML = `
               <a href="#city">&gt;&gt;&gt; City design and city reconfiguration on Earth </a>             
             </div>
          </div>
+
          <div class="scroll-content">
          
          <h2> Our social system for space</h2>
@@ -2198,8 +2224,11 @@ modalText.innerHTML = `
              and other activities. The one-way communication time itself may be from about a second ( 
              the Moon ) to 13 minutes ( Red One ) to many many hours, and these delays just within the 
              Solar System.
-           </p>         
+           </p>
 
+           </div>
+
+           <div id="competition" class="section">
            <h2>Why competition is wrong for space</h2>
 
            <p>
@@ -2372,7 +2401,10 @@ modalText.innerHTML = `
              untrustworthy people. There can be mass death in space because of exams or other forms of competition. 
              So, space must not have competition.
            </p>
+
+           </div>
            
+           <div id="satellite" class="section">
            <h2>Basis of satellite design</h2>
            
            <p>
@@ -2394,7 +2426,7 @@ modalText.innerHTML = `
 
            </div>
 
-           <div id="universe" class="section">           
+           <div id="mining" class="section">           
            <h2>Mining in space</h2>
            
            <p>
@@ -2416,8 +2448,11 @@ modalText.innerHTML = `
              collective enrichment of every human on Earth and beyond Earth on an equal basis, where all humans are 
              collectively prosperous. It then also follows the necessity that national governments on Earth 
              will participate in such a democratic pan-humanist effort.
-           </p>                
+           </p>
 
+           </div>
+
+           <div id="mirkeen01" class="section">
            <h2>Project Mirkeen-01</h2>
 
            <p>
@@ -2527,6 +2562,9 @@ modalText.innerHTML = `
              0A, 4C and FA.
            </p>
 
+           </div>
+
+           <div id="aliens" class="section">
            <h2> Meetings or sightings of aliens</h2>
            
            <p>
@@ -2585,8 +2623,13 @@ modalText.innerHTML = `
              topic [ <a href=" https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/ target="_blank" style="color:#0000FF;"> https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/"</a> ]. 
            </p>           
           
-           <p> And who knows, we may find that cats are indeed aliens as goes the internet legend, LOL.</p>
-        
+           <p>
+             And who knows, we may find that cats are indeed aliens as goes the internet legend, LOL.
+           </p>
+
+           </div>
+
+           <div id="city" class="section">        
            <h2> City design and city reconfiguration on Earth</h2>
            
            <p>
@@ -2893,12 +2936,54 @@ modalText.innerHTML = `
              This lesser daily out-of-city travel will also contribute to serene Earthen societies.
            </p>
 
-           <p>[ To be done ] </p> 
-                      
+           <p>[ To be done ] </p>
+
+           </div>
+
          </div>
        </div>
      `;
-modal.style.display = 'flex';
+      // Attach Topics toggle event after DOM update
+      setTimeout(function() {
+        var toggleBtn = document.getElementById('topics-toggle');
+        var linksDiv = document.getElementById('topics-links');
+        if (toggleBtn && linksDiv) {
+          toggleBtn.addEventListener('click', function() {
+            if (linksDiv.style.display === 'none' || linksDiv.style.display === '') {
+              linksDiv.style.display = 'flex';
+              toggleBtn.innerHTML = 'Topics &#9650;';
+            } else {
+              linksDiv.style.display = 'none';
+              toggleBtn.innerHTML = 'Topics &#9660;';
+            }
+          });
+          // Add event listeners to links to close topics box on click
+          var navLinks = linksDiv.querySelectorAll('a');
+          navLinks.forEach(function(link) {
+            link.addEventListener('click', function(e) {
+              linksDiv.style.display = 'none';
+              toggleBtn.innerHTML = 'Topics &#9660;';
+              // Prevent default anchor behavior
+              e.preventDefault();
+              // Get the target section
+              var targetId = link.getAttribute('href').replace('#', '');
+              var targetElem = document.getElementById(targetId);
+              // Remove the hash from the URL without reloading
+              if (window.location.hash) {
+                history.replaceState(null, '', window.location.pathname + window.location.search);
+              }
+              // Scroll to the section after closing Topics box
+              if (targetElem) {
+                setTimeout(function() {
+                  targetElem.scrollIntoView({behavior: 'smooth'});
+                }, 200);
+              }
+            });
+          });
+        }
+      }, 0);
+// End of modalText.innerHTML assignment
+// modal.style.display = 'flex';
        
 // Our company's workers
 } else if (chapter === 'cworkers') {
@@ -3636,6 +3721,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
