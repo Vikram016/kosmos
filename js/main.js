@@ -510,7 +510,7 @@ modalText.innerHTML = `
            <p><span>&gt;&gt;</span>
              Liberty, Equality, Fraternity, Humanism, Simplicity, Beauty, Gentleness, 
              Human safety as much as possible, Respect for Nature including reversing Climate Change on Earth. 
-             A "Gentleness" example is renaming of the planet âMarsâ to âRed Oneâ as the former is the Roman 
+             A "Gentleness" example is renaming of the planet Mars to "Red One" as the former is the Roman 
              god of war while the latter is a gentle name. A "Human safety" example is not following the 
              silliness of nuclear fusion as the means to generate electricity.
            </p>
@@ -588,7 +588,7 @@ modalText.innerHTML = `
            </p>
            
            <p>
-             Thereâs also an unspoken nefarious element in the promotion of Space-based Solar Power 
+             There's also an unspoken nefarious element in the promotion of Space-based Solar Power 
              where huge photovoltaic panels will sit in Earth orbit and convert the abundant sunlight there to electricity, 
              then convert the electricity to high-power microwaves and send down the microwaves to certain large-focus spots on Earth 
              where on those spots on the ground the microwaves are converted back to electricity by rectennas 
@@ -634,13 +634,13 @@ modalText.innerHTML = `
 	   </ul>  
            
            <p>
-             Please check the âCreditsâ chapter to see where we derive most of our ideas for the 
+             Please check the "Credits" chapter to see where we derive most of our ideas for the 
              generator.
            </p>
            
            <p>
              The name of this system, Faradn, refers to two things : an acknowledgement to Michael
-             Faraday and a nod to the Dune story which has the character Faradân.
+             Faraday and a nod to the Dune story which has the character Farad'n.
            </p>                    
            
            <p>
@@ -669,7 +669,7 @@ modalText.innerHTML = `
            
            <p>
              The airship is much better than the Tall Rocket because the Tall Rocket requires lot of fuel just to lift itself 
-             one centimeter off the launch pad as we explained in the "Our Iskra Plan" chapter. Secondly, much less push-into-orbit fuel 
+             one centimeter off the launch pad as we explained in the "Iskra Plan" chapter. Secondly, much less push-into-orbit fuel 
              makes the airship type of spaceship much more safer in terms of explosion. Thirdly, the airship-spaceship can easily 
              be made horizontally larger instead of the vertically huge of the Tall Rocket.
            </p>
@@ -687,7 +687,7 @@ modalText.innerHTML = `
              is recovered to water and reused to be jetted again to enable longer-distance continuous-thrust travel, thus the water
              steam here is a largely recoverable fuel. Coal combustion will also be used for 
              effects like braking and positioning near destinations and then for descent on some world. 
-             The Alef-A will also allow for short-distance space travel like from Earth to Moonâs surface.
+             The Alef-A will also allow for short-distance space travel like from Earth to Moon's surface.
            </p>
 
            </div>
@@ -723,15 +723,15 @@ modalText.innerHTML = `
            <div id="bothships" class="section">
            <h2>About both Alef-A and Alef-F spaceships</h2>
            
-           <p>The name âAlefâ is a joined word with the below meaning :</p>
+           <p>The name "Alef" is a joined word with the below meaning :</p>
           
            <ul>
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> The âlefâ comes from the slogan 
-             âLiberty, Equality, Fraternityâ which is a slogan in multiple progressive thought streams 
-             including the Preamble ( introduction ) to the Indian Constitution. </li>
+             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> The "lef" comes from the slogan 
+             "Liberty, Equality, Fraternity" which is a slogan in multiple progressive thought streams 
+             including the Preamble ( short introduction ) to the Indian Constitution. </li>
 
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> The âAâ stands for 
-             Alif ( âThe firstâ ), meaning these spaceships are just the first types of spaceships from 
+             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> The "A" stands for 
+             Alif ( "The first" ), meaning these spaceships are just the first types of spaceships from 
              our organization Further will be more types. </li>
            </ul>
            
@@ -743,9 +743,9 @@ modalText.innerHTML = `
              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Steam is made 
              from water which is found in many places in the Solar System and beyond.</li>
              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Water in itself is safe to handle by humans.</li>
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Water doesnât explode normally unlike rocket fuel like 
+             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Water doesn't explode normally unlike rocket fuel like 
              liquid hydrogen.</li>
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Water doesnât need 
+             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Water doesn't need 
              to be stored at cryogenic conditions unlike with some current popular spacecraft fuels like 
              liquid hydrogen and liquid methane Water can be just kept a warm liquid using electrical heating.</li>
              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> When in space, most of the
@@ -772,7 +772,7 @@ modalText.innerHTML = `
            <p> 
              The name of this vehicle comes from the name Ra who was the supreme ancient Egyptian
              god who had the head of a cat and the body of a man - a hybrid. Other than the dedication to
-             cats the name is also because this Ra-K vehicle is a hybrid vehicle as below. And the âKâ is
+             cats the name is also because this Ra-K vehicle is a hybrid vehicle as below. And the "K" is
              because it will carry humans in kosmos / environments in contrast to our other Ra hybrid
              machines which are described in further sections. 
            </p>
@@ -903,8 +903,8 @@ modalText.innerHTML = `
            </p>
           
            <p>
-             The processor will be called Meow and will use sound for the computations. âMeowâ usually
-             is the sweetest of sounds. Some of the processorâs design will derive from our previous
+             The processor will be called Meow and will use sound for the computations. "Meow" usually
+             is the sweetest of sounds. Some of the processor's design will derive from our previous
              processor+OS project, Kosmos, which was an open source project that remains documented
              on the OpenCores website on this page [ opencores.org/projects/taar ]. The Meow processor
              will have two computation parts which both use sound - a digital part for regular
@@ -1004,7 +1004,7 @@ modalText.innerHTML = `
            <p>
              Iceworm, a heater-equipped ice borer and drone carrier that will carry a swarm of
              weight-attached Ra-D drones down into the ice-covered water sea of some ice moon or ice
-             planet by melting / âboringâ through the ice. This machine will be controlled from the top side 
+             planet by melting / "boring" through the ice. This machine will be controlled from the top side 
              by the Dune Buk wearable computer. The name Iceworm derives from the Sandworm animal in the Dune stories 
              but here for ice.
            </p>
@@ -4100,6 +4100,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
