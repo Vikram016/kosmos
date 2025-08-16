@@ -1069,7 +1069,7 @@ modalText.innerHTML = `
            <p> 
              <span> >> </span> Structures of spaceships, spacesuits and habitations to be bio-mimicking and also made of biological elements for radiation shielding, self-repair and a sense of more naturality. For
              example, there is interest in the fungus Cladosporium sphaerospermum which was first
-             identified in the Chernobyl reactor's remains and converts the areaâs radiation into energy for
+             identified in the Chernobyl reactor's remains and converts the area's radiation into energy for
              itself, a process called radiosynthesis which is comparable to plants converting light to
              energy through photosynthesis. This fungus eats the radiation.
            </p>
@@ -1327,8 +1327,8 @@ modalText.innerHTML = `
 	   
 	   <p>
              <span>(k).</span> An extension of habitat construction is terraforming other worlds like Red One 
-	     so that they begin to resemble Earth. For example, because Red One doesnât
-             have a natural magnetosphere to protect it from most of the Sunâs radiation and cosmic
+	     so that they begin to resemble Earth. For example, because Red One doesn't
+             have a natural magnetosphere to protect it from most of the Sun's radiation and cosmic
              radiation, we can create a magnetosphere by installing large electromagnetic field
              generators around Red One to prevent most radiation from reaching the atmosphere of Red
              One and its surface. These field generators will be powered by our Faradn generators.
@@ -1342,7 +1342,7 @@ modalText.innerHTML = `
            <h2>Anti-gravity</h2>
 
            <p>
-             A more natural means to fly from worlds ( like Earth ) to space and descend on worlds via âanti-gravityâ 
+             A more natural means to fly from worlds ( like Earth ) to space and descend on worlds via "anti-gravity" 
              mechanism aka Gravity Manipulation and this is if possible at all. Such a craft can be very large and of any shape 
              and able to carry maybe hundreds of people at a time, like some of the lander ships 
              in the Dune story.
@@ -1588,7 +1588,7 @@ modalText.innerHTML = `
 
            <p>
              This draft is substantial and we will further it by discussions in progressive forums like World Social Forum and 
-             join it with othersâ drafts for this purpose. Some points below are âTo be doneâ.
+             join it with others' drafts for this purpose. Some points below are "To be done".
            </p>
 
            </div>
@@ -1770,8 +1770,8 @@ modalText.innerHTML = `
            <p>
              However, as per natural laws no human from one modern nation is automatically superior in the 
              grandness of Universe / Kosmos / Space than a human from another modern nation. A socially-advantaged 
-             human from one modern âsuperpower wealthy nationâ will be burned up in the Sun as easily as a 
-             money-poor human from another modern âsuperpower wealthy nationâ... to believe otherwise is 
+             human from one modern "superpower wealthy nation" will be burned up in the Sun as easily as a 
+             money-poor human from another modern "superpower wealthy nation"... to believe otherwise is 
              pointless arrogance. Some thoughtful space travellers who have gone to Earth orbit have 
              spoken of seeing the Earth as a singular delicate blue world in the dark of space, 
 	     with no natural boundaries dividing nations, though to us adding here : with the exception of Australia and 
@@ -1779,7 +1779,7 @@ modalText.innerHTML = `
              nationalists in the kosmos when just the Sun can fit in itself a million Earths and the Sun being 
              just a medium-sized star, and in reality the Sun instantly burning up those million Earths and 
              all the nations within them and with them all of the eight billion people of Earth. 
-             A human is a tiny humble âzarraâ / speck in the infinite Universe.
+             A human is a tiny humble "zarra" / speck in the infinite Universe.
            </p>
 
            <p>
@@ -1801,11 +1801,11 @@ modalText.innerHTML = `
              Asia / India, and Buddha's ideas being preached later. The South Asian / Indian great emperor Ashoka
              lived more than two centuries after Buddha. He was great not because he was an emperor
              but because he used his position to advance the teachings of Buddha throughout South Asia / India and beyond.
-             Ashokaâs ancestry may have had cross-cultural connections because his grandfather the king Chandragupta Maurya
-             married a girl from Iran called Helena whose father was the Greek empireâs Greek governor of West Asia,
-             Seleukus Nikator. Helenaâs mother was Irani. Helena was aged 15-17 and Chandragupta was 40 and 
+             Ashoka's ancestry may have had cross-cultural connections because his grandfather the king Chandragupta Maurya
+             married a girl from Iran called Helena whose father was the Greek empire's Greek governor of West Asia,
+             Seleukus Nikator. Helena's mother was Irani. Helena was aged 15-17 and Chandragupta was 40 and 
              it is said that both liked each other at first sight even though theirs was a political marriage 
-             proposed by Helenaâs father. It is possible that Helenaâs son by Chandragupta was 
+             proposed by Helena's father. It is possible that Helena's son by Chandragupta was 
              Bindusara whose son was Ashoka so Ashoka may have had Greek and Irani genes.
            </p>
 
@@ -1886,7 +1886,7 @@ modalText.innerHTML = `
            <p>
              The upcoming commercial space industry promoted by certain groups on Earth pushes feudalism 
              and commerce to space, for example the strange art of some MBA affixing pointless commercial projection 
-             slogans to space like âThe trillion dollar space economyâ. Two things to comment on this :
+             slogans to space like "The trillion dollar space economy". Two things to comment on this :
            </p>
            
            <p>
@@ -2048,14 +2048,14 @@ modalText.innerHTML = `
            </p>
            
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(b).</span> There is no exploitative feudal boss and no subordinateâ¦ all the workers are equal co-workers in 
-             respect, right to participate in the organizationâs decisions, voluntary idea giving and 
+             <span>(b).</span> There is no exploitative feudal boss and no subordinate... all the workers are equal co-workers in 
+             respect, right to participate in the organization's decisions, voluntary idea giving and 
              cross-team idea giving. Any worker can call a discussion circle for a complaint, issue raising 
              or idea suggestion, and the other workers must listen and participate.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(c).</span> All involved in the organization are âco-workersâ and not âworkersâ or "employees".
+             <span>(c).</span> All involved in the organization are "co-workers" and not "workers" or "employees".
            </p>
            
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -2084,7 +2084,7 @@ modalText.innerHTML = `
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(i).</span> The existence of a Workers Cooperative doesnât depend on if the economic system 
+             <span>(i).</span> The existence of a Workers Cooperative doesn't depend on if the economic system 
              works with money system or money has been abolished. The Workers Cooperative concept 
              is efficient in both situations. 
            </p>
@@ -2107,10 +2107,10 @@ modalText.innerHTML = `
              <span>(l).</span> This system leads to thinking about decentralization / 
              self-governance, gentleness, a non-corporate environment, a non-militarist environment and 
              a pan-human outlook. This also means in the space context, no hierarchy and no traditional 
-             aerospace titles like âCaptainâ and âCommanderâ. The environment in the group will be relaxing and 
-             focused towards the purpose of the groupâs setting-up and not for hierarchy-induced disharmony and âmaking a careerâ. 
-             This also means no separate âhigh classâ living arrangement for some boss and no lower 
-             âeconomy classâ arrangements for others. All people will be given equally comfortable living 
+             aerospace titles like "Captain" and "Commander". The environment in the group will be relaxing and 
+             focused towards the purpose of the group's setting-up and not for hierarchy-induced disharmony and "making a career". 
+             This also means no separate "high class" living arrangement for some boss and no lower 
+             "economy class" arrangements for others. All people will be given equally comfortable living 
              arrangements.
            </p>
            
@@ -2118,7 +2118,7 @@ modalText.innerHTML = `
              <span>(m).</span> So, all work participants on one spaceship or an independent group on one planetary 
              research station or an independent group on one mining station etc are collectively called a 
              Workers Cooperative. Work will be distributed as per skill, interest, requirement and in rotation. 
-             The first two things are not written in stone that they canât be acquired as time progresses. The tasks 
+             The first two things are not written in stone that they can't be acquired as time progresses. The tasks 
              will be rotated to prevent a worker from being slotted into a relatively unpleasant task for a long time which  
 	     creates a class system consciously or unconsciously. The tasks within a Workers Cooperative can be 
 	     water management, food, communication, engines, waste management, caring for 
@@ -2133,21 +2133,21 @@ modalText.innerHTML = `
              within that cooperative and in accordance with Natural laws. All the workers including the Coordinator 
              can be of any naturally reasonable responsible age, whether 13 or 30 or 90... anyone as long as they make sense 
              and are willing and able to put physical or intellectual effort including being a good leader. And this responsibility of 
-             âCoordinatorâ can rotate between the cooperativeâs members as per requirement or 
+             "Coordinator" can rotate between the cooperative's members as per requirement or 
              consensus.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
              <span>(o).</span> So a Workers Cooperative is democratic, enables harmony and enables more 
-             focus on the groupâs purpose. 
+             focus on the group's purpose.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
              <span>(p).</span> Further, a tourist in space a few hundred thousand kilometers from Earth ( the Moon ) or a 
              few hundred million kilometers from Earth ( the Asteroid Belt ) will naturally feel deprived 
-             from Earthen settings including the social aspect and the simple fact of feeling the Sunâs 
+             from Earthen settings including the social aspect and the simple fact of feeling the Sun's 
              heat on the open face and this deprivation will depress a person for a moment or more, 
-             despite that touristâs purpose of tourism. But if every person in the space efforts, including 
+             despite that tourist's purpose of tourism. But if every person in the space efforts, including 
              the tourist, participates in the tasks by being part of the space Workers Cooperatives it will 
              keep him or her engaged and away from depression, enable fraternity and contribute to one 
              more hand in the tasks.
@@ -2181,12 +2181,12 @@ modalText.innerHTML = `
              Intoxicating substances like alcohol should not be used in the inherently risks-filled 
              environment of space, including the social mistakes people will make by such consumption 
              and lead to disaster in space. Celebrations can be done with rounds of tea and biscuits. Tea 
-             has been such a great multi-purpose discoveryâ¦ the drink of philosophers, revolutionaries, 
+             has been such a great multi-purpose discovery... the drink of philosophers, revolutionaries, 
              inventors, discussers, intellectual and physical laborers, lovers of taste and refinement, 
              providing energy and relief in heat, cold and rain, in the heat of the deserts and the cold of the 
              same deserts at night, in the cold of snows and the heights of the high mountains, the 
              adda tea houses of Calcutta city with the Calcuttans doing rounds of tea and discussing the 
-             worldâ¦ all the while the tea providing health benefits.
+             world... all the while the tea providing health benefits.
            </p>
 
            <p>
@@ -2199,7 +2199,7 @@ modalText.innerHTML = `
 
            <p>
              In space, other than the non-intoxicating, energizing and health-bringing nature of tea 
-             usage, regular teaâing also will hydrate the skin which may become dry in spaceships and 
+             usage, regular tea'ing also will hydrate the skin which may become dry in spaceships and 
              spacesuits and will also create solidarity because of group drinking. Tea is also a good 
              laxative including when starting the day. Further, tea leaves are a good natural fertilizer for 
              plants.
@@ -2278,13 +2278,13 @@ modalText.innerHTML = `
            <p>The purposes of education are :</p> 
 
            <p> <span> >> </span> To liberate oneself from any wrong, oppressive and unscientific 
-             traditional cultural impositions and thus to know oneâs reasonable rights as a human.
+             traditional cultural impositions and thus to know one's reasonable rights as a human.
            </p>
 
            <p> <span> >> </span> 
              To understand that as a human we must collaborate with others in local society and 
              in humanity in general and that the good of society and humanity is our good. And good acts 
-             must be done not to earn points so that heavenâs door opens for us but to be genuine in 
+             must be done not to earn points so that heaven's door opens for us but to be genuine in 
              empathy for others. That we must be gentle, sensitive, empathetic and selfless instead of 
              sneaky, amoral and selfish.
            </p> 
@@ -2318,10 +2318,10 @@ modalText.innerHTML = `
            </p>
            
            <p>
-             These academics went about lectures and conferences chanting âBig Bang Theoryâ for almost a hundred years 
+             These academics went about lectures and conferences chanting "Big Bang Theory" for almost a hundred years 
              when until recently someone proposed a second Big Bang which "created Dark Matter". Dark Matter is 
              again another nonsensical maths-basis idea which has been around for many decades but 
-             has never been observed in Nature, let alone measured. These academics donât know how big the 
+             has never been observed in Nature, let alone measured. These academics don't know how big the 
              universe is, they have never stepped into the universe, yet they confidently declare its 
              birthday to the microsecond, LOL.
            </p>
@@ -2347,19 +2347,19 @@ modalText.innerHTML = `
            <p> Among the statements of Cosmonaut Yuri are : </p>
            
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(a).</span> âOrbiting Earth in the spaceship, I saw how beautiful our planet is. People, let us 
-             preserve and increase this beauty, not destroy it!â
+             <span>(a).</span> Orbiting Earth in the spaceship, I saw how beautiful our planet is. People, let us 
+             preserve and increase this beauty, not destroy it!
            </p>
            
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(b).</span> âRays were blazing through the atmosphere of the earth, the horizon became bright 
+             <span>(b).</span> Rays were blazing through the atmosphere of the earth, the horizon became bright 
              orange, gradually passing into all the colors of the rainbow : from light blue to dark blue, to 
              violet and then to black. What an indescribable gamut of colors ! Just like the paintings of the 
-             artist Nicholas Roerich.â
+             artist Nicholas Roerich.
            </p>
            
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(c).</span> âThe main force in man â is the power of the spirit.â. Here âManâ of course means 
+             <span>(c).</span> "The main force in man is the power of the spirit." Here "Man" of course means 
              Human.
            </p> 
            
@@ -2374,7 +2374,7 @@ modalText.innerHTML = `
              These two people were humble and natural in their approach to space and to life. Certainly 
              not the arrogance of maths-driven academics and astrologers, nor the unthinking ordinary 
              people who accept their arrogant pronouncements without questioning because they think 
-             even simple questions will make them seem foolish. However, it is the simple, âfoolishâ 
+             even simple questions will make them seem foolish. However, it is the simple, "foolish" 
              questions which have benefited humanity throughout its history in its bettered social systems 
              and better technology and the presence of Human in space.
            </p>
@@ -2409,7 +2409,7 @@ modalText.innerHTML = `
              What college degree system Fatima started more than 1100 years ago in Africa has now led to multi-generation misery and 
              oppressions in most places across Earth now in 2025 for billions of people. This act of Fatima is the single wrong thing 
              in the about thousand year period of the Islamic Golden Age which was a period which forwarded past brilliant knowledges 
-             from the Greeks, the Egyptians, the West Asians, Buddha, Isa and the Chinese, and forwarded some good things 
+             from the Greeks, the Egyptians, the West Asians, Buddha, Isa and the Chinese, and forwarded the good things 
              by its contemporary Brahmans in India, and was the direct influence on establishment of the Enlightenment period 
              in Europe and its consequent Industrial Revolution whose benefits we use now. But that single act of Fatima 
              of adding competition to education more than a thousand years ago has created such sadness. We speak more on the wrongness
@@ -2456,7 +2456,7 @@ modalText.innerHTML = `
              live-narrating their experiences in space as also later recording their experiences and 
              adding these experiences to the Frema internet blog that is produced by each Worker 
              Cooperative, and these blogs being accessible by every human in Space and on Earth. The 
-             blogs will have text, voice, still pictures and videos because someoneâs experience will 
+             blogs will have text, voice, still pictures and videos because someone's experience will 
              become non-limited in explanation by presenting it in different formats. And these blogs will 
              have a response system for the readers and viewers though of course the reception of these 
              informations by the readers and their responses by the readers may take small delays to 
@@ -2703,7 +2703,7 @@ modalText.innerHTML = `
 
            <p>
              Project Mirkeen-01 will be our effort in building a humanity-uniting progressive research base 
-             on the Moon ( Earth's moon ), having the name âMirkeen-01â and to be built beginning in 2036.
+             on the Moon ( Earth's moon ), having the name "Mirkeen-01" and to be built beginning in 2036.
            </p>
 
            <p>
@@ -2714,14 +2714,14 @@ modalText.innerHTML = `
              led by the USA government and the ILRS is led by the governments of China and Russia, 
              and these three governments have needlessly extended to the Moon their disharmony-filled 
              Earthen bloc politics when instead they should have proposed a pan-human, collective Moon 
-             Base effort. So we of Kosmos Society propose a third wayâ¦ sometimes there is a third way 
+             Base effort. So we of Kosmos Society propose a third way... sometimes there is a third way 
              as nicely put in the slogan of the World Social Forum - "Another world is possible". We call 
-             this third way as âProject Mirkeen-01".
+             this third way as "Project Mirkeen-01".
            </p>
 
            <p>
-             âMirkeenâ is a combination of âMirâ and âKeenâ. âMirâ means Peace in the Russian language 
-             and also World. âKeenâ is the main city in the Dune story. Our project involves building a 
+             "Mirkeen" is a combination of "Mir" and "Keen". "Mir" means Peace in the Russian language 
+             and also World. "Keen" is the main city in the Dune story. Our project involves building a 
              separate base on the Moon called Mirkeen-01, separate to Artemis Accords and ILRS, in the 
              following way :
            </p>
@@ -2734,7 +2734,7 @@ modalText.innerHTML = `
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(b).</span> With all this brought-together âsnapshot of humanityâ we begin to build the Mirkeen-01 base on the Moon 
+             <span>(b).</span> With all this brought-together "snapshot of humanity" we begin to build the Mirkeen-01 base on the Moon 
              starting 2036, using our to-Moon transport means ( our-designed Alef-A airship-spaceships manufactured by partner governments ) and 
              our other technologies and the technologies of other partner pan-humanist organizations with 
              common protocols. The construction workers will base themselves in the Alef-As until the 
@@ -2769,12 +2769,12 @@ modalText.innerHTML = `
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(g).</span> The Mirkeen-01 base will be the first very advanced society which wonât have feudalism and 
+             <span>(g).</span> The Mirkeen-01 base will be the first very advanced society which won't have feudalism and 
              tax in any form including money. The true wealth of a society is not in the money, mansions and luxury motorcars 
              held by a few privileged. The true wealth is the potential and the positive ideas and works of the citizens 
              and these can exist without money and tax hoarding. In fact the potential of a society is eroded by the presence of money and 
 	     hoarded tax because so many people have potential but when they get socially excluded through the various aspects of tax  
-             they donât get the opportunity to realize their potential and their society does not get to benefit. 
+             they don't get the opportunity to realize their potential and their society does not get to benefit. 
              This realization extends to all of humanity.
            </p>
            
@@ -2782,7 +2782,7 @@ modalText.innerHTML = `
              <span>(h).</span> For the time being the Mirkeen-01 base can engage in commercial activities 
              to sustain itself other than getting support from Kosmos Society and its partners on Earth. This 
              commerce will be in accordance with our social system for space. The commerce 
-             can be about Moon-available minerals needed on Earth ( iron, silicon etc ) or on othersâ 
+             can be about Moon-available minerals needed on Earth ( iron, silicon etc ) or on others' 
              space stations around Earth; the commerce can be about those produced materials and 
              services which benefit from the low-gravity and vacuum conditions on the Moon; the 
              commerce can be tourism on the Moon; etc.
@@ -2843,7 +2843,7 @@ modalText.innerHTML = `
            
            <p>
              There is a wonderful story written and posted on LinkedIn by Don Michael Feeney called 
-             âThe Interplanetary Civilian : A Novella of Mars and Memoryâ. This story speaks of the 
+             "The Interplanetary Civilian : A Novella of Mars and Memory". This story speaks of the 
              building of the first human settlements in space in terms of technologies and social systems 
              including pan-human development, decentralized governance, the first human baby born in 
              space, an artificial intelligence included with empathy and learning from unprogrammed space events,
@@ -2913,7 +2913,7 @@ modalText.innerHTML = `
              a 10-passenger bus called Ra-E which can be used for full capacity mass public transport or 
              as a taxi for people going for special occasions. The Earthen Ra-E will normally use 
              hovercraft mode on the current roads and other paths and switch to wheelcraft mode and 
-             aircraft mode when neededâ¦ for example, travel on mountain roads is dangerous in 
+             aircraft mode when needed... for example, travel on mountain roads is dangerous in 
              hovercraft mode so wheels are needed. Traveling between cities can be done by using the 
              aircraft mode. These Ra-E vehicles will be capable of being the sole means of mass public 
              transport in cities and other habitations on Earth, replacing most current personal vehicles 
@@ -2924,10 +2924,10 @@ modalText.innerHTML = `
              Presently, the few billion motorized personal vehicles on Earth are greatly the cause of all 
              kinds of needless pollution, noise, mishaps, crimes, Climate Change, social inequality, 
              disharmony and unsightliness. Many governments have tried to resolve this problem within 
-             their countries or cities by taking half-steps like âOdd, even formulaâ ( allow on road the 
+             their countries or cities by taking half-steps like "Odd, even formula" ( allow on road the 
              vehicles with odd numbered number plates one day and even numbered the next day ) and 
              building more flyovers and metro lines. But these governments have not considered the very 
-             simple fact that road traffic problems exist because of what causes the traffic - vehiclesâ¦ in 
+             simple fact that road traffic problems exist because of what causes the traffic - vehicles... in 
              particular personal vehicles.
            </p>
 
@@ -2973,8 +2973,8 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             City corporations installing expensive âartificial intelligenceâ systems to control traffic lights will also never solve the problem 
-             because the AI traffic lights will not make the millions of traffic-causing personal vehicles vanish. These AI traffic control systems 
+             City corporations installing expensive "artificial intelligence" systems to control traffic lights will also never solve the problem 
+             because the AI traffic lights will not make the millions of the traffic-causing personal vehicles vanish. These AI traffic control systems 
              will only help the profiteering corporations who have convinced the city corporations 
              to purchase their useless systems.
            </p>
@@ -2982,7 +2982,7 @@ modalText.innerHTML = `
            <p>               
              Further problems are the disharmony and unsightliness caused by personal vehicles parked 
              on roads in residential areas and public areas. Residents have to engage in quarrels with 
-             personal vehicle owners who park their vehicles in front of someoneâs house gate or these 
+             personal vehicle owners who park their vehicles in front of someone's house gate or these 
              vehicles creating obstruction on the roads. Many times vehicles are parked on footpaths thus 
              blocking citizens from using the footpaths and forcing them to walk on the road, leading to potential mishaps 
              for the citizens by getting hit by vehicles coming from front or back. Personal 
@@ -3445,7 +3445,7 @@ modalText.innerHTML = `
            
          <p style="margin-bottom:4px;"> 
            Dr. Siddharth has been a patient supporter of the organization for more than 
-           two years. He joined our more little group when we didnât have this organization and our sole 
+           two years. He joined our more little group when we didn't have this organization and our sole 
            project was the Kosmos microprocessor+OS. Presently, he has been an advisor in a 
            system-level way.
          </p>
@@ -3553,7 +3553,7 @@ modalText.innerHTML = `
 	
 	<p><p><span>&gt;&gt;</span> 
 	  You will have the same equal salary as everyone else in the company and this salary 
-	  will be comfortable but not an obscene amount which is waved in the face of poor people. 
+	  will be comfortable, not an obscene amount which is waved in the face of poor people. 
 	  We want you to have decency, empathy and pan-human fraternity.
 	</p>	
 	
@@ -3648,7 +3648,7 @@ modalText.innerHTML = `
            
            <p><span>&gt;&gt;</span> 
              Apoorva JR for presenting to us an Instagram page in 2023 which contained reports on eco-friendly ways 
-             of generating electricity and which led to our discovery of the âsand batteryâ which we use in our design of the Faradn generator. 
+             of generating electricity and which led to our discovery of the "sand battery" which we use in our design of the Faradn generator. 
              Apoorvaâs LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#0000FF;">https://www.linkedin.com/in/apoorvajr</a> ].
              Sadly we forgot the Insta page's name but we are thankful to that page's maintainer. 
              That Insta page spoke of the company Polar Night Energy which applied the sand battery in a real life setting despite there being no prior 
@@ -3656,13 +3656,14 @@ modalText.innerHTML = `
            </p>
 
            <p><span>&gt;&gt;</span> 
-             Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, made using an electro-magnetic relay. This vid called â1026 The easiest inverter you will ever makeâ is on this page [ <a href="https://www.youtube.com/watch?v=L-vC9SvU2Lo" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-vC9SvU2Lo</a> ]. 
+             Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, 
+			 made using an electro-magnetic relay. This vid called "1026 The easiest inverter you will ever make" is on this page [ <a href="https://www.youtube.com/watch?v=L-vC9SvU2Lo" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-vC9SvU2Lo</a> ]. 
              This we use in our design of the Faradn generator.
            </p>
            
            <p><span>&gt;&gt;</span> 
-             The YouTube channel âThe Action Labâ for the idea about using heat to run a self-sustained piston engine. 
-             This vid called âThis engine runs on sound wavesâ is on this page [ <a href="https://www.youtube.com/watch?v=xCnxsoXtlmY" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=xCnxsoXtlmY</a> ].
+             The YouTube channel "The Action Lab" for the idea about using heat to run a self-sustained piston engine. 
+             This vid called "This engine runs on sound waves" is on this page [ <a href="https://www.youtube.com/watch?v=xCnxsoXtlmY" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=xCnxsoXtlmY</a> ].
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -3688,7 +3689,7 @@ modalText.innerHTML = `
            </p>
 
            <p><span>&gt;&gt;</span>
-             Coke Studio Bangla Season One for presenting the song âShob Lokey Koyâ which is among our inspirations for our social system for space. 
+             Coke Studio Bangla Season One for presenting the song "Shob Lokey Koy" which is among our inspirations for our social system for space. 
              This song is in the Bengali and Hindi languages and is a celebration of two past South Asian humanitarian mystics, 
              Lalon Fakir and Kabir Das, and calls for unity of humans because they all are the waters from the
              same well except for some differences in the vessels which then contain the waters. 
@@ -3715,7 +3716,7 @@ modalText.innerHTML = `
            </p>
 
            <p><span>&gt;&gt;</span> 
-             Background picture for the website is from the DeviantArt websiteâs DreamUp AI picture generation facility.
+             Background picture for the website is from the DeviantArt website's DreamUp AI picture generation facility.
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -4042,7 +4043,7 @@ modalText.innerHTML = `
                        
        <div class="contact-item">
            <div class="contact-label">
-               <span class="icon">ðº</span>YouTube
+               <span class="icon">📺</span>YouTube
            </div>
            <div class="contact-value">
                <a href="https://youtube.com/@KosmosSociety" target="_blank">youtube.com/@KosmosSociety</a>
@@ -4051,7 +4052,7 @@ modalText.innerHTML = `
        
        <div class="contact-item">
            <div class="contact-label">
-               <span class="icon">ð§</span>Email
+               <span class="icon">📧</span>Email
            </div>
            <div class="contact-value">
                <a href="mailto:hello@kosmossociety.space">hello@kosmossociety.space</a>
@@ -4060,7 +4061,7 @@ modalText.innerHTML = `
        
        <div class="contact-item">
            <div class="contact-label">
-               <span class="icon">ð¼</span>LinkedIn ( Sameer )
+               <span class="icon">💼</span>LinkedIn ( Sameer )
            </div>
            <div class="contact-value">
                <a href="https://linkedin.com/in/sameer-kosmos-society" target="_blank">linkedin.com/in/sameer-kosmos-society</a>
@@ -4069,7 +4070,7 @@ modalText.innerHTML = `
        
        <div class="contact-item">
            <div class="contact-label">
-               <span class="icon">ð</span>Address
+               <span class="icon">📍</span>Address
            </div>
            <div class="contact-value">
                Presently most of us are based in Bangalore city, India, but we will base our HQ in Calcutta city ( now called Kolkata ) 
@@ -4078,7 +4079,7 @@ modalText.innerHTML = `
        </div>
        
        <div class="tea-invitation">
-           <span class="icon">ðµ</span>
+           <span class="icon">🍵</span>
            Talk to us in person over tea
        </div>
    </div>
@@ -4100,32 +4101,3 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
