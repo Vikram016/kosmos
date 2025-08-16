@@ -272,7 +272,7 @@ modalText.innerHTML = `
              We of Kosmos Society are starting the iskra to light the flame for utopian evolution of humans 
              for Space and for Earth so that every human can explore the entire universe to the max extent possible by humans, 
              in a way that is simple, gentle, safe, pan-humanist in a progressive way and respectful of 
-             Nature and Natureâs laws, and the good ideas and technologies formed for space and the good ideas and technologies formed in space 
+             Nature and Nature's laws, and the good ideas and technologies formed for space and the good ideas and technologies formed in space 
              benefit all humans collectively, including on Earth.
            </p>
            
@@ -2436,8 +2436,8 @@ modalText.innerHTML = `
              in terms of the modern assembly-line degree-based education system. He was not at all a college graduate, 
              let alone one with three post-graduate diplomas including from a B-school and subsequent years 
              of experience in the corporate world. This means many from those societies which place great multi-generational 
-             emphasis on college degrees, will disrespect anyone not achieving degrees, so they must stop using electrical machinery 
-             because this field was forwarded by the âunschooledâ Michael Faraday. Stopping thus will be a principled stand. 
+             emphasis on college degrees, and disrespect anyone not achieving degrees, they must stop using electrical machinery 
+             because this field was forwarded by the "unschooled" Michael Faraday. Stopping thus will be a principled stand. 
              But will they ?
            </p>
 
@@ -2864,7 +2864,7 @@ modalText.innerHTML = `
              viruses, eggs etc and seeded various worlds including ours to various levels and then 
              evolutionary steps took over in many of those worlds depending on the conditions of those 
              worlds. This idea is called Panspermia. For example, it is said that the octopus and squid in 
-             Earthâs seas are not from Earth but from space, their eggs carried within ice rocks and then 
+             Earth's seas are not from Earth but from space, their eggs carried within ice rocks and then 
              released on Earth when the ice rocks fell into the seas here. This is a good read about this 
              topic [ <a href=" https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/ target="_blank" style="color:#0000FF;"> https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/"</a> ]. 
            </p>           
@@ -3649,7 +3649,7 @@ modalText.innerHTML = `
            <p><span>&gt;&gt;</span> 
              Apoorva JR for presenting to us an Instagram page in 2023 which contained reports on eco-friendly ways 
              of generating electricity and which led to our discovery of the "sand battery" which we use in our design of the Faradn generator. 
-             Apoorvaâs LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#0000FF;">https://www.linkedin.com/in/apoorvajr</a> ].
+             Apoorva's LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#0000FF;">https://www.linkedin.com/in/apoorvajr</a> ].
              Sadly we forgot the Insta page's name but we are thankful to that page's maintainer. 
              That Insta page spoke of the company Polar Night Energy which applied the sand battery in a real life setting despite there being no prior 
 	     industry use of this method and we are thankful to this company.
@@ -4101,3 +4101,4 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
