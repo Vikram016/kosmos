@@ -10,8 +10,6 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 card.addEventListener('click', function() {
 const chapter = card.getAttribute('data-chapter');
 
-// Our Iskra Plan
-
 // Always ensure modalText has scrollbars and max-height
       modalText.style.overflow = 'auto';
       modalText.style.maxHeight = '90vh';
@@ -32,7 +30,8 @@ const chapter = card.getAttribute('data-chapter');
       if (window.location.hash) {
         history.replaceState(null, '', window.location.pathname + window.location.search);
       }       
-       
+
+// Iskra Plan      
 if (chapter === 'iskra') {
 modalText.innerHTML = `
        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -58,29 +57,34 @@ modalText.innerHTML = `
              scrollbar-color: #fff #222;
            }
 
-            h2 {
-           font-family: 'Poppins', sans-serif;
-           color: #000;
-           text-align: center;
-           margin-bottom: 10px;
+           h2
+	   {
+             font-family: 'Poppins', sans-serif;
+             color: #000;
+             text-align: center;
+             margin-bottom: 10px;
            }
 
-           p{
-           font-family: 'Roboto', sans-serif;
-           color: #000;
-           font-size: 1.1em;
+           p
+	  {
+              font-family: 'Roboto', sans-serif;
+              color: #000;
+	      line-height: 1.6;
            }
 
-           span {
-             color:#000;
-             font-weight: bold;
-             }
+           span
+	   {
+              color:#000;
+              font-weight: bold;
+	   }
 
-             ul{
-             font-family: 'Roboto', sans-serif;
-           color: #000;
-           font-size: 1.1em;
-             }
+           ul
+	   {
+              font-family: 'Roboto', sans-serif;
+              color: #000;
+              //font-size: 1.1em;
+	      line-height: 1.6;
+           }
 
          </style>
                    
@@ -117,38 +121,43 @@ modalText.innerHTML = `
            </p>
            
            <ul style='margin-bottom:1em;'>
+	   
              <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> Complicated in design.
+               <span> >> </span> Complicated in design.
              </li>
+	     
+	     <li style="margin-left:1em; margin-bottom:10px;"> 
+	       <span> >> </span> Uses lot of fuel just to lift itself one centimeter off the launch pad.
+	     </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> Uses a huge amount of fuel that is also dangerous for life and 
+               <span> >> </span> Uses a huge amount of fuel that is also dangerous for life and 
              is expensive, non-recoverable after nozzle expulsion and very explosive.
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> Is as safe as sitting on a huge bomb.
+               <span> >> </span> Is as safe as sitting on a huge bomb.
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> Is very inefficient if we take a combo of fuel, size and carrying capacity.
+               <span> >> </span> Is very inefficient if we take a combo of fuel, size and carrying capacity.
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> Has no single universal type that can carry both humans and other types 
+               <span> >> </span> Has no single universal type that can carry both humans and other types 
              of cargo.
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> Is very expensive to make.
+               <span> >> </span> Is very expensive to make.
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> Is associated with a huge launch infrastructure.
+               <span> >> </span> Is associated with a huge launch infrastructure.
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> Is as ugly as skyscrapers because of its unreasonable tallness.
+               <span> >> </span> Is as ugly as skyscrapers because of its unreasonable tallness.
              </li>
 
            </ul>
@@ -185,66 +194,70 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             Also, there are other techno systems required for space travel, like compact electricity production systems, 
-             reliable wearable computers, food production systems, general purpose spacesuits, to other-world ground and air vehicles 
+             Also, there are other techno systems required for human existence in space, like compact electricity production systems, 
+             reliable wearable computers, food production systems, general purpose spacesuits, other-world ground and air vehicles 
              and so on. These systems either don't exist presently or there is no passionate push towards realizing them 
-             from research form to daily-usage for, or there is no simplicity and universality in their design.
+             from research form to daily-usage form, or there is no simplicity and universality in their design.
            </p>
 
            <h2>Social restrictions of the current space industry</h2>
            
            <ul>
              <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> There are very few human space programs because the design complicatedness and 
-             the expensiveness of the Tall Rockets and Space-planes makes these crafts manufactured by 
-             only a very few government organizations or private organizations who are okay with complicatedness and 
-             have lots of money. These organizations have created an anti-democratic monopoly.
+               <span> >> </span> There are very few human space programs because the design complicatedness and 
+               the expensiveness of the Tall Rockets and Space-planes makes these crafts manufactured by 
+               only a very few government organizations or private organizations who are okay with complicatedness and 
+               have lots of money. These organizations have created an anti-democratic monopoly.
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> Either aspiring space travellers have to be very rich to pay for a single ticket 
-             - at least 50 millions dollars now.
+               <span> >> </span> Either aspiring space travellers have to be very rich to pay for a single ticket 
+               - at least 50 million dollars now.
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> Or if an aspiring space traveler doesn't have the huge money he or she 
-             must be associated with governments... the governments either being those whose country has 
-             the very few human-launching spacecrafts or the governments being allied with the first type 
-             of governments. These types of space travelers are mostly military pilots but sometimes 
-             professional scientists, teachers etc.
+               <span> >> </span> Or if an aspiring space traveler doesn't have the huge money he or she 
+               must be associated with governments... the governments either being those whose country has 
+               the very few human-launching spacecrafts or the governments being allied with the first type 
+               of governments. These types of space travelers are mostly military pilots but sometimes 
+               professional scientists, teachers etc.
+             </li>
+	     
+	     <li style="margin-left:1em; margin-bottom:10px;">
+               <span> >> </span> Or the aspiring space travellers must win seat lottery in some private lottery-based 
+               space-trip arrangement program connected with those governments or private space agencies which have the launch hardware. 
+               But this lottery will be won by only one person per year in the entire world.
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> The aspiring space travelers have to generally have college degrees if they are 
-             not rich. This is irrational and against Nature.
+               <span> >> </span> The aspiring space travelers have to generally have college degrees if they are 
+               not rich. This is irrational and against Nature.
              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> People who want to work in the space industry also must have college degrees. 
-             This too is irrational and against Nature.
+               <span> >> </span> People who want to work in the space industry also must have college degrees. 
+               This too is irrational and against Nature.
              </li>
+             
+             <li style="margin-left:1em; margin-bottom:10px;">
+               <span> >> </span> If an aspiring space traveller is a woman then she is excluded 
+               if she doesn't meet with the irrational low-weight, "she should be fit" requirement for woman space travellers. 
+	       Women naturally are chubby, voluptuous and there is a background and also overt system in the West to exclude 
+	       such women from the space industry as well as make them non-persons via language and mainstream media. 
+	       This excluding is due to the West having influential position for male homosexuals, priests and 
+	       the "health and wellness" industry who all have their own interests in keeping women thin or muscular.
+              </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> Or the aspiring space travellers must win seat lottery in some private lottery-based 
-             space-trip arrangement program connected with those governments or private space agencies which have the launch hardware. 
-             But this lottery will be won by only one person per year in the entire world.
-             </li>
-
-             <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> If an aspiring space traveller is a woman then she is excluded 
-             if she doesn't meet with the irrational low-weight, "fitness" requirement for woman space travellers.
-             </li>
-
-             <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> The very workers who build these current human launch systems are excluded from going to space 
-             on the space systems they built with their sweat, sleepless nights and risk of serious injury or death. The max they are allowed 
-             to do is clap in the control rooms whose screens show the launches of those space systems taking to space the rich and the other privileged.
+               <span> >> </span> The very workers who build these current human launch systems are excluded from going to space 
+               on the space systems they built with their sweat, sleepless nights and risk of serious injury or death. The max they are allowed 
+               to do is clap in the control rooms whose screens show the launches of those space systems taking to space the rich and the other privileged.
              </li>
 
            </ul>
            
            <p>
-             Thus presently most humans are excluded from going to space even if they are intelligent, gentle and respect Nature... 
+             Thus presently most humans are excluded from going to space even if they are intelligent, gentle, physically able and respect Nature... 
              even if experiencing space must be the easy right of every human. But it is not Nature denying most people 
              access to space... it is anti-democratic systems among humans doing so. Also, for those very very few people on Earth 
              who are able to go to space, they go by sitting in very unsafe and unreliable systems which can explode any time 
@@ -259,13 +272,13 @@ modalText.innerHTML = `
              We of Kosmos Society are starting the iskra to light the flame for utopian evolution of humans 
              for Space and for Earth so that every human can explore the entire universe to the max extent possible by humans, 
              in a way that is simple, gentle, safe, pan-humanist in a progressive way and respectful of 
-             Nature and Nature’s laws, and the good ideas and technologies formed for space and the good ideas and technologies formed in space 
+             Nature and Natureâs laws, and the good ideas and technologies formed for space and the good ideas and technologies formed in space 
              benefit all humans collectively, including on Earth.
            </p>
            
            <p>
              Space travel must become as common as bus travel, and space living as common as hotel stay, whenever he or she desires, 
-             with a minimal tax aka usage fee, or no tax at all. Money is a form of tax and in fact in space, 
+             with a minimal tax aka usage fee, or no tax at all. Money is a form of tax and space, 
              tax and money should cease to exist as they have no natural existence in the universe 
              except for the 6000 years or so that they have existed on Earth and have been among the main reasons for needless oppressions, misery and 
              complicatedness. Also should end all the other social restrictions which don't exist in Nature 
@@ -326,7 +339,7 @@ modal.style.display = 'none';
 }
 }, 0);
 
-// Our techno projects
+// Techno projects
 } else if (chapter === 'technoprojects'){
 modalText.innerHTML = `
        <div style="position:relative;padding:0;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:600px;overflow:hidden;">
@@ -348,26 +361,24 @@ modalText.innerHTML = `
             #modalText > div {
               scrollbar-width: thin;
               scrollbar-color: #fff #222;
+            }	    
+            
+            .nav-links
+	    {
+               position: sticky;
+               top: 0;
+               background: #fff;
+               padding: 10px 0 0 0;
+               border-bottom: 1px solid #ddd;
+               margin-bottom: 20px;
+               z-index: 1000;
+               display: flex;
+               flex-direction: column;
+               align-items: center;
             }
-            h2 {
-              font-family: 'Poppins', sans-serif;
-              color: #000;
-              text-align: center;
-              margin-bottom: 20px;
-            }
-            .nav-links {
-              position: sticky;
-              top: 0;
-              background: #fff;
-              padding: 10px 0 0 0;
-              border-bottom: 1px solid #ddd;
-              margin-bottom: 20px;
-              z-index: 1000;
-              display: flex;
-              flex-direction: column;
-              align-items: center;
-            }
-            #topics-toggle {
+	    
+            #topics-toggle
+	    {
               margin-bottom: 10px;
               font-family: 'Poppins', sans-serif;
               font-weight: 600;
@@ -381,72 +392,101 @@ modalText.innerHTML = `
               cursor: pointer;
               transition: background 0.2s, color 0.2s;
             }
-            #topics-toggle:hover {
-              background: #222;
-              color: #fff;
+	    
+            #topics-toggle:hover 
+	    {
+               background: #222;
+               color: #fff;
             }
-            #topics-links {
-              display: none;
-              flex-direction: column;
-              align-items: center;
-              gap: 10px;
-              margin-bottom: 10px;
+	    
+            #topics-links 
+	    {
+               display: none;
+               flex-direction: column;
+               align-items: center;
+               gap: 1px;
+               margin-bottom: 10px;
             }
-            #topics-links a {
-              color: #000;
-              text-decoration: none;
-              font-size: 1em;
-              margin: 0;
-              padding: 6px 0;
-              transition: color 0.2s;
+	    
+            #topics-links a 
+	    {
+               color: #000;
+               text-decoration: none;
+               font-size: 1em;
+               margin: 0;
+               padding: 6px 0;
+               transition: color 0.2s;
             }
-            #topics-links a:hover {
-              color: #0066cc;
+	    
+            #topics-links a:hover
+	    {
+               color: #0066cc;
             }
-            .scroll-content {
-              max-height: 500px;
-              overflow-y: auto;
-              padding: 0 2em 1em 2em;
+	    
+            .scroll-content
+	    {	    
+               max-height: 500px;
+               overflow-y: auto;
+               padding: 0 2em 1em 2em;
             }
-            .section {
-              margin-bottom: 30px;
+	    
+            .section
+	    {
+               margin-bottom: 30px;
+            }	    
+            
+	    .back-to-top
+	    {
+               position: fixed;
+               bottom: 20px;
+               right: 20px;
+               background: #000;
+               color: #fff;
+               padding: 10px;
+               border-radius: 50%;
+               cursor: pointer;
+               display: none;
+               z-index: 1000;
             }
-            .section h3 {
-              color: #000;
-              font-family: 'Poppins', sans-serif;
-              margin-bottom: 10px;
+	    
+	    h2
+	    {
+               font-family: 'Poppins', sans-serif;
+               color: #000;
+               text-align: center;
+               margin-bottom: 20px;
+            }	    
+	    
+            .section p 
+	    {
+               font-family: 'Roboto', sans-serif;
+               color: #000;
+               line-height: 1.6;
             }
-            .section p {
-              font-family: 'Roboto', sans-serif;
-              color: #000;
-              line-height: 1.6;
+	                
+	    ul
+	    {
+               font-family: 'Roboto', sans-serif;
+               color: #000;
+	       line-height: 1.6;
             }
-            .back-to-top {
-              position: fixed;
-              bottom: 20px;
-              right: 20px;
-              background: #000;
-              color: #fff;
-              padding: 10px;
-              border-radius: 50%;
-              cursor: pointer;
-              display: none;
-              z-index: 1000;
-            }
-            span {
+	   
+            span
+	    {
               color: #000;
               font-weight: bold;
             }
+	    
           </style>
           
           <div class="nav-links">
-            <button id="topics-toggle">Topics &#9660;</button>
+            <button id="topics-toggle">Techno projects - Topics &#9660;</button>
             <div id="topics-links">
               <a href="#principles">&gt;&gt; Our progressive product design principles</a>
               <a href="#faradn">&gt;&gt; Faradn electricity generator</a>
               <a href="#alefa">&gt;&gt; Alef-A airship-spaceship</a>
               <a href="#aleff">&gt;&gt; Alef-F space ferry</a>
-              <a href="#bothships">&gt;&gt; About both Alef-A and Alef-F spaceship</a>
+              <a href="#bothships">&gt;&gt; About both Alef-A and Alef-F spaceships</a>
               <a href="#rak">&gt;&gt; Ra-K hovercraft-wheelcraft-aircraft</a>
               <a href="#stillsuit">&gt;&gt; A spacesuit called Stillsuit</a>
               <a href="#dunebuk">&gt;&gt; Dune Buk wearable computer</a>
@@ -454,25 +494,23 @@ modalText.innerHTML = `
               <a href="#iceworm">&gt;&gt; Iceworm ice borer</a>
               <a href="#exoskeleton">&gt;&gt; Exoskeleton</a>
               <a href="#biology">&gt;&gt; Biology researches</a>
-              <a href="#wmachines">&gt;&gt; Machines for water</a>
-              <a href="#habitat">&gt;&gt; Habitat construction on other worlds</a>
+	      <a href="#wmachines">&gt;&gt; Machines for water</a>
               <a href="#serf">&gt;&gt; Serf autonomous satellite for Earth orbit debris cleaning</a>
-              <a href="#terraforming">&gt;&gt; Terraforming</a>
+	      <a href="#habitat">&gt;&gt; Habitat construction on other worlds</a>              
               <a href="#antigravity">&gt;&gt; Anti-gravity</a>
             </div>
+	    
           </div>
          
          <div class="scroll-content">
-
-         <h2>Our techno projects</h2>
-         
+                
          <div id="principles" class="section">
-         <h2>Our progressive product design principles</h2>
-         <div>
+         <h2>Our progressive product design principles</h2> 
+         
            <p><span>&gt;&gt;</span>
              Liberty, Equality, Fraternity, Humanism, Simplicity, Beauty, Gentleness, 
              Human safety as much as possible, Respect for Nature including reversing Climate Change on Earth. 
-             A "Gentleness" example is renaming of the planet “Mars” to “Red One” as the former is the Roman 
+             A "Gentleness" example is renaming of the planet âMarsâ to âRed Oneâ as the former is the Roman 
              god of war while the latter is a gentle name. A "Human safety" example is not following the 
              silliness of nuclear fusion as the means to generate electricity.
            </p>
@@ -482,7 +520,7 @@ modalText.innerHTML = `
            </p>
            
            <p><span>&gt;&gt;</span> 
-             We won’t do a technology just because there are a hundred other companies doing it 
+             We wonât do a technology just because there are a hundred other companies doing it 
              or it has been done for a hundred years or just because it has been proposed by some celebrated scientist but 
              the idea is not sensible, for example the concept called Dyson Sphere aka Dyson Swarm.
            </p>
@@ -521,7 +559,7 @@ modalText.innerHTML = `
            </p>
 
            <p style='margin-left:2em;margin-bottom:10px;'><span>(h).</span> 
-             Technologies selected are simple, reliable and help return humanity anywhere to easier advancement 
+             Technologies selected will be simple, reliable and help return humanity anywhere to easier advancement 
              or be resilient when situation becomes bad because of natural or other events like unusually big solar storm, 
              comet or asteroid strike, a pointless global war etc.
            </p>           
@@ -533,9 +571,7 @@ modalText.innerHTML = `
 
            <p><span>&gt;&gt;</span> 
              As example of the above points, we will not use semiconductors.
-           </p>
-
-           </div>
+           </p>           
 
            </div>
 
@@ -552,7 +588,7 @@ modalText.innerHTML = `
            </p>
            
            <p>
-             There’s also an unspoken nefarious element in the promotion of Space-based Solar Power 
+             Thereâs also an unspoken nefarious element in the promotion of Space-based Solar Power 
              where huge photovoltaic panels will sit in Earth orbit and convert the abundant sunlight there to electricity, 
              then convert the electricity to high-power microwaves and send down the microwaves to certain large-focus spots on Earth 
              where on those spots on the ground the microwaves are converted back to electricity by rectennas 
@@ -574,8 +610,8 @@ modalText.innerHTML = `
            <p>
              Our Faradn generator system will be such a generator which will power all our non-micro-sized products 
              by sitting within them or just outside them. It will produce 24 volts DC which is enough for most purposes, 
-             neither too low a current nor dangerously high. Once started, this generator will be designed to continuously 
-             produce current for at least a month... this is the self-sustained part.
+             neither too low a current nor dangerously high. Once started, this generator will continuously produce current 
+	     for at least a month... this is the self-sustained part.
            </p>
            
            <p>
@@ -585,22 +621,26 @@ modalText.innerHTML = `
              The two approaches are :
            </p>
            
+	   <ul>
+                        	   
+	     <li style="margin-left:1em; margin-bottom:10px;">
+               <span> (a). </span> A simple magnet-repulsion motor mechanism with at least two magnet sets.
+	      </li>
+	      
+	      <li style="margin-left:1em; margin-bottom:10px;">
+               <span> (b). </span> A thermo-mechanical piston mechanism which includes a "sand battery".
+	      </li>
+	      
+	   </ul>  
+           
            <p>
-             (a). A thermo-mechanical piston mechanism which includes a "sand battery".
-           </p>
-
-           <p>
-             (b). A simple magnet-repulsion motor mechanism with at least two magnet sets.
-           </p>
-
-           <p>
-             Please check the “Credits” chapter to see where we derive most of our ideas for the 
+             Please check the âCreditsâ chapter to see where we derive most of our ideas for the 
              generator.
            </p>
            
            <p>
              The name of this system, Faradn, refers to two things : an acknowledgement to Michael
-             Faraday and a nod to the Dune story which has the character Farad’n.
+             Faraday and a nod to the Dune story which has the character Faradân.
            </p>                    
            
            <p>
@@ -647,7 +687,7 @@ modalText.innerHTML = `
              is recovered to water and reused to be jetted again to enable longer-distance continuous-thrust travel, thus the water
              steam here is a largely recoverable fuel. Coal combustion will also be used for 
              effects like braking and positioning near destinations and then for descent on some world. 
-             The Alef-A will also allow for short-distance space travel like from Earth to Moon’s surface.
+             The Alef-A will also allow for short-distance space travel like from Earth to Moonâs surface.
            </p>
 
            </div>
@@ -663,7 +703,7 @@ modalText.innerHTML = `
              cleaning after defecation. The ferry will also have sufficient growing facilities for food crop, 
              fuel crop ( for the coal via biocoal ), other crops, a clinic, mini mills for textile, woodwork, 
              metalwork, bio-engineering, electricals and computers, then tailoring, research facility, mineral processing, 
-             water storage, a small swimming pool that is time-segregated for men and women… 
+             water storage, a small swimming pool that is time-segregated for men and womenâ¦ 
              all this for largely self-sustained long-term living and far travel. And telescopes. This ferry will be able to 
              travel from the Inner Solar System to the Outer Solar System and station around various worlds and 
              space objects to enable from-orbit observations and allow descent-ascent using the Alef-A crafts. 
@@ -683,15 +723,15 @@ modalText.innerHTML = `
            <div id="bothships" class="section">
            <h2>About both Alef-A and Alef-F spaceships</h2>
            
-           <p>The name “Alef” is a joined word with the below meaning :</p>
+           <p>The name âAlefâ is a joined word with the below meaning :</p>
           
            <ul>
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> The “lef” comes from the slogan 
-             “Liberty, Equality, Fraternity” which is a slogan in multiple progressive thought streams 
+             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> The âlefâ comes from the slogan 
+             âLiberty, Equality, Fraternityâ which is a slogan in multiple progressive thought streams 
              including the Preamble ( introduction ) to the Indian Constitution. </li>
 
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> The “A” stands for 
-             Alif ( “The first” ), meaning these spaceships are just the first types of spaceships from 
+             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> The âAâ stands for 
+             Alif ( âThe firstâ ), meaning these spaceships are just the first types of spaceships from 
              our organization Further will be more types. </li>
            </ul>
            
@@ -703,9 +743,9 @@ modalText.innerHTML = `
              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Steam is made 
              from water which is found in many places in the Solar System and beyond.</li>
              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Water in itself is safe to handle by humans.</li>
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Water doesn’t explode normally unlike rocket fuel like 
+             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Water doesnât explode normally unlike rocket fuel like 
              liquid hydrogen.</li>
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Water doesn’t need 
+             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Water doesnât need 
              to be stored at cryogenic conditions unlike with some current popular spacecraft fuels like 
              liquid hydrogen and liquid methane Water can be just kept a warm liquid using electrical heating.</li>
              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> When in space, most of the
@@ -732,7 +772,7 @@ modalText.innerHTML = `
            <p> 
              The name of this vehicle comes from the name Ra who was the supreme ancient Egyptian
              god who had the head of a cat and the body of a man - a hybrid. Other than the dedication to
-             cats the name is also because this Ra-K vehicle is a hybrid vehicle as below. And the “K” is
+             cats the name is also because this Ra-K vehicle is a hybrid vehicle as below. And the âKâ is
              because it will carry humans in kosmos / environments in contrast to our other Ra hybrid
              machines which are described in further sections. 
            </p>
@@ -748,14 +788,16 @@ modalText.innerHTML = `
 
            <p>For propulsion this craft will use a combination of :</p>
            
-           <ul>
-             <li style="margin-bottom:10px;"><span>(a).</span> Hovercraft principle.</li>
+	   <ul>
+                           
+             <li style="margin-left:1em; margin-bottom:10px;"><span>(a).</span> Hovercraft principle.</li>
              
-             <li style="margin-bottom:10px;"><span>(b).</span> Independently-controllable extendible and robust wheels.</li>
+             <li style="margin-left:1em; margin-bottom:10px;"><span>(b).</span> Independently-controllable extendible and robust wheels.</li>
 
-             <li style="margin-bottom:10px;"><span>(c).</span> Electric lift rotors placed on out-folding arms.</li>
+             <li style="margin-left:1em; margin-bottom:10px;"><span>(c).</span> Electric lift rotors placed on out-folding arms.</li>
              
-             <li style="margin-bottom:10px;"><span>(d).</span> Coal combustion.</li>
+             <li style="margin-left:1em; margin-bottom:10px;"><span>(d).</span> Coal combustion.</li>
+	     
            </ul>
 
            <p>
@@ -767,9 +809,9 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             When in aircraft mode, lift is done by six sets of two contra-rotating electric rotors where the
+             When in aircraft mode, lift is done by six sets of two contra-rotating electric rotor blades where the
              arms having the rotors are normally folded up above the craft and will unfold when flying
-             mode is activated and the rotors will lift the craft vertically and descend it vertically.
+             mode is activated and the blades will lift the craft vertically and descend it vertically.
              Horizontal movement is done by two pusher propellers. There may be foldable wings
              attached to the rotor arms to provide glide facility and extra lift.
            </p>
@@ -840,10 +882,7 @@ modalText.innerHTML = `
              descend and ascend and hop on smaller and larger air-having and airless space bodies and
              fly in open space depending on the situation. Of course the wings cannot be used on airless
              bodies and in open space. The fuel design of this jet pack we are still considering. It will also
-             have parachute for extra safety on air-having bodies. Maybe for even more safety and also
-             efficiency, during descent and ascent, each jet pack can team up with the jet packs of
-             adjacent wearers using an electrically-stiffened rope mechanism. This will be like mountain
-             climbers on Earth being connected by a single rope.
+             have parachute for extra safety on air-having bodies.
            </p>
 
            <p>
@@ -864,8 +903,8 @@ modalText.innerHTML = `
            </p>
           
            <p>
-             The processor will be called Meow and will use sound for the computations. “Meow” usually
-             is the sweetest of sounds. Some of the processor’s design will derive from our previous
+             The processor will be called Meow and will use sound for the computations. âMeowâ usually
+             is the sweetest of sounds. Some of the processorâs design will derive from our previous
              processor+OS project, Kosmos, which was an open source project that remains documented
              on the OpenCores website on this page [ opencores.org/projects/taar ]. The Meow processor
              will have two computation parts which both use sound - a digital part for regular
@@ -922,7 +961,7 @@ modalText.innerHTML = `
              is lot lot less affected by space radiation and temperature than semiconductor electronics, unless the radiation is so high 
              that the sound producing elements, the sound transmitting channels, the sound computation chambers, sound receiving elements 
              and other sound elements are physically deformed by the radiation. But of course, such high radiation will kill our wearable computer's 
-             wearer first despite every humanly possible protection, and the only use of such a system is recording such an event. Sound is also easier and 
+             wearer first despite every humanly possible protection, and the only use of such a computer then is recording such an event. Sound is also easier and 
              cheaper to produce, receive and use in computation and storage than light ( optical computing and storage ).
            </p>
            
@@ -965,7 +1004,7 @@ modalText.innerHTML = `
            <p>
              Iceworm, a heater-equipped ice borer and drone carrier that will carry a swarm of
              weight-attached Ra-D drones down into the ice-covered water sea of some ice moon or ice
-             planet by melting / “boring” through the ice. This machine will be controlled from the top side 
+             planet by melting / âboringâ through the ice. This machine will be controlled from the top side 
              by the Dune Buk wearable computer. The name Iceworm derives from the Sandworm animal in the Dune stories 
              but here for ice.
            </p>
@@ -1009,7 +1048,7 @@ modalText.innerHTML = `
            </div>
 
            <div id="biology" class="section">           
-           <h2>Biology researches like</h2>
+           <h2>Biology researches like :</h2>
            
            <p>
              <span> >> </span> The ideal plants to derive biocoal for the coal needed to propel the Alef spaceships and
@@ -1030,7 +1069,7 @@ modalText.innerHTML = `
            <p> 
              <span> >> </span> Structures of spaceships, spacesuits and habitations to be bio-mimicking and also made of biological elements for radiation shielding, self-repair and a sense of more naturality. For
              example, there is interest in the fungus Cladosporium sphaerospermum which was first
-             identified in the Chernobyl reactor's remains and converts the area’s radiation into energy for
+             identified in the Chernobyl reactor's remains and converts the areaâs radiation into energy for
              itself, a process called radiosynthesis which is comparable to plants converting light to
              energy through photosynthesis. This fungus eats the radiation.
            </p>
@@ -1038,7 +1077,7 @@ modalText.innerHTML = `
            <p>
              <span> >> </span> Engineered bacteria can be used to do mining and perhaps even construct useful matter from other existent
              matter like asteroid rock. This is the concept of bio-transmutation and will remove the need for a lot of mechano-chemical 
-             mineral processing factories and their attendant pollution and human physical labor. Examples of use :
+             mineral processing factories and their attendant pollution and human physical labor. Other examples of use :
            </p>
 
            <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> To get the helium gas which our Alef-A airships require 
@@ -1058,19 +1097,19 @@ modalText.innerHTML = `
            <p> 
              <span> >> </span> The previously described phenomenon of radiosynthesis has an interesting application for space which uses the idea 
              similar to the Astrophage bio-organism in Andy Weir's sci-fi book of 2021 called Project Hail Mary. This application is spaceship propulsion. 
-             The use of self-replicating bacteria which absorb / eat the different radiations in space, store those radiation energies internally 
+             This will make use of self-replicating bacteria which absorb / eat the different radiations in space, store those radiation energies internally 
              like an electrical capacitor and can be made to release / discharge those energies in a single burst at extremely 
              high energy levels just like a high-voltage electrical capacitor discharge, and this high energy discharge by these 
-             bio-organisms can propel spaceships at very very high speeds. This mechanism can be used in association with our regular steam propulsion 
-             where the bacteria give initial extremely high speed pushes to spaceships and then are not used and then the steam engines with their recoverable water mechanism, 
-             are turned on to give continuous propulsion so that higher speeds are reached. Before water collection points in space, 
-             the bacteria propulsion on the front of the spaceship is turned on to brake the spaceship 
+             bio-organisms can propel spaceships at very very high speeds, maybe greater than Nuclear Pulse Propulsion. This bio-propulsion can be used in association
+	     with our regular steam propulsion where the bacteria give initial extremely high speed pushes to spaceships and then are not used and 
+	     then the steam engines with their recoverable water mechanism are turned on to give continuous propulsion so that higher speeds are reached. 
+	     Before water collection points in space, the bacteria propulsion on the front of the spaceship is turned on to brake the spaceship 
              and use its steam propulsion to do precise orientation. Maybe our coal propulsion can be used here or 
              it may not need to be used. Water is collected and the propulsion process repeated. 
              At the destination, again the combination of bacteria braking and steam-based positioning is used 
              and maybe to descend on a world the bacteria propulsion can be used in addition to the coal and steam propulsion. 
-             This system may allow us lot faster and shorter-duration travel to the stars in a sustainable way using 
-             bacteria-constructed matter, than is possible with current propulsion methods or proposed methods like even anti-matter.
+             This system may allow us lot faster and shorter-duration travel within the Solar System and to the stars in a sustainable way using 
+             bacteria-constructed matter.
            </p>
 
            <p>
@@ -1118,100 +1157,26 @@ modalText.innerHTML = `
              a human with gentleness, wisdom, sensitiveness and empathy who a cat can trust... certainly not the robotic 
              massively-muscled enhanced beings of some Hollywood films who do not seem "human".
            </p>
-
-           <h2>Eradicating hunger on Earth</h2>
-
-           <p>
-             Hunger on Earth is a two part problem :
-           </p>
+	   
+	   </div>
            
-           <p>
-             <span>(a).</span> A technological problem via use of traditional methods of growing food in open farms
-             which are inefficient, centralized, polluting, climate-vulnerable and pest-vulnerable.
-           </p>
-          
-           <p>
-             <span>(b).</span> A social problem largely via tax on food, within-family feudalist unequal distribution of food, 
-             private profiteering by merchants and geopolitical interferences in the food industry. So many people go hungry or 
-             die of hunger despite abundance of food. There are additional culture-dependent wastages of food.
-           </p>
-             
-           <p>
-             The simple solution for hunger is not only social enlightenment but also a technological 
-             combination of bio-engineered plant-based foods and the nutritious originally animal products 
-             like given in the just above section, and these productions done in decentralized, neighborhood-level indoor farms.
-           </p>
-
-           </div>
-
            <div id="wmachines" class="section">
            <h2> Machines for water which include</h2>
            
-           <p>
-             <span> >> </span> Portable extractors of water from ice, open water, soil and air.
-           </p>
+             <p>
+               <span> >> </span> Portable extractors of water from ice, open water, soil and air.
+             </p>
 
-           <p>
-             <span> >> </span> Water purifiers.
-           </p>
+             <p>
+               <span> >> </span> Water purifiers.
+             </p>
 
-           <p>
-             <span> >> </span> Electrolysis machines.
-           </p>
+             <p>
+               <span> >> </span> Electrolysis machines.
+             </p>
 
-           </div>
-
-           <div id="habitat" class="section">
-           <h2>Habitat construction on other worlds</h2>
-
-           <p>
-             <span>(a).</span> Building most of the habitation underground for protection against space radiation, low
-             temperature, high temperature and space dust / small rocks. The topside will be accessed
-             by a pressurized tunnel which is topped with local soil including radiation-stopping volcanic
-             soil, and connected to the outside by an airlock.
-           </p>
-
-           <p>
-             <span>(b).</span> Some of the wall of the airlock can be strengthened transparent wood window which transmits
-             outside natural light to a mirror on the far inner side which then transmits that light to the
-             inner section of the habitation.
-           </p>
-
-           <p>
-             <span>(c).</span> Compartmentizing the tunnel’s walls like ship hulls so that a breach in one compartment,
-             maybe because of space pebbles crashing into it, can be easily sealed off and can also be
-             self-sealing.
-           </p>
-
-           <p>
-             <span>(d).</span> The internal walls will be made of strengthened wood. Wood is lighter than a metal like
-             steel and also growable in the form of its trees.
-           </p>
-
-           <p>
-             <span>(e).</span> Use of bio-mimicry and biology in the structures for purposes described in previous
-             sections.
-           </p>
-
-           <p>
-             <span>(f).</span> Living quarters can be made to spin at Earth gravity level for healthy living.
-           </p>
-
-           <p>
-             <span>(g).</span> The ground vehicles will be parked outside the tunnel in protected sheds.
-           </p>
-
-           <p>
-             <span>(h).</span> All this construction has to be quake-proof.
-           </p>
-
-           <p>
-             <span>(i).</span> All this construction has to be aesthetic. No need to discard aesthetics just because we
-             are in space. Form and function, both are important.
-           </p>
-
-           </div>
-
+           </div>   
+           
            <div id="serf" class="section">           
            <h2>Serf autonomous satellite for Earth orbit debris cleaning</h2>  
            
@@ -1238,21 +1203,24 @@ modalText.innerHTML = `
              and is just UN-involved in any peace-bringing and life-simplifying efforts. Therefore the
              UN-involved allowed :
            </p>
+	   
+	   <ul>
+             <li style="margin-left:1em; margin-bottom:10px;">
+                <span>(a).</span> A race of governments to individually have their own Earth observation satellites in Earth
+               orbit for purposes of Earth natural resource observation, pollution observation, climate
+               observation, habitation observation, infrastructure observation and of course spying.
+	     </li>
+	     
+	     <li style="margin-left:1em; margin-bottom:10px;">	          
+               <span>(b).</span> Commerce where commercial satellites were sent by profiteering corporations to provide
+               phone communication, internet communication and TV relaying to people around the world
+               but largely for fees.
+	     </li>
+
+           </ul>
 
            <p>
-             <span>(a).</span> A race of governments to individually have their own Earth observation satellites in Earth
-             orbit for purposes of Earth natural resource observation, pollution observation, climate
-             observation, habitation observation, infrastructure observation and of course spying.
-           </p>
-
-           <p>
-             <span>(b).</span> Commerce where commercial satellites were sent by profiteering corporations to provide
-             phone communication, internet communication and TV relaying to people around the world
-             but largely for fees.
-           </p>
-
-           <p>
-             Therefore the result was these debris fields and we of Kosmos Society are joining the effort
+             The result was these debris fields and we of Kosmos Society are joining the effort
              of various individuals and groups in the world coming up with ideas to increasingly lessen
              this debris until it is no longer there.
            </p>
@@ -1268,6 +1236,11 @@ modalText.innerHTML = `
              return to the Earth orbit debris fields, extract another net from its inbuilt net store and do its
              work again and again. And there will be a swarm of Serf satellites to do the job better.
            </p>
+	   
+	   <p>
+	     The satellite will also have a laser to cut up large debris pieces into smaller ones which can be 
+	     then taken into the net.
+	   </p>  
 
            <p>
              The Serf satellite will be propelled by water steam jets in the same water-recovery
@@ -1295,13 +1268,67 @@ modalText.innerHTML = `
            </p>
 
            </div>
-
-           <div id="terraforming" class="section">           
-           <h2>Terraforming</h2>
+	   
+	   <div id="habitat" class="section">
+           <h2>Habitat construction on other worlds</h2>
 
            <p>
-             Explore how to terraform other worlds like Red One. For example, because Red One doesn’t
-             have a natural magnetosphere to protect it from most of the Sun’s radiation and cosmic
+             <span>(a).</span> Building most of the habitation underground for protection against space radiation, 
+	     low temperature, high temperature, low pressure, no pressure and space dust / small rocks.
+	   </p>
+	   
+	   <p>
+	     <span>(b).</span> From the outside there will be an unpressurized tunnel leading into the main underground habitation. 
+             The tunnel is topped with local soil and rocks, electro-magnetic shielding and radiosynthetic fungi, 
+	     all to protect it against radiation, temperature, pressure and space dust / rocks. The tunnel's outer door 
+	     is also fixed with the same materials. A portion of the door will have a strengthened transparent wood window 
+	     which transmits outside natural light to inside the tunnel. Attached to the inner side of this window, will be a movable flap 
+	     used to close the inner side of the window. This flap will be also made of the aforesaid materials.
+           </p>
+	   
+	   <p>
+	     <span>(c).</span> The tunnel will be big enough one Ra-K vehicle to drive into or out of it. 
+	     Inside the tunnel the area will be widened to hold two two Ra-Ks.
+           </p>
+	   	   
+           <p>
+             <span>(d).</span> On the inside of the tunnel on one side will be an airlock system large enough for two people 
+	     to pass side by side and which can hold eight people before letting them to the actual inside of the habitation.
+           </p>
+
+           <p>
+             <span>(e).</span> The internal walls will be made of strengthened wood. Wood is lighter than a metal like
+             steel and also growable in the form of its trees.
+           </p>
+
+           <p>
+             <span>(f).</span> Use of bio-mimicry and biology in the structures for self-healing.
+           </p>
+
+           <p>
+             <span>(g).</span> Living quarters can be made to spin at Earth gravity level for healthy living.
+           </p>
+           
+           <p>
+             <span>(h).</span> All this construction has to be quake-proof.
+           </p>
+
+           <p>
+             <span>(i).</span> All this construction has to be aesthetic. No need to discard aesthetics just because we
+             are in space. Form and function, both are important.
+           </p>
+	   
+	   <p>
+             <span>(j).</span> To protect the habitats against big rocks which may penerate even the underground habitats, 
+	     stationed in orbit will be the bigger versions of the Serf satellite. In case the incoming space rocks have to be taken away 
+	     from that habitation world, the nearest disposal place can be the Sun, Jupiter, Neptune etc depending on which of these
+	     places is near to the habitation world.
+           </p>
+	   
+	   <p>
+             <span>(k).</span> An extension of habitat construction is terraforming other worlds like Red One 
+	     so that they begin to resemble Earth. For example, because Red One doesnât
+             have a natural magnetosphere to protect it from most of the Sunâs radiation and cosmic
              radiation, we can create a magnetosphere by installing large electromagnetic field
              generators around Red One to prevent most radiation from reaching the atmosphere of Red
              One and its surface. These field generators will be powered by our Faradn generators.
@@ -1310,20 +1337,19 @@ modalText.innerHTML = `
            </p>
 
            </div>
-
-           <div id="antigravity" class="section">
+	   
+	   <div id="antigravity" class="section">           
            <h2>Anti-gravity</h2>
 
            <p>
-             A more natural means to fly from worlds ( like Earth ) to space and descend on worlds via “anti-gravity” 
+             A more natural means to fly from worlds ( like Earth ) to space and descend on worlds via âanti-gravityâ 
              mechanism aka Gravity Manipulation and this is if possible at all. Such a craft can be very large and of any shape 
-             and able to carry maybe hundreds of people at a time, like the lander ships 
+             and able to carry maybe hundreds of people at a time, like some of the lander ships 
              in the Dune story.
            </p>
 
            </div>
-
-         </div>
+ 
        </div>
      `;
 modal.style.display = 'flex';
@@ -1335,10 +1361,10 @@ modal.style.display = 'flex';
           toggleBtn.addEventListener('click', function() {
             if (linksDiv.style.display === 'none' || linksDiv.style.display === '') {
               linksDiv.style.display = 'flex';
-              toggleBtn.innerHTML = 'Topics &#9650;';
+              toggleBtn.innerHTML = 'Techno projects - Topics &#9650;';
             } else {
               linksDiv.style.display = 'none';
-              toggleBtn.innerHTML = 'Topics &#9660;';
+              toggleBtn.innerHTML = 'Techno projects - Topics &#9660;';
             }
           });
           // Add event listeners to links to close topics box on click
@@ -1346,7 +1372,7 @@ modal.style.display = 'flex';
           navLinks.forEach(function(link) {
             link.addEventListener('click', function(e) {
               linksDiv.style.display = 'none';
-              toggleBtn.innerHTML = 'Topics &#9660;';
+              toggleBtn.innerHTML = 'Techno projects - Topics &#9660;';
               // Prevent default anchor behavior
               e.preventDefault();
               // Get the target section
@@ -1374,141 +1400,165 @@ modal.style.display = 'flex';
 modalText.innerHTML = `
        <div style="position:relative;padding:0;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:600px;overflow:hidden;">
           <style>
-            #modalText > div::-webkit-scrollbar {
-              width: 10px;
-              height: 10px;
-              background: #fff;
+            #modalText > div::-webkit-scrollbar
+ 	   {
+               width: 10px;
+               height: 10px;
+               background: #fff;
             }
+	    
             #modalText > div::-webkit-scrollbar-thumb {
-              background: #fff;
-              border-radius: 10px;
-              border: 2px solid #222;
+               background: #fff;
+               border-radius: 10px;
+               border: 2px solid #222;
             }
-            #modalText > div::-webkit-scrollbar-track {
-              background: #222;
-              border-radius: 10px;
+	    
+            #modalText > div::-webkit-scrollbar-track
+	    {
+               background: #222;
+               border-radius: 10px;
             }
-            #modalText > div {
-              scrollbar-width: thin;
-              scrollbar-color: #fff #222;
+	    
+            #modalText > div
+	    {
+               scrollbar-width: thin;
+               scrollbar-color: #fff #222;
+            }	    
+            
+            .nav-links
+	    {
+               position: sticky;
+               top: 0;
+               background: #fff;
+               padding: 10px 0 0 0;
+               border-bottom: 1px solid #ddd;
+               margin-bottom: 20px;
+               z-index: 1000;
+               display: flex;
+               flex-direction: column;
+               align-items: center;
             }
-            h2 {
-              font-family: 'Poppins', sans-serif;
-              color: #000;
-              text-align: center;
-              margin-bottom: 20px;
+	    
+            #topics-toggle
+	    {
+               margin-bottom: 10px;
+               font-family: 'Poppins', sans-serif;
+               font-weight: 600;
+               letter-spacing: 0.5px;
+               padding: 10px 30px;
+               font-size: 1.1em;
+               background: #000;
+               color: #fff;
+               border: none;
+               border-radius: 25px;
+               cursor: pointer;
+               transition: background 0.2s, color 0.2s;
             }
-            .nav-links {
-              position: sticky;
-              top: 0;
-              background: #fff;
-              padding: 10px 0 0 0;
-              border-bottom: 1px solid #ddd;
-              margin-bottom: 20px;
-              z-index: 1000;
-              display: flex;
-              flex-direction: column;
-              align-items: center;
+	    
+            #topics-toggle:hover
+	    {
+               background: #222;
+               color: #fff;
             }
-            #topics-toggle {
-              margin-bottom: 10px;
-              font-family: 'Poppins', sans-serif;
-              font-weight: 600;
-              letter-spacing: 0.5px;
-              padding: 10px 30px;
-              font-size: 1.1em;
-              background: #000;
-              color: #fff;
-              border: none;
-              border-radius: 25px;
-              cursor: pointer;
-              transition: background 0.2s, color 0.2s;
+	    
+            #topics-links
+	    {
+               display: none;
+               flex-direction: column;
+               align-items: center;
+               gap: 1px;
+               margin-bottom: 10px;
             }
-            #topics-toggle:hover {
-              background: #222;
-              color: #fff;
+	    
+            #topics-links a
+	    {
+               color: #000;
+               text-decoration: none;
+               font-size: 1em;
+               margin: 0;
+               padding: 6px 0;
+               transition: color 0.2s;
             }
-            #topics-links {
-              display: none;
-              flex-direction: column;
-              align-items: center;
-              gap: 10px;
-              margin-bottom: 10px;
+	    
+            #topics-links a:hover
+	    {
+               color: #0066cc;
             }
-            #topics-links a {
-              color: #000;
-              text-decoration: none;
-              font-size: 1em;
-              margin: 0;
-              padding: 6px 0;
-              transition: color 0.2s;
+	    
+            .scroll-content
+	    {
+               max-height: 500px;
+               overflow-y: auto;
+               padding: 0 2em 1em 2em;
             }
-            #topics-links a:hover {
-              color: #0066cc;
+	    
+            .section
+	    {
+               margin-bottom: 30px;
+            }            
+            
+            .back-to-top
+	    {
+               position: fixed;
+               bottom: 20px;
+               right: 20px;
+               background: #000;
+               color: #fff;
+               padding: 10px;
+               border-radius: 50%;
+               cursor: pointer;
+               display: none;
+               z-index: 1000;
             }
-            .scroll-content {
-              max-height: 500px;
-              overflow-y: auto;
-              padding: 0 2em 1em 2em;
+	    
+	    h2
+	    {
+               font-family: 'Poppins', sans-serif;
+               color: #000;
+               text-align: center;
+               margin-bottom: 20px;
+            }	    
+	    
+	    .section p
+	    {
+               font-family: 'Roboto', sans-serif;
+               color: #000;
+               line-height: 1.6;
+            }	    
+	    
+            span
+	    {
+               color: #000;
+               font-weight: bold;
             }
-            .section {
-              margin-bottom: 30px;
-            }
-            .section h3 {
-              color: #000;
-              font-family: 'Poppins', sans-serif;
-              margin-bottom: 10px;
-            }
-            .section p {
-              font-family: 'Roboto', sans-serif;
-              color: #000;
-              line-height: 1.6;
-            }
-            .back-to-top {
-              position: fixed;
-              bottom: 20px;
-              right: 20px;
-              background: #000;
-              color: #fff;
-              padding: 10px;
-              border-radius: 50%;
-              cursor: pointer;
-              display: none;
-              z-index: 1000;
-            }
-            span {
-              color: #000;
-              font-weight: bold;
-            }
+	    
          </style>
 
          <div class="nav-links">
-            <button id="topics-toggle">Topics &#9660;</button>
+            <button id="topics-toggle">Social system for space - Topics &#9660;</button>
             <div id="topics-links">
               <a href="#intro">&gt;&gt; Introduction to this chapter </a>
               <a href="#universe">&gt;&gt; The Universe and human nations on Earth </a>
-              <a href="#equality">&gt;&gt; Natural equality in accessing Space and living in Space </a>
-              <a href="#organization"&gt;&gt; Social organization in Space travel and Space living </a>
+              <a href="#equality">&gt;&gt; Natural equality in accessing space and living in space </a>
+              <a href="#organization">&gt;&gt; Social organization in space travel and space living </a>
               <a href="#tea">&gt;&gt; Tea and Space</a>
-              <a href="#appearance">&gt;&gt; Appearance and personality of the Space travellers </a>
-              <a href="#life">&gt;&gt; Effects of greatly increased human life </a>
-              <a href="#family">&gt;&gt; Family system in Space </a>
-              <a href="#sports">&gt;&gt; Sports and recreation in Space </a>
-              <a href="#language">&gt;&gt; Human language in Space </a>
-              <a href="#education">&gt;&gt; Education in Space </a>
+              <a href="#appearance">&gt;&gt; Appearance and personality of the space travellers </a>
+              <a href="#family">&gt;&gt; Family system in space </a>
+              <a href="#sports">&gt;&gt; Sports and recreation in space </a>
+              <a href="#language">&gt;&gt; Human language in space </a>
+              <a href="#education">&gt;&gt; Education in space </a>
               <a href="#competition">&gt;&gt; Why competition is wrong in space </a>
               <a href="#satellite">&gt;&gt; Basis of satellite design </a>
-              <a href="#mining">&gt;&gt; Mining in Space </a>
+              <a href="#mining">&gt;&gt; Mining in space </a>
               <a href="#mirkeen01">&gt;&gt; Project Mirkeen-01 </a>
               <a href="#aliens">&gt;&gt; Meetings or sightings of aliens </a>
               <a href="#city">&gt;&gt; City design and city reconfiguration on Earth </a>
             </div>
+
          </div>
 
-         <div class="scroll-content">
-         
-         <h2> Our social system for space</h2>
-         
+         <div class="scroll-content">         
+                  
          <div id="intro" class="section">
            <h2> Introduction to this chapter</h2>
         
@@ -1538,7 +1588,7 @@ modalText.innerHTML = `
 
            <p>
              This draft is substantial and we will further it by discussions in progressive forums like World Social Forum and 
-             join it with others’ drafts for this purpose. Some points below are “To be done”.
+             join it with othersâ drafts for this purpose. Some points below are âTo be doneâ.
            </p>
 
            </div>
@@ -1560,16 +1610,19 @@ modalText.innerHTML = `
 
            <p>
              The famous slogan "Liberty, Equality, Fraternity" which our organization uses, 
-             it is used in other progressive thought streams including the Preamble ( introduction ) to the Indian Constitution 
-             whose main archictect was the great liberator in India, BR Ambedkar, and this constitution was mainly drafted 
-             during the 1940s and before adoption at country level, it was discussed in the in-development parliament by other progressives 
-             like Hasrat Mohani and Brajeshwar Prasad. They wanted India to be a Socialist society, including Hasrat Mohani wanting to name India 
-             as UISR - Union of Indian Socialistic Republics, which derived from the name USSR, the first modern Socialist society, 
-             and Brajeshwar Prasad wanting to introduce "Socialist" into the preamble ( introduction ) of the in-design 
-             Indian constitution to describe what newly independent India must be. He also said that "Liberty" and "Equality" do not go together unless 
-             that society becomes a class-less society. He also said that India, and by extension other countries,
-             should not use "Sovereign" to describe themselves because that word implies war and imperialism and these are of course 
-             against pan-human fraternity, the third word in "Liberty, Equality, Fraternity".
+             it is used in other progressive thought streams. Newly independent India in the late 1940s presents 
+	     a wonderful such example. The Indian Constitution's main archictect was the great liberator, BR Ambedkar, 
+	     and he produced a wonderfully progressive system for India and this included "Liberty, Equality, Fraternity" 
+	     being placed in the preamble ( short introduction ) to this constitution. This constitution was mainly drafted during the late 1940s 
+	     and before adoption at country level it was discussed in the in-development parliament by other progressives 
+             like Hasrat Mohani and Brajeshwar Prasad. These two chaps also wanted India to be a progressive, humanist society. 
+	     Hasrat Mohani proposed to name India as UISR - Union of Indian Socialistic Republics, which derived 
+	     from the name USSR, the first modern Socialist society. Brajeshwar Prasad proposed the word "Socialist" 
+	     to be included into the preamble of the constitution to describe what newly independent India must be. 
+	     He also said that "Liberty" and "Equality" do not go together unless that society becomes a class-less society. 
+	     He also said that India, and by extension other countries, should not use "Sovereign" to describe themselves 
+	     because that word implies war and imperialism and these are of course against pan-human fraternity, 
+	     the third word in "Liberty, Equality, Fraternity". Newly independent India was a time of great promise.
            </p>
 
            <p>
@@ -1606,7 +1659,7 @@ modalText.innerHTML = `
              The ordinary people also had to enlist in the wars the kings waged 
              and all these wars brought were more land for the kings to exploit, more gold and jewels 
              for the kings' treasury and more death, maiming and famine for the ordinary French. 
-             The king ate the most luxuriously prepared dinners and the ordinary French endured 
+             During the war and after the war the king ate the most luxuriously prepared dinners and the ordinary French endured 
              famines with usually not even the basic bread.
            </p>
 
@@ -1614,7 +1667,7 @@ modalText.innerHTML = `
              System-promoted language in Royal France and remainder of Medieval Europe also took on the class oppression 
              attitude of the system. The word "Villain" now is taken to be someone inherently bad, somebody evil, but the word's
              origin is a classist slur used by the rich against the "low-born" of the poor "villa" houses. As is usual with priests, the French priests 
-             declared that to be poor automatically meant the person is bad and he and she were condemned by God to remain poor because of their inherent 
+             declared that to be poor automatically meant the person is bad and he or she was condemned by God to remain poor because of their inherent 
              "badness" and that the French king was massively rich to easily afford multiple diamond necklaces because God ordained the king to be rich 
              because the king was without blame. This promoted belief was ridiculously contradictory to the realizations and 
              teachings of Isa / Christ but his ideas had been hijacked by priests who did oppression in his name.
@@ -1632,7 +1685,10 @@ modalText.innerHTML = `
              was told by her courtiers that the ordinary citizens were facing famine and that they didn't have the money and 
              the simple access to basic bread and the queen declared carelessly "Then let them eat brioches". Brioche is a French bread 
              which is more expensive than the ordinary bread because it has butter and eggs, which were items out of reach of the French masses 
-             who did not have even the simple bread and were long suffering the famines created by the French feudalism and its needless wars. 
+             who did not have even the simple bread and were long suffering the famines created by the French feudalism and its needless wars.
+	   </p>
+
+           <p>
              The queen's uncaring remark of "Then let them eat brioches" was a rallying cry for the revolutionaries to finally remove 
              the millennia-old royalty of France... the monarchy... and replace it with the people's republic where ended the feudalism of 
              the king and his associated elements like the profiteering merchants and the priests. These French revolutionaries gave humanity 
@@ -1641,7 +1697,7 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             This revolutionary French stream continued to the next century and in 1871 the French progressive pan-humanist 
+             This revolutionary French stream continued to flow in the next century and in 1871 the French progressive pan-humanist 
              Eugene Pottier wrote the song "The Internationale" which called for all wretched and hungry humans of Earth to rise 
              and rebuild Earth with a clean slate where will be replaced the oppression of the heavy rule of the monarchs and the profiteers and 
              the fake promises of the priests of divine salvation of the peasants. All these to be cast aside by the peasants emancipating themselves and 
@@ -1672,7 +1728,7 @@ modalText.innerHTML = `
 
            <p>
              To extend Tagore's idea, there is difference between patriotism and nationalism. 
-             Patriotism means inherent love ane empathy for the oppressed, the innocent and the sensible of one's own society and 
+             Patriotism means inherent love and empathy for the oppressed, the innocent and the sensible of one's own society and 
              wanting one's society to become gentle, empathetic, just, rights-filled, having all reasonable freedoms and evolved 
              and having fraternity with all of humanity. However, Nationalism, in particular Ultranationalism, is the opposite, 
              narrow and contradictory concept which ignores the oppressed, the innocent and the sensible in one's own society and 
@@ -1693,14 +1749,14 @@ modalText.innerHTML = `
            
            <p>
              But this same apathetic, monthly-wage middle class person is the first to scream war against a progressive society 
-             5000 kilometers away where there are no homeless and hungry humans and no wage slaves because every human there is closer 
-             to having all the natural freedoms due to humans who don't depend on measly wage from rich exploitative feudals who rather wish
+             5000 kilometers away where there are no homeless and hungry humans and no tax and no wage slaves because every human there is closer 
+             to having all the natural freedoms due to humans not depending for survival on measly wage from rich exploitative feudals who rather wish
              that they did not have to give even that measly wage but could extract every work from the workers. And in that other faraway 
-             progressive society citizens don't have to struggle to take ungiving permissions of family elders just to love a person of the opposite gender 
-             or to invent, write, paint and observe the universe and won't be told to either earn money to be called of worth or just die silently. 
-             But our unthinking middle class person will call that humanist society a "rogue nation" which must be changed even by genocide so that 
-             "Democracy" can be brought there and Free Market can be brought there and the anti-worker teachings of B-schools can be brought there, 
-             LOL.
+             progressive society citizens don't have to struggle to take ungiving permissions of family elders just to love a person of 
+	     the opposite gender or to invent, write, paint and observe the universe and won't be told to either earn money to be called of worth 
+	     or just die silently somewhere far away. But our unthinking middle class person will call that humanist society a "rogue nation" which must be changed 
+	     even by genocide so that "Democracy" can be brought there and Free Market can be brought there and the anti-worker teachings of B-schools can be 
+	     brought there, LOL.
            </p>
 
            <p>
@@ -1714,16 +1770,16 @@ modalText.innerHTML = `
            <p>
              However, as per natural laws no human from one modern nation is automatically superior in the 
              grandness of Universe / Kosmos / Space than a human from another modern nation. A socially-advantaged 
-             human from one modern “superpower wealthy nation” will be burned up in the Sun as easily as a 
-             money-poor human from another modern “superpower wealthy nation”... to believe otherwise is 
+             human from one modern âsuperpower wealthy nationâ will be burned up in the Sun as easily as a 
+             money-poor human from another modern âsuperpower wealthy nationâ... to believe otherwise is 
              pointless arrogance. Some thoughtful space travellers who have gone to Earth orbit have 
-             spoken of seeing the Earth as a singular delicate blue world with no natural boundaries 
-             dividing nations, though to us adding here : with the exception of Australia and other island 
-             nations bounded by the seas but that is besides the point. It is then unwise to be fanatic 
-             ultranationalists in the kosmos when just the Sun can fit in itself a million Earths and the Sun being 
+             spoken of seeing the Earth as a singular delicate blue world in the dark of space, 
+	     with no natural boundaries dividing nations, though to us adding here : with the exception of Australia and 
+	     other island nations bounded by the seas but that is besides the point. It is then unwise to be fanatic 
+             nationalists in the kosmos when just the Sun can fit in itself a million Earths and the Sun being 
              just a medium-sized star, and in reality the Sun instantly burning up those million Earths and 
              all the nations within them and with them all of the eight billion people of Earth. 
-             A human is a tiny humble “zarra” / speck in the infinite Universe.
+             A human is a tiny humble âzarraâ / speck in the infinite Universe.
            </p>
 
            <p>
@@ -1731,7 +1787,7 @@ modalText.innerHTML = `
              have come from developments from people of various parts and cultures of Earth, whether 
              those people acting individually or by group efforts and these people taking inspiration from 
              elsewhere or even being helped by others. Even the French Revolution previously 
-             mentioned did not derive its idea in isolation but derived from philosophers from previous 
+             mentioned did not derive all its ideas in isolation but derived some from philosophers from previous 
              centuries and millenia from everywhere. For example, the Greeks of 2500 
              years ago thought up the semi-democratic idea of Demokratia where many non-slave male 
              citizens directly participated in the governance of their cities rather than kings and lower 
@@ -1742,14 +1798,14 @@ modalText.innerHTML = `
            <p>
              Also, humans have mixed throughout history and this point becomes apparent
              when we speak of those Demokratia Greeks sharing their era with another great liberator, Buddha, in South 
-             Asia / India, and when we speak of Buddha's ideas being preached later. The South Asian / Indian great emperor Ashoka
+             Asia / India, and Buddha's ideas being preached later. The South Asian / Indian great emperor Ashoka
              lived more than two centuries after Buddha. He was great not because he was an emperor
              but because he used his position to advance the teachings of Buddha throughout South Asia / India and beyond.
-             Ashoka’s ancestry may have had cross-cultural connections because his grandfather the king Chandragupta Maurya
-             married a girl from Iran called Helena whose father was the Greek empire’s Greek governor of West Asia,
-             Seleukus Nikator. Helena’s mother was Irani. Helena was aged 15-17 and Chandragupta was 40 and 
+             Ashokaâs ancestry may have had cross-cultural connections because his grandfather the king Chandragupta Maurya
+             married a girl from Iran called Helena whose father was the Greek empireâs Greek governor of West Asia,
+             Seleukus Nikator. Helenaâs mother was Irani. Helena was aged 15-17 and Chandragupta was 40 and 
              it is said that both liked each other at first sight even though theirs was a political marriage 
-             proposed by Helena’s father. It is possible that Helena’s son by Chandragupta was 
+             proposed by Helenaâs father. It is possible that Helenaâs son by Chandragupta was 
              Bindusara whose son was Ashoka so Ashoka may have had Greek and Irani genes.
            </p>
 
@@ -1766,24 +1822,27 @@ modalText.innerHTML = `
            <p>
              And relevant to our organization being in the space industry and the above sections speaking of trans-border progressive influences, 
              modern rocketry derives its advancement to Tipu Sultan's work in rocketry, though his security situation forced him to look at this science 
-             only for military purposes despite him being an internationalist. And before him the Mongols advanced rocketry 
-             and the origin of rocket science goes back to the Chinese.
+             only for military purposes despite him being a thoughtful person and an internationalist. And before him the Mongols advanced rocketry 
+             and the origin of rocket science goes back to the ancient Chinese.
            </p>
 
            <p>
              About technology influences again, today we all humans use electrical machines every second and it was a Britisher
              by name Michael Faraday living in the 1800s who enabled our modern use of electrical machines by devising the mechanisms and 
-             understandings of electro-magnetism and electro-chemistry. Going about 2000 years earlier than Faraday, the Greeks used an entirely 
-             mechanical machine to determine astronomical positions and events like eclipses years in advance. This machine
-             is now called Antikythera Mechanism because one sample of this machine was found under the waters off the Greek island of Antikythera in 1901. 
-             This mechanical machine is considered the earliest analog computer and used the lunar calendar from Ancient Egypt possibly dating back a thousand years
-             previous to the devising of this machine, which means more than 3000 years previous
-             to our present modern age.
+             understandings of electro-magnetism and electro-chemistry.
+	   </p>
+
+	   <p>
+	     Going about 2000 years earlier than Faraday, the Greeks used an entirely mechanical machine to determine astronomical positions and 
+	     events like eclipses years in advance. This machine is now called Antikythera Mechanism because the only surviving sample of this machine was found 
+	     under the waters off the Greek island of Antikythera in 1901.  This mechanical machine is considered the earliest analog computer and 
+	     used the lunar calendar from Ancient Egypt possibly dating back a thousand years previous to the devising of this machine, 
+	     which means more than 3000 years previous  to our present modern age.
            </p>         
 
            <p>
-             Jumping back to the modern age, in India between the 1850s and 1930s lived the general researcher Jagadish Chandra Bose... a man interested in many sciences 
-             including humane social conduct. He was the first to investigate microwave radiofrequency and made great discoveries
+             Jumping back to the modern age, in India between the 1850s and 1930s lived the general researcher Jagadish Chandra Bose... 
+	     a man interested in many sciences including humane social conduct. He was the first to investigate microwave radiofrequency and made great discoveries
              in botany and among his researches living now is our modern telecom including the everywhere-present
              cell phone. He treated other humans in an equal manner, whether they be of "lower caste" or of other religions, and he was against the patent system
              so in today's terms he can be called part of the earlier Open Source Knowledge movement
@@ -1816,8 +1875,8 @@ modalText.innerHTML = `
            
            <p>
              The current human-transport space industry is feudal where aspiring space travelers 
-             have to fit those irrational categories described in our first chapter "Our Iskra Plan". 
-             Other people simply don’t have a chance and this is unfair as it is only human social 
+             have to fit those irrational categories described in our first chapter "Iskra Plan". 
+             Other people simply donât have a chance and this is unfair as it is only human social 
              constructs which are doing this preventing and not the universe through celestial messaging 
              where the universe displays an "Only allow them" list in Earth's night sky every night 
              where the list shows names of only the moneyed and the other unfairly privileged. But in truth 
@@ -1827,7 +1886,7 @@ modalText.innerHTML = `
            <p>
              The upcoming commercial space industry promoted by certain groups on Earth pushes feudalism 
              and commerce to space, for example the strange art of some MBA affixing pointless commercial projection 
-             slogans to space like “The trillion dollar space economy”. Two things to comment on this :
+             slogans to space like âThe trillion dollar space economyâ. Two things to comment on this :
            </p>
            
            <p>
@@ -1840,19 +1899,20 @@ modalText.innerHTML = `
              to take people to space and keep them alive in space and provide them with communication and food and healthcare and rescue 
              and collaboration and other things. Things that should be available to every human without he or she 
              being taxed. How can there be tax on oxygen, water and food in space ? Surely these billionaires 
-             are not Nature to have produced them or surely when these billionaires on Earth see rain falling from the sky and it feeding the rivers
+             are not Nature to have produced them and surely when these billionaires on Earth see rain falling from the sky and it feeding the rivers
              and the seas and seeding plants and feeding the birds and the other animals, the billionaires don't find Nature's message in the sky 
-             demanding that they pay Nature tax and only then it will send rain to their gardens and to the farms 
-             from where they get their luxury food. Does the Sun send its life-giving light to them by demanding tax ? If the billionaires 
-             don't get taxed by Nature, how can they tax us ?
+             demanding that they pay Nature a big tax and only then it will send rain to their gardens and to the farms 
+             from where they get their luxury food. Does the Sun send its life-giving light and heat to them by demanding tax ? If the billionaires 
+             don't get taxed by Nature how can they tax us ?
            </p>
 
            <p>
              About taxing telecommunication in space, imagine a scene where you and your friend are talking across a table 
-             and someone comes and demands that both of you pay him tax so that you can speak to each other. This demand cannot be called 
-             anything but ransom. When the wannabe space billionaires want to tax you to use light and radio-frequency to communicate with, 
-             these two things are productions of Nature which our billionaires themselves will not tax themselves to use or give tax to Nature 
-             so why should they expect that other humans must be taxed for communication ?
+             and someone comes and demands that both of you pay him tax so that you can speak to each other else you cannot. 
+	     This demand cannot be called anything but ransom. The wannabe space billionaires want to impose this ransom on you 
+	     by taxing you for use of light and radio-frequency to communicate in space and these two things are productions of Nature 
+	     which our billionaires will not tax themselves to use or give tax to Nature so why should they expect that other humans 
+	     must be taxed for communication ?
            </p>
            
            <p>
@@ -1886,16 +1946,16 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             Tax is not from Nature... neither in form of money or in form of other demands like 
-             compulsory college degrees, "adult age 18", belief in certain divinities, their idea of "physical fitness" for space travel, 
-             belonging to only certain Earthen countries their governments like, and so on. The universe belongs to all humans 
+             Tax is not from Nature... neither in form of money or in form of other demands like compulsory college degrees, "adult age 18", 
+	     belief in certain divinities, the billionaires' idea of "physical fitness" for women to do space travel, 
+	     or for space travellers to belong to only certain Earthen countries their governments like, and so on. The universe belongs to all humans 
              as long as they respect Nature and Nature's laws and do not be cruel and apathetic to others.
-           </p>
-
+           </p>	   
+	   
            <p>
              For us, Kosmos Society, the simple answer is to enable a cheaper, simpler and safer space industry which also propagates true progressive pan-human 
              liberty, equality and fraternity, and we will do this by designing space machinery which are simplified, reliable, aesthetic and universal in usage 
-             and can be built for cheap, operated for cheap and repaired for cheap. can be enabling. And these systems will be built and deployed by governments to benefit 
+             and can be built for cheap, operated for cheap and repaired for cheap. And these systems will be built and deployed by governments to benefit 
              their citizens and all citizens of humanity, on Earth and in Space, and these governments should collect no tax or minimal tax for :
            </p>
 
@@ -1938,6 +1998,12 @@ modalText.innerHTML = `
              <span>(i).</span> Providing education in space. Please read of this topic more 
              in the below section of that name.
            </p>
+	   
+	   <p>
+	     Many of you may ask, how will the governments earn money if they send their citizens to space by 
+	     placing minimal tax on their citizens or no tax ? This question is addressed in the next section in the 
+	     last point there.
+	   </p>
 
            </div>
 
@@ -1967,14 +2033,13 @@ modalText.innerHTML = `
            <p>
              So the organization of work groups in space should be democratic and that is easily done by 
              organizing them as Workers Cooperatives. The idea of Workers Cooperative has association 
-             with the older ideas of liberty, equality and fraternity, and enables true democracy via participatory 
-             democracy where every human present in the organzation participates in the continuance 
-             of that organization equally and benefits from it equal to other members and has the same human rights 
-             as the others.
+             with the older ideas of liberty, equality and fraternity, and enables true democracy where every human present 
+	     in the organzation participates in the continuance of that organization equally and benefits from it equal 
+	     to other members and has the same human rights as the others.
            </p>          
           
            <p>
-             A Workers Cooperative has seventeen general outcomes for space and in general for anywhere among human presence :
+             A Workers Cooperative has eighteen general outcomes for space and in general for anywhere among human presence :
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -1983,18 +2048,18 @@ modalText.innerHTML = `
            </p>
            
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(b).</span> There is no exploitative feudal boss and no subordinate… all the workers are equal co-workers in 
-             respect, right to participate in the organization’s decisions, voluntary idea giving and 
+             <span>(b).</span> There is no exploitative feudal boss and no subordinateâ¦ all the workers are equal co-workers in 
+             respect, right to participate in the organizationâs decisions, voluntary idea giving and 
              cross-team idea giving. Any worker can call a discussion circle for a complaint, issue raising 
              or idea suggestion, and the other workers must listen and participate.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(c).</span> All involved in the organization are “co-workers” and not “workers” or "employees".
+             <span>(c).</span> All involved in the organization are âco-workersâ and not âworkersâ or "employees".
            </p>
            
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(d).</span> There will be a natural tendency to not have a “boss cabin”.
+             <span>(d).</span> There will be a natural tendency to not have a âboss cabinâ.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -2019,7 +2084,7 @@ modalText.innerHTML = `
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(i).</span> The existence of a Workers Cooperative doesn’t depend on if the economic system 
+             <span>(i).</span> The existence of a Workers Cooperative doesnât depend on if the economic system 
              works with money system or money has been abolished. The Workers Cooperative concept 
              is efficient in both situations. 
            </p>
@@ -2042,10 +2107,10 @@ modalText.innerHTML = `
              <span>(l).</span> This system leads to thinking about decentralization / 
              self-governance, gentleness, a non-corporate environment, a non-militarist environment and 
              a pan-human outlook. This also means in the space context, no hierarchy and no traditional 
-             aerospace titles like “Captain” and “Commander”. The environment in the group will be relaxing and 
-             focused towards the purpose of the group’s setting-up and not for hierarchy-induced disharmony and “making a career”. 
-             This also means no separate “high class” living arrangement for some boss and no lower 
-             “economy class” arrangements for others. All people will be given equally comfortable living 
+             aerospace titles like âCaptainâ and âCommanderâ. The environment in the group will be relaxing and 
+             focused towards the purpose of the groupâs setting-up and not for hierarchy-induced disharmony and âmaking a careerâ. 
+             This also means no separate âhigh classâ living arrangement for some boss and no lower 
+             âeconomy classâ arrangements for others. All people will be given equally comfortable living 
              arrangements.
            </p>
            
@@ -2053,8 +2118,10 @@ modalText.innerHTML = `
              <span>(m).</span> So, all work participants on one spaceship or an independent group on one planetary 
              research station or an independent group on one mining station etc are collectively called a 
              Workers Cooperative. Work will be distributed as per skill, interest, requirement and in rotation. 
-             The first two things are not written in stone that they can’t be acquired as time progresses. The tasks 
-             can be water management, food, communication, engines, waste management, caring for 
+             The first two things are not written in stone that they canât be acquired as time progresses. The tasks 
+             will be rotated to prevent a worker from being slotted into a relatively unpleasant task for a long time which  
+	     creates a class system consciously or unconsciously. The tasks within a Workers Cooperative can be 
+	     water management, food, communication, engines, waste management, caring for 
              the tourists, understanding possible Moon landing sites, understanding an asteroid etc. 
              There will be one or more members for each task as per requirement and total group size.
            </p>
@@ -2066,21 +2133,21 @@ modalText.innerHTML = `
              within that cooperative and in accordance with Natural laws. All the workers including the Coordinator 
              can be of any naturally reasonable responsible age, whether 13 or 30 or 90... anyone as long as they make sense 
              and are willing and able to put physical or intellectual effort including being a good leader. And this responsibility of 
-             “Coordinator” can rotate between the cooperative’s members as per requirement or 
+             âCoordinatorâ can rotate between the cooperativeâs members as per requirement or 
              consensus.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
              <span>(o).</span> So a Workers Cooperative is democratic, enables harmony and enables more 
-             focus on the group’s purpose. 
+             focus on the groupâs purpose. 
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
              <span>(p).</span> Further, a tourist in space a few hundred thousand kilometers from Earth ( the Moon ) or a 
              few hundred million kilometers from Earth ( the Asteroid Belt ) will naturally feel deprived 
-             from Earthen settings including the social aspect and the simple fact of feeling the Sun’s 
+             from Earthen settings including the social aspect and the simple fact of feeling the Sunâs 
              heat on the open face and this deprivation will depress a person for a moment or more, 
-             despite that tourist’s purpose of tourism. But if every person in the space efforts, including 
+             despite that touristâs purpose of tourism. But if every person in the space efforts, including 
              the tourist, participates in the tasks by being part of the space Workers Cooperatives it will 
              keep him or her engaged and away from depression, enable fraternity and contribute to one 
              more hand in the tasks.
@@ -2094,22 +2161,16 @@ modalText.innerHTML = `
              Earth carrying their gentle experiences in the space Workers Cooperatives.
            </p>
 
-           <p>           
-             This simple system of employment above we hope the middle class person especially will adopt 
-             and propagate including to his children. All that the typical middle classee has since the end of 
-             Second World War is enter into an exploitative, feudal workplace at age 25 and spent his next 40 years 
-             there, without the thought of natural human dignity and rights as a worker, without protest, 
-             and then he will be told he is now 65 of age and he has arrived upon the age of Retirement and 
-             must leave the workplace. He then is left with not much money to live by. He has been a voluntary slave 
-             for 40 years and will push his children too into this life of slavery. In neighborhood parks in the morning 
-             he will sit with other retirees and a set of younger followers and will vent outrage at tales of supposed sale 
-             of women in open markets in some other culture, declaring this culture to be evil which enslaves 
-             women, but he will not consider that he himself has voluntarily lived a slave life and he has put his 
-             children into this slave life and he advises any youngster he comes across to also do so. Therefore the middle classee 
-             must look at our descriptions of the liberating and very simple system of Workers Cooperatives, for Earth 
-             and for Space since he will be looking at "making a career" for his children in the 
-             "unicorn" sector of space.
-           </p>
+	   <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(r).</span> Though humans in space will be arranged as a large set of Workers Cooperatives 
+	     who cooperate with each other and with individual humans without a thought of receving 
+	     money and tax for their voluntary help, the Workers Cooperatives will also hold allegiance 
+	     to their nation, and to the space department of their national government they will send back 
+	     all the unprocessed raw material from space and any space-produced products too, which they produced 
+	     by their labor, and these materials these space departments will trade with the space departments of other countries 
+	     and the trade will be done in some agreed Earthen currency. However, none of this trade 
+	     need affect the comfortable presence in space of the citizens of those nations.
+	   </p>
 
            </div>
 
@@ -2120,12 +2181,12 @@ modalText.innerHTML = `
              Intoxicating substances like alcohol should not be used in the inherently risks-filled 
              environment of space, including the social mistakes people will make by such consumption 
              and lead to disaster in space. Celebrations can be done with rounds of tea and biscuits. Tea 
-             has been such a great multi-purpose discovery… the drink of philosophers, revolutionaries, 
+             has been such a great multi-purpose discoveryâ¦ the drink of philosophers, revolutionaries, 
              inventors, discussers, intellectual and physical laborers, lovers of taste and refinement, 
              providing energy and relief in heat, cold and rain, in the heat of the deserts and the cold of the 
              same deserts at night, in the cold of snows and the heights of the high mountains, the 
              adda tea houses of Calcutta city with the Calcuttans doing rounds of tea and discussing the 
-             world… all the while the tea providing health benefits.
+             worldâ¦ all the while the tea providing health benefits.
            </p>
 
            <p>
@@ -2138,7 +2199,7 @@ modalText.innerHTML = `
 
            <p>
              In space, other than the non-intoxicating, energizing and health-bringing nature of tea 
-             usage, regular tea’ing also will hydrate the skin which may become dry in spaceships and 
+             usage, regular teaâing also will hydrate the skin which may become dry in spaceships and 
              spacesuits and will also create solidarity because of group drinking. Tea is also a good 
              laxative including when starting the day. Further, tea leaves are a good natural fertilizer for 
              plants.
@@ -2148,6 +2209,13 @@ modalText.innerHTML = `
              And maybe tea grown in space may become a new variety or multiple varieties in 
              accordance with conditions in different space locations.
            </p>
+	   
+	   <p>
+	     Related to alcohol is cigarettes and the obvious danger of cigarette smoking in space habitations is poisoning 
+	     of the habitation air, eye irritation, unpleasant smell and the danger of fire. Cigarettes are smoked because 
+	     the people think it is cool and also that a cigarette is substitute for company and also it becomes a habit. 
+	     However, smokers must look at "Throw the smoke stick, hold a tea glass".
+	   </p>
 
            </div>
 
@@ -2156,14 +2224,7 @@ modalText.innerHTML = `
            
            <p> [ To be done ] </p>
 
-           </div>
-
-           <div id="life" class="section">
-           <h2> Effects of greatly increased human life</h2>
-           
-           <p> [ To be done ] </p>
-
-           </div>
+           </div>           
 
            <div id="family" class="section">
            <h2> Family system in space</h2>
@@ -2217,13 +2278,13 @@ modalText.innerHTML = `
            <p>The purposes of education are :</p> 
 
            <p> <span> >> </span> To liberate oneself from any wrong, oppressive and unscientific 
-             traditional cultural impositions and thus to know one’s reasonable rights as a human.
+             traditional cultural impositions and thus to know oneâs reasonable rights as a human.
            </p>
 
            <p> <span> >> </span> 
              To understand that as a human we must collaborate with others in local society and 
              in humanity in general and that the good of society and humanity is our good. And good acts 
-             must be done not to earn points so that heaven’s door opens for us but to be genuine in 
+             must be done not to earn points so that heavenâs door opens for us but to be genuine in 
              empathy for others. That we must be gentle, sensitive, empathetic and selfless instead of 
              sneaky, amoral and selfish.
            </p> 
@@ -2257,10 +2318,10 @@ modalText.innerHTML = `
            </p>
            
            <p>
-             These academics went about lectures and conferences chanting “Big Bang Theory” for almost a hundred years 
+             These academics went about lectures and conferences chanting âBig Bang Theoryâ for almost a hundred years 
              when until recently someone proposed a second Big Bang which "created Dark Matter". Dark Matter is 
              again another nonsensical maths-basis idea which has been around for many decades but 
-             has never been observed in Nature, let alone measured. These academics don’t know how big the 
+             has never been observed in Nature, let alone measured. These academics donât know how big the 
              universe is, they have never stepped into the universe, yet they confidently declare its 
              birthday to the microsecond, LOL.
            </p>
@@ -2274,7 +2335,7 @@ modalText.innerHTML = `
            
            <p>
              We must also accept the very simple idea that space / universe is timeless and infinite and 
-             we don’t know what all kinds of objects are in space and what kinds of life types are in 
+             we donât know what all kinds of objects are in space and what kinds of life types are in 
              Space and that these life types may not evolve from the same ecosystem conditions as on Earth.
            </p>
 
@@ -2286,19 +2347,19 @@ modalText.innerHTML = `
            <p> Among the statements of Cosmonaut Yuri are : </p>
            
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(a).</span> “Orbiting Earth in the spaceship, I saw how beautiful our planet is. People, let us 
-             preserve and increase this beauty, not destroy it!”
+             <span>(a).</span> âOrbiting Earth in the spaceship, I saw how beautiful our planet is. People, let us 
+             preserve and increase this beauty, not destroy it!â
            </p>
            
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(b).</span> “Rays were blazing through the atmosphere of the earth, the horizon became bright 
+             <span>(b).</span> âRays were blazing through the atmosphere of the earth, the horizon became bright 
              orange, gradually passing into all the colors of the rainbow : from light blue to dark blue, to 
              violet and then to black. What an indescribable gamut of colors ! Just like the paintings of the 
-             artist Nicholas Roerich.”
+             artist Nicholas Roerich.â
            </p>
            
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(c).</span> “The main force in man — is the power of the spirit.”. Here “Man” of course means 
+             <span>(c).</span> âThe main force in man â is the power of the spirit.â. Here âManâ of course means 
              Human.
            </p> 
            
@@ -2313,7 +2374,7 @@ modalText.innerHTML = `
              These two people were humble and natural in their approach to space and to life. Certainly 
              not the arrogance of maths-driven academics and astrologers, nor the unthinking ordinary 
              people who accept their arrogant pronouncements without questioning because they think 
-             even simple questions will make them seem foolish. However, it is the simple, “foolish” 
+             even simple questions will make them seem foolish. However, it is the simple, âfoolishâ 
              questions which have benefited humanity throughout its history in its bettered social systems 
              and better technology and the presence of Human in space.
            </p>
@@ -2334,14 +2395,14 @@ modalText.innerHTML = `
              The wrong system of college degrees was started by a Muslim African woman by name Fatima al-Fihri 
              in year 859 AD when she established the university in Qayrawan city in what is now Morocco. 
              This university was the first known university in the world and still operates. It started as a theology 
-             place for Islam and most probably other beliefs but later it added other sciences including astronomy and 
-             it became a famous general university. However, Fatima as the founder decided to start the system of degrees 
-             which in her mind was to limit the student intake which was big because of the university's 
-             popularity and also probably because she thought degrees will give her passing students prestige and 
-             probably give her university more elite status than the libraries of Alexandria and Baghdad. But she didn't consider 
-             that instead of creating this needless competition for intake of students ( entrance exams ) and competition for 
-             "respectable" exits ( final exams ) she could simply have established more branches of her university across Africa and 
-             West Asia to start with and thus any number of students could have benefited from her original good intention.
+             place but later it added other sciences including astronomy and it became a famous general university. 
+	     However, Fatima as the founder decided to start the system of degrees which in her mind was to limit the student intake 
+	     which was big because of the university's popularity and also probably because she thought degrees will 
+	     give her passing students prestige and probably give her university more renown than the legendary libraries of 
+	     Alexandria and Baghdad. But she didn't consider that instead of creating this needless competition 
+	     for intake of students ( entrance exams ) and competition for "respectable" exits ( final exams ) 
+	     she could simply have established more branches of her university across Africa and beyond and 
+	     thus any number of students could have benefited from her original good intention.
            </p>
 
            <p>
@@ -2352,7 +2413,7 @@ modalText.innerHTML = `
              by its contemporary Brahmans in India, and was the direct influence on establishment of the Enlightenment period 
              in Europe and its consequent Industrial Revolution whose benefits we use now. But that single act of Fatima 
              of adding competition to education more than a thousand years ago has created such sadness. We speak more on the wrongness
-             of competition in a below section called "Why competition is wrong for space".
+             of competition in a below section called "Why competition is wrong in space".
            </p>          
            
            <p>
@@ -2376,12 +2437,12 @@ modalText.innerHTML = `
              let alone one with three post-graduate diplomas including from a B-school and subsequent years 
              of experience in the corporate world. This means many from those societies which place great multi-generational 
              emphasis on college degrees, will disrespect anyone not achieving degrees, so they must stop using electrical machinery 
-             because this field was forwarded by the “unschooled” Michael Faraday. Stopping thus will be a principled stand. 
+             because this field was forwarded by the âunschooledâ Michael Faraday. Stopping thus will be a principled stand. 
              But will they ?
            </p>
 
            <p>
-             JC Bose disagreed with the modern patents system and he and Michael Faraday would have agreed with the four big 
+             Jagadish Chandra Bose disagreed with the modern patents system and he and Michael Faraday would have agreed with the four big 
              examples of untaxed and for-all education and collaboration systems in modern times : one the internet itself, 
              second the Open Source Computing movement, third the Wikipedia and fourth the Khan Academy. Both those gents and 
              every naturally intelligent contributor in history would have wanted the four above examples to contribute to 
@@ -2395,7 +2456,7 @@ modalText.innerHTML = `
              live-narrating their experiences in space as also later recording their experiences and 
              adding these experiences to the Frema internet blog that is produced by each Worker 
              Cooperative, and these blogs being accessible by every human in Space and on Earth. The 
-             blogs will have text, voice, still pictures and videos because someone’s experience will 
+             blogs will have text, voice, still pictures and videos because someoneâs experience will 
              become non-limited in explanation by presenting it in different formats. And these blogs will 
              have a response system for the readers and viewers though of course the reception of these 
              informations by the readers and their responses by the readers may take small delays to 
@@ -2411,15 +2472,16 @@ modalText.innerHTML = `
            <h2>Why competition is wrong in space</h2>
 
            <p>
-             <span> >> </span> Competition is anti-Nature because it is an irrational way to decided someone's capabilities 
+             <span> >> </span> Competition is an irrational way to decide someone's capabilities 
              because a highly intelligent person may not enter a competition or drop out from competition 
              because he or she simply is bored by it. Intelligence is also known by a person learning from others 
-             which means Collaboration. The intelligent person will also find the system that promotes competition 
-             to be not respectable and an insult to his or her dignity. In schooling systems the numbers on a paper 
-             called Exam Marks does not show the intelligence or lack of it of a student. Or the intelligence 
-             of the persons who set the exam question papers. This we have shown in previous sections.
+             and learning with others which means Collaboration and there is no Collaboration in Competition. 
+	     The intelligent person will also find the system that promotes competition to be not respectable and 
+	     an insult to his or her dignity because competition is an impersonal system. And the numbers on a paper 
+	     called Exam Marks do not show the intelligence or lack of it of a student. Or the intelligence of the persons 
+	     who set the exam question papers. This we have shown in previous sections.
            </p>
-           
+
            <p>
              <span> >> </span> Competition creates social disharmony where people don't support each other, 
              don't trust and want to step on each other's heads to progress through the wrong systems that 
@@ -2433,7 +2495,7 @@ modalText.innerHTML = `
 
            <p>
              <span> >> </span> In some societies exams are the measures for even parents to judge the intelligence of their 
-             own children. They live with their children for two decades even but will not listen to their children's ideas and 
+             own children. They lived with their children for two decades even but will not listen to their children's ideas and 
              desires however wonderful they may be and however gentle the children may be, but the parents will instead listen 
              to third parties called school principals and exam answer sheet examiners who have 
              no real interest in these parents' student children's intelligence and potential. For these third parties 
@@ -2443,8 +2505,8 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             <span> >> </span> These societies are also extremely Capitalist where the parents have no true love and 
-             loyalty to their children but love only for the potential later income their children will bring to the 
+             <span> >> </span> In such societies the parents have no true love and loyalty to their children 
+	     but love only for the potential later income their children will bring to the 
              family through wage employment and this income will continue when the parents are retired from their own 
              wage employment and their society provides them with little source of survival by them having 
              little money leftover. Therefore in such societies, children are a future financial investment 
@@ -2458,9 +2520,9 @@ modalText.innerHTML = `
              where the whole society benefits and humanity benefits, the situation is every-person-for-themselves... dog-eat-dog... 
              a rat-race everyday especially in employment. Employments will be wage-based for mediocre or totally unnecessary things 
              which nobody really wants in the world but geopolitics by powerful governments creates such employments in their subordinate societies. 
-             And these wage employments are obtained by high competition among the candidates who recently graduated from the schooling system 
-             or have been wagers for decades even. Since the employments are not scientific and collectivist, the way they are obtained 
-             will also be not scientific and collectivist, which is by every candidate trying to outdo the other by showing his or her 
+             And these wage employments are obtained by high competition among the candidates who recently graduated from the education system 
+             or have been monthly-wagers for decades even. Since the employments are not scientific and collectivist, the way they are obtained 
+             will also be not scientific and collectivist, resulting in every job candidate trying to outdo the other by showing his or her 
              higher marks in exams down years in the so-called education system, so that the interviewers are impressed with these 
              meaningless numbers on paper and give them the wage-based employment.
            </p>
@@ -2487,19 +2549,19 @@ modalText.innerHTML = `
            <p>
              <span> >> </span> The children of these parents may be highly intelligent and have potential for many things, 
              whether painting or inventing machines or understanding the kosmos or singing and so on. 
-             However, they are not supported by their cruel and selfish parents who in a cloud of 
+             However, they are not supported by their cruel and selfish parents who are in a cloud of 
              lust for money, fake pride and fear of socio-economic boycott. These parents therefore will not rebel 
-             against their community and the society's system and want their society to become humane, empathetic, 
-             scientific, gentle and evolved, but instead bring their society's pressure onto their children. 
+             against their anti-human community and social system, wanting their society to become humane, empathetic, 
+             scientific, gentle and evolved. These parents instead will bring their society's pressure onto their children. 
              The children who are intelligent will naturally not accept the exams-based life as their judge of intelligence 
              nor will they like their true interests and talents to lose time to preparing for exams. The children undergo 
-             these conflicts as internal torture every hour and also taunts by their parents for not putting full mind 
-             to the exam preparation books.
+             these conflicts as internal torture every minute and also taunts by their parents for not putting full mind 
+             to the exam preparation books. Such parents are the first to cast the stones on their children.
            </p>
 
            <p>
              <span> >> </span> Many times to reach the competition-based wage employments, 
-             the path is through so-called prestigious colleges which are nothing assembly lines to prepare 
+             the path is through so-called prestigious colleges which are nothing but assembly lines to produce 
              drones for useless employments based on fashionable technology trends and finance trends. 
              And for the student to get into these "prestigious colleges" he or she must write competitive exams 
              called Entrance Exams and to prepare for these Entrance Exams the student must enter Coaching Institutes 
@@ -2507,33 +2569,33 @@ modalText.innerHTML = `
              So those non-loving and selfish parents will push their children into these coaching centers 
              and the children will undergo torture everyday, forced to do something not of their interest, forced to ignore 
              their interest, and in fact their very obtaining of food will come from the parents' satisfaction with 
-             their children's progress through the coaching center. No high performance, no food, no new clothes, 
-             no mobile phone recharge, no travel money, no living quarters rent money.            
+             their children's progress through the coaching center. So, if no high performance in the coaching center, 
+	     then no food, no new clothes, no mobile phone recharge, no travel money, no living quarters rent money.
            </p>
 
            <p>
              <span> >> </span> So, many of these students being tortured by their parents mindlessness, 
-             lust for money, fake pride, fear of socio-economic boycott, not rejecting this oppressive system, 
+             lust for money, fake pride, fear of socio-economic boycott, non-rejection of this oppressive system, 
              not being supportive of their children including for basic food and housing... all this presents the idea 
              of suicide in many students and many of them suicide. They jump from the sixth storey of their 
              coaching center or from a bridge or hang themselves from their room's fan or consume some pesticide 
-             they could purchase from their meagre spare money. The coaching centers are not held accountable, 
+             they could purchase from their meagre money. After the suicide the coaching centers are not held accountable, 
              the parents show fake grief for two days and go back to their routine, the system continues to find 
              more student victims. This has been the story of the Indian city of Kota probably for many decades. 
-             This has been the story of Pakistan, South Korea, Japan and China.
-           </p>          
+             This has been the story of Pakistan, South Korea, Japan and China for decades.
+           </p>
 
            <p>
-             <span> >> </span> Coming back to the two bench mates competing with each other in exams all year round, 
+             <span> >> </span> Bringing back the two bench mates competing with each other in exams all year round, 
              since they do not have true loyalty to each other they will not be sad when one of them suicides 
              because of the internal torture after failing in an exam or because of no interest in taking an exam. 
              The living friend will not be sad and will not march on the roads with banners to abolish the exams system 
-             and its associated competition-based life throughout life. There is also the lack of rebel spirit and 
+             and its associated forthcoming competition-based life. There is also the lack of rebel spirit and 
              lack of confidence in the non-protest.
            </p>
 
            <p>
-             <span> >> </span> In case the student doesn't suicide, he or she lives on to usually do wage slavery 
+             <span> >> </span> In case the student doesn't suicide, he or she lives to usually do wage slavery 
              in feudal corporations which are exploitative. The parents again don't care. And this newly 
              wage-employed person may die of heart attack because of the exploitative over-work or may suicide. 
              Most parents won't care.
@@ -2580,6 +2642,11 @@ modalText.innerHTML = `
              untrustworthy people. There can be mass death in space because of exams or other forms of competition. 
              So, space must not have competition.
            </p>
+	   
+	   <p>
+	     In case in space there are multiple approaches to one issue or problem then best is to have discussion, 
+	     take harmonious consensus and take the good from each approach and create a melded, evolved approach.
+	   </p>  
 
            </div>
            
@@ -2600,7 +2667,7 @@ modalText.innerHTML = `
              should be managed by a collective human committee. We of Kosmos Society will keep this 
              as a necessary element when designing our Frema space-capable internet system. We will 
              also design systems that contribute to clearing up the current space debris around Earth. 
-             Please read the section about Serf satellite in the “Our techno projects” chapter on this website.
+             Please read the section about Serf satellite in the âTechno projectsâ chapter on this website.
            </p>
 
            </div>
@@ -2636,7 +2703,7 @@ modalText.innerHTML = `
 
            <p>
              Project Mirkeen-01 will be our effort in building a humanity-uniting progressive research base 
-             on the Moon ( Earth's moon ), having the name “Mirkeen-01” and to be built beginning in 2036.
+             on the Moon ( Earth's moon ), having the name âMirkeen-01â and to be built beginning in 2036.
            </p>
 
            <p>
@@ -2647,14 +2714,14 @@ modalText.innerHTML = `
              led by the USA government and the ILRS is led by the governments of China and Russia, 
              and these three governments have needlessly extended to the Moon their disharmony-filled 
              Earthen bloc politics when instead they should have proposed a pan-human, collective Moon 
-             Base effort. So we of Kosmos Society propose a third way… sometimes there is a third way 
+             Base effort. So we of Kosmos Society propose a third wayâ¦ sometimes there is a third way 
              as nicely put in the slogan of the World Social Forum - "Another world is possible". We call 
-             this third way as “Project Mirkeen-01".
+             this third way as âProject Mirkeen-01".
            </p>
 
            <p>
-             “Mirkeen” is a combination of “Mir” and “Keen”. “Mir” means Peace in the Russian language 
-             and also World. “Keen” is the main city in the Dune story. Our project involves building a 
+             âMirkeenâ is a combination of âMirâ and âKeenâ. âMirâ means Peace in the Russian language 
+             and also World. âKeenâ is the main city in the Dune story. Our project involves building a 
              separate base on the Moon called Mirkeen-01, separate to Artemis Accords and ILRS, in the 
              following way :
            </p>
@@ -2667,7 +2734,7 @@ modalText.innerHTML = `
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(b).</span> With all this brought-together “snapshot of humanity” we begin to build the Mirkeen-01 base on the Moon 
+             <span>(b).</span> With all this brought-together âsnapshot of humanityâ we begin to build the Mirkeen-01 base on the Moon 
              starting 2036, using our to-Moon transport means ( our-designed Alef-A airship-spaceships manufactured by partner governments ) and 
              our other technologies and the technologies of other partner pan-humanist organizations with 
              common protocols. The construction workers will base themselves in the Alef-As until the 
@@ -2702,12 +2769,12 @@ modalText.innerHTML = `
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(g).</span> The Mirkeen-01 base will be the first very advanced society which won’t have feudalism and 
+             <span>(g).</span> The Mirkeen-01 base will be the first very advanced society which wonât have feudalism and 
              tax in any form including money. The true wealth of a society is not in the money, mansions and luxury motorcars 
              held by a few privileged. The true wealth is the potential and the positive ideas and works of the citizens 
-             and these can exist without money. In fact the potential of a society is eroded by the presence of money because 
-             so many people have potential but when they get socially excluded through the various aspects of tax  
-             they don’t get the opportunity to realize their potential and their society does not get to benefit. 
+             and these can exist without money and tax hoarding. In fact the potential of a society is eroded by the presence of money and 
+	     hoarded tax because so many people have potential but when they get socially excluded through the various aspects of tax  
+             they donât get the opportunity to realize their potential and their society does not get to benefit. 
              This realization extends to all of humanity.
            </p>
            
@@ -2715,7 +2782,7 @@ modalText.innerHTML = `
              <span>(h).</span> For the time being the Mirkeen-01 base can engage in commercial activities 
              to sustain itself other than getting support from Kosmos Society and its partners on Earth. This 
              commerce will be in accordance with our social system for space. The commerce 
-             can be about Moon-available minerals needed on Earth ( iron, silicon etc ) or on others’ 
+             can be about Moon-available minerals needed on Earth ( iron, silicon etc ) or on othersâ 
              space stations around Earth; the commerce can be about those produced materials and 
              services which benefit from the low-gravity and vacuum conditions on the Moon; the 
              commerce can be tourism on the Moon; etc.
@@ -2776,7 +2843,7 @@ modalText.innerHTML = `
            
            <p>
              There is a wonderful story written and posted on LinkedIn by Don Michael Feeney called 
-             “The Interplanetary Civilian : A Novella of Mars and Memory”. This story speaks of the 
+             âThe Interplanetary Civilian : A Novella of Mars and Memoryâ. This story speaks of the 
              building of the first human settlements in space in terms of technologies and social systems 
              including pan-human development, decentralized governance, the first human baby born in 
              space, an artificial intelligence included with empathy and learning from unprogrammed space events,
@@ -2797,7 +2864,7 @@ modalText.innerHTML = `
              viruses, eggs etc and seeded various worlds including ours to various levels and then 
              evolutionary steps took over in many of those worlds depending on the conditions of those 
              worlds. This idea is called Panspermia. For example, it is said that the octopus and squid in 
-             Earth’s seas are not from Earth but from space, their eggs carried within ice rocks and then 
+             Earthâs seas are not from Earth but from space, their eggs carried within ice rocks and then 
              released on Earth when the ice rocks fell into the seas here. This is a good read about this 
              topic [ <a href=" https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/ target="_blank" style="color:#0000FF;"> https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/"</a> ]. 
            </p>           
@@ -2812,27 +2879,41 @@ modalText.innerHTML = `
            <h2> City design and city reconfiguration on Earth</h2>
            
            <p>
-             The space experiences including the Mirkeen-01 base and our Space machines will provide 
-             derivations for city design for Earth and its transportation. This effort will consist of designing 
-             large and small cities which are aesthetic; clean; scientifically-built; citizen-managed through participatory democracy 
-             ( which is true democracy ) by using the concept of Workers Cooperatives; humanist; largely food-wise self-sufficient;
+             The space experiences including the Mirkeen-01 base and our space machines will provide 
+             derivations for city design for Earth including its transportation. This effort will consist of designing 
+             large and small cities which are aesthetic; clean; scientifically-built; citizen-managed through the citizens 
+	     directly participating using the concept of Workers Cooperatives; humanist; largely food-wise self-sufficient;
              largely employment-wise self-sufficient; gentle. These new cities will take the pressure off current chaotic cities and 
              also bring reasonable city culture to rural people because generally great ideas, discussions and developments happen in the cities. 
              The public transportation system in these new cities will be built around our Ra-E buses, bicycle lanes and footpaths. 
              The only personal vehicles allowed will be pedal-only bicycles. The gentleness in these cities will also come from 
-             creating a safe and comfy environment for cats to prosper.
+             creating a safe and comfy environment for cats to prosper and consequently no place for dogs.
            </p>
+	   
+	   <p>
+	     The attitude of people in a society can be known from their attitude to cats and dogs. Cats are animals of perfection... 
+	     perfection in form, grace and thinking. They are gentle, sensitive, beautiful in looks, clean, extremely intelligent, loyal, 
+	     empathetic, observant, thoughtful, graceful in movement, independent and produce good vibes for any place they are comfortable in. 
+	     Dogs are the opposite... aggressive, noisy, bring chaos, are mob-oriented, are ugly, are mindless killers, 
+	     violently compete with other dogs, have disgusting habits and carry harmful microbes.
+	   </p>
+	     
+	   <p>
+	     There are old descriptions : "Wise cat" and "Dog-eat-dog society". It is clear then... do we want a human society to adore cats and 
+	     thus have gentleness, intelligence, sensitiveness, empathy, beauty, loyalty and contribution to humanity 
+	     or do we want a society to adore dogs and thus have chaos, competition, apathy, cruelty, filth, disgustingness and mindlessness ?
+	   </p>
 
            <p>
-             First here we will speak of intra-city and inter-city public transportation in detail.
+             Now we speak in detail about intra-city and inter-city public transportation.
            </p>
           
            <p>
              We will make a derivation of our Ra-K vehicle for Earthen public transportation in the form of 
-             a 15-passenger bus called Ra-E which can be used for full capacity mass public transport or 
+             a 10-passenger bus called Ra-E which can be used for full capacity mass public transport or 
              as a taxi for people going for special occasions. The Earthen Ra-E will normally use 
              hovercraft mode on the current roads and other paths and switch to wheelcraft mode and 
-             aircraft mode when needed… for example, travel on mountain roads is dangerous in 
+             aircraft mode when neededâ¦ for example, travel on mountain roads is dangerous in 
              hovercraft mode so wheels are needed. Traveling between cities can be done by using the 
              aircraft mode. These Ra-E vehicles will be capable of being the sole means of mass public 
              transport in cities and other habitations on Earth, replacing most current personal vehicles 
@@ -2843,10 +2924,10 @@ modalText.innerHTML = `
              Presently, the few billion motorized personal vehicles on Earth are greatly the cause of all 
              kinds of needless pollution, noise, mishaps, crimes, Climate Change, social inequality, 
              disharmony and unsightliness. Many governments have tried to resolve this problem within 
-             their countries or cities by taking half-steps like “Odd, even formula” ( allow on road the 
+             their countries or cities by taking half-steps like âOdd, even formulaâ ( allow on road the 
              vehicles with odd numbered number plates one day and even numbered the next day ) and 
              building more flyovers and metro lines. But these governments have not considered the very 
-             simple fact that road traffic problems exist because of what causes the traffic - vehicles… in 
+             simple fact that road traffic problems exist because of what causes the traffic - vehiclesâ¦ in 
              particular personal vehicles.
            </p>
 
@@ -2871,7 +2952,7 @@ modalText.innerHTML = `
              To manage traffic, in some cities the city municipal corporations build flyovers but this is senseless 
              as building flyovers only makes the unthinking public to purchase even more personal vehicles 
              to the extent that many families have at least two vehicles for no other reason than to display their 
-             middle class new-pseudo-rich wealth and the result is that in some cities there are now at least 
+             middle class, new pseudo-rich wealth and the result is that in some cities there are now at least 
              five million personal motor vehicles. In the city of Bangalore the vehicle population is more than its 
              human population.
            </p>
@@ -2882,7 +2963,8 @@ modalText.innerHTML = `
              On the contrary, the metro lines have only led to narrowed roads leading to funnel effect on the roads 
              and thus doubled chaos and of course contributing to more pollution because of the production of cement, iron and other materials 
              needed in the construction of the metro infrastructure, added with the petro fuel pollution because of the 
-             vehicles involved in the construction of the metro infrastructure.
+             vehicles involved in the construction of the metro infrastructure. Also, most metro stations are not within 
+	     easy walking distance of houses and workplaces.
            </p>
 
            <p>           
@@ -2891,7 +2973,7 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             City corporations installing expensive “artificial intelligence” systems to control traffic lights will also never solve the problem 
+             City corporations installing expensive âartificial intelligenceâ systems to control traffic lights will also never solve the problem 
              because the AI traffic lights will not make the millions of traffic-causing personal vehicles vanish. These AI traffic control systems 
              will only help the profiteering corporations who have convinced the city corporations 
              to purchase their useless systems.
@@ -2900,7 +2982,7 @@ modalText.innerHTML = `
            <p>               
              Further problems are the disharmony and unsightliness caused by personal vehicles parked 
              on roads in residential areas and public areas. Residents have to engage in quarrels with 
-             personal vehicle owners who park their vehicles in front of someone’s house gate or these 
+             personal vehicle owners who park their vehicles in front of someoneâs house gate or these 
              vehicles creating obstruction on the roads. Many times vehicles are parked on footpaths thus 
              blocking citizens from using the footpaths and forcing them to walk on the road, leading to potential mishaps 
              for the citizens by getting hit by vehicles coming from front or back. Personal 
@@ -2943,7 +3025,7 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             Then is the modern fashion of the new-pseudo-rich middle class in some societies 
+             Then is the modern fashion of the new pseudo-rich middle class in some societies 
              riding heavy motorcycles on long trips including to serene and pristine nature spots and 
              creating disharmony and pollution there. Sometimes there is an entire gang of such 
              motorcycle trippers. An unfortunate effect is some women riding these heavy long-trip motorcycles 
@@ -2970,7 +3052,7 @@ modalText.innerHTML = `
              the hungry people so clearly sitting on the footpaths, under bridges and in abandoned bus stops, 
              having to live in the open under the elements, the pollution and the chaos. The car people 
              never think of parking their cars to get out and give a hundred dollars so that that homeless person 
-             can eat good food at least for the next two days. And when a child of five, living in poverty, 
+             can eat good food at least for the next two days. And when a child of four, living in poverty, 
              comes up to these car-enclosed people to sell pens or flowers, the car people may have extra money 
              which they can freely give to the seller child to help him but most times the car people roll up their 
              window and cruelly abandon that child.
@@ -3050,7 +3132,7 @@ modalText.innerHTML = `
 
            <p>
              Our solution is our Ra-E bus which is a hybrid vehicle of hovercraft-wheelcraft-aircraft type, 
-             deriving from our designed-for-space Ra-K vehicle, and each Ra-E will carry 15 passengers and a few hundred thousand 
+             deriving from our designed-for-space Ra-K vehicle, and each Ra-E will carry 10 passengers and a few hundred thousand 
              of our Ra-E buses combined all over Earth will resolve all those above listed transportation-related direct problems 
              and indirect problems.
            </p>
@@ -3105,14 +3187,43 @@ modalText.innerHTML = `
              One memorable line in that so-nice film is in the end, said by the dying villain-hero 
              Roy Batty - "Memories lost in time, like tears in rain".
            </p>
-
-           <p>
-             We of Kosmos Society will help build good Earthen cities instead of that dystopian Los Angeles of 2019 
+	   
+	   <p>
+             We of Kosmos Society will help build good transport mechanism for Earthen cities instead of like in that dystopian Los Angeles of 2019 
              and the self-sufficiency of these cities, filled with people of scientific temper, 
              will prevent tens of thousands of needless out-of-city daily travellers, or even a few hundred thousand. 
              It will then be very few people travelling beyond their cities on a daily basis 
              and these few people will be easily able to travel in our Ra-E buses in aircraft mode. 
              This lesser daily out-of-city travel will also contribute to serene Earthen societies.
+           </p>
+	   
+	   <p>
+	     There is another sad fact of hunger in various places on Earth. This is a two part problem :
+           </p>
+	   
+	   <p style="margin-left:1em; margin-bottom:10px";> 
+	     <span> (a). </span> A technological problem via use of traditional methods of growing food in open farms
+             which are inefficient, centralized, polluting, climate-vulnerable and pest-vulnerable. Also connected is 
+	     non-availibility of water in many places because farmers have either exhausted ground water due to over-use 
+	     or there has been drought.
+           </p>
+          
+           <p style="margin-left:1em; margin-bottom:10px";> 
+              <span>(b).</span> A social problem largely via tax on food, within-family feudalist unequal distribution of food, 
+              abandonment by family, social apathy, culture-dependent wastages of food, private profiteering by merchants and 
+	      geopolitical interferences in food distribution.
+	   </p>
+
+           <p>              
+	     So many people go hungry or die of hunger despite abundance of food elsewhere and sometimes because of wastages of food.
+	   </p>
+	   
+	   <p>	   
+	     The simple solution for hunger is not only social enlightenment but also a technological combination of bio-engineered plant-based foods and 
+	     the nutritious originally animal products like given in the "Biology researches" section in the "Techno projects" chapter on this website. 
+	     These techno foood productions must be done in decentralized, neighborhood-level indoor farms 
+	     which have localized water generation as much as possible as well as scientifically built canals. 
+	     There is no need for anyone to die of hunger now in 2025 AD.
            </p>
 
            <p>[ To be done ] </p>
@@ -3130,10 +3241,10 @@ modal.style.display = 'flex';
           toggleBtn.addEventListener('click', function() {
             if (linksDiv.style.display === 'none' || linksDiv.style.display === '') {
               linksDiv.style.display = 'flex';
-              toggleBtn.innerHTML = 'Topics &#9650;';
+              toggleBtn.innerHTML = 'Social system for space - Topics &#9650;';
             } else {
               linksDiv.style.display = 'none';
-              toggleBtn.innerHTML = 'Topics &#9660;';
+              toggleBtn.innerHTML = 'Social system for space - Topics &#9660;';
             }
           });
           // Add event listeners to links to close topics box on click
@@ -3141,7 +3252,7 @@ modal.style.display = 'flex';
           navLinks.forEach(function(link) {
             link.addEventListener('click', function(e) {
               linksDiv.style.display = 'none';
-              toggleBtn.innerHTML = 'Topics &#9660;';
+              toggleBtn.innerHTML = 'Social system for space - Topics &#9660;';
               // Prevent default anchor behavior
               e.preventDefault();
               // Get the target section
@@ -3189,36 +3300,38 @@ modalText.innerHTML = `
            #modalText > div {
              scrollbar-width: thin;
              scrollbar-color: #fff #222;
-           }
-             
+           }             
 
-            h2 {
-           font-family: 'Poppins', sans-serif;
-           color: #000;
-           text-align: center;
-           margin-bottom: 10px;
-           }
-
-           p{
-           font-family: 'Roboto', sans-serif;
-           color: #000;
-           font-size: 1.1em;
+           h2
+	   {
+              font-family: 'Poppins', sans-serif;
+              color: #000;
+              text-align: center;
+              margin-bottom: 10px;
            }
 
-           span {
-             color:#000;
-             font-weight: bold;
-             }
+           p
+	   {
+             font-family: 'Roboto', sans-serif;
+             color: #000;
+             line-height: 1.6;
+           }
 
-          .profile-image {
-           width: 100%;
-           max-width: 200px;
-           height: auto;
-           border-radius: 10px;
-           display: block;
-           margin: 0 auto 20px;
-           
-       }
+           span
+	   {
+              color:#000;
+              font-weight: bold;
+           }
+
+          .profile-image
+	   {
+              width: 100%;
+              max-width: 200px;
+              height: auto;
+              border-radius: 10px;
+              display: block;
+              margin: 0 auto 20px;
+           }
            
 
        .name {
@@ -3275,7 +3388,7 @@ modalText.innerHTML = `
        </style>
                   
        <h2>Our company's workers</h2>
-          
+
        <div>
          <img src="assets/Sameer .jpeg" 
          alt="Mohammed Sameer" 
@@ -3285,10 +3398,9 @@ modalText.innerHTML = `
        <p class=name> Mohammed Sameer - General Coordinator</p>
 
        <p style="margin-bottom:4px;">
-         Sameer is originally from computing background but he considers himself a 
-         general researcher with interests ranging from generation of electricity to organization of 
-         society, like those "polymaths" of old like Hasan Ibn al-Haytham, Leonardo da Vinci and 
-         Jagadish Chandra Bose. And perhaps "Polymath" is not a proper word and must have a good replacement.
+         Sameer started with computer science but he now is a general researcher with interests ranging from 
+         generation of electricity to organization of society, like those general researchers of old like Hasan Ibn al-Haytham, Leonardo da Vinci and 
+         Jagadish Chandra Bose.
        </p>
            
        <a href="https://linkedin.com/in/sameer-kosmos-society" target="_blank" rel="noopener noreferrer" class="minimal-tag">
@@ -3333,7 +3445,7 @@ modalText.innerHTML = `
            
          <p style="margin-bottom:4px;"> 
            Dr. Siddharth has been a patient supporter of the organization for more than 
-           two years. He joined our more little group when we didn’t have this organization and our sole 
+           two years. He joined our more little group when we didnât have this organization and our sole 
            project was the Kosmos microprocessor+OS. Presently, he has been an advisor in a 
            system-level way.
          </p>
@@ -3388,7 +3500,78 @@ modalText.innerHTML = `
              </svg>
              Connect on LinkedIn
            </a>
-        </div>
+        	
+	<h2>You can join us if...</h2>
+	
+	<p><span>&gt;&gt;</span> 
+	  If you believe in natural intelligence, ability and experience. Doesn't matter if you are a fail in school 10th class.
+	</p>
+	
+	<p><span>&gt;&gt;</span> 
+	  If your knowledge is actually useful to the industry of space-travel and space-living in a democratic 
+	  and non-profit way. So this discounts work types like HR and CSR and MBA-requiring positions.
+	</p>
+	
+	<p><p><span>&gt;&gt;</span> 
+	  If you respect the natural laws.
+	</p>
+	
+	<p><p><span>&gt;&gt;</span> 
+	  If you do innovative and simplifying thinking even if going against traditions, industry standards and fashions.
+	</p>
+
+	<p><p><span>&gt;&gt;</span> 
+	  If you have no love for money, feudalism and classist thinking. Money is needed in many societies presently to live 
+	  above the "Very poor" line but we want those who do not adore money.
+	</p>
+
+	<p><p><span>&gt;&gt;</span> 
+	  If you desire a largely secular borderless unification of humanity on Earth and in Space.
+	</p>
+
+	<p><p><span>&gt;&gt;</span> 
+	  If you ideally consider the cat as the most perfect animal in the universe, ha ha.
+	</p>
+	
+	<p><p><span>&gt;&gt;</span> 
+	  If you consider tea as one of the main human gifts giveable to alien cultures, ha ha.	
+	</p>
+	
+	<p><p><span>&gt;&gt;</span> 
+	  If you are well-presented in clothing, grooming and talking manner. Not fake but real. 
+	  Not aggressive but gentle.
+	</p>  
+	
+	<h2>What you will be in our company</h2>
+	
+	<p><p><span>&gt;&gt;</span> 
+	  Our company is structured as a Workers Cooperative where you will be an equal co-owner and 
+	  not a subordinate to some feudal boss. Please read the "Social organization in space travel and 
+	  space living" section in the "Social system for space" chapter and return to this point. 
+	  That section describes the Workers Cooperative concept.
+	</p>
+	
+	<p><p><span>&gt;&gt;</span> 
+	  You will have the same equal salary as everyone else in the company and this salary 
+	  will be comfortable but not an obscene amount which is waved in the face of poor people. 
+	  We want you to have decency, empathy and pan-human fraternity.
+	</p>	
+	
+	<p><p><span>&gt;&gt;</span> 
+	  The space industry is a permanent one so with us you will be in permanent employment.
+	</p>
+	
+	<p><p><span>&gt;&gt;</span> 
+	  For any company formation rules about equity, our company's equity will be divided into three parts : 
+	  one for the founders, the second for the investors and the third for new co-workers where the founders will dilute 
+	  their equity equally so that all new and old workers have equal equity.
+	</p>
+	
+	<p><p><span>&gt;&gt;</span> 
+	  You will be at the front of progressive evolution of humanity, both social and technological.
+	</p>
+
+	</div>
                            
        </div>
      `;
@@ -3418,28 +3601,40 @@ modalText.innerHTML = `
            #modalText > div {
              scrollbar-width: thin;
              scrollbar-color: #fff #222;
-           }
+           } 	    
+            	    
+	    h2
+	    {
+               font-family: 'Poppins', sans-serif;
+               color: #000;
+               text-align: center;
+               margin-bottom: 20px;
+            }	    
+	    
+            .section p 
+	    {
+               font-family: 'Roboto', sans-serif;
+               color: #000;
+               line-height: 1.6;
+            }
+	                
+	    ul
+	    {
+               font-family: 'Roboto', sans-serif;
+               color: #000;
+	       line-height: 1.6;
+            }
+	   
+            span
+	    {
+              color: #000;
+              font-weight: bold;
+            }
+	    
+          </style> 
 
-           h2 {
-           font-family: 'Poppins', sans-serif;
-           color: #000;
-           text-align: center;
-           margin-bottom: 10px;
-           }
-
-           p{
-           font-family: 'Roboto', sans-serif;
-           color: #000;
-           font-size: 1.1em;
-           }
-
-           span {
-             color:#000;
-             font-weight: bold;
-             }
-
-         </style>
-         <h2>Credits</h2>
+          <h2>Credits</h2>
+         
          <div>
 
            <p>
@@ -3453,20 +3648,21 @@ modalText.innerHTML = `
            
            <p><span>&gt;&gt;</span> 
              Apoorva JR for presenting to us an Instagram page in 2023 which contained reports on eco-friendly ways 
-             of generating electricity and which led to our discovery of the “sand battery” which we use in our design of the Faradn generator. 
-             Apoorva’s LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#0000FF;">https://www.linkedin.com/in/apoorvajr</a> ].
+             of generating electricity and which led to our discovery of the âsand batteryâ which we use in our design of the Faradn generator. 
+             Apoorvaâs LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#0000FF;">https://www.linkedin.com/in/apoorvajr</a> ].
              Sadly we forgot the Insta page's name but we are thankful to that page's maintainer. 
-             That Insta page spoke of the company Polar Night Energy which applied the sand battery in a real life setting and we are thankful to this company.
+             That Insta page spoke of the company Polar Night Energy which applied the sand battery in a real life setting despite there being no prior 
+	     industry use of this method and we are thankful to this company.
            </p>
 
            <p><span>&gt;&gt;</span> 
-             Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, made using an electro-magnetic relay. This vid called “1026 The easiest inverter you will ever make” is on this page [ <a href="https://www.youtube.com/watch?v=L-vC9SvU2Lo" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-vC9SvU2Lo</a> ]. 
+             Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, made using an electro-magnetic relay. This vid called â1026 The easiest inverter you will ever makeâ is on this page [ <a href="https://www.youtube.com/watch?v=L-vC9SvU2Lo" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-vC9SvU2Lo</a> ]. 
              This we use in our design of the Faradn generator.
            </p>
            
            <p><span>&gt;&gt;</span> 
-             The YouTube channel “The Action Lab” for the idea about using heat to run a self-sustained piston engine. 
-             This vid called “This engine runs on sound waves” is on this page [ <a href="https://www.youtube.com/watch?v=xCnxsoXtlmY" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=xCnxsoXtlmY</a> ].
+             The YouTube channel âThe Action Labâ for the idea about using heat to run a self-sustained piston engine. 
+             This vid called âThis engine runs on sound wavesâ is on this page [ <a href="https://www.youtube.com/watch?v=xCnxsoXtlmY" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=xCnxsoXtlmY</a> ].
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -3492,7 +3688,7 @@ modalText.innerHTML = `
            </p>
 
            <p><span>&gt;&gt;</span>
-             Coke Studio Bangla Season One for presenting the song “Shob Lokey Koy” which is among our inspirations for our social system for space. 
+             Coke Studio Bangla Season One for presenting the song âShob Lokey Koyâ which is among our inspirations for our social system for space. 
              This song is in the Bengali and Hindi languages and is a celebration of two past South Asian humanitarian mystics, 
              Lalon Fakir and Kabir Das, and calls for unity of humans because they all are the waters from the
              same well except for some differences in the vessels which then contain the waters. 
@@ -3502,16 +3698,15 @@ modalText.innerHTML = `
            <p><span>&gt;&gt;</span>
              The website [ constitutionofindia.net ] for the info about the discussions during the early years 
              of the design of the Indian constitution, in particular the proposals by Socialists Hasrat Mohani 
-             and Brajeshwar Prasad including naming India as Union of Indian Socialistic Republics and constructing India 
-             as a Socialist society. The proposals can be read here [ <a href="https://www.constitutionofindia.net/debates/17-oct-1949/" 
-             target="_blank" style="color:#0000FF;">https://www.constitutionofindia.net/debates/17-oct-1949/ </a> ]
+             and Brajeshwar Prasad. The proposals can be read here [ <a href="https://www.constitutionofindia.net/debates/17-oct-1949/" 
+             target="_blank" style="color:#0000FF;">https://www.constitutionofindia.net/debates/17-oct-1949/ </a> ].
            </p>
            
            <p><span>&gt;&gt;</span>
-             Ashok on the "Nationalizer" account on [ medium.com ] for his essay about the Indian progressive Brajeshwar Prasad 
+             Ashok on the "Nationalizer" account on [ medium.com ] for his essay about the Indian Socialist Brajeshwar Prasad 
              who spoke in favour of Socialism during the design years of the Indian constitution. The essay can be read here 
              [ <a href="https://nationalizer.medium.com/socialist-and-secular-but-not-sovereign-brajeshwar-prasad-s-amendment-to-preamble-1bb8a1e8142e" 
-             target="_blank" style="color:#0000FF;">https://nationalizer.medium.com/socialist-and-secular-but-not-sovereign-brajeshwar-prasad-s-amendment-to-preamble-1bb8a1e8142e </a> ]
+             target="_blank" style="color:#0000FF;">https://nationalizer.medium.com/socialist-and-secular-but-not-sovereign-brajeshwar-prasad-s-amendment-to-preamble-1bb8a1e8142e </a> ].
            </p>
          
            <p><span>&gt;&gt;</span>
@@ -3520,7 +3715,7 @@ modalText.innerHTML = `
            </p>
 
            <p><span>&gt;&gt;</span> 
-             Background picture for the website is from the DeviantArt website’s DreamUp AI picture generation facility.
+             Background picture for the website is from the DeviantArt websiteâs DreamUp AI picture generation facility.
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -3818,23 +4013,26 @@ modalText.innerHTML = `
            }
        }
 
-         h2 {
-           font-family: 'Poppins', sans-serif;
-           color: #000;
-           text-align: center;
-           margin-bottom: 10px;
-           }
+          h2
+         {
+            font-family: 'Poppins', sans-serif;
+            color: #000;
+            text-align: center;
+            margin-bottom: 10px;
+          }
 
-           p{
-           font-family: 'Roboto', sans-serif;
-           color: #000;
-           font-size: 1.1em;
-           }
+          p
+	  {
+             font-family: 'Roboto', sans-serif;
+             color: #000;
+             line-height: 1.6;
+          }
 
-           span {
+           span
+	  {
              color:#000;
              font-weight: bold;
-             }
+           }
 
          </style>
          
@@ -3844,7 +4042,7 @@ modalText.innerHTML = `
                        
        <div class="contact-item">
            <div class="contact-label">
-               <span class="icon">📺</span>YouTube
+               <span class="icon">ðº</span>YouTube
            </div>
            <div class="contact-value">
                <a href="https://youtube.com/@KosmosSociety" target="_blank">youtube.com/@KosmosSociety</a>
@@ -3853,7 +4051,7 @@ modalText.innerHTML = `
        
        <div class="contact-item">
            <div class="contact-label">
-               <span class="icon">📧</span>Email
+               <span class="icon">ð§</span>Email
            </div>
            <div class="contact-value">
                <a href="mailto:hello@kosmossociety.space">hello@kosmossociety.space</a>
@@ -3862,7 +4060,7 @@ modalText.innerHTML = `
        
        <div class="contact-item">
            <div class="contact-label">
-               <span class="icon">💼</span>LinkedIn ( Sameer )
+               <span class="icon">ð¼</span>LinkedIn ( Sameer )
            </div>
            <div class="contact-value">
                <a href="https://linkedin.com/in/sameer-kosmos-society" target="_blank">linkedin.com/in/sameer-kosmos-society</a>
@@ -3871,15 +4069,16 @@ modalText.innerHTML = `
        
        <div class="contact-item">
            <div class="contact-label">
-               <span class="icon">📍</span>Address
+               <span class="icon">ð</span>Address
            </div>
            <div class="contact-value">
-               Bengaluru city aka Bangalore, India
+               Presently most of us are based in Bangalore city, India, but we will base our HQ in Calcutta city ( now called Kolkata ) 
+	       which is in the east side of India. This move because Calcutta is the only true city in India though it can be lot more improved.
            </div>
        </div>
        
        <div class="tea-invitation">
-           <span class="icon">🍵</span>
+           <span class="icon">ðµ</span>
            Talk to us in person over tea
        </div>
    </div>
