@@ -301,13 +301,13 @@ modalText.innerHTML = `
            <p>
              We are a non-profit design house and the manufacturers of our techno systems will be national governments who will 
              purchase from us the designs and engineering details of our systems for a reasonably cheap 
-             license fee and they will be able to set up factories in their own countries to produce our 
-             systems cheaply and sustainably. We will propagate our pan-human democratic social system for space 
+             license fee. These governments will be able to set up factories in their own countries to produce our 
+             space systems cheaply and sustainably. And we will propagate our pan-human democratic social system for space 
              to be adopted by these governments when they send out their citizens into space, for example no tax on their citizens 
 			 for using in space any of our-designed space systems. So how will these governments recover their investment 
-	         in our systems ? Through the processed and unprocessed space resources and products their citizens bring to Earth and 
-		     these resources and products will be traded with other governments as long as the system of 
-	         tax and money remains among humanity.		  
+	         in our systems ? Through the processed and unprocessed space resources and products their citizens produce in space 
+		     and bring to Earth and these resources and products being traded by their governments with other governments as long as the system of 
+	         money remains among humanity.
            </p>
 
            <p>
@@ -318,16 +318,16 @@ modalText.innerHTML = `
              Starting 2035 our-designed spaceships will be able to carry some humans and goods safely to the Moon and 
              in subsequent years our-designed spaceships will be able to travel throughout the Inner Solar System and Outer Solar System 
              i.e. from the Moon to towards the Sun and to the edges of the Solar System. This will be just the start. We will produce ideas 
-             that will take humans to the stars.
+             to take humans to the stars. There is no reasonable reason that any human desiring to go to space 
+			 and live in space, be unable to achieve that.
            </p>
-
 
            <p>
              To start our journey to space, by 2031 two people will go to Low Earth Orbit in 
              our Alef-A airship-spaceship, orbit Earth and return gently through the atmosphere 
              by powered craft re-entry to the launch place.
            </p>
-           
+
          </div>
        </div>
      `;
@@ -4103,5 +4103,6 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
