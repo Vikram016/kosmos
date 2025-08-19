@@ -176,7 +176,7 @@ modalText.innerHTML = `
              the takeoff engines and then in higher Earthen atmosphere they will operate as the space-taking engines. 
              However, the space-plane cannot be used for long-distance space travel, like Earth to Red One, and 
              the space-plane shares the same disadvantages as a regular aeroplane so is also not the solution.
-           </p>          
+           </p>         
 
            <p>
              Some academics propose creating huge spaceships whose undersides will have mechanism 
@@ -201,7 +201,7 @@ modalText.innerHTML = `
            </p>
 
            <h2>Social restrictions of the current space industry</h2>
-           
+
            <ul>
              <li style="margin-left:1em; margin-bottom:10px;">
                <span> >> </span> There are very few human space programs because the design complicatedness and 
@@ -245,7 +245,7 @@ modalText.innerHTML = `
 	       Women naturally are chubby, voluptuous and there is a background and also overt system in the West to exclude 
 	       such women from the space industry as well as make them non-persons via language and mainstream media. 
 	       This excluding is due to the West having influential position for male homosexuals, priests and 
-	       the "health and wellness" industry who all have their own interests in keeping women thin or muscular.
+	       the "fitness and wellness" industry who all have their own interests in keeping women thin or muscular.
               </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
@@ -271,7 +271,7 @@ modalText.innerHTML = `
              In the Russian language "Iskra" means Spark, especially one which ignites positive change. 
              We of Kosmos Society are starting the iskra to light the flame for utopian evolution of humans 
              for Space and for Earth so that every human can explore the entire universe to the max extent possible by humans, 
-             in a way that is simple, gentle, safe, pan-humanist in a progressive way and respectful of 
+             in a way that is simplified, gentle, safe, pan-humanist in a progressive way and respectful of 
              Nature and Nature's laws, and the good ideas and technologies formed for space and the good ideas and technologies formed in space 
              benefit all humans collectively, including on Earth.
            </p>
@@ -286,25 +286,16 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             We of Kosmos Society will build all the space systems, whether spaceships or self-sustaining compact electricity generators 
+             We of Kosmos Society will design and prototype all the space systems, whether spaceships or self-sustaining compact electricity generators 
              or computers or spacesuits or habitation systems or the democratic and natural social system for space and every other necessary thing, 
-             and all this in a simplified and straightforward manner, without caring for obsolete and needless "industry standards", 
-             unthoughtful academic postulations, cringey technological fashions, stupid corporate language, ignoring of simple ideas, 
-             anti-democratic and anti-Nature social constructs.
+             and all this in a simplified, aesthetic and natural manner, without caring for obsolete and needless "industry standards", 
+             unthoughtful academic postulations, cringey technological fashions, stupid corporate language, the prevalent ignoring of simple ideas, 
+             anti-democratic and anti-Nature social constructs. We are reimagining space systems, whether techno or social.
            </p>
 
            <p>
-             All our systems will be simplified, aesthetic, reliable, manufacturable cheaply, operable cheaply, repairable cheaply and tend towards 
-             using biology where applicable because biology has existed intelligently for millions of years at least on Earth. We will use novel methods 
-             and natural methods, doesn't matter if we are the only ones using those or one of the few. What works, works. What is sensible, is sensible. 
+             It doesn't matter if we are the only ones using those or one of the few. What works, works. What is sensible, is sensible. 
              What can be simplified, must be simplified. What is natural, has to be the system.
-           </p>
-
-           <p>
-             Starting 2035 our-designed spaceships will be able to carry some humans and goods safely to the Moon and 
-             in subsequent years our-designed spaceships will be able to travel throughout the Inner Solar System and Outer Solar System 
-             i.e. from the Moon to towards the Sun and to the edges of the Solar System. This will be just the start. We will produce ideas 
-             that will take humans to the stars.
            </p>
 
            <p>
@@ -312,13 +303,24 @@ modalText.innerHTML = `
              purchase from us the designs and engineering details of our systems for a reasonably cheap 
              license fee and they will be able to set up factories in their own countries to produce our 
              systems cheaply and sustainably. We will propagate our pan-human democratic social system for space 
-             to be adopted by these governments when they send out their citizens into space, for example they should charge 
-             their citizens a max seat price of 100 dollars to the Moon or ideally free.
+             to be adopted by these governments when they send out their citizens into space, for example no tax on their citizens 
+			 for using in space any of our-designed space systems. So how will these governments recover their investment 
+	         in our systems ? Through the processed and unprocessed space resources and products their citizens bring to Earth and 
+		     these resources and products will be traded with other governments as long as the system of 
+	         tax and money remains among humanity.		  
            </p>
 
            <p>
              Most of our systems will be usable on Earth either directly or in derivation.
            </p>
+
+	       <p>
+             Starting 2035 our-designed spaceships will be able to carry some humans and goods safely to the Moon and 
+             in subsequent years our-designed spaceships will be able to travel throughout the Inner Solar System and Outer Solar System 
+             i.e. from the Moon to towards the Sun and to the edges of the Solar System. This will be just the start. We will produce ideas 
+             that will take humans to the stars.
+           </p>
+
 
            <p>
              To start our journey to space, by 2031 two people will go to Low Earth Orbit in 
@@ -4101,4 +4103,5 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
