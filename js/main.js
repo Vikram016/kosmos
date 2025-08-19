@@ -189,8 +189,8 @@ modalText.innerHTML = `
              long-residing heavy nuclear radiation contaminating the space routes these ships travel through. There is also the point 
              of the inherent massive danger of these ships using nuclear bombs as propulsion... even one bomb exploding without intention 
              can destroy the ship and cause the remaining nuclear bombs to explode and immediately destroy hundreds of kilometers 
-             of land starting from the launch area or the area this ship falls on. Similar to nuclear war. Thus this ship proposal is more foolish 
-             than the tall rocket.
+             of land starting from the launch area or the area this ship falls on and contaminate that land for years. Similar to nuclear war. 
+			 Thus this ship proposal is more foolish than the tall rocket.
            </p>
 
            <p>
@@ -261,27 +261,25 @@ modalText.innerHTML = `
              even if experiencing space must be the easy right of every human. But it is not Nature denying most people 
              access to space... it is anti-democratic systems among humans doing so. Also, for those very very few people on Earth 
              who are able to go to space, they go by sitting in very unsafe and unreliable systems which can explode any time 
-             and kill them and many other humans around. And we are told to celebrate those feudal organizations which do these irrational exclusions 
-             and create these unsafe systems. We are told to heroize the people who head these organizations.
+             and kill them and many other humans around. All this is just needless.
            </p>
-          
+
            <h2>Our solution - The Iskra Plan</h2>
            
            <p>
              In the Russian language "Iskra" means Spark, especially one which ignites positive change. 
              We of Kosmos Society are starting the iskra to light the flame for utopian evolution of humans 
              for Space and for Earth so that every human can explore the entire universe to the max extent possible by humans, 
-             in a way that is simplified, gentle, safe, pan-humanist in a progressive way and respectful of 
+             in a way that is simplified, gentle, safer, pan-humanist in a progressive way and respectful of 
              Nature and Nature's laws, and the good ideas and technologies formed for space and the good ideas and technologies formed in space 
              benefit all humans collectively, including on Earth.
            </p>
            
            <p>
-             Space travel must become as common as bus travel, and space living as common as hotel stay, whenever he or she desires, 
-             with a minimal tax aka usage fee, or no tax at all. Money is a form of tax and space, 
-             tax and money should cease to exist as they have no natural existence in the universe 
-             except for the 6000 years or so that they have existed on Earth and have been among the main reasons for needless oppressions, misery and 
-             complicatedness. Also should end all the other social restrictions which don't exist in Nature 
+             Space travel must become as common as bus travel, and space living as common as hotel stay, whenever you desire, 
+             with no usage tax at all. Money is a form of tax, and tax and money should cease to exist as they have no natural existence 
+			 in the universe except for the 6000 years or so that they have existed on Earth and have been among the main reasons 
+	         for needless oppressions, misery and complicatedness. Also should end all those other social restrictions which don't exist in Nature 
              but were created by some people on Earth. Ending these restrictions is the simple law of Nature.
            </p>
 
@@ -290,12 +288,13 @@ modalText.innerHTML = `
              or computers or spacesuits or habitation systems or the democratic and natural social system for space and every other necessary thing, 
              and all this in a simplified, aesthetic and natural manner, without caring for obsolete and needless "industry standards", 
              unthoughtful academic postulations, cringey technological fashions, stupid corporate language, the prevalent ignoring of simple ideas, 
-             anti-democratic and anti-Nature social constructs. We are reimagining space systems, whether techno or social.
+             the anti-democratic and anti-Nature social constructs.
            </p>
 
            <p>
-             It doesn't matter if we are the only ones using those or one of the few. What works, works. What is sensible, is sensible. 
-             What can be simplified, must be simplified. What is natural, has to be the system.
+             We are reimagining space systems, whether techno or social. It doesn't matter if we are the only ones using those 
+			 or one of the few. What works, works. What is sensible, is sensible. What can be simplified, must be simplified. 
+	         What is natural, has to be the system.
            </p>
 
            <p>
@@ -303,7 +302,7 @@ modalText.innerHTML = `
              purchase from us the designs and engineering details of our systems for a reasonably cheap 
              license fee. These governments will be able to set up factories in their own countries to produce our 
              space systems cheaply and sustainably. And we will propagate our pan-human democratic social system for space 
-             to be adopted by these governments when they send out their citizens into space, for example no tax on their citizens 
+             to be adopted by these governments when they send out their citizens into space, including no tax on their citizens 
 			 for using in space any of our-designed space systems. So how will these governments recover their investment 
 	         in our systems ? Through the processed and unprocessed space resources and products their citizens produce in space 
 		     and bring to Earth and these resources and products being traded by their governments with other governments as long as the system of 
@@ -4103,6 +4102,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
