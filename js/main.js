@@ -1890,7 +1890,7 @@ modalText.innerHTML = `
            <p>
              The current human-transport space industry is feudal where aspiring space travelers 
              have to fit those irrational categories described in our first chapter "Iskra Plan". 
-             Other people simply donât have a chance and this is unfair as it is only human social 
+             Other people simply don't have a chance and this is unfair as it is only human social 
              constructs which are doing this preventing and not the universe through celestial messaging 
              where the universe displays an "Only allow them" list in Earth's night sky every night 
              where the list shows names of only the moneyed and the other unfairly privileged. But in truth 
@@ -1900,70 +1900,70 @@ modalText.innerHTML = `
            <p>
              The upcoming commercial space industry promoted by certain groups on Earth pushes feudalism 
              and commerce to space, for example the strange art of some MBA affixing pointless commercial projection 
-             slogans to space like "The trillion dollar space economy". Two things to comment on this :
+             slogans to space like "The trillion dollar space economy". A few things to comment on this :
            </p>
            
-           <p>
-             First is how do these projection-making foolish MBAs know how much money can be made even from two big rocks in the Asteroid Belt which is 
+           <p> <span> (a). </span> 
+             How do these projection-making foolish MBAs know how much money can be made even from two big rocks in the Asteroid Belt which is 
              hundreds of millions of kilometers away from Earth, let alone knowing money wealth from the universe ?
            </p>
 
-           <p>
-             Second is that part of that trillion of the wannabe space billionaires will come from charging huge tax ransoms 
+           <p> <span> (b). </span> 
+             Part of that trillion of the wannabe space billionaires will come from charging huge tax ransoms 
              to take people to space and keep them alive in space and provide them with communication and food and healthcare and rescue 
-             and collaboration and other things. Things that should be available to every human without he or she 
+             and collaboration and other things... things that should be available to every human without he or she 
              being taxed. How can there be tax on oxygen, water and food in space ? Surely these billionaires 
              are not Nature to have produced them and surely when these billionaires on Earth see rain falling from the sky and it feeding the rivers
              and the seas and seeding plants and feeding the birds and the other animals, the billionaires don't find Nature's message in the sky 
              demanding that they pay Nature a big tax and only then it will send rain to their gardens and to the farms 
-             from where they get their luxury food. Does the Sun send its life-giving light and heat to them by demanding tax ? If the billionaires 
+             from where they get their luxury food. Does the Sun send its life-giving light and heat to them by demanding tax ? If the space billionaires 
              don't get taxed by Nature how can they tax us ?
            </p>
 
-           <p>
+           <p> <span> (c). </span> 
              About taxing telecommunication in space, imagine a scene where you and your friend are talking across a table 
              and someone comes and demands that both of you pay him tax so that you can speak to each other else you cannot. 
-	     This demand cannot be called anything but ransom. The wannabe space billionaires want to impose this ransom on you 
-	     by taxing you for use of light and radio-frequency to communicate in space and these two things are productions of Nature 
-	     which our billionaires will not tax themselves to use or give tax to Nature so why should they expect that other humans 
-	     must be taxed for communication ?
+	         This demand cannot be called anything but ransom. The wannabe space billionaires want to impose this ransom on you 
+	         by taxing you for use of light and radio-frequency to communicate in space and these two things are productions of Nature 
+	         which our billionaires will not tax themselves to use or give tax to Nature so why should they expect that other humans 
+	         must be taxed for communication ?
            </p>
-           
-           <p>
+
+           <p> <span> (d). </span> 
              As for taxing the machines for telecom in space, if every society makes its own telecom machines which are common in design and 
              can be made for cheap and are provided to every citizen for cheap then we don't need the monopoly of the wannabe space billionaires.
            </p>            
 
-           <p>
+           <p> <span> (e). </span> 
              About taxing healthcare in space, surely when the billionaires demand tax from you to make them save your life 
              or treat your injuries a million kilometers from Earth, even as you lie there helpless and in pain, 
              and if you don't give them that tax they will let you die or allow your wounds to become septic and you lose your leg, 
              can their taxing be called anything but murder ?
            </p>
 
-           <p>
-             Similarly other taxed things.
+           <p> <span> (f). </span> 
+             Similarly other taxed things in space.
            </p>
 
-           <p>
+           <p> <span> (g). </span> 
              And when these wannabe space billionaires and trillionaires and pentalillionaires make their wealth off you, 
              will they ever respect you as a person and invite you for tea and dinner at their mansions on the Moon because 
              their vast money and material wealth had a bit of your contribution ? Or will they have you thrown on the Moon soil 
              outside their Moon mansion if you should approach 100 feet from the gate ?
            </p>
 
-           <p>
+           <p> <span> (h). </span> 
              These wannabe space billionaires and trillionaires maintain an unfair system where does not have cheap 
              or tax-free space travel and space living just so that these huge monies continue into the non-Nature-origin electronic signals 
              in the data stores of their banks. A cycle of unfairness but which must not be allowed to take root now in the 
              beginning years of the space exploration industry.
            </p>
 
-           <p>
-             Tax is not from Nature... neither in form of money or in form of other demands like compulsory college degrees, "adult age 18", 
-	     belief in certain divinities, the billionaires' idea of "physical fitness" for women to do space travel, 
-	     or for space travellers to belong to only certain Earthen countries their governments like, and so on. The universe belongs to all humans 
-             as long as they respect Nature and Nature's laws and do not be cruel and apathetic to others.
+           <p> <span> (i). </span> 
+             Tax is not from Nature... neither in form of huge money for a ticket to the Moon or in form of other demands like 
+			 compulsory college degrees, "adult age 18", belief in certain divinities, the billionaires' idea of "physical fitness" for women to do space travel, 
+	         or for space travellers to belong to only certain Earthen countries their governments like, and so on. The universe belongs to all humans 
+             as long as they respect Nature and Nature's laws and are not cruel and apathetic to others.
            </p>	   
 	   
            <p>
@@ -4115,6 +4115,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
