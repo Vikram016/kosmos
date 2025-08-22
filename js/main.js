@@ -277,10 +277,9 @@ modalText.innerHTML = `
            
            <p>
              Space travel must become as common as bus travel, and space living as common as hotel stay, whenever you desire, 
-             with no usage tax at all. Money is a form of tax, and tax and money should cease to exist as they have no natural existence 
+             with no usage tax at all. Money is a form of tax, and tax and money have no natural existence 
 			 in the universe except for the 6000 years or so that they have existed on Earth and have been among the main reasons 
-	         for needless oppressions, misery and complicatedness. Also should end all those other social restrictions which don't exist in Nature 
-             but were created by some people on Earth. Ending these restrictions is the simple law of Nature.
+	         for needless oppressions, misery and complicatedness.
            </p>
 
            <p>
@@ -306,7 +305,7 @@ modalText.innerHTML = `
 			 for using in space any of our-designed space systems. So how will these governments recover their investment 
 	         in our systems ? Through the processed and unprocessed space resources and products their citizens produce in space 
 		     and bring to Earth and these resources and products being traded by their governments with other governments as long as the system of 
-	         money remains among humanity.
+	         money remains among humanity. This is the real space economy.
            </p>
 
            <p>
@@ -510,10 +509,7 @@ modalText.innerHTML = `
          
            <p><span>&gt;&gt;</span>
              Liberty, Equality, Fraternity, Humanism, Simplicity, Beauty, Gentleness, 
-             Human safety as much as possible, Respect for Nature including reversing Climate Change on Earth. 
-             A "Gentleness" example is renaming of the planet Mars to "Red One" as the former is the Roman 
-             god of war while the latter is a gentle name. A "Human safety" example is not following the 
-             silliness of nuclear fusion as the means to generate electricity.
+             Human safety as much as possible, Respect for Nature including reversing Climate Change on Earth.              
            </p>
            
            <p><span>&gt;&gt;</span> 
@@ -571,8 +567,22 @@ modalText.innerHTML = `
            </p>
 
            <p><span>&gt;&gt;</span> 
-             As example of the above points, we will not use semiconductors.
-           </p>           
+             As example of the above points :
+           </p>
+
+	       <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> 
+	         A "Gentleness" example is renaming of the planet Mars to "Red One" as the former is the Roman 
+             god of war while the latter is a gentle name.
+		   </p>	 
+
+	       <p style='margin-left:2em;margin-bottom:10px;'><span>(b).</span> 
+		     A "Human safety" example is not following the silliness of nuclear fission 
+	         or fusion as the means to generate electricity and propel spaceships.
+		   </p> 
+
+	       <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> 
+		     A "Simplicity" example is that we will not use semiconductors.
+		   </p>
 
            </div>
 
@@ -4102,6 +4112,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
