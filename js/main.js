@@ -494,10 +494,10 @@ modalText.innerHTML = `
               <a href="#iceworm">&gt;&gt; Iceworm ice borer</a>
               <a href="#exoskeleton">&gt;&gt; Exoskeleton</a>
               <a href="#biology">&gt;&gt; Biology researches</a>
-	      <a href="#wmachines">&gt;&gt; Machines for water</a>
+	          <a href="#wmachines">&gt;&gt; Machines for water</a>
               <a href="#serf">&gt;&gt; Serf autonomous satellite for Earth orbit debris cleaning</a>
-	      <a href="#habitat">&gt;&gt; Habitat construction on other worlds</a>              
-              <a href="#antigravity">&gt;&gt; Anti-gravity</a>
+	          <a href="#habitat">&gt;&gt; Habitat construction on other worlds</a>              
+              <a href="#further">&gt;&gt; Further directions</a>
             </div>
 	    
           </div>
@@ -1152,13 +1152,9 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             <span> >> </span> The idea that instead of making great effort in building electro-mechanical limbed robots 
-             and even bio-mimicking robots which have bio-inspired muscles, to do work in space and on space objects 
-             where the environment is dangerous for current regular humans, better is to use natural biology 
-             in form of biologically enhanced biological humans to go to those places and also have good clothing against 
-             those environmental conditions. This involves creating within humans the abilities for self-repair, 
-             space-tolerance and enhanced strength. To get these abilities may require biological elements 
-             acting with non-bio nanomachines within the body. It should be possible to thus increase continuous human life span 
+             <span> >> </span> Creating within humans the abilities for self-repair, space-tolerance and 
+			 enhanced strength. To get these abilities may require biological elements acting with non-bio nanomachines 
+	         within the body. It should be possible to thus increase continuous human life span 
              to 2000 years at least.
            </p>
 
@@ -1350,10 +1346,16 @@ modalText.innerHTML = `
 
            </div>
 	   
-	   <div id="antigravity" class="section">           
-           <h2>Anti-gravity</h2>
+	   <div id="further" class="section">           
+           <h2>Further directions</h2>
 
-           <p>
+	       <p> <span> >> </span> 
+             Robots whose movements are as graceful, quick and strong as a cat and this will involve replicating 
+			 the muscles of cats. And these robots will have intelligence from our bio-computing mechanism 
+	         as described in the "Biology researches" section.
+           </p>
+
+           <p> <span> >> </span> 
              A more natural means to fly from worlds ( like Earth ) to space and descend on worlds via "anti-gravity" 
              mechanism aka Gravity Manipulation and this is if possible at all. Such a craft can be very large and of any shape 
              and able to carry maybe hundreds of people at a time, like some of the lander ships 
@@ -4113,6 +4115,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
