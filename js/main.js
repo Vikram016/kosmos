@@ -2073,7 +2073,7 @@ modalText.innerHTML = `
            </p>
            
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(d).</span> There will be a natural tendency to not have a âboss cabinâ.
+             <span>(d).</span> There will be a natural tendency to not have a boss cabin.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -3212,23 +3212,29 @@ modalText.innerHTML = `
            </p>
 	   
 	   <p>
-	     There is another sad fact of hunger in various places on Earth. This is a two part problem :
-           </p>
+	     There is another sad fact of hunger in various places on Earth. This is a three part problem :
+       </p>
 	   
 	   <p style="margin-left:1em; margin-bottom:10px";> 
 	     <span> (a). </span> A technological problem via use of traditional methods of growing food in open farms
-             which are inefficient, centralized, polluting, climate-vulnerable and pest-vulnerable. Also connected is 
+         which are inefficient, centralized, polluting, climate-vulnerable and pest-vulnerable. Also connected is 
 	     non-availibility of water in many places because farmers have either exhausted ground water due to over-use 
 	     or there has been drought.
-           </p>
+       </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";> 
+         <span>(b).</span> A social problem via growing useless crops. These crops are nutritionally 
+		 poor yet take up a lot of expenditure of water, fertilizers, labor etc. This contradiction is because 
+         these crops hold cultural significance. Rice is one example.
+       </p>
           
-           <p style="margin-left:1em; margin-bottom:10px";> 
-              <span>(b).</span> A social problem largely via tax on food, within-family feudalist unequal distribution of food, 
-              abandonment by family, social apathy, culture-dependent wastages of food, private profiteering by merchants and 
-	      geopolitical interferences in food distribution.
+       <p style="margin-left:1em; margin-bottom:10px";> 
+         <span>(c).</span> A social problem largely via tax on food, within-family feudalist unequal distribution of food, 
+         abandonment by family, social apathy, culture-dependent wastages of food, private profiteering by merchants and 
+	     geopolitical interferences in food distribution.
 	   </p>
 
-           <p>              
+       <p>              
 	     So many people go hungry or die of hunger despite abundance of food elsewhere and sometimes because of wastages of food.
 	   </p>
 	   
@@ -3238,11 +3244,11 @@ modalText.innerHTML = `
 	     These techno foood productions must be done in decentralized, neighborhood-level indoor farms 
 	     which have localized water generation as much as possible as well as scientifically built canals. 
 	     There is no need for anyone to die of hunger now in 2025 AD.
-           </p>
+       </p>
 
-           <p>[ To be done ] </p>
+       <p>[ To be done ] </p>
 
-           </div>
+       </div>
 
        </div>
      `;
@@ -4115,6 +4121,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
