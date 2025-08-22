@@ -517,7 +517,7 @@ modalText.innerHTML = `
            </p>
            
            <p><span>&gt;&gt;</span> 
-             We wonât do a technology just because there are a hundred other companies doing it 
+             We won't do a technology just because there are a hundred other companies doing it 
              or it has been done for a hundred years or just because it has been proposed by some celebrated scientist but 
              the idea is not sensible, for example the concept called Dyson Sphere aka Dyson Swarm.
            </p>
@@ -552,7 +552,7 @@ modalText.innerHTML = `
            </p>
 
            <p style='margin-left:2em;margin-bottom:10px;'><span>(g).</span> 
-             Technology that is well-crafted yet affordable by the masses.
+             Technology that is well-crafted yet cheaply produced.
            </p>
 
            <p style='margin-left:2em;margin-bottom:10px;'><span>(h).</span> 
@@ -567,7 +567,7 @@ modalText.innerHTML = `
            </p>
 
            <p><span>&gt;&gt;</span> 
-             As example of the above points :
+             As examples of the above points :
            </p>
 
 	       <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> 
@@ -604,7 +604,7 @@ modalText.innerHTML = `
              then convert the electricity to high-power microwaves and send down the microwaves to certain large-focus spots on Earth 
              where on those spots on the ground the microwaves are converted back to electricity by rectennas 
              to be supplied to the grid. The nefarious element here is the potential of this system to be used to zap 
-             humans and other things using the high-power microwaves by moving these power 
+             humans and other things on the ground using the high-power microwaves by moving these power 
              satellites over targets.
            </p>          
 
@@ -622,25 +622,26 @@ modalText.innerHTML = `
              Our Faradn generator system will be such a generator which will power all our non-micro-sized products 
              by sitting within them or just outside them. It will produce 24 volts DC which is enough for most purposes, 
              neither too low a current nor dangerously high. Once started, this generator will continuously produce current 
-	     for at least a month... this is the self-sustained part.
+	         for at least a month... this is the self-sustained part. After a month the generator 
+		     can be easily refurbished at the neighborhood repair shop or in the spaceship.
            </p>
-           
+ 
            <p>
              For high voltage requirements we can externally connect this self-sustained generator to further amplifying systems 
-             like a motor-generator. Within the Faradn generator itself there are two very simple approaches we are considering in generating 
-             the initial low-voltage current before we amplify that current, clean it and provide it as the 24 volts DC output. 
-             The two approaches are :
+             like a motor-generator or a Van de Graff Generator. Within the Faradn generator itself there are two very simple approaches 
+			 we are considering in generating the initial low-voltage current before we amplify that current, clean it and provide it as 
+	         the 24 volts DC output. The two approaches are :
            </p>
            
 	   <ul>
-                        	   
-	     <li style="margin-left:1em; margin-bottom:10px;">
-               <span> (a). </span> A simple magnet-repulsion motor mechanism with at least two magnet sets.
-	      </li>
-	      
+          
 	      <li style="margin-left:1em; margin-bottom:10px;">
-               <span> (b). </span> A thermo-mechanical piston mechanism which includes a "sand battery".
+               <span> (a). </span> A thermo-mechanical piston mechanism which includes a "sand battery".
 	      </li>
+
+	      <li style="margin-left:1em; margin-bottom:10px;">
+               <span> (b). </span> A simple magnet-repulsion motor mechanism with at least two magnet sets.
+	      </li>	      
 	      
 	   </ul>  
            
@@ -4112,6 +4113,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
