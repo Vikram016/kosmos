@@ -1751,26 +1751,26 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             Often, ultranationalism is most present among the middle class especially. The middle class person 
-             often employed in feudal organizations as a monthly wager, on his daily trip to and from his office, 
+             Often, ultranationalism is most present among the middle class. The middle class person 
+             often employed in feudal organizations as a monthly wager... a wage slave, on his daily trip to and from his office, 
              passes by the same homeless and hungry people on the footpath, but will never stop to take a blanket, 
              clothes and food to them, will never even give 20 dollars to them, never will fill with tears after hearing 
-             that some of those homeless died of hunger that morning, never will be anger and disappointment and a "What ???" 
+             that some of those homeless died of hunger that morning, never will have anger and disappointment and a "What ???" 
              when hearing that that homeless person lay hungry for three days, in full view of the road, 
              and another middle class person brought luxurious food for five dogs on that same road 20 feet away from the hungry person, 
              and then that hungry human died of hunger.
            </p>
-           
+
            <p>
              But this same apathetic, monthly-wage middle class person is the first to scream war against a progressive society 
              5000 kilometers away where there are no homeless and hungry humans and no tax and no wage slaves because every human there is closer 
              to having all the natural freedoms due to humans not depending for survival on measly wage from rich exploitative feudals who rather wish
              that they did not have to give even that measly wage but could extract every work from the workers. And in that other faraway 
              progressive society citizens don't have to struggle to take ungiving permissions of family elders just to love a person of 
-	     the opposite gender or to invent, write, paint and observe the universe and won't be told to either earn money to be called of worth 
-	     or just die silently somewhere far away. But our unthinking middle class person will call that humanist society a "rogue nation" which must be changed 
-	     even by genocide so that "Democracy" can be brought there and Free Market can be brought there and the anti-worker teachings of B-schools can be 
-	     brought there, LOL.
+	         the opposite gender or to invent, write, paint and observe the universe and won't be told to either earn money to be called of worth 
+	         or just die silently somewhere far away. But our unthinking middle class person will call that humanist society a "rogue nation" which must be 
+	         changed even by genocide so that "Democracy" can be brought there and Free Market can be brought there and the anti-worker teachings of B-schools 
+		     can be brought there, LOL.
            </p>
 
            <p>
@@ -1793,7 +1793,7 @@ modalText.innerHTML = `
              nationalists in the kosmos when just the Sun can fit in itself a million Earths and the Sun being 
              just a medium-sized star, and in reality the Sun instantly burning up those million Earths and 
              all the nations within them and with them all of the eight billion people of Earth. 
-             A human is a tiny humble "zarra" / speck in the infinite Universe.
+             A human is a tiny humble speck in the infinite Universe.
            </p>
 
            <p>
@@ -4115,6 +4115,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
