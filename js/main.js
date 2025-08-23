@@ -255,7 +255,7 @@ modalText.innerHTML = `
              </li>
 
            </ul>
-           
+
            <p>
              Thus presently most humans are excluded from going to space even if they are intelligent, gentle, physically able and respect Nature... 
              even if experiencing space must be the easy right of every human. But it is not Nature denying most people 
@@ -269,15 +269,15 @@ modalText.innerHTML = `
            <p>
              In the Russian language "Iskra" means Spark, especially one which ignites positive change. 
              We of Kosmos Society are starting the iskra to light the flame for utopian evolution of humans 
-             for Space and for Earth so that every human can explore the entire universe to the max extent possible by humans, 
+             for Space and for Earth so that every human can explore the universe to the max extent possible by humans, 
              in a way that is simplified, gentle, safer, pan-humanist in a progressive way and respectful of 
-             Nature and Nature's laws, and the good ideas and technologies formed for space and the good ideas and technologies formed in space 
-             benefit all humans collectively, including on Earth.
+             Nature and Nature's laws, and the good ideas and technologies formed for space and the good ideas and 
+			 technologies formed in space benefiting humans collectively, including on Earth.
            </p>
-           
+
            <p>
              Space travel must become as common as bus travel, and space living as common as hotel stay, whenever you desire, 
-             with no usage tax at all. Money is a form of tax, and tax and money have no natural existence 
+             with no usage tax. Money is a form of tax, and tax and money have no natural existence 
 			 in the universe except for the 6000 years or so that they have existed on Earth and have been among the main reasons 
 	         for needless oppressions, misery and complicatedness.
            </p>
@@ -285,7 +285,7 @@ modalText.innerHTML = `
            <p>
              We of Kosmos Society will design and prototype all the space systems, whether spaceships or self-sustaining compact electricity generators 
              or computers or spacesuits or habitation systems or the democratic and natural social system for space and every other necessary thing, 
-             and all this in a simplified, aesthetic and natural manner, without caring for obsolete and needless "industry standards", 
+             and all this in a simplified, aesthetic and natural manner, without caring for obsolete and needlessly complicated "industry standards", 
              unthoughtful academic postulations, cringey technological fashions, stupid corporate language, the prevalent ignoring of simple ideas, 
              the anti-democratic and anti-Nature social constructs.
            </p>
@@ -4131,6 +4131,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
