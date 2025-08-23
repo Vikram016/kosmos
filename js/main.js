@@ -1904,12 +1904,14 @@ modalText.innerHTML = `
              slogans to space like "The trillion dollar space economy". A few things to comment on this :
            </p>
            
-           <p> <span> (a). </span> 
+           <p style="margin-left:1em; margin-bottom:10px";>
+		     <span> (a). </span> 
              How do these projection-making foolish MBAs know how much money can be made even from two big rocks in the Asteroid Belt which is 
              hundreds of millions of kilometers away from Earth, let alone knowing money wealth from the universe ?
            </p>
 
-           <p> <span> (b). </span> 
+           <p style="margin-left:1em; margin-bottom:10px";>
+		     <span> (b). </span> 
              Part of that trillion of the wannabe space billionaires will come from charging huge tax ransoms 
              to take people to space and keep them alive in space and provide them with communication and food and healthcare and rescue 
              and collaboration and other things... things that should be available to every human without he or she 
@@ -1921,7 +1923,8 @@ modalText.innerHTML = `
              don't get taxed by Nature how can they tax us ?
            </p>
 
-           <p> <span> (c). </span> 
+           <p style="margin-left:1em; margin-bottom:10px";>
+		     <span> (c). </span> 
              About taxing telecommunication in space, imagine a scene where you and your friend are talking across a table 
              and someone comes and demands that both of you pay him tax so that you can speak to each other else you cannot. 
 	         This demand cannot be called anything but ransom. The wannabe space billionaires want to impose this ransom on you 
@@ -1930,37 +1933,43 @@ modalText.innerHTML = `
 	         must be taxed for communication ?
            </p>
 
-           <p> <span> (d). </span> 
+           <p style="margin-left:1em; margin-bottom:10px";>
+		     <span> (d). </span> 
              As for taxing the machines for telecom in space, if every society makes its own telecom machines which are common in design and 
              can be made for cheap and are provided to every citizen for cheap then we don't need the monopoly of the wannabe space billionaires.
            </p>            
 
-           <p> <span> (e). </span> 
+           <p style="margin-left:1em; margin-bottom:10px";>
+		     <span> (e). </span> 
              About taxing healthcare in space, surely when the billionaires demand tax from you to make them save your life 
              or treat your injuries a million kilometers from Earth, even as you lie there helpless and in pain, 
              and if you don't give them that tax they will let you die or allow your wounds to become septic and you lose your leg, 
              can their taxing be called anything but murder ?
            </p>
 
-           <p> <span> (f). </span> 
+           <p style="margin-left:1em; margin-bottom:10px";>
+		     <span> (f). </span> 
              Similarly other taxed things in space.
            </p>
 
-           <p> <span> (g). </span> 
+           <p style="margin-left:1em; margin-bottom:10px";>
+		     <span> (g). </span> 
              And when these wannabe space billionaires and trillionaires and pentalillionaires make their wealth off you, 
              will they ever respect you as a person and invite you for tea and dinner at their mansions on the Moon because 
              their vast money and material wealth had a bit of your contribution ? Or will they have you thrown on the Moon soil 
              outside their Moon mansion if you should approach 100 feet from the gate ?
            </p>
 
-           <p> <span> (h). </span> 
+           <p style="margin-left:1em; margin-bottom:10px";>
+		     <span> (h). </span> 
              These wannabe space billionaires and trillionaires maintain an unfair system where does not have cheap 
              or tax-free space travel and space living just so that these huge monies continue into the non-Nature-origin electronic signals 
              in the data stores of their banks. A cycle of unfairness but which must not be allowed to take root now in the 
              beginning years of the space exploration industry.
            </p>
 
-           <p> <span> (i). </span> 
+           <p style="margin-left:1em; margin-bottom:10px";>
+		     <span> (i). </span> 
              Tax is not from Nature... neither in form of huge money for a ticket to the Moon or in form of other demands like 
 			 compulsory college degrees, "adult age 18", belief in certain divinities, the billionaires' idea of "physical fitness" for women to do space travel, 
 	         or for space travellers to belong to only certain Earthen countries their governments like, and so on. The universe belongs to all humans 
@@ -4122,6 +4131,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
