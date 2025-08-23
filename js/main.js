@@ -242,10 +242,10 @@ modalText.innerHTML = `
              <li style="margin-left:1em; margin-bottom:10px;">
                <span> >> </span> If an aspiring space traveller is a woman then she is excluded 
                if she doesn't meet with the irrational low-weight, "she should be fit" requirement for woman space travellers. 
-	       Women naturally are chubby, voluptuous and there is a background and also overt system in the West to exclude 
-	       such women from the space industry as well as make them non-persons via language and mainstream media. 
-	       This excluding is due to the West having influential position for male homosexuals, priests and 
-	       the "fitness and wellness" industry who all have their own interests in keeping women thin or muscular.
+	           Women naturally are chubby, voluptuous and there is a background and also overt system in the West to exclude 
+	           such women from the space industry as well as make them non-persons via language and mainstream media. 
+	           This excluding is due to the West having influential positions for anti-natural subcultures who all have 
+			   their own interests in keeping women thin or muscular.
               </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
@@ -581,7 +581,7 @@ modalText.innerHTML = `
 		   </p> 
 
 	       <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> 
-		     A "Simplicity" example is that we will not use semiconductors.
+		     A "Simplicity" example is we not using semiconductors.
 		   </p>
 
            </div>
@@ -660,7 +660,7 @@ modalText.innerHTML = `
              generator fails But this battery will have to be safe, eco-friendly and socially harmonious 
              in terms of its electricity storage materials, electrodes and packaging. Very much not 
              the lithium-ion battery which has been one of humanity's most idiotic inventions 
-             alongisde the motorcycle and of course money.
+             alongisde the motorcycle and other things.
            </p>
 
            </div>
@@ -783,7 +783,7 @@ modalText.innerHTML = `
            <p>
              The name of this vehicle comes from the name Ra who in ancient Egyptian mythology was 
 			 their supreme god who had many forms, one a cat. This being then was a mix of god and animal... 
-	         a hybrid. We use this name not only as another of our dedication to cats but also because our Ra-K vehicle 
+	         a hybrid. We use this name not only as another of our dedications to cats but also because our Ra-K vehicle 
 		     is a hybrid vehicle as below. The "K" is because it will carry humans in kosmos / space environments in contrast 
 	         to our other Ra hybrid machines which are described in further sections. 
            </p>
@@ -1355,8 +1355,7 @@ modalText.innerHTML = `
 	       <p> <span> >> </span> 
              Robots whose movements are as graceful, quick and strong as a cat and this will involve replicating 
 			 the muscles of cats. And these robots will have intelligence from our bio-computing mechanism 
-	         as described in the "Biology researches" section. These robots will be able to counter 
-		     the dog menace and snake menace in many parts of the world.
+	         as described in the "Biology researches" section.
            </p>
 
            <p> <span> >> </span> 
@@ -4123,6 +4122,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
