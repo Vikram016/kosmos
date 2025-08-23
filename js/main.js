@@ -782,7 +782,7 @@ modalText.innerHTML = `
 
            <p>
              The name of this vehicle comes from the name Ra who in ancient Egyptian mythology was 
-			 their supreme god who had many forms and one was a cat. This being then was a mix of god and animal... 
+			 their supreme god who had many forms, one a cat. This being then was a mix of god and animal... 
 	         a hybrid. We use this name not only as another of our dedication to cats but also because our Ra-K vehicle 
 		     is a hybrid vehicle as below. The "K" is because it will carry humans in kosmos / space environments in contrast 
 	         to our other Ra hybrid machines which are described in further sections. 
@@ -1030,26 +1030,30 @@ modalText.innerHTML = `
              This mechanism will allow for :
            </p>
 
-           <p>
-             <span> >> </span> Lifting heavy-weight and bulky materials which normally a human cannot lift.
-           </p>
+	    <ul>
 
-           <p>
-             <span> >> </span> Lifting heavy-weight and bulky materials which normally a human cannot lift.
-           </p>
+           <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
+             Lifting heavy-weight and bulky materials which normally a human cannot lift.
+		   </li>
+
+           <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 	 
+             Lifting heavy-weight and bulky materials which normally a human cannot lift.
+           </li>
            
-           <p>
-             <span> >> </span> Digging the ground.
-           </p>
+           <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
+             Digging the ground.
+           </li>
            
-           <p>
-             <span> >> </span> Reaching small heights.
-           </p>
+           <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
+             Reaching small heights.
+           </li>
            
-           <p>
-             <span> >> </span> When a person is incapacitated because of injury of limbs, back, neck etc and the
+           <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span>
+             When a person is incapacitated because of injury of limbs, back, neck etc and the
              exoskeleton will help the person not only in movement just after injury but also in healing.
-           </p>
+           </li>
+
+		 </ul>  
            
            <p>
              Exoskeletons may not allow smooth movements but this mechanism is anyway not for
@@ -4120,6 +4124,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
