@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Kosmos Society</title>
@@ -10,85 +11,9 @@
   <link rel="apple-touch-icon" href="./assets/favicon.png">
   <link rel="stylesheet" href="style.css" />
   
-  <!-- Address bar theme color for browsers -->
-  <meta name="theme-color" content="#000000">
-  <style>
-    /* Floating translate button styled for address bar area */
-    #translate-btn {
-      position: fixed;
-      top: 10px;
-      right: 10px;
-      z-index: 3000;
-      background: #000;
-      color: #fff;
-      border: none;
-      border-radius: 20px;
-      padding: 8px 18px 8px 36px;
-      font-family: 'Space Grotesk', 'Poppins', sans-serif;
-      font-size: 1em;
-      cursor: pointer;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.12);
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      transition: background 0.2s;
-    }
-    #translate-btn:hover {
-      background: #222;
-    }
-    #translate-btn .globe {
-      position: absolute;
-      left: 14px;
-      font-size: 1.2em;
-    }
-    #translate-menu {
-      display: none;
-      position: fixed;
-      top: 48px;
-      right: 10px;
-      z-index: 3001;
-      background: #fff;
-      color: #000;
-      border-radius: 10px;
-      box-shadow: 0 2px 12px rgba(0,0,0,0.18);
-      padding: 10px 0;
-      min-width: 160px;
-      font-family: 'Space Grotesk', 'Poppins', sans-serif;
-    }
-    #translate-menu button {
-      background: none;
-      border: none;
-      width: 100%;
-      text-align: left;
-      padding: 8px 18px;
-      font-size: 1em;
-      color: #000;
-      cursor: pointer;
-      transition: background 0.15s;
-    }
-    #translate-menu button:hover {
-      background: #f0f0f0;
-    }
-  </style>
-   
 </head>
 
 <body>
-
-<!-- Floating Translate Button -->
-  <button id="translate-btn"><span class="globe">ð</span> Translate</button>
-  <div id="translate-menu">
-    <button data-lang="en">English </button>
-    <button data-lang="ru">Ð ÑÑÑÐºÐ¸Ð¹ (Russian) </button>
-    <button data-lang="de">Deutsch (German) </button>
-    <button data-lang="zh-CN">ä¸­æ (Chinese) </button>
-    <button data-lang="ar">Ø§ÙØ¹Ø±Ø¨ÙØ© (Arabic) </button>
-    <button data-lang="ja">æ¥æ¬èª (Japanese) </button>
-    <button data-lang="pt">PortuguÃªs (Portuguese) </button>
-    <button data-lang="es">EspaÃ±ol (Spanish) </button>
-    <button data-lang="fr">FranÃ§ais (French) </button>
-    <!-- Add more as needed -->
-  </div>
 
   <header class="banner-header">
     <img src="./assets/KOSMOS file.svg" alt="Kosmos Logo" class="kosmos-logo"> 
@@ -104,6 +29,7 @@
           The universe is for all of you, we are enabling you to live it.
         </h2>
       </div>
+      
      <div class="hero-image-full">
   <picture>
     <!-- <source srcset="./assest/spaceship.svg" media="(max-width: 400px)">
@@ -131,104 +57,10 @@
   </div>
 
   <footer>
-    <p class="footer_line">Website last updated : 2025, August 22nd - 21:54 hrs IST</p>
+    <p class="footer_line">Website last updated : 2025, August 23 - 17:04 hrs IST</p>
   </footer>
 
   <script src="js/main.js"></script>
-  
-  <!-- Google Translate API -->
-  <script type="text/javascript">
-    function googleTranslateElementInit() {
-      // Hidden widget for programmatic language switching
-      new google.translate.TranslateElement({pageLanguage: 'en', autoDisplay: false}, 'hidden_translate_element');
-    }
-  </script>
-  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-  <div id="hidden_translate_element" style="display:none;"></div>
-  <script>
-    // Toggle menu
-    const btn = document.getElementById('translate-btn');
-    const menu = document.getElementById('translate-menu');
-    btn.addEventListener('click', function(e) {
-      e.stopPropagation();
-      menu.style.display = menu.style.display === 'block' ? 'none' : 'block';
-    });
-    document.addEventListener('click', function(e) {
-      if (!menu.contains(e.target) && e.target !== btn) menu.style.display = 'none';
-    });
-    // Language switching
-    menu.querySelectorAll('button').forEach(function(langBtn) {
-      langBtn.addEventListener('click', function() {
-        var lang = this.getAttribute('data-lang');
-        menu.style.display = 'none';
-        // Google Translate hack: set cookie and reload
-        function setCookie(name, value, days) {
-          var expires = '';
-          if (days) {
-            var date = new Date();
-            date.setTime(date.getTime() + (days*24*60*60*1000));
-            expires = '; expires=' + date.toUTCString();
-          }
-          document.cookie = name + '=' + (value || '')  + expires + '; path=/';
-        }
-        setCookie('googtrans', '/en/' + lang, 1);
-        // Store selected language for font size optimization
-        if (lang === 'zh-CN' || lang === 'ja') {
-          localStorage.setItem('translateFontOpt', lang);
-        } else {
-          localStorage.removeItem('translateFontOpt');
-        }
-        window.location.reload();
-      });
-    });
-    // On page load, show selected language in button
-    function getCookie(name) {
-      var match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
-      if (match) return match[2];
-      return null;
-    }
-    const langMap = {
-      'en': 'Translate',
-      'es': 'EspaÃ±ol',
-      'fr': 'FranÃ§ais',
-      'de': 'Deutsch',
-      'zh-CN': 'ä¸­æ',
-      'ar': 'Ø§ÙØ¹Ø±Ø¨ÙØ©',
-      'ru': 'Ð ÑÑÑÐºÐ¸Ð¹',
-      'ja': 'æ¥æ¬èª',
-      'pt': 'PortuguÃªs'
-    };
-    function updateBtnLabel() {
-      var cookie = getCookie('googtrans');
-      if (cookie) {
-        var lang = cookie.split('/')[2];
-        btn.innerHTML = '<span class="globe">ð</span>' + (langMap[lang] || 'Translate');
-      } else {
-        btn.innerHTML = '<span class="globe">ð</span>Translate';
-      }
-    }
-    updateBtnLabel();
-    // Consistent font size for Chinese and Japanese translations (same as English)
-    (function() {
-      var lang = localStorage.getItem('translateFontOpt');
-      if (lang === 'zh-CN' || lang === 'ja') {
-        var style = document.createElement('style');
-        var fontFamily = lang === 'zh-CN'
-          ? "'Noto Sans SC', 'Microsoft YaHei', 'PingFang SC', 'SimHei', 'Arial Unicode MS', Arial, sans-serif"
-          : "'Noto Sans JP', 'Meiryo', 'Yu Gothic', 'MS PGothic', 'Arial Unicode MS', Arial, sans-serif";
-        style.innerHTML = `
-          body, body * {
-            font-family: ${fontFamily} !important;
-            font-weight: 600 !important;
-            font-size: 1em !important;
-            letter-spacing: 0.02em !important;
-            text-shadow: 0 1px 2px #fff, 0 0 1px #000;
-          }
-        `;
-        document.head.appendChild(style);
-      }
-    })();
-  </script>
   
 </body>
 </html>
