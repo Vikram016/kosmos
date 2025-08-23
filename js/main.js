@@ -305,7 +305,7 @@ modalText.innerHTML = `
 			 for using in space any of our-designed space systems. So how will these governments recover their investment 
 	         in our systems ? Through the processed and unprocessed space resources and products their citizens produce in space 
 		     and bring to Earth and these resources and products being traded by their governments with other governments as long as the system of 
-	         money remains among humanity. This is the real space economy.
+	         money remains among humanity. This is the ideal space economy.
            </p>
 
            <p>
@@ -592,10 +592,9 @@ modalText.innerHTML = `
            <p>
              Advancement in electricity generation is not to make the generators huge, 
              centralized, complicated, unsafe, polluting and needless like nuclear, hydropower dams,
-             huge on-sea wind turbines, huge under-sea wave machines etc along with their complicated 
-             and huge system controls, power controls and power delivery mechanisms and 
-             all these stretched hundreds of kilometers or even millions of kilometers like 
-             the idiotic concept Dyson Swarm. 
+             huge on-sea wind turbines etc along with their complicated and huge system controls, 
+			 power controls and power delivery mechanisms and all these stretched hundreds of kilometers 
+	         or even millions of kilometers like the idiotic concept Dyson Swarm.
            </p>
            
            <p>
@@ -622,7 +621,7 @@ modalText.innerHTML = `
              Our Faradn generator system will be such a generator which will power all our non-micro-sized products 
              by sitting within them or just outside them. It will produce 24 volts DC which is enough for most purposes, 
              neither too low a current nor dangerously high. Once started, this generator will continuously produce current 
-	         for at least a month... this is the self-sustained part. After a month the generator 
+	         of 24 volts DC for at least a month... this is the self-sustained part. After a month the generator 
 		     can be easily refurbished at the neighborhood repair shop or in the spaceship.
            </p>
  
@@ -780,15 +779,15 @@ modalText.innerHTML = `
 
            <div id="rak" class="section">           
            <h2> Ra-K hovercraft-wheelcraft-aircraft </h2>
-           
-           <p> 
-             The name of this vehicle comes from the name Ra who was the supreme ancient Egyptian
-             god who had the head of a cat and the body of a man - a hybrid. Other than the dedication to
-             cats the name is also because this Ra-K vehicle is a hybrid vehicle as below. And the "K" is
-             because it will carry humans in kosmos / environments in contrast to our other Ra hybrid
-             machines which are described in further sections. 
+
+           <p>
+             The name of this vehicle comes from the name Ra who in ancient Egyptian mythology was 
+			 their supreme god who had many forms and one was a cat. This being then was a mix of god and animal... 
+	         a hybrid. We use this name not only as another of our dedication to cats but also because our Ra-K vehicle 
+		     is a hybrid vehicle as below. The "K" is because it will carry humans in kosmos / space environments in contrast 
+	         to our other Ra hybrid machines which are described in further sections. 
            </p>
-           
+
            <p>
              Ra-K will be universal on-world vehicles to carry humans and small cargo on large space
              bodies, whether air-having or airless. They will carry three spacesuited humans in a
@@ -799,8 +798,8 @@ modalText.innerHTML = `
            </p>
 
            <p>For propulsion this craft will use a combination of :</p>
-           
-	   <ul>
+
+	       <ul>
                            
              <li style="margin-left:1em; margin-bottom:10px;"><span>(a).</span> Hovercraft principle.</li>
              
@@ -838,7 +837,7 @@ modalText.innerHTML = `
              nitrogen ) and able to take three people. The cabin will have racks for food, medicine, small
              tools, instruments and research objects.
            </p>
-           
+
            <p>
              This craft can be put in semi-autonomous mode so that a Ra-K carrying people is in front
              and there is a train of non-peopled Ra-Ks behind carrying cargo in the top cargo box, and
@@ -846,7 +845,7 @@ modalText.innerHTML = `
              The behind Ra-Ks will use hovercraft mode or wheelcraft mode or aircraft mode based on
              the directions sent from the first people-carrying Ra-K.
            </p>
-           
+
            <p>
              The coal combustion propulsion mode will be used in aircraft mode in emergencies like
              safely landing the craft when the rotors fail or getting the vehicle away from some
@@ -4121,6 +4120,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
