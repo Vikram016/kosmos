@@ -1355,7 +1355,8 @@ modalText.innerHTML = `
 	       <p> <span> >> </span> 
              Robots whose movements are as graceful, quick and strong as a cat and this will involve replicating 
 			 the muscles of cats. And these robots will have intelligence from our bio-computing mechanism 
-	         as described in the "Biology researches" section.
+	         as described in the "Biology researches" section. These robots will be able to counter 
+		     the dog menace and snake menace in many parts of the world.
            </p>
 
            <p> <span> >> </span> 
@@ -1628,18 +1629,18 @@ modalText.innerHTML = `
            <p>
              The famous slogan "Liberty, Equality, Fraternity" which our organization uses, 
              it is used in other progressive thought streams. Newly independent India in the late 1940s presents 
-	     a wonderful such example. The Indian Constitution's main archictect was the great liberator, BR Ambedkar, 
-	     and he produced a wonderfully progressive system for India and this included "Liberty, Equality, Fraternity" 
-	     being placed in the preamble ( short introduction ) to this constitution. This constitution was mainly drafted during the late 1940s 
-	     and before adoption at country level it was discussed in the in-development parliament by other progressives 
-             like Hasrat Mohani and Brajeshwar Prasad. These two chaps also wanted India to be a progressive, humanist society. 
-	     Hasrat Mohani proposed to name India as UISR - Union of Indian Socialistic Republics, which derived 
-	     from the name USSR, the first modern Socialist society. Brajeshwar Prasad proposed the word "Socialist" 
-	     to be included into the preamble of the constitution to describe what newly independent India must be. 
-	     He also said that "Liberty" and "Equality" do not go together unless that society becomes a class-less society. 
-	     He also said that India, and by extension other countries, should not use "Sovereign" to describe themselves 
-	     because that word implies war and imperialism and these are of course against pan-human fraternity, 
-	     the third word in "Liberty, Equality, Fraternity". Newly independent India was a time of great promise.
+	         a wonderful such example. The Indian Constitution's main archictect was the great liberator, BR Ambedkar, 
+	         and he produced a wonderfully progressive system for India and this included "Liberty, Equality, Fraternity" 
+	         being placed in the preamble ( short introduction ) to this constitution. This constitution was mainly drafted during the late 1940s 
+	         and before adoption at country level it was discussed in the in-development parliament by progressives 
+             like Hasrat Mohani and Brajeshwar Prasad. These two chaps wanted India to be a progressive, humanist society. 
+	         Hasrat Mohani proposed to name India as UISR - Union of Indian Socialistic Republics, which derived 
+	         from the name USSR, the first modern Socialist society. Brajeshwar Prasad proposed the word "Socialist" 
+	         to be included into the preamble of the constitution to describe what the newly independent India must be. 
+	         He also said that "Liberty" and "Equality" do not go together unless that society becomes a class-less society. 
+	         He also said that India, and by extension other countries, should not use "Sovereign" to describe themselves 
+	         because that word implies war and imperialism and these are of course against pan-human fraternity, 
+	         the third word in "Liberty, Equality, Fraternity". Newly independent India was a place of great promise.
            </p>
 
            <p>
@@ -1696,14 +1697,14 @@ modalText.innerHTML = `
              heroes by the poor because the bandits were seen as the resistance against the the oppressive royalty system 
              and the bandits looted the rich including the priests. All these were sparks which lit the light for the French Revolution.
            </p>
-            
+
            <p>
              One of the final sparks is said to be in the late 1700s when the frivolous and luxury-living queen, Marie Antoinette, 
              was told by her courtiers that the ordinary citizens were facing famine and that they didn't have the money and 
              the simple access to basic bread and the queen declared carelessly "Then let them eat brioches". Brioche is a French bread 
              which is more expensive than the ordinary bread because it has butter and eggs, which were items out of reach of the French masses 
              who did not have even the simple bread and were long suffering the famines created by the French feudalism and its needless wars.
-	   </p>
+	       </p>
 
            <p>
              The queen's uncaring remark of "Then let them eat brioches" was a rallying cry for the revolutionaries to finally remove 
@@ -1749,7 +1750,7 @@ modalText.innerHTML = `
              wanting one's society to become gentle, empathetic, just, rights-filled, having all reasonable freedoms and evolved 
              and having fraternity with all of humanity. However, Nationalism, in particular Ultranationalism, is the opposite, 
              narrow and contradictory concept which ignores the oppressed, the innocent and the sensible in one's own society and 
-             in fact participates in maintaining class-based and community-based hate and contempt for the oppressed, the innocent and 
+             in fact participates in maintaining hate based on class and community and contempt for the oppressed, the innocent and 
              the sensible in one's own society but has a strange hate for unknown people outside one's borders who have done them no harm.
            </p>
 
@@ -1791,8 +1792,8 @@ modalText.innerHTML = `
              money-poor human from another modern "superpower wealthy nation"... to believe otherwise is 
              pointless arrogance. Some thoughtful space travellers who have gone to Earth orbit have 
              spoken of seeing the Earth as a singular delicate blue world in the dark of space, 
-	     with no natural boundaries dividing nations, though to us adding here : with the exception of Australia and 
-	     other island nations bounded by the seas but that is besides the point. It is then unwise to be fanatic 
+	         with no natural boundaries dividing nations, though to us adding here : with the exception of Australia and 
+	         other island nations bounded by the seas but that is besides the point. It is then unwise to be fanatic 
              nationalists in the kosmos when just the Sun can fit in itself a million Earths and the Sun being 
              just a medium-sized star, and in reality the Sun instantly burning up those million Earths and 
              all the nations within them and with them all of the eight billion people of Earth. 
@@ -1805,11 +1806,10 @@ modalText.innerHTML = `
              those people acting individually or by group efforts and these people taking inspiration from 
              elsewhere or even being helped by others. Even the French Revolution previously 
              mentioned did not derive all its ideas in isolation but derived some from philosophers from previous 
-             centuries and millenia from everywhere. For example, the Greeks of 2500 
-             years ago thought up the semi-democratic idea of Demokratia where many non-slave male 
-             citizens directly participated in the governance of their cities rather than kings and lower 
-             feudals doing it. And these Greeks themselves took some of their science ideas and social philosophies 
-             from Egypt and West Asia.
+             centuries and millenia from everywhere. For example, the Greeks of 2500 years ago thought up 
+			 the semi-democratic idea of Demokratia where many non-slave male citizens directly participated in 
+	         the governance of their cities rather than kings and lower feudals doing it. And these Greeks themselves 
+		     took some of their science ideas from Egypt.
            </p>
 
            <p>
@@ -1827,7 +1827,7 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             To bring back the concept of trans-border progressive influences, in India
+             To bring back the concept of trans-border progressive social influences, in India
              of the late 1700s, in the era of the French Revolution, the kingdom of Mysore in the region
              of Deccan India was administered by Tipu Sultan who was an internationalist inspired by the French Revolution and 
              corresponded with the leader of revolutionary France, Napoleon Bonaparte. Tipu is said to have 
@@ -1853,37 +1853,36 @@ modalText.innerHTML = `
 	     Going about 2000 years earlier than Faraday, the Greeks used an entirely mechanical machine to determine astronomical positions and 
 	     events like eclipses years in advance. This machine is now called Antikythera Mechanism because the only surviving sample of this machine was found 
 	     under the waters off the Greek island of Antikythera in 1901.  This mechanical machine is considered the earliest analog computer and 
-	     used the lunar calendar from Ancient Egypt possibly dating back a thousand years previous to the devising of this machine, 
-	     which means more than 3000 years previous  to our present modern age.
-           </p>         
+	     used the lunar calendar from Ancient Egypt possibly dating back hundreds of years previous to the devising of this machine.
+       </p>         
 
-           <p>
-             Jumping back to the modern age, in India between the 1850s and 1930s lived the general researcher Jagadish Chandra Bose... 
+       <p>
+         Jumping back to the modern age, in India between the 1850s and 1930s lived the general researcher Jagadish Chandra Bose... 
 	     a man interested in many sciences including humane social conduct. He was the first to investigate microwave radiofrequency and made great discoveries
-             in botany and among his researches living now is our modern telecom including the everywhere-present
-             cell phone. He treated other humans in an equal manner, whether they be of "lower caste" or of other religions, and he was against the patent system
-             so in today's terms he can be called part of the earlier Open Source Knowledge movement
-             that benefits all of Earth.
-           </p>
-           
-           <p>
-             So it will be irrational, immoral and ungrateful for a group from Earth to claim national or 
-             cultural exclusive superiority on Earth and act in an ultranationalist way while not 
-             acknowledging the shared history of humanity and not acknowledging their benefiting of  
-             social philosophies and technologies that may have had origins elsewhere on Earth.
-           </p>
+         in botany and among his researches living now is our modern telecom including the everywhere-present
+         cell phone. He treated other humans in an equal manner, whether they be of "lower caste" or of other religions, and he was against the patent system
+         so in today's terms he can be called part of the earlier Open Source Knowledge movement
+         that benefits all of Earth.
+       </p>
 
-           <p>
-             It is then natural, rational, automatic and moral to expect that space be a place of a united 
-             humanity instead of carrying the needless artificial hates and divides on Earth. The 
-             timelessly existent space and space objects should not be divided up by humans by way of 
-             selective ownerships by Earthen nations and not be introduced with militarization to defend 
-             those selective ownerships against other humans. We should not allow the nationalist 
-             bickerings and tragedies on Earth to be carried over into Space. Space should be the 
-             peaceful exploration medium, mining place and settlement place of a collective humanity 
-             under a truly democratic framework. National boundaries are artificial but human fraternity is 
-             natural.
-           </p>
+       <p>
+         So it will be irrational, immoral and ungrateful for a group from Earth to claim national or 
+         cultural exclusive superiority on Earth and act in an ultranationalist way while not 
+         acknowledging the shared history of humanity and not acknowledging their benefiting of  
+         social philosophies and technologies that may have had origins elsewhere on Earth.
+       </p>
+
+       <p>
+         It is then natural, rational, automatic and moral to expect that space be a place of a united 
+         humanity instead of carrying the needless artificial hates and divides on Earth. The 
+         timelessly existent space and space objects should not be divided up by humans by way of 
+         selective ownerships by Earthen nations and not be introduced with militarization to defend 
+         those selective ownerships against other humans. We should not allow the nationalist 
+         bickerings and tragedies on Earth to be carried over into Space. Space should be the 
+         peaceful exploration medium, mining place and settlement place of a collective humanity 
+         under a truly democratic framework. National boundaries are artificial but human fraternity is 
+         natural.
+       </p>
 
            </div>
 
@@ -4124,6 +4123,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
