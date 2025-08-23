@@ -2050,8 +2050,8 @@ modalText.innerHTML = `
              So the organization of work groups in space should be democratic and that is easily done by 
              organizing them as Workers Cooperatives. The idea of Workers Cooperative has association 
              with the older ideas of liberty, equality and fraternity, and enables true democracy where every human present 
-	     in the organzation participates in the continuance of that organization equally and benefits from it equal 
-	     to other members and has the same human rights as the others.
+	         in the organzation participates in the continuance of that organization equally and benefits from it equal 
+    	     to other members and has the same human rights as the others.
            </p>          
           
            <p>
@@ -2424,14 +2424,14 @@ modalText.innerHTML = `
            <p>
              What college degree system Fatima started more than 1100 years ago in Africa has now led to multi-generation misery and 
              oppressions in most places across Earth now in 2025 for billions of people. This act of Fatima is the single wrong thing 
-             in the about thousand year period of the Islamic Golden Age which was a period which forwarded past brilliant knowledges 
-             from the Greeks, the Egyptians, the West Asians, Buddha, Isa and the Chinese, and forwarded the good things 
-             by its contemporary Brahmans in India, and was the direct influence on establishment of the Enlightenment period 
-             in Europe and its consequent Industrial Revolution whose benefits we use now. But that single act of Fatima 
-             of adding competition to education more than a thousand years ago has created such sadness. We speak more on the wrongness
-             of competition in a below section called "Why competition is wrong in space".
-           </p>          
-           
+             in the about thousand year period of the Islamic Golden Age which was a period which not only created great philosophies and 
+			 technologies but also forwarded past brilliant knowledges from the Greeks, the Egyptians, the West Asians, Buddha, Isa and the Chinese, 
+	         and forwarded the good things by its contemporary Indians. This period of great creativity was the direct influence on the establishment 
+		     of the Enlightenment period in Europe and its consequent Industrial Revolution whose benefits we use now. But that single act of Fatima 
+             of adding competition to education more than a thousand years ago has created such tragedies now. We speak more on the wrongness
+             of competition in the below section called "Why competition is wrong in space".
+           </p>
+    
            <p>
              In the modern world if the college degree is one form of tax to get respect, to get the college degree itself 
              requires other taxes like money and high exams marks in the preceeding school years but how is this rational ? 
@@ -2549,7 +2549,7 @@ modalText.innerHTML = `
              on their children for as high exam marks as is possible by students. The parents want to tom-tom these high exam marks 
              to neighbors, colleagues and relatives as their "good upbringing" of their children whose "future is secured" 
              by a "good job" which really is not for the children themselves but for the parents socio-economic well-being. 
-             This is fake pride on baseless things.
+             This is fake pride on baseless things for selfish reasons.
            </p>
 
            <p>
@@ -3531,7 +3531,7 @@ modalText.innerHTML = `
 	
 	<p><span>&gt;&gt;</span> 
 	  If your knowledge is actually useful to the industry of space-travel and space-living in a democratic 
-	  and non-profit way. So this discounts work types like HR and CSR and MBA-requiring positions.
+	  and non-profit way. So this discounts work types like HR, CSR and MBA-requiring positions.
 	</p>
 	
 	<p><p><span>&gt;&gt;</span> 
@@ -3543,8 +3543,7 @@ modalText.innerHTML = `
 	</p>
 
 	<p><p><span>&gt;&gt;</span> 
-	  If you have no love for money, feudalism and classist thinking. Money is needed in many societies presently to live 
-	  above the "Very poor" line but we want those who do not adore money.
+	  If you have no great love for money, feudalism and classist thinking.
 	</p>
 
 	<p><p><span>&gt;&gt;</span> 
@@ -3665,7 +3664,7 @@ modalText.innerHTML = `
            </p>
        
            <p><span>&gt;&gt;</span> 
-             Vikram for the logo, the website design and for provoking the thought in Sameer to have this Credits page.
+             Vikram for the logo, the website design and for provoking the thought in us to have this Credits page.
            </p>
            
            <p><span>&gt;&gt;</span> 
@@ -3674,7 +3673,7 @@ modalText.innerHTML = `
              Apoorva's LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#0000FF;">https://www.linkedin.com/in/apoorvajr</a> ].
              Sadly we forgot the Insta page's name but we are thankful to that page's maintainer. 
              That Insta page spoke of the company Polar Night Energy which applied the sand battery in a real life setting despite there being no prior 
-	     industry use of this method and we are thankful to this company.
+	         industry use of this method and we are thankful to this company.
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -3737,8 +3736,9 @@ modalText.innerHTML = `
              read here [ <a href="https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf" target="_blank" style="color:#0000FF;">https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf</a> ].
            </p>
 
-           <p><span>&gt;&gt;</span> 
-             Background picture for the website is from the DeviantArt website's DreamUp AI picture generation facility.
+           <p><span>&gt;&gt;</span>
+             Background picture for the website is from the DeviantArt website's DreamUp AI picture generation facility. 
+			 This is the extent of our usage of the currently fashionable AI-WayI stuff.
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -4123,6 +4123,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
