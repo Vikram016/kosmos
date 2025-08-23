@@ -2359,8 +2359,8 @@ modalText.innerHTML = `
            
            <p>
              We must also accept the very simple idea that space / universe is timeless and infinite and 
-             we donât know what all kinds of objects are in space and what kinds of life types are in 
-             Space and that these life types may not evolve from the same ecosystem conditions as on Earth.
+             we don't know what all kinds of objects are in space and what kinds of life types are in 
+             space and that these life types may not evolve from the same ecosystem conditions as on Earth.
            </p>
 
            <p>
@@ -4131,6 +4131,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
