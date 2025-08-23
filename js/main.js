@@ -3640,25 +3640,18 @@ modalText.innerHTML = `
                margin-bottom: 20px;
             }	    
 	    
-            .section p 
+        p
 	    {
-               font-family: 'Roboto', sans-serif;
-               color: #000;
-               line-height: 1.6;
-            }
-	                
-	    ul
-	    {
-               font-family: 'Roboto', sans-serif;
-               color: #000;
-	       line-height: 1.6;
-            }
+           font-family: 'Roboto', sans-serif;
+           color: #000;
+           line-height: 1.6;
+         }
 	   
-            span
-	    {
-              color: #000;
-              font-weight: bold;
-            }
+         span
+	     {
+            color: #000;
+            font-weight: bold;
+          }
 	    
           </style> 
 
@@ -4131,6 +4124,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
