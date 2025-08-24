@@ -1,2 +1,2 @@
-# kosmos
-space traveller and airship company 
+# KosmosSociety
+Space travel and airship-spaceship company

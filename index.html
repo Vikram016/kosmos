@@ -1,115 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Kosmos Society</title>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600&display=swap" rel="stylesheet">
-  <link rel="icon" type="image/png" href="./assest/favicon.png">
-  <link rel="shortcut icon" href="./assest/favicon.png">
-  <link rel="apple-touch-icon" href="./assest/favicon.png">
+  <link rel="icon" type="image/png" href="./assets/favicon.png">
+  <link rel="shortcut icon" href="./assets/favicon.png">
+  <link rel="apple-touch-icon" href="./assets/favicon.png">
   <link rel="stylesheet" href="style.css" />
-   
-  <!-- Address bar theme color for browsers -->
-  <meta name="theme-color" content="#000000">
-  <style>
-    /* Floating translate button styled for address bar area */
-    #translate-btn {
-      position: fixed;
-      top: 10px;
-      right: 10px;
-      z-index: 3000;
-      background: #000;
-      color: #fff;
-      border: none;
-      border-radius: 20px;
-      padding: 8px 18px 8px 36px;
-      font-family: 'Space Grotesk', 'Poppins', sans-serif;
-      font-size: 1em;
-      cursor: pointer;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.12);
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      transition: background 0.2s;
-    }
-    #translate-btn:hover {
-      background: #222;
-    }
-    #translate-btn .globe {
-      position: absolute;
-      left: 14px;
-      font-size: 1.2em;
-    }
-    #translate-menu {
-      display: none;
-      position: fixed;
-      top: 48px;
-      right: 10px;
-      z-index: 3001;
-      background: #fff;
-      color: #000;
-      border-radius: 10px;
-      box-shadow: 0 2px 12px rgba(0,0,0,0.18);
-      padding: 10px 0;
-      min-width: 160px;
-      font-family: 'Space Grotesk', 'Poppins', sans-serif;
-    }
-    #translate-menu button {
-      background: none;
-      border: none;
-      width: 100%;
-      text-align: left;
-      padding: 8px 18px;
-      font-size: 1em;
-      color: #000;
-      cursor: pointer;
-      transition: background 0.15s;
-    }
-    #translate-menu button:hover {
-      background: #f0f0f0;
-    }
-  </style>
+  
 </head>
 
 <body>
-  <!-- Floating Translate Button -->
-  <button id="translate-btn"><span class="globe">🌐</span> Translate</button>
-  <div id="translate-menu">
-    <button data-lang="en">English </button>
-    <button data-lang="ru">Русский (Russian) </button>
-    <button data-lang="de">Deutsch (German) </button>
-    <button data-lang="zh-CN">中文 (Chinese) </button>
-    <button data-lang="ar">العربية (Arabic) </button>
-    <button data-lang="ja">日本語 (Japanese) </button>
-    <button data-lang="pt">Português (Portuguese) </button>
-    <button data-lang="es">Español (Spanish) </button>
-    <button data-lang="fr">Français (French) </button>
-    <!-- Add more as needed -->
-  </div>
 
   <header class="banner-header">
     <img src="./assets/KOSMOS file.svg" alt="Kosmos Logo" class="kosmos-logo"> 
   </header>
-
-  <!--<nav>-->
-  <!--  <a href="#intro">Introduction</a>-->
-  <!--  <a href="#tech">Tech Projects</a>-->
-  <!--  <a href="#principles">Principles</a>-->
-  <!--  <a href="#constitution">Same Water</a>-->
-  <!--  <a href="#join">Join</a>-->
-  <!--</nav>-->
-
+  
   <section class="hero">
     <div class="hero-grid">
       <div class="hero-content">
-        <h2> We are a non-profit space company based in India, enabling potentially any human to go to space and live in space cheaply <br> 
-          and democratically using simplify technologies a d natural social systems </h2>
-        <!-- <div class="cta-buttons">
-          <button onclick="alert('Join Page Coming Soon')">Join the Mission</button>
-          <button onclick="alert('Yuri Plan Coming Soon')">Explore the Yuri Plan</button>
-        </div> -->
+        <h2> 
+          Kosmos Society will help spread humanity throughout space in a democratic and Nature-respecting manner 
+          by designing all necessary techno systems and social systems for space which are simplified, natural, aesthetic, 
+          cheaply built, cheaply operated, safer, reliable, easily repaired, free of tax, allow pan-human harmony. 
+          The universe is for all of you, we are enabling you to live it.
+        </h2>
       </div>
+      
      <div class="hero-image-full">
   <picture>
     <!-- <source srcset="./assest/spaceship.svg" media="(max-width: 400px)">
@@ -119,15 +39,13 @@
 </div>
   </section>
 
-
   <section class="chapter-grid">
-    <div class="chapter-card" data-chapter="introduction">01. Introduction To Our Yuri Plan</div>
-    <div class="chapter-card" data-chapter="principles">02. Product Principles</div>
-    <div class="chapter-card" data-chapter="projects">03. Techno Projects</div>
-    <div class="chapter-card" data-chapter="constitution">04. Same Water Constitution</div>
-    <div class="chapter-card" data-chapter="join">05. Join Us</div>
-    <div class="chapter-card" data-chapter="credits">06. Credits</div>
-    <div class="chapter-card" data-chapter="contact">07. Contact Us</div>
+    <div class="chapter-card" data-chapter="iskra">Iskra Plan</div>
+    <div class="chapter-card" data-chapter="technoprojects">Techno projects</div>
+    <div class="chapter-card" data-chapter="socialsystem">Social system for space</div>
+    <div class="chapter-card" data-chapter="cworkers">Our company's workers</div>
+    <div class="chapter-card" data-chapter="credits">Credits</div>
+    <div class="chapter-card" data-chapter="contactinfo">Contact info</div>
   </section>
 
   <!-- Modal Structure -->
@@ -139,102 +57,10 @@
   </div>
 
   <footer>
-    <p class="footer_line">Kosmos Society &copy; 2025 | Last updated: July 10, 2025 – 18:58 hrs</p>
+    <p class="footer_line">Website last updated : 2025, August 23 - 21:37 hrs IST</p>
   </footer>
 
   <script src="js/main.js"></script>
-  <!-- Google Translate API -->
-  <script type="text/javascript">
-    function googleTranslateElementInit() {
-      // Hidden widget for programmatic language switching
-      new google.translate.TranslateElement({pageLanguage: 'en', autoDisplay: false}, 'hidden_translate_element');
-    }
-  </script>
-  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-  <div id="hidden_translate_element" style="display:none;"></div>
-  <script>
-    // Toggle menu
-    const btn = document.getElementById('translate-btn');
-    const menu = document.getElementById('translate-menu');
-    btn.addEventListener('click', function(e) {
-      e.stopPropagation();
-      menu.style.display = menu.style.display === 'block' ? 'none' : 'block';
-    });
-    document.addEventListener('click', function(e) {
-      if (!menu.contains(e.target) && e.target !== btn) menu.style.display = 'none';
-    });
-    // Language switching
-    menu.querySelectorAll('button').forEach(function(langBtn) {
-      langBtn.addEventListener('click', function() {
-        var lang = this.getAttribute('data-lang');
-        menu.style.display = 'none';
-        // Google Translate hack: set cookie and reload
-        function setCookie(name, value, days) {
-          var expires = '';
-          if (days) {
-            var date = new Date();
-            date.setTime(date.getTime() + (days*24*60*60*1000));
-            expires = '; expires=' + date.toUTCString();
-          }
-          document.cookie = name + '=' + (value || '')  + expires + '; path=/';
-        }
-        setCookie('googtrans', '/en/' + lang, 1);
-        // Store selected language for font size optimization
-        if (lang === 'zh-CN' || lang === 'ja') {
-          localStorage.setItem('translateFontOpt', lang);
-        } else {
-          localStorage.removeItem('translateFontOpt');
-        }
-        window.location.reload();
-      });
-    });
-    // On page load, show selected language in button
-    function getCookie(name) {
-      var match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
-      if (match) return match[2];
-      return null;
-    }
-    const langMap = {
-      'en': 'Translate',
-      'es': 'Español',
-      'fr': 'Français',
-      'de': 'Deutsch',
-      'zh-CN': '中文',
-      'ar': 'العربية',
-      'ru': 'Русский',
-      'ja': '日本語',
-      'pt': 'Português'
-    };
-    function updateBtnLabel() {
-      var cookie = getCookie('googtrans');
-      if (cookie) {
-        var lang = cookie.split('/')[2];
-        btn.innerHTML = '<span class="globe">🌐</span>' + (langMap[lang] || 'Translate');
-      } else {
-        btn.innerHTML = '<span class="globe">🌐</span>Translate';
-      }
-    }
-    updateBtnLabel();
-    // Consistent font size for Chinese and Japanese translations (same as English)
-    (function() {
-      var lang = localStorage.getItem('translateFontOpt');
-      if (lang === 'zh-CN' || lang === 'ja') {
-        var style = document.createElement('style');
-        var fontFamily = lang === 'zh-CN'
-          ? "'Noto Sans SC', 'Microsoft YaHei', 'PingFang SC', 'SimHei', 'Arial Unicode MS', Arial, sans-serif"
-          : "'Noto Sans JP', 'Meiryo', 'Yu Gothic', 'MS PGothic', 'Arial Unicode MS', Arial, sans-serif";
-        style.innerHTML = `
-          body, body * {
-            font-family: ${fontFamily} !important;
-            font-weight: 600 !important;
-            font-size: 1em !important;
-            letter-spacing: 0.02em !important;
-            text-shadow: 0 1px 2px #fff, 0 0 1px #000;
-          }
-        `;
-        document.head.appendChild(style);
-      }
-    })();
-  </script>
+  
 </body>
 </html>
