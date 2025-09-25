@@ -77,9 +77,9 @@ modalText.innerHTML = `
               letter-spacing: 0.5px;
               padding: 10px 30px;
               font-size: 1.1em;
-              background-color: rgba(128,128,128,1);
-	      color: #fff;
-	      border: none;
+              background: #000;
+              color: #fff;
+              border: none;
               border-radius: 25px;
               cursor: pointer;
               transition: background 0.2s, color 0.2s;
@@ -1356,18 +1356,17 @@ modalText.innerHTML = `
             #topics-toggle
 	    {
                margin-bottom: 10px;
-               font-family: 'Poppins', sans-serif;
-               font-weight: 600;
-               letter-spacing: 0.5px;
-               padding: 10px 30px;
-               font-size: 1.1em;
-               background: #000;
-               background-color: rgba(128,128,128,1);
-               color: #fff;
-               border: none;
-               border-radius: 25px;
-               cursor: pointer;
-               transition: background 0.2s, color 0.2s;
+              font-family: 'Poppins', sans-serif;
+              font-weight: 600;
+              letter-spacing: 0.5px;
+              padding: 10px 30px;
+              font-size: 1.1em;
+              background: #000;
+              color: #fff;
+              border: none;
+              border-radius: 25px;
+              cursor: pointer;
+              transition: background 0.2s, color 0.2s;
             }
 	    
             #topics-toggle:hover
@@ -3062,18 +3061,17 @@ modalText.innerHTML = `
             #topics-toggle
 	    {
                margin-bottom: 10px;
-               font-family: 'Poppins', sans-serif;
-               font-weight: 600;
-               letter-spacing: 0.5px;
-               padding: 10px 30px;
-               font-size: 1.1em;
-               background: #000;
-               background-color: rgba(128,128,128,1);
-               color: #fff;
-               border: none;
-               border-radius: 25px;
-               cursor: pointer;
-               transition: background 0.2s, color 0.2s;
+              font-family: 'Poppins', sans-serif;
+              font-weight: 600;
+              letter-spacing: 0.5px;
+              padding: 10px 30px;
+              font-size: 1.1em;
+              background: #000;
+              color: #fff;
+              border: none;
+              border-radius: 25px;
+              cursor: pointer;
+              transition: background 0.2s, color 0.2s;
             }
 	    
             #topics-toggle:hover
