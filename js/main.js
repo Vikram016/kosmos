@@ -722,7 +722,7 @@ modalText.innerHTML = `
            </div>
 
            <div id="biology" class="section">           
-           <h2> 08. Biology researches including</h2>
+           <h2> 08. Biology researches</h2>
            
            <p>
              <span> >> </span> The ideal plants to derive biocoal for the coal needed to propel the Alef kosmos ships. 
@@ -3398,6 +3398,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
