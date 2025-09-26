@@ -179,10 +179,10 @@ modalText.innerHTML = `
               <a href="#principles">&nbsp;&nbsp; 01. Our progressive product design principles</a>
               <a href="#faradn">&nbsp;&nbsp; 02. Faradn electricity generator</a>
               <a href="#dunebuk">&nbsp;&nbsp; 03. Dune Buk wearable computer</a>
-	      <a href="#alefa">&nbsp;&nbsp; 04. Alef-A airship-spaceship</a>
-              <a href="#aleff">&nbsp;&nbsp; 05. Alef-F space ferry</a>
-              <a href="#bothships">&nbsp;&nbsp; 06. About both Alef-A and Alef-F spaceships</a>
-              <a href="#stillsuit">&nbsp;&nbsp; 07. A spacesuit called Stillsuit</a>
+	      <a href="#alefa">&nbsp;&nbsp; 04. Alef-A airship-kosmosship</a>
+              <a href="#aleff">&nbsp;&nbsp; 05. Alef-F kosmos ferry</a>
+              <a href="#bothships">&nbsp;&nbsp; 06. About both Alef-A and Alef-F kosmos ships</a>
+              <a href="#stillsuit">&nbsp;&nbsp; 07. A kosmos suit called Stillsuit</a>
               <a href="#biology">&nbsp;&nbsp; 08. Biology researches</a>
 	      <a href="#wmachines">&nbsp;&nbsp; 09. Machines for water</a>
 	      <a href="#moggy">&nbsp;&nbsp; 10. Moggy robot cat</a>
@@ -253,8 +253,8 @@ modalText.innerHTML = `
            </p>           
 
            <p><span>&gt;&gt;</span> 
-             Our technologies will align around our draft for a democratic, pan-human and Nature-respecting social system for space, 
-	     presented in the "Our social system for space" chapter of that name on this website.
+             Our technologies will align around our draft for a democratic, pan-human and Nature-respecting social system for the kosmos, 
+	     presented in the "Social system for the kosmos" chapter of that name on this website.
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -268,7 +268,7 @@ modalText.innerHTML = `
 
 	       <p style='margin-left:2em;margin-bottom:10px;'><span>(b).</span> 
 		     A "Human safety" example is not following the silliness of nuclear fission 
-	         or fusion as the means to generate electricity or propel spaceships.
+	         or fusion as the means to generate electricity or propel kosmos ships.
 		   </p> 
 
 	       <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> 
@@ -313,7 +313,7 @@ modalText.innerHTML = `
              by sitting within them or just outside them. It will produce 24 volts DC which is enough for most purposes, 
              neither too low a current nor dangerously high. Once started, this generator will continuously produce current 
 	     of 24 volts DC for at least a month... this is the self-sustained part. After a month the generator 
-	     can be easily refurbished at any small repair shop in any Earthen neighborhood or in the spaceship or on another world.
+	     can be easily refurbished at any small repair shop in any Earthen neighborhood or in the kosmos ship or on another world.
            </p>
  
            <p>
@@ -362,10 +362,10 @@ modalText.innerHTML = `
            <h2> 03. Dune Buk wearable computer</h2>
 
            <p>
-             Dune Buk will be a general-purpose space-operable wearable computer whose main body will be about
+             Dune Buk will be a general-purpose kosmos-operable wearable computer whose main body will be about
              three feet long and worn on the back of the upper arm using two straps - one around the
              upper arm and another over the shoulder, and thus can be used with any kind of clothing (
-             spacesuits, office dress etc ) and will be aesthetic enough for the stylish person.
+             kosmos suits, office dress etc ) and will be aesthetic enough for the stylish person.
            </p>
           
            <p>
@@ -404,10 +404,10 @@ modalText.innerHTML = `
            </p>
            
            <p>
-             Frema is our own in-design wireless internet system for Space and Earth which will be used
+             Frema is our own in-design wireless internet system for the kosmos and Earth which will be used
              by our Dune Buk wearable computer. The system will be based on peer-to-peer architecture which among other
              things will remove the need for base stations. The below factors apply :
-	   </p>  
+	   </p>
 
 	   <ul>
 
@@ -430,14 +430,14 @@ modalText.innerHTML = `
 
            <li style="margin-left:1em; margin-bottom:10px;">
              <span> >> </span> 
-             For long-distance communication in space and horizontally on some world the Dune Buk wearable computer will connect from the ground to 
+             For long-distance communication in the kosmos and horizontally on some world the Dune Buk wearable computer will connect from the ground to 
 	     low-orbiting or hovering Alef-A crafts which enable relay of communcations.
            </li>
 
            <li style="margin-left:1em; margin-bottom:10px;">
              <span> >> </span> 
-	     Specifically about space communication the signaling system and the communication protocol will factor-in 
-	     the delay-included conditions of long-distance communication in space which can range from milliseconds to many hours.
+	     Specifically about kosmik communication the signaling system and the communication protocol will factor-in 
+	     the delay-included conditions of long-distance communication in the kosmos which can range from milliseconds to many hours.
 	   </li>
 
            <li style="margin-left:1em; margin-bottom:10px;">
@@ -456,12 +456,12 @@ modalText.innerHTML = `
            <li style="margin-left:1em; margin-bottom:10px;">
              <span> >> </span> 
              24 volts DC is higher voltage than in most current semiconductor-based electronics space systems as such higher voltage will be less affected 
-	     by space radiation.
+	     by kosmik radiation.
            </li>
 
            <li style="margin-left:1em; margin-bottom:10px;">
              <span> >> </span> 
-             The computations and the other systems use sound also because sound is lot lot less affected by space radiation and temperature than 
+             The computations and the other systems use sound also because sound is lot lot less affected by kosmik radiation and temperature than 
 	     semiconductor electronics, unless the radiation is so high that the sound producing elements, the sound transmitting channels, 
 	     the sound computation chambers, sound receiving elements and other sound elements are physically deformed by the radiation. 
 	     But of course, such high radiation will kill our wearable computer's wearer first despite every humanly possible protection, 
@@ -481,7 +481,7 @@ modalText.innerHTML = `
 
            <p>
              On Earth this wearable computer will be used by our customers in parallel with their mobile
-             phones and desktops, and in space will be the sole computers that our customers will carry
+             phones and desktops, and in the kosmos will be the sole computers that our customers will carry
              on their person and which separately can control other machines like our vehicles.
            </p>
 
@@ -492,68 +492,68 @@ modalText.innerHTML = `
            </div>
 
            <div id="alefa" class="section">           
-           <h2> 04. Alef-A airship-spaceship</h2>
-           
+           <h2> 04. Alef-A airship-kosmosship</h2>
+
            <p>
-             We use the airship type of craft to ascend to orbital space from any atmosphere-having world 
+             We use the airship type of craft to ascend to orbital kosmos from any atmosphere-having world 
              or non-atmosphere world because especially in an atmosphere world this craft has the advantage of operating 
 	     on the balloon principle i.e. when the airship's gas bags are filled with a lifting gas or combination of lifting gases 
 	     which are lighter than the surrounding air, the whole structure of the airship automatically lifts into the air without any or much fuel expenditure 
              until it reaches to a height where the airship's lifting gas or gases find equilibrium 
-             with the lesser atmospheric air at that height. From that atmospheric height for lift of the airship into space 
+             with the lesser atmospheric air at that height. From that atmospheric height for lift of the airship into the kosmik void  
              there will be other upwards push / propulsion methods required.
            </p>
 
            <p>
-             The airship type of spaceship is much better than the Tall Rocket because :
+             The airship type of kosmos ship is much better than the Tall Rocket because :
 	   </p>
 
            <ul>
 
            <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
-             The Tall Rocket requires lot of fuel just to lift itself one centimeter off the launch pad whereas the airship-spaceship's lift when in atmosphere world 
+             The Tall Rocket requires lot of fuel just to lift itself one centimeter off the launch pad whereas the airship-kosmosship's lift when in an atmosphere world 
 	     happens largely automatically through its lift gases.
 	   </li>
 
            <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
-             Much less push-into-orbit fuel in the airship-spaceship makes the airship-spaceship much more safer in terms of explosion than 
-	     the Tall Rocket whose majority of mass is the very explosive fuel. Therefore an airship-spaceship can lift to space from any neighborhood's 
+             Much less push-into-orbit fuel in the airship-kosmosship makes the airship-kosmosship much more safer in terms of explosion than 
+	     the Tall Rocket whose majority of mass is the very explosive fuel. Therefore an airship-kosmosship can lift to the kosmos from any neighborhood's 
 	     bus stand or ground, and land similarly, unlike the Tall Rocket which is always launched from isolated places like near sea or remote mountain 
 	     or isolated forest or remote flat land.
 	   </li>
 
            <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
-             The airship-spaceship can easily be made horizontally larger instead of the vertically huge of the Tall Rocket. 
+             The airship-kosmosship can easily be made horizontally larger instead of the vertically huge of the Tall Rocket. 
 	     This horizontal largening will make the craft aesthetically pleasing as well as not requiring a huge infrastructure to hold it before launch and 
 	     will keep it from toppling when it is sitting on some world... all unlike the Tall Rocket including with the fashionable legs or bottom fins which 
 	     every rocket company is building.
 	   </li>
 
            <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
-             The airship-spaceship will also be a single-stage-to-orbit craft ( SSTO ) unlike the at least two stages of the Tall Rocket.
+             The airship-kosmosship will also be a single-stage-to-orbit craft ( SSTO ) unlike the at least two stages of the Tall Rocket.
 	   </li>
 
            </ul>
 
            <p>
-             Our airship-spaceship is the Alef-A which will be shaped like an upside-down teacup without the handle,
+             Our airship-kosmosship is the Alef-A which will be shaped like an upside-down teacup without the handle,
              and its lift gases will be colder helium gas and heated helium gas. An airship or a balloon which uses this lift-gas combination of 
 	     a colder gas and a heated gas is called a Roziere Balloon.
            </p>
 
            <p>
-	     The Alef-A's horizontal travel or lift into higher atmosphere and then into space will be assisted by electric rotors, 
+	     The Alef-A's horizontal travel or lift into higher atmosphere and then into the kosmik void will be assisted by electric rotors, 
 	     coal combustion and water steam jets. Of course the gas lift and electric rotors are usable only if that world has air
              / atmosphere. The coal propulsion and steam jets can be used to ascend or descend on any world even without atmosphere.
            </p>
-	   
+
            <p>
              When ascending or descending these fuels are non-recoverable i.e. once they combust or are expelled they cannot be recovered to their 
              original form and be reused.
            </p>
 	   
            <p>
-             And then once this craft is in space it will be given brief pushes by coal combustion for high-speed direction-giving but will be propelled largely 
+             And then once this craft is in the kosmik void it will be given brief pushes by coal combustion for high-speed direction-giving but will be propelled largely 
 	     by water steam jets where through an arrangement most of the steam is recovered to water, re-turned to steam and jetted again to enable 
 	     longer-distance continuous-thrust travel, thus the water steam here is a largely recoverable fuel.
            </p>
@@ -563,16 +563,16 @@ modalText.innerHTML = `
            </p>
 
 	   <p>  
-             The Alef-A will also allow for short-distance space travel like from Earth to Moon's surface.
+             The Alef-A will also allow for short-distance kosmos travel like from Earth to Moon's surface.
            </p>
 
            </div>
 
            <div id="aleff" class="section">
-           <h2> 05. Alef-F space ferry</h2>
+           <h2> 05. Alef-F kosmos ferry</h2>
 
            <p>
-             The Alef-F will be a space-bound ferry large enough to carry five Alef-A crafts, a hundred
+             The Alef-F will be a kosmos-bound ferry large enough to carry five Alef-A crafts, a hundred
              humans, ten Moggy robot cats ( described below ) and a hundred tons of other cargo and will be primarily propelled by water steam
              jets but will include coal propulsion for momentary high-thrust-requiring situations. It will have 
              proper water-using baths and toilets with the toilets having disinfectant-having water spray for hygienic and satisfying 
@@ -585,38 +585,37 @@ modalText.innerHTML = `
 
            <p>
              This ferry will be able to travel from the Inner Solar System to the Outer Solar System and station around various worlds and 
-             space objects to enable from-orbit observations and allow descent-ascent using the Alef-A crafts. 
+             kosmik objects to enable from-orbit observations and allow descent-ascent using the Alef-A crafts. 
              The cargo can be anything including mining equipment and habitation-building material. 
-             Thus this ferry craft is much better than the current and proposed space stations around Earth and the Moon. 
+             Thus this ferry craft is much better than the current and proposed kosmos stations around Earth and the Moon. 
              It can also be called a colony ship.
            </p>
 
            <p> 
              This ferry craft will be constructed in Earth orbit and in other world orbits and will always
-             remain in space, never to descend on any world. The construction material will be carried to
-             orbit by the Alef-A crafts.
+             remain in the kosmik void, never to descend on any world. The construction material will be carried to orbit by the Alef-A crafts.
            </p>
 
            </div>
 
            <div id="bothships" class="section">
-           <h2> 06. About both Alef-A and Alef-F spaceships</h2>
+           <h2> 06. About both Alef-A and Alef-F kosmos ships</h2>
            
            <p>The name "Alef" is a joined word with the below meaning :</p>
-          
+
            <ul>
              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> The "lef" comes from the slogan 
              "Liberty, Equality, Fraternity" which is a slogan in multiple progressive thought streams 
              including the Preamble ( short introduction ) to the Indian Constitution. </li>
 
              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> The "A" stands for 
-             Alif ( "The first" ), meaning these spaceships are just the first types of spaceships from 
-             our organization Further will be more types. </li>
+             Alif ( "The first" ), meaning these kosmos ships are just the first types of kosmos ships from our organization Further will be more types. 
+	     </li>
            </ul>
            
            <p>
-             Both the Alef-A and the Alef-F will be primarily propelled in space by water steam 
-             jets and this is advantageous because :</p>
+             Both the Alef-A and the Alef-F will be primarily propelled in the kosmos by water steam jets and this is advantageous because :
+	   </p>
            
            <ul>
              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Steam is made 
@@ -625,9 +624,10 @@ modalText.innerHTML = `
              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Water doesn't explode normally unlike rocket fuel like 
              liquid hydrogen.</li>
              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Water doesn't need 
-             to be stored at cryogenic conditions unlike with some current popular spacecraft fuels like 
-             liquid hydrogen and liquid methane Water can be just kept a warm liquid using electrical heating.</li>
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> When in space, most of the
+             to be stored at cryogenic conditions unlike with some current popular kosmos ship fuels like 
+             liquid hydrogen and liquid methane. Water can be just kept a warm liquid using electrical heating.
+	     </li>
+             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> When in the kosmik void, most of the
               jetted steam is recoverable to liquid water which can be fed back to the propulsion system to 
               allow for continuous thrust, faster travel and longer travel.</li>
              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Our steam-based 
@@ -636,26 +636,26 @@ modalText.innerHTML = `
            </ul>
            
            <p>
-             It may be possible to form these two spaceships to have artificial gravity generation
+             It may be possible to form these two kosmik ships to have artificial gravity generation
              using spin by spinning sections of the craft This enabling will allow humans to live 
-             in healthy Earth-like gravity for most of their space journeys and also configure 
+             in healthy Earth-like gravity for most of their kosmos journeys and also configure 
              lower or higher gravity to prepare the human travellers for the gravity of other 
              worlds like the Moon or Red One.
            </p>
-	   
+
            <p>
              We will also research in time on anti-gravity vehicles which will affect every aspect of movement of individual humans and vehicles 
-	     including a more natural means to fly from worlds ( like Earth ) to space and descend on worlds. This is if possible at all. 
+	     including a more natural means to fly from worlds ( like Earth ) to the kosmik void and descend on worlds. This is if possible at all. 
 	     Such crafts can be very large and of any shape and able to carry maybe hundreds of people at a time, like some of the lander ships in the Dune story.
            </p>
 
            </div>
 
            <div id="stillsuit" class="section">           
-           <h2> 07. A spacesuit called Stillsuit</h2>
+           <h2> 07. A kosmos suit called Stillsuit</h2>
 
            <p>
-             The full design of this spacesuit is still in consideration but it will be a hardsuit to allow easy 
+             The full design of this kosmos suit is still in consideration but it will be a hardsuit to allow easy 
              movement of the wearer and better safety, and it will have an exoskeleton. 
 	     The suit will use bio-mimicry and biological elements to also allow for self-repair.
            </p>
@@ -716,8 +716,7 @@ modalText.innerHTML = `
 	   </ul>
 
            <p>
-             The name of this spacesuit - Stillsuit - derives from the suit the Fremen people wear in the
-             Dune stories when they go out into the desert.
+             The name of this kosmos suit - Stillsuit - derives from the suit the Fremen people wear in the Dune stories when they go out into the desert.
            </p>
 
            </div>
@@ -726,24 +725,24 @@ modalText.innerHTML = `
            <h2> 08. Biology researches including</h2>
            
            <p>
-             <span> >> </span> The ideal plants to derive biocoal for the coal needed to propel the Alef spaceships and
-             the Ra vehicles. These plants should be growable in space.
+             <span> >> </span> The ideal plants to derive biocoal for the coal needed to propel the Alef kosmos ships. 
+	     These plants should be growable in the kosmos.
            </p>
-           
+
            <p>
-             <span> >> </span> Strengthened and fire-proof wood for structures in the spaceships, spacesuits and
-             habitations. Such wood is preferable to metal in many cases. The trees for the wood should
-             be growable in space.
+             <span> >> </span> Strengthened and fire-proof wood for structures in the kosmos ships, kosmos suits and
+             kosmos habitations. Such wood is preferable to metal in many cases. The trees for the wood should
+             be growable in the kosmos.
            </p>
 
            <p>
              <span> >> </span> Transparent wood to replace glass in some applications. The trees for the wood should 
-             be growable in space.
+             be growable in the kosmos.
            </p>
 
            <p> 
-             <span> >> </span> Structures of spaceships, spacesuits and habitations to be bio-mimicking and also made of biological elements for radiation shielding, 
-	     self-repair and a sense of more naturality. For example, there is interest in the fungus Cladosporium sphaerospermum which was first
+             <span> >> </span> Structures of the kosmos ships, kosmos suits and kosmos habitations to be bio-mimicking and also made of biological elements 
+	     for radiation shielding, self-repair and a sense of more naturality. For example, there is interest in the fungus Cladosporium sphaerospermum which was first
              identified in the Chernobyl reactor's remains and converts the area's radiation into energy for
              itself, a process called radiosynthesis which is comparable to plants converting light to
              energy through photosynthesis. This fungus eats the radiation.
@@ -780,29 +779,27 @@ modalText.innerHTML = `
 	     <span>(d).</span> 
 	     To extract water or even construct water.
            </p>
-            
+
            <p> 
              <span> >> </span> 
-	     The previously described phenomenon of radiosynthesis has an interesting application for space which uses the idea 
-             similar to the Astrophage bio-organism in Andy Weir's sci-fi book of 2021 called Project Hail Mary. This application is spaceship propulsion. 
-             This will make use of self-replicating bacteria which absorb / eat the different radiations in space, store those radiation energies internally 
-             like an electrical capacitor and can be made to release / discharge those energies in a single burst at extremely 
-             high energy levels just like a high-voltage electrical capacitor discharge, and this high energy discharge by these 
-             bio-organisms can propel spaceships at very very high speeds, maybe greater than Nuclear Pulse Propulsion. This bio-propulsion can be used in association
-	     with our regular steam propulsion where the bacteria give initial extremely high speed pushes to spaceships and then are not used and 
-	     then the steam engines with their recoverable water mechanism are turned on to give continuous propulsion so that higher speeds are reached. 
-	     Before water collection points in space, the bacteria propulsion on the front of the spaceship is turned on to brake the spaceship 
-             and use its steam propulsion to do precise orientation. Maybe our coal propulsion can be used here or 
-             it may not need to be used. Water is collected and the propulsion process repeated. 
-             At the destination, again the combination of bacteria braking and steam-based positioning is used 
-             and maybe to descend on a world the bacteria propulsion can be used in addition to the coal and steam propulsion. 
-             This system may allow us lot faster and shorter-duration travel within the Solar System and to the stars in a sustainable way using 
-             bacteria-constructed matter.
+	     The previously described phenomenon of radiosynthesis has an interesting application for the kosmos which uses the idea 
+             similar to the Astrophage bio-organism in Andy Weir's sci-fi book of 2021 called Project Hail Mary. This application is propulsion of 
+	     kosmos ships. This will make use of self-replicating bacteria which absorb / eat the different radiations in the kosmos, store those radiation energies 
+	     internally like an electrical capacitor and can be made to release / discharge those energies in a single burst at extremely 
+             high energy levels just like a high-voltage electrical capacitor discharge, and this high energy discharge by these bio-organisms can propel kosmos ships 
+	     at very very high speeds, maybe greater than Nuclear Pulse Propulsion. This bio-propulsion can be used in association with our regular steam propulsion
+	     where the bacteria give initial extremely high speed pushes to the kosmos ships and then are not used and then the steam engines with their 
+	     recoverable water mechanism are turned on to give continuous propulsion so that higher speeds are reached. Before water collection points in the kosmos, 
+	     the bacteria propulsion on the front of the kosmos ship is turned on to brake the ship and use its steam propulsion to do precise adjustments. 
+	     Maybe our coal propulsion can be used here or it may not need to be used. Water is collected and the propulsion process repeated. At the destination, 
+	     again the combination of bacteria braking and steam-based positioning is used and maybe to descend on a world the bacteria propulsion can be used 
+	     in addition to the coal and steam propulsion. This system may allow us lot faster and shorter-duration travel within the Solar System and to the stars 
+	     in a sustainable way using bacteria-constructed matter.
            </p>
 
            <p>
              <span> >> </span> 
-	     Engineered-for-space food production.
+	     Engineered-for-kosmos food production.
            </p>
 
            <p>
@@ -828,16 +825,14 @@ modalText.innerHTML = `
              <span> >> </span> 
 	     Bio-engineered animal products growing also leads to another interesting thing : 
              synthetic wombs for growing human organs and cat organs and entire living humans and this is important not
-             only for solving diseases like blindness and kidney failure but also for populating space with
+             only for solving diseases like blindness and kidney failure but also for populating the kosmos with
              humans and also protecting the desirable Earthen lifeforms in case of global devastations.
            </p>
 
            <p>
              <span> >> </span> 
-	     Creating within humans the abilities for self-repair, space-tolerance and 
-	     enhanced strength. To get these abilities may require biological elements acting with non-bio nanomachines 
-	     within the body. It should be possible to thus increase continuous human life span 
-             to 2000 years at least.
+	     Creating within humans the abilities for self-repair, kosmos-tolerance and enhanced strength. To get these abilities may require biological elements 
+	     acting with non-bio nanomachines within the body. It should be possible to thus increase continuous human life span to 2000 years at least.
            </p>
 
            <p>
@@ -873,13 +868,13 @@ modalText.innerHTML = `
 	     <p>
                Moggy robot will be a large cat-like robot whose walk and other movements will be as graceful, silent, quick and strong as a cat and this will involve 
 	       replicating the muscles and bone structure of cats. This robot will also fly using electric rotors. This robot will be able 80 kgs of load on its back in 
-	       a container. The container cover will double up as a seat so that instead of a load inside the container, a kosmonaut wearing our Stillsuit spacesuit can 
+	       a container. The container cover will double up as a seat so that instead of a load inside the container, a kosmonaut wearing our Stillsuit kosmos suit can 
 	       ride on this robot like people ride horses, donkeys and camels, and also fly when seated on it. This robot will be able to dig slope-wise into the soil or 
 	       ice of Earth and other worlds like Earthen animals dig, and this robot will remove the soil to the outside by carrying it in the container on the back.
 	     </p>
 
 	     <p>
-	       There will be an inflatable transparent roof and walls to protect the human rider from rain, dust, wind, small space rocks and sun.
+	       There will be an inflatable transparent roof and walls to protect the human rider from rain, dust, wind, small kosmik rocks and sun.
 	     </p>
 
 	     <p>
@@ -932,11 +927,11 @@ modalText.innerHTML = `
            <p>
              There are an estimated 100 million human-made pieces of various sizes in Earth orbit, made
              of metal and other material, which are debris from parts of non-functioning satellites and
-             parts from other discarded space vehicles. These pieces size from tiny to large and travel
-             around Earth at very high speeds ( 20,000+ kmph ). As human-carrying spaceships rise into
+             parts from other discarded kosmik vehicles. These pieces size from tiny to large and travel
+             around Earth at very high speeds ( 20,000+ kmph ). As human-carrying kosmos ships rise into
              Earth orbit at various altitudes they have chance of getting hit by these high-speed pieces
              and getting destroyed along with their human cargo or getting very damaged in context of
-             current spaceship-building methods. The two current space stations in Earth orbit also can
+             current kosmosship-building methods. The two current kosmos stations in Earth orbit also can
              get this risk. This debris was unfortunately ignored in the previous decades but now is
              awareness about not only the simple needlessness of it but also that the debris will soon
              make human travel through Earth orbit very dangerous or even impossible.
@@ -1001,7 +996,7 @@ modalText.innerHTML = `
 
            <p>
              The Serf satellite will be propelled by water steam jets using the same water-recovery
-             propulsion system as in the Alef spaceships which means the Serf can do its job for a long
+             propulsion system as in the Alef kosmos ships which means the Serf can do its job for a long
              time before being called to a safe Earth orbit and be water-refilled and refurbished.
            </p>
 
@@ -1029,8 +1024,8 @@ modalText.innerHTML = `
            <h2> 12. Habitat construction on other worlds</h2>
 
            <p>
-             <span>(a).</span> Building most of the habitation underground for protection against space radiation, 
-	     low temperature, high temperature, low pressure, no pressure, high pressure and space dust / small rocks.
+             <span>(a).</span> Building most of the habitation underground for protection against kosmik radiation, 
+	     low temperature, high temperature, low pressure, no pressure, high pressure and kosmik dust / small rocks.
 	   </p>
 
 	   <p>
@@ -1040,7 +1035,7 @@ modalText.innerHTML = `
 	   <p>
 	     <span>(c).</span> From the outside there will be an unpressurized tunnel leading into the main underground habitation. 
              The tunnel is topped with local soil and rocks, radiosynthetic fungi and electro-magnetic shielding... 
-	     all to protect it against radiation, temperature, pressure and space dust / rocks. The tunnel's outer door 
+	     all to protect it against radiation, temperature, pressure and kosmik dust / rocks. The tunnel's outer door 
 	     is also fixed with the same materials. A portion of the door will have a strengthened transparent wood window 
 	     which transmits outside natural light to inside the tunnel. Attached to the inner side of this window, will be a movable flap 
 	     used to close the inner side of the window. This flap will be also made of the aforesaid materials.
@@ -1053,7 +1048,7 @@ modalText.innerHTML = `
 
            <p>
              <span>(e).</span> On the inside of the tunnel on one side will be an airlock system large enough to hold eight people 
-	     wearing our Stillsuit spacesuits to use to transfer from the unpressurized tunnel into the pressurized actual inside of the habitation.
+	     wearing our Stillsuit kosmos suits to use to transfer from the unpressurized tunnel into the pressurized actual inside of the habitation.
            </p>
 
            <p>
@@ -1073,13 +1068,13 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             <span>(j).</span> All this construction has to be aesthetic. No need to discard aesthetics just because we
-             are in space. Form and function, both are important.
+             <span>(j).</span> All this construction has to be aesthetic. No need to discard aesthetics just because we are in the kosmos. 
+	     Form and function, both are important.
            </p>
 
 	   <p>
              <span>(k).</span> To protect the habitats against big rocks which may penerate even the underground habitats, 
-	     stationed in orbit will be the bigger versions of the Serf satellite. In case the incoming space rocks have to be taken away 
+	     stationed in orbit will be the bigger versions of the Serf satellite. In case the incoming kosmik rocks have to be taken away 
 	     from that habitation world, the nearest disposal place can be the Sun, Jupiter, Neptune etc depending on which of these
 	     places is near to the habitation world.
            </p>
@@ -1101,7 +1096,7 @@ modalText.innerHTML = `
 
            <p>
              This effort will consist of designing large and small cities on Earth which are aesthetic, clean, scientifically-built, citizen-managed through the citizens 
-	     directly participating using the natural and progressive concept of Workers Cooperatives ( described in our "Our social system for space" chapter ), 
+	     directly participating using the natural and progressive concept of Workers Cooperatives ( described in our "Social system for the kosmos" chapter ), 
 	     humanist, not creating pollution, largely food-wise self-sufficient, largely employment-wise self-sufficient, gentle. These new cities will take 
 	     the pressure off current chaotic cities and also bring reasonable city culture to rural people because generally great ideas, discussions and developments
 	     happen in the cities.
@@ -1155,7 +1150,7 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";> 
              <span>(e).</span> 
-	     Gentleness in cities also from rethinking inter-city public transport by using our Alef-A airship-spaceships which can land within neighborhoods 
+	     Gentleness in cities also from rethinking inter-city public transport by using our Alef-A airship-kosmosships which can land within neighborhoods 
 	     and other small public areas, removing the need for airports, train stations and bus stations. Our Alef-A crafts will also be able to do inter-continent 
 	     travel this way too.
 	   </p>
@@ -1167,7 +1162,7 @@ modalText.innerHTML = `
 	     because of this and those who don't die they endure daily chaos. But through Kosmos Society's redesign of cities which will be largely self-sufficient and 
 	     will be filled with people of scientific temper, what will be made obsolete will be those tens of thousands of out-of-city travellers. Not only will this make 
 	     cities gentle but there will be very few people travelling beyond their cities on a daily basis and these few people will use our Moggy vehicles, 
-	     our Ra vehicles and our Alef-A airship-spaceships. This lesser daily out-of-city travel will also contribute to serene Earthen societies.
+	     our Ra vehicles and our Alef-A airship-kosmosships. This lesser daily out-of-city travel will also contribute to serene Earthen societies.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -1190,7 +1185,8 @@ modalText.innerHTML = `
 	     meaning 30 Moggy robot cat vehicles with their riders sitting on the Moggys. Each Moggy vehicle will climb onto the Ra vehicle's platform from 
 	     either the left side or the right side to specifically their empty spot on the Ra's platform. The platform will have a central aisle. 
 	     There will be a human driver in front of the Ra who will be seated there on his or her own Moggy vehicle and control the Ra vehicle using 
-	     a personal Dune Buk wearable computer along with a mechanical control mechanism fitted into the Ra.
+	     a personal Dune Buk wearable computer along with a mechanical control mechanism fitted into the Ra. There will be an inflatable transparent 
+	     enclosure around this vehicle.
 	   </p>
 
 	   <p>
@@ -1210,8 +1206,9 @@ modalText.innerHTML = `
              Climate Change cannot be reversed by stupid things like "Carbon credits", lithium batteries, nuclear reactors, huge wind farms and such other things. 
 	     The regular "Climate Change discussion conference" called COP Conferences are a waste of time and are optics and a wine-and-dine gathering. 
 	     The activist Greta Thunberg said of the 2021 COP conference conducted in Glasgow city that "It is a greenwash" and that many of the attending 
-	     national government leaders actually benefit from the very polluting companies which have caused Climate Change. The solutions we of Kosmos Society 
-	     present about transporation and other things will lead to the beginning of drastic reversal of Climate Change.
+	     national government leaders actually benefit from the profiteering companies which cause human misery and the pollution which caused Climate Change. 
+	     The solutions we of Kosmos Society present about transporation and other things will lead to the beginning of drastic reversal of Climate Change and 
+	     of course eradication of human misery.
 	   </p>
 
 	   <p>
@@ -1309,7 +1306,7 @@ modal.style.display = 'none';
 }
 }, 0);
 
-// Our social system for space
+// Social system for the kosmos
 }  else if (chapter === 'socialsystem') {
 modalText.innerHTML = `
        <div style="position:relative;padding:0;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:600px;overflow:hidden;">
@@ -1458,22 +1455,20 @@ modalText.innerHTML = `
          </style>
 
          <div class="nav-links">
-            <button id="topics-toggle">Social system for space - Topics &#9660;</button>
+            <button id="topics-toggle">Social system for the kosmos - Topics &#9660;</button>
             <div id="topics-links">
               <a href="#intro">&nbsp;&nbsp; 01. Introduction to this chapter </a>
-              <a href="#universe">&nbsp;&nbsp; 02. The Universe and human nations on Earth </a>
-              <a href="#equality">&nbsp;&nbsp; 03. Natural equality in accessing space and living in space </a>
-              <a href="#organization">&nbsp;&nbsp; 04. Social organization in space travel and space living </a>
-              <a href="#tea">&nbsp;&nbsp; 05. Tea and Space</a>
-              <a href="#appearance">&nbsp;&nbsp; 06. Appearance and personality of the space travellers </a>
-              <a href="#sports">&nbsp;&nbsp; 07. Sports and recreation in space </a>
-              <a href="#language">&nbsp;&nbsp; 08. Human language in space </a>
-              <a href="#education">&nbsp;&nbsp; 09. Education in space </a>
-              <a href="#competition">&nbsp;&nbsp; 10. Why competition is wrong in space </a>
-              <a href="#satellite">&nbsp;&nbsp; 11. Basis of satellite design </a>
-              <a href="#mining">&nbsp;&nbsp; 12. Mining in space </a>
-              <a href="#mirkeen01">&nbsp;&nbsp; 13. Mirkeen-01 base on the Moon</a>
-              <a href="#aliens">&nbsp;&nbsp; 14. Meetings or sightings of aliens </a>
+              <a href="#nations">&nbsp;&nbsp; 02. The Kosmos and human nations on Earth </a>
+              <a href="#equality">&nbsp;&nbsp; 03. Natural equality to be a kosmonaut and when being a kosmonaut </a>
+              <a href="#organization">&nbsp;&nbsp; 04. Social organization for kosmonauts </a>
+              <a href="#tea">&nbsp;&nbsp; 05. Tea and Kosmos</a>
+              <a href="#language">&nbsp;&nbsp; 06. Language, appearance and personality of the kosmonauts </a>
+              <a href="#sports">&nbsp;&nbsp; 07. Sports and recreation in the kosmos </a>
+              <a href="#education">&nbsp;&nbsp; 08. Education in the kosmos </a>
+              <a href="#satellite">&nbsp;&nbsp; 09. Basis of satellite design </a>
+              <a href="#mining">&nbsp;&nbsp; 10. Mining in the kosmos </a>
+              <a href="#mirkeen01">&nbsp;&nbsp; 11. Mirkeen-01 base on the Moon</a>
+              <a href="#aliens">&nbsp;&nbsp; 12. Meetings or sightings of aliens </a>
             </div>
 
          </div>
@@ -1484,17 +1479,16 @@ modalText.innerHTML = `
            <h2> 01. Introduction to this chapter</h2>
         
            <p> 
-             We present the draft of a social system for space, which is simple, progressive, pan-humanist, harmonious 
-             and Nature-ordained and is for all humans going and living in the kosmos / universe / space and hopefully 
-             this social system finds adoption throughout Earth in time. This draft social system seeks to remove all the artificial and 
-             needless unpleasantnesses, tragedies and anti-natural beliefs that humans do or endure presently on Earth, 
-             and we promote all the approaches which are natural, rational, simple, enlightened and gentle.
+             We present the draft of a social system for the kosmos ( space / universe ), which is simple, progressive, pan-humanist, harmonious 
+             and Nature-ordained and is for all humans going and living in the kosmos and hopefully this social system finds adoption throughout Earth in time. 
+	     This draft social system seeks to remove all the artificial and needless unpleasantnesses, tragedies and anti-natural beliefs that humans do or endure 
+	     presently on Earth, and we promote all the approaches which are natural, rational, simple, enlightened and gentle.
            </p>
 
            <p>
-             In going through space and living in space, every human must have an enlightened spirit including by selflessly sharing space resources 
-             with every other human in an equal manner without needless taxes like money, college degrees, race, 
-             belief in certain divinities, Earthen passport and other human-made social positions.
+             In every human being a kosmonaut he or she must have an enlightened spirit including by selflessly sharing kosmik resources with every other human 
+	     in an equal manner without needless taxes like money, college degrees, race, belief in certain divinities, Earthen passport and 
+	     other human-made social positions.
            </p>
 
            <p>
@@ -1514,15 +1508,15 @@ modalText.innerHTML = `
 
            </div>
 
-           <div id="universe" class="section">
-           <h2>02. The universe and human nations on Earth</h2>
+           <div id="nations" class="section">
+           <h2>02. The Kosmos and human nations on Earth</h2>
            
            <p>
-             The universe has existed forever, much before some modern human scientists and academics foolishly
+             The kosmos has existed forever, much before some modern human scientists and academics foolishly
              affixed an age to it on the basis of needless mathematics i.e. the Big Bang Theory and now
-             there are two Big Bang theories. Space has existed before human nations existed on Earth,
+             there are two Big Bang theories. Kosmos has existed before human nations existed on Earth,
              before Earth itself existed. The concept of Earthen Nations / Nation States
-             does not exist in Nature / Kosmos / Universe / Space and comes on Earth
+             does not exist in Nature / Kosmos / Universe and comes on Earth
              from as recent as the French Revolution of the late 1700s which led to France becoming a
              Republic which was meant to become citizen-governed with natural human freedoms as
              against France previously being a typical kingdom governed by a supreme oppressive feudal lord.
@@ -1674,7 +1668,7 @@ modalText.innerHTML = `
              to having all the natural freedoms due to humans not depending for survival on measly wage from rich exploitative feudals who rather wish
              that they did not have to give even that measly wage but could extract every work from the workers. And in that other faraway 
              progressive society citizens don't have to struggle to take ungiving permissions of family elders just to love a person of 
-	         the opposite gender or to invent, write, paint and observe the universe and won't be told to either earn money to be called of worth 
+	         the opposite gender or to invent, write, paint and observe the kosmos and won't be told to either earn money to be called of worth 
 	         or just die silently somewhere far away. But our unthinking middle class person will call that humanist society a "rogue nation" which must be 
 	         changed even by genocide so that "Democracy" can be brought there and Free Market can be brought there and the anti-worker teachings of B-schools 
 		     can be brought there, LOL.
@@ -1690,17 +1684,17 @@ modalText.innerHTML = `
 
            <p>
              However, as per natural laws no human from one modern nation is automatically superior in the 
-             grandness of Universe / Kosmos / Space than a human from another modern nation. A socially-advantaged 
+             grandness of Kosmos than a human from another modern nation. A socially-advantaged 
              human from one modern "superpower wealthy nation" will be burned up in the Sun as easily as a 
              money-poor human from another modern "superpower wealthy nation"... to believe otherwise is 
-             pointless arrogance. Some thoughtful space travellers who have gone to Earth orbit have 
-             spoken of seeing the Earth as a singular delicate blue world in the dark of space, 
+             pointless arrogance. Some thoughtful kosmos travellers who have gone to Earth orbit have 
+             spoken of seeing the Earth as a singular delicate blue world in the dark of the kosmik void, 
 	         with no natural boundaries dividing nations, though to us adding here : with the exception of Australia and 
 	         other island nations bounded by the seas but that is besides the point. It is then unwise to be fanatic 
              nationalists in the kosmos when just the Sun can fit in itself a million Earths and the Sun being 
              just a medium-sized star, and in reality the Sun instantly burning up those million Earths and 
              all the nations within them and with them all of the eight billion people of Earth. 
-             A human is a tiny humble speck in the infinite Universe.
+             A human is a tiny humble speck in the infinite Kosmos.
            </p>
 
            <p>
@@ -1740,7 +1734,7 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             And relevant to our organization being in the space industry and the above sections speaking of trans-border progressive influences, 
+             And relevant to our organization being in the kosmos industry and the above sections speaking of trans-border progressive influences, 
              modern rocketry derives its advancement to Tipu Sultan's work in rocketry, though his security situation forced him to look at this science 
              only for military purposes despite him being a thoughtful person and an internationalist. And before him the Mongols advanced rocketry 
              and the origin of rocket science goes back to the ancient Chinese.
@@ -1776,12 +1770,12 @@ modalText.innerHTML = `
        </p>
 
        <p>
-         It is then natural, rational, automatic and moral to expect that space be a place of a united 
+         It is then natural, rational, automatic and moral to expect that the kosmos be a place of a united 
          humanity instead of carrying the needless artificial hates and divides on Earth. The 
-         timelessly existent space and space objects should not be divided up by humans by way of 
+         timelessly existent kosmos and kosmik objects should not be divided up by humans by way of 
          selective ownerships by Earthen nations and not be introduced with militarization to defend 
          those selective ownerships against other humans. We should not allow the nationalist 
-         bickerings and tragedies on Earth to be carried over into Space. Space should be the 
+         bickerings and tragedies on Earth to be carried over into the kosmos. The kosmos should be the 
          peaceful exploration medium, mining place and settlement place of a collective humanity 
          under a truly democratic framework. National boundaries are artificial but human fraternity is 
          natural.
@@ -1790,16 +1784,16 @@ modalText.innerHTML = `
            </div>
 
            <div id="equality" class="section">
-           <h2> 03. Natural equality in accessing space and living in space</h2>
+           <h2> 03. Natural equality to be a kosmonaut and when being a kosmonaut </h2>
            
            <p>
-             The current human-transport space industry is feudal where aspiring space travelers 
-             have to fit the below irrational categories to qualify for travel to space :
+             The current human-transport kosmos industry / space industry is feudal where aspiring kosmonauts 
+             have to fit the below irrational categories to qualify for travel to the kosmonaut :
 	   </p>
-	   
+
            <p style="margin-left:1em; margin-bottom:10px";>
 	     <span> (a). </span> 
-               There are very few human space programs because the design complicatedness and 
+               There are very few humans-to-the-kosmos programs because the design complicatedness and 
                the expensiveness of the prevalent Tall Rockets and in-design Space-planes makes these crafts manufactured by 
                only a very few government organizations or private organizations who are okay with complicatedness and 
                have lots of money. These organizations have created an anti-democratic monopoly. Add to this the blatant ignoring 
@@ -1810,84 +1804,117 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";>
 	     <span> (b). </span>
-               And from those who decide to board the Tall Rockets, either aspiring space travellers have to be very rich to pay 
+               And from those who decide to board the Tall Rockets, either aspiring kosmonauts have to be very rich to pay 
 	       for a single ticket - at least 50 million dollars now.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
 	     <span> (c). </span>
-               Or if an aspiring space traveler doesn't have the huge money he or she must be associated with governments... 
-	       the governments either being those whose country has the very few human-launching spacecrafts or the governments being allied with the first type 
-               of governments. These types of space travelers are mostly military pilots but sometimes 
-               professional scientists, teachers etc.
+               Or if an aspiring kosmonaut doesn't have the huge money he or she must be associated with governments... 
+	       the governments either being those whose country has the very few human-launching kosmos crafts or the governments being allied with the first type 
+               of governments. These types of kosmonauts are mostly military pilots but sometimes professional scientists, teachers etc.
            </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";>
 	     <span> (d). </span>
-               Or the aspiring space travellers must win seat lottery in some private lottery-based 
-               space-trip arrangement program connected with those governments or private space agencies which have the launch hardware. 
-               But this lottery will be won by only one person per year in the entire world.
+               Or the aspiring kosmonaut must win seat lottery in some private lottery-based kosmos-trip arrangement program connected with those governments or
+	       private humans-to-the-kosmos agencies which have the launch hardware. But this lottery will be won by only one person per year in the entire world.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
 	     <span> (e). </span>
-               The aspiring space travelers have to generally have college degrees if they are not rich. This is irrational and against Nature.
+               The aspiring kosmonauts have to generally have college degrees if they are not rich. This is irrational and against Nature.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
 	     <span> (f). </span>
-               People who want to work in the space industry also must have college degrees. This too is irrational and against Nature.
+               People who want to work in the kosmos industry also must have college degrees. This too is irrational and against Nature.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
 	     <span> (g). </span>
-               If an aspiring space traveller is a woman then she is excluded if she doesn't meet with the irrational low-weight, "she should be fit" 
-	       requirement for woman space travellers. Women naturally are chubby, voluptuous and there is a background and also overt system especially in the West 
-	       to exclude such women from the space industry as well as make them non-persons via language and mainstream media. This excluding is due to the West 
-	       having influential position for male homosexuals, priests and the "fitness and wellness" profiteering industry who all have their own interests in keeping
-	       women thin or muscular.
+               If an aspiring kosmonaut is a woman then she is excluded if she doesn't meet with the irrational low-weight, "she should be fit" 
+	       requirement for woman kosmonauts. Women naturally are chubby, voluptuous and there is a background and also overt system especially in the West 
+	       to exclude such women from the kosmos industry as well as make them non-persons via language and mainstream media. This excluding is due to 
+	       the West having influential position for male homosexuals, priests and the "fitness and wellness" profiteering industry who all have their own interests 
+	       in keeping women thin or muscular.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-	     <span> (h). </span>          	     
-               The very workers who build these current human launch systems are excluded from going to space on the space systems they built 
+	     <span> (h). </span> 
+               The very workers who build these current human launch systems are excluded from going to the kosmos on the launch systems they built 
 	       with their sweat, sleepless nights and risk of serious injury or death. The max they are allowed to do is clap in the control rooms 
-	       whose screens show the launches of those space systems taking to space the rich and the other privileged. This is like the building construction workers 
-	       who build mansions for the rich but are not allowed to live in them and will be sent away from the gate if they desire to visit the mansion later. 
+	       whose screens show the launches of those kosmos systems taking to the kosmos the rich and the other privileged. This is like the building construction
+	       workers who build mansions for the rich but are not allowed to live in them and will be sent away from the gate if they desire to visit the mansion later. 
 	       A ridiculous situation.
            </p>
 
+           <p style="margin-left:1em; margin-bottom:10px";>
+	     <span> (i). </span> 
+             The to-kosmos launch organizations may demand that the candidate kosmonaut be of at least "Adult age 18". This is an irrational demand. Age 18 is 
+	     portrayed by every feudal society as a magical age turning a human from a "non-sensible teenager" into a "sensible adult" whereupon this new adult 
+	     can be trusted to think good of the nation by voting in elections and can be trusted to think good of the world and can be trusted to drive vehicles 
+	     without causing a single mishap, rule breaking or crime. And until a person becomes 18 age he or she must have "guardians" in form of "family elders", 
+	     essentially older persons in the family who are supposedly wise enough to guide the younger person's life to perfection. And the turning of the 
+	     younger person to 18 age will supposedly bring that person maturity, sense of freedom, freedom and purpose to life but this is a lie. Nature has no such 
+	     hard "adult age" separation where a person aged "17 years, 23 months, 29 days, 23 hours, 59 seconds" is immature, does not have a sense of freedom, 
+	     can be easily misled and cannot be trusted to know good of himself or herself, of their neighborhood, nation and humanity, but when the clock moves 
+	     forward one second and the person turns 18, suddenly this person supposedly experiences an explosion of genius and finally attains a sense of freedom,
+	     cannot be misled and can be trusted to know good of himself or herself, of the neighborhood, nation and humanity and therefore becomes called "Adult" 
+	     and will supposedly be given all freedoms by society. All nonsense. A 60-year-old person who has been "adult" for 42 years can be very easily immature, 
+	     can be easily misled, can be violent, cruel, apathetic, cause genocide and also be a slave until death. If every 80-year-old was automatically a genius 
+	     just because he or she was 80 of age, the world would not have seen feudalism, wars, oppressions, superstitions, competition, crimes, suicides, cruelty,
+	     apathy, competition, Climate Change and disharmony. All of Earth would have been utopia 300,000 years ago when Homo Sapiens supposedly began. 
+	     This "Adult age 18" is an unnatural, nonsense invention by the feudals ruling Western countries... the age 18 chosen randomly to define "Voting age" 
+	     to give the masses of these societies a celebratory moment within the multi-generation illusion that they live in democracy because they can vote
+	     in elections, own personal cars and purchase houses but in truth their ideas and voices don't matter to the parties they have voted to power and
+	     they continue to live in wage slavery and other slavery that their previous ten generations at least had lived in their feudal setup. It's not like 
+	     an 18-age voter and his 60-age voter father can together drive their personal car to the gate of the mansion of the politician they voted for, 
+	     who is also a feudal running a needless software services empire, and this son and father will be welcomed in the feudal-politician's mansion with 
+	     tea and biscuits and they will be allowed to describe their good ideas for their society and humanity and they will be listened by this election-winning 
+	     feudal-politician and they will be made advisors to the nation. This of course won't happen despite the "Magical adult age 18" of the son and 
+	     father and therefore this "Magic adult age 18" is a nonsense idea. Five hundred years ago the Mughal emperor Akbar became emperor at age 13 and 
+	     he became a good administrator, very unlike most other feudals in history. He did progressive things that most other feudals never had the idea of doing 
+	     at their 80 of age. And like we wrote in the second section in this chapter, 1800 years before Akbar was the Indian king Chandragupta Maurya 
+             who at age 40 married the 15-year-old Greek-Irani girl Helena. Chandragupta didn't consider Helena as immature and incapable including in 
+             being his queen of an important kingdom on Earth. He married her and her progeny with Chandragupta was the great Buddhist king Ashoka. It is not as if 
+	     Ashoka was the progeny of a grandmother who had married at the modern "Magic adult age 18" or 38. Lastly, in the context of this chapter being about
+	     removal of feudalism from kosmos travel, it is not as if the kosmos / Nature will throw back to Earth any human who is below 
+	     "Magic adult age 18" and has reached Low Earth Orbit to try to reach the Moon. Nature does not have this age discrimination and age feudalism. 
+	     The kosmos will easily kill any 80-age kosmonaut who has gone close to the Sun as easily as a 15-age kosmonaut.
+	   </p>
+
            <p>
-             Thus presently most humans are excluded from going to space even if they are intelligent, gentle, physically able and respect Nature... 
-             even if experiencing space must be the easy right of every human. But it is not Nature denying most people 
-             access to space... it is anti-democratic systems among humans doing so. The universe does not create celestial messaging 
-             where the universe displays an "Only allow them" list in Earth's night sky every night where the list shows names of 
-	     only the moneyed and the other unfairly privileged who can experience space. In truth the kosmos knows neither money nor rank.
+             Thus presently most humans are excluded from going to the kosmos even if they are intelligent, gentle, physically able and respect Nature... 
+             even if experiencing the kosmos must be the easy right of every human. But it is not Nature denying most people 
+             access to the kosmos... it is anti-democratic systems among humans doing so. The kosmos does not create celestial messaging 
+             where the kosmos displays an "Only allow them" list in Earth's night sky every night where the list shows names of 
+	     only the moneyed and the other unfairly privileged who can experience the kosmos. In truth the kosmos knows neither money nor rank.
 	   </p>
 	     
            <p>
-	     And for those very very few people on Earth who are able to go to space, they go by sitting in very unsafe and unreliable systems 
+	     And for those very very few people on Earth who are able to become kosmonauts, they go by sitting in very unsafe and unreliable systems 
 	     which can explode any time and kill them and many other humans around. All this is just needless.
            </p>
 
            <p>
-             And the upcoming commercial space industry promoted by certain groups on Earth pushes feudalism and commerce to space, 
-	     for example the strange art of some MBA affixing pointless commercial projection slogans to space like 
-	     "The trillion dollar space economy". A few things to comment on this :
+             And the upcoming commercial space industry / kosmos industry promoted by certain groups on Earth pushes feudalism and commerce to the kosmos, 
+	     for example the strange art of some MBA affixing pointless commercial projection slogans like "The trillion dollar space economy". 
+	     A few things to comment on this :
            </p>
            
            <p style="margin-left:1em; margin-bottom:10px";>
 	     <span> (a). </span> 
              How do these projection-making MBAs know how much money can be made even from two big rocks in the Asteroid Belt which is 
-             hundreds of millions of kilometers away from Earth, let alone knowing money wealth from the universe ?
+             hundreds of millions of kilometers away from Earth, let alone knowing money wealth from the kosmos ?
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
 	     <span> (b). </span> 
              Part of that trillion of the wannabe space billionaires will come from charging huge tax ransoms 
-             to take people to space and keep them alive in space and provide them with communication and food and healthcare and rescue 
+             to take people to the kosmos and keep them alive in the kosmos and provide them with communication and food and healthcare and rescue 
              and collaboration and other things... things that should be available to every human without he or she 
-             being taxed. How can there be tax on oxygen, water and food in space ? Surely these billionaires 
+             being taxed. How can there be tax on oxygen, water and food in Nature's kosmos ? Surely these billionaires 
              are not Nature to have produced them and surely when these billionaires on Earth see rain falling from the sky and it feeding the rivers
              and the seas and seeding plants and feeding the birds and the other animals, the billionaires don't find Nature's message in the sky 
              demanding that they pay Nature a big tax and only then it will send rain to their gardens and to the farms 
@@ -1897,23 +1924,23 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";>
 	     <span> (c). </span> 
-             About taxing telecommunication in space, imagine a scene where you and your friend are talking across a table 
+             About taxing telecommunication in the kosmos, imagine a scene where you and your friend are talking across a table 
              and someone comes and demands that both of you pay him tax so that you can speak to each other else you cannot. 
 	         This demand cannot be called anything but ransom. The wannabe space billionaires want to impose this ransom on you 
-	         by taxing you for use of light and radio-frequency to communicate in space and these two things are productions of Nature 
+	         by taxing you for use of light and radio-frequency to communicate in the kosmos and these two things are productions of Nature 
 	         which our billionaires will not tax themselves to use or give tax to Nature so why should they expect that other humans 
 	         must be taxed for communication ?
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
 	     <span> (d). </span> 
-             As for taxing the machines for telecom in space, if every society makes its own telecom machines which are common in design and 
+             As for taxing the machines for telecom in the kosmos, if every society makes its own telecom machines which are common in design and 
              can be made for cheap and are provided to every citizen for cheap then we don't need the monopoly of the wannabe space billionaires.
            </p>            
 
            <p style="margin-left:1em; margin-bottom:10px";>
 	     <span> (e). </span> 
-             About taxing healthcare in space, surely when the billionaires demand tax from you to make them save your life 
+             About taxing healthcare in the kosmos, surely when the billionaires demand tax from you to make them save your life 
              or treat your injuries a million kilometers from Earth, even as you lie there helpless and in pain, 
              and if you don't give them that tax they will let you die or allow your wounds to become septic and you lose your leg, 
              can their taxing be called anything but murder ?
@@ -1921,7 +1948,7 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";>
 	     <span> (f). </span> 
-             Similarly other taxed things in space.
+             Similarly other taxed things in the kosmos.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -1935,24 +1962,24 @@ modalText.innerHTML = `
            <p style="margin-left:1em; margin-bottom:10px";>
 	     <span> (h). </span> 
              These wannabe space billionaires and trillionaires maintain an unfair system where does not have cheap 
-             or tax-free space travel and space living just so that these huge monies continue into the non-Nature-origin electronic signals 
+             or tax-free kosmos travel and kosmos living just so that these huge monies continue into the non-Nature-origin electronic signals 
              in the data stores of their banks. A cycle of unfairness but which must not be allowed to take root now in the 
-             beginning years of the space exploration industry.
+             beginning years of the kosmos exploration industry.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
 	     <span> (i). </span> 
              Tax is not from Nature... neither in form of huge money for a ticket to the Moon or in form of other demands like 
-	     compulsory college degrees, "adult age 18", belief in certain divinities, the billionaires' idea of "physical fitness" for women to do space travel, 
-	     or for space travellers to belong to only certain Earthen countries their governments like, and so on. The universe belongs to all humans 
+	     compulsory college degrees, "adult age 18", belief in certain divinities, the billionaires' idea of "physical fitness" for women to become kosmonauts, 
+	     or for kosmonauts to belong to only certain Earthen countries their governments like, and so on. The kosmos belongs to all humans 
              as long as they respect Nature and Nature's laws and are not cruel and apathetic to others.
-           </p>	   
-	   
+           </p>
+
            <p>
-             For us, Kosmos Society, the simple answer is to enable a cheaper, simpler and safer space industry which also propagates true progressive pan-human 
-             liberty, equality and fraternity, and we will do this by designing space machinery which are simplified, reliable, aesthetic and universal in usage 
+             For us, Kosmos Society, the simple answer is to enable a cheaper, simpler and safer kosmos industry which also propagates true progressive pan-human 
+             liberty, equality and fraternity, and we will do this by designing kosmos machinery which are simplified, reliable, aesthetic and universal in usage 
              and can be built for cheap, operated for cheap and repaired for cheap. And these systems will be built and deployed by governments to benefit 
-             their citizens and all citizens of humanity, on Earth and in Space, and these governments should not collect tax for :
+             their citizens and all citizens of humanity, on Earth and in the kosmos, and these governments should not collect tax for :
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -1961,17 +1988,15 @@ modalText.innerHTML = `
            </p>
            
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(b).</span> Transporting people in our designed spaceships and 
-             our personal transport vehicles, the Moggys.
+             <span>(b).</span> Transporting people in our designed kosmos ships and our on-world personal transport vehicles, the Moggys.
            </p>
            
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(c).</span> Selflessly providing food, communication, health support and rescue in space.
+             <span>(c).</span> Selflessly providing food, communication, health support and rescue in the kosmos.
            </p> 
            
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(d).</span> Transporting any habitation equipment in space not makeable via ISRU ( In-situ 
-             Resource Utilization ).
+             <span>(d).</span> Transporting any habitation equipment in the kosmos not makeable via ISRU ( In-situ Resource Utilization ).
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -1983,77 +2008,32 @@ modalText.innerHTML = `
            </p> 
            
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(g).</span> Transporting mining equipment and mined produce in space.
+             <span>(g).</span> Transporting mining equipment and mined produce in the kosmos.
            </p>
            
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(h).</span> Providing habitation in space.
+             <span>(h).</span> Providing habitation in the kosmos.
            </p>
            
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(i).</span> Providing education in space. Please read of this topic more 
-             in the below section of that name.
+             <span>(i).</span> Providing education in the kosmos. Please read of this topic more in the below section of that name.
            </p>
 	   
 	   <p>
-	     Many of you will ask, how will the governments earn money if they send their citizens to space by 
-	     not placing tax on their citizens. This question is addressed in the next section in the last point there.
+	     Many of you will ask, how will the governments earn money if they send their citizens to the kosmos by not placing tax on their citizens. 
+	     This question is addressed in the next section in the second last point there.
 	   </p>
-
-	   <p>
-	     Another thing concerning feudalism in space is not taking to space the concept of Family which is a feudal structure. The system of Family 
-	     wasn't present in early humanity because then humans lived in natural and communal bliss... all the members of a settlement 
-	     collectively owning and managing public-use things like farms, water sources, work places and housing... the young ones being raised as responsibility 
-	     by all the members... a younger member put into social responsibility when naturally becoming sensible ( not some magical voting age 18 )... 
-	     no tax of any sort including money... no one person controlling things useful to everyone ( feudal / landlord / king )... no person instilling superstitious fear 
-	     into the others so that he can control them this way ( by becoming priest )... no king wanting more power for power's sake by reorganizing the rest 
-	     of the community into warriors and making them die or get injured for him by fighting needlessly with other humans.
-	   </p>
-	   
-	   <p>
-	     Early humans lived in a Socialist arrangement... happy, innocent, empathetic and natural.
-	   </p>
-
-	   <p>
-	     Then someone started landlordism, family, kingship, tax, money, treasury, war... social structures only became bad. We have addressed most of those 
-	     things previously but about family two aspects need to be said about why that concept cannot be taken to space :
-	  </p>
-
-	  <p style="margin-left:1em; margin-bottom:10px";>
-            <span>(a).</span> 
-	    Family encourages social isolationism. People are culturally told to care for their own families before thinking of others. This cuts people from people and 
-	    creates a society composed of islands of non-socially-engaged people and leads to apathy and dog-eat-dog competitive environment... people unconcerned 
-	    even about their neighbors.
-	  </p>
-
-	  <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(b).</span> 
-	      Family creates islands of micro feudalisms. In most societies the earning member of a family is given the greatest respect and the rest of the family has to 
-	      be at the beck and call of this person and the choices of the non-earning members become limited. Many societies declare irrationally that "Age 18" is 
-	      the turning of a "non-sensible teenager" into a "sensible adult" will bring them freedom but that is a lie... Nature has no such hard "adult age" separation. 
-	      Also in Family, the earning member and the older members control the family and may inflict great cruelties on the non-earning members. Additionally, 
-	      misguided governments will assign an anti-democratic title of "Head of family" to one family member who is either the oldest in age or the most earning 
-	      one and this "Head of family" will become the channel for government contact to the family and the channel for any government benefit for the family 
-	      and of course the rest of the family become disrecognized as human individuals and this situation will be contrary to the country's constitution 
-	      in case the constitution is a progressive one, and normally the "Head of family" will use this power position in feudal ways.
-	  </p>
-
-	  <p>
-	    Surely we do not want the family-system-created apathy, competition sentiment, disharmony and feudalism in space where a small mistake or treachery 
-	    or oppression can lead to individual death and mass death. Surely then the Family concept should not be taken to space though there can be tourist families
-	    say to the Moon but they must respect the non-family structure of the space settlers for the duration of their tour.
-	  </p>
 
           </div>
 
            <div id="organization" class="section">
-           <h2> 04. Social organization in space travel and space living</h2>
+           <h2> 04. Social organization for kosmonauts</h2>
 
            <p>
-             The primary reasons for the exploration in space will include :
+             The primary reasons for the exploration in the kosmos include :
            </p>
 
-           <p style="margin-left:1em; margin-bottom:10px";><span>(a).</span> Experiencing space. </p>
+           <p style="margin-left:1em; margin-bottom:10px";><span>(a).</span> Experiencing the kosmos. </p>
            <p style="margin-left:1em; margin-bottom:10px";><span>(b).</span> Finding new resources. </p>
            <p style="margin-left:1em; margin-bottom:10px";><span>(c).</span> Science which includes looking 
            for life and finding new homes for humans.</p> 
@@ -2063,14 +2043,14 @@ modalText.innerHTML = `
              and this must be done it in a thoughtful, gentle and kind way where all work participants are 
              equal in respect, effort and benefit, with no feudal boss lording over them and unjustly grabbing most 
              of the benefits of the work that had the effort of all. The purpose of the group must also be 
-             achieved harmoniously. The universe is for all to benefit from, including just the simple act of 
-             seeing the sights, and to acknowledge that every human is a speck in the universe, one no 
+             achieved harmoniously. The kosmos is for all to benefit from, including just the simple act of 
+             seeing the sights, and to acknowledge that every human is a speck in the kosmos, one no 
              more privileged than another in that infinite and timeless vastness. Feudalism is bad enough 
-             on Earth to be carried over into space.
+             on Earth to be carried over into the kosmos.
            </p>
 
            <p>
-             So the organization of work groups in space should be democratic and that is easily done by 
+             So the organization of work groups in the kosmos should be democratic and that is easily done by 
              organizing them as Workers Cooperatives. The idea of Workers Cooperative has association 
              with the older ideas of liberty, equality and fraternity, and enables true democracy where every human present 
 	     in the organzation participates in the continuance of that organization equally and benefits from it equal 
@@ -2078,7 +2058,7 @@ modalText.innerHTML = `
            </p>          
 
            <p>
-             A Workers Cooperative has eighteen general outcomes for space and in general for anywhere among human presence :
+             A Workers Cooperative has nineteen general outcomes for the kosmos and in general for anywhere among human presence :
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -2094,42 +2074,57 @@ modalText.innerHTML = `
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(c).</span> All involved in the organization are "co-workers" and not "workers" or "employees".
+             <span>(c).</span> All involved in the organization are "co-workers" and "co-owners" and not "workers" or "employees". 
+	     Consequently there will be the required atmosphere of collaboration within the organization and not competition.
            </p>
-           
-           <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(d).</span> There will be a natural tendency to not have a boss cabin.
+
+	   <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(d).</span> There will be a natural tendency in a Workers Cooperative to not have a boss cabin.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(e).</span> Worker loyalty towards the organization is high because the worker is given due respect 
+             <span>(e).</span> Every worker is given respect and rights as a human individual who is not subordinate to his or her family. 
+	     The Family system is a feudal system which creates islands of selfishness and apathy, islands of micro feudalism, promotes competition and 
+	     promotes multi-generation slavery. Human society will never achieve utopia until Family system exists. The system of Family wasn't present 
+	     in early humanity because then humans lived in natural, communal bliss. All the members of a settlement collectively owning and managing 
+	     public-use things like farms, water sources, means of production and housing. The young ones were raised as responsibility by all the members. 
+	     A younger member was put into social responsibility and given full reasonable freedom when naturally becoming sensible ( not some supposedly magical 
+	     voting-age 18 ). There was no tax of any sort including money and no one person controlling things useful to everyone ( a feudal / landlord / king ) and 
+	     there was no person instilling superstitious fear into the others so that he can control them this way ( by becoming priest ). No king wanting more power 
+	     for power's sake by reorganizing the rest of the community into warriors and making them die or get injured for him by fighting 
+	     needlessly with other humans. Early humans lived in a Socialist arrangement... happy, innocent, empathetic, natural, without cunning. Then someone 
+	     started landlordism, family, kingship, tax, money, treasury, war and social structures only became bad. We have addressed most of those things previously. 
+	     But in a Workers Cooperative all these wrong things will be made obsolete and the worker will be given respect and respects as a human individual 
+	     who is not subordinate to his or her family.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(f).</span> In a Workers Cooperative the worker loyalty towards the organization is high because the worker is given due respect 
              as an individual human with feelings, personality, concerns and potential.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(f).</span> Every worker has to be accepting of internal critique but will have the right to defend 
-             themselves. 
+             <span>(g).</span> Every worker has to be accepting of internal critique but will have the right to defend themselves. 
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(g).</span> Efficiency and production variety of the organization is greatly increased because of the 
+             <span>(h).</span> Efficiency and production variety of the organization is greatly increased because of the 
              diversity of useful ideas, skills and experiences from the various volunteering workers.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(h).</span> The collective human society composed of Workers Cooperatives, whether on Earth or 
-             in space, becomes an actually developed, gentle, evolved, harmonious and prosperous 
-             society. As smile-bringing as the city of Istanbul with cats everywhere.
+             <span>(i).</span> The collective human society composed of Workers Cooperatives, whether on Earth or 
+             in the kosmos, becomes an actually developed, gentle, evolved, harmonious and prosperous society. 
+	     As smile-bringing as the city of Istanbul with cats everywhere.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(i).</span> The existence of a Workers Cooperative doesn't depend on if the economic system 
-             works with money system or money has been abolished. The Workers Cooperative concept 
-             is efficient in both situations. 
+             <span>(j).</span> The existence of a Workers Cooperative doesn't depend on if the economic system 
+             works with money system or money has been abolished. The Workers Cooperative concept is efficient in both situations. 
            </p>
-           
+
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(j).</span> The need for a workers union now becomes not necessary because the 
+             <span>(k).</span> The need for a workers union now becomes not necessary because the 
              company is no longer divided into bosses and workers where the workers have to agitate 
              for their rights. With the Workers Cooperative concept all the workers equally own the company 
              and there no longer are the bosses of the past. If any worker i.e. co-owner of the company has issues, 
@@ -2137,89 +2132,87 @@ modalText.innerHTML = `
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(k).</span> The progressive, gentle, empathy-based and observant thinking enabled by 
+             <span>(l).</span> The progressive, gentle, empathy-based and observant thinking enabled by 
              the Workers Cooperative will make company leaders and other workers accept workers who don't have college degrees 
-             and other forms of needless and irrational social class discriminations.
+             and other forms of needless and irrational class discriminations and taxes.
            </p>
-           
+
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(l).</span> This system leads to thinking about decentralization / 
-             self-governance, gentleness, a non-corporate environment, a non-militarist environment and 
-             a pan-human outlook. This also means in the space context, no hierarchy and no traditional 
+             <span>(m).</span> This system leads to thinking about decentralization / self-governance, gentleness, a non-corporate environment, 
+	     a non-militarist environment and a pan-human outlook. This also means in the kosmos context, no hierarchy and no traditional 
              aerospace titles like "Captain" and "Commander". The environment in the group will be relaxing and 
-             focused towards the purpose of the group's setting-up and not for hierarchy-induced disharmony and "making a career". 
+             focused towards the purpose of the group's setting-up and for pan-humanism and not for hierarchy-induced disharmony and "making a career". 
              This also means no separate "high class" living arrangement for some boss and no lower 
              "economy class" arrangements for others. All people will be given equally comfortable living 
              arrangements.
            </p>
-           
+
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(m).</span> So, all work participants on one spaceship or an independent group on one planetary 
+             <span>(n).</span> So, all work participants on one kosmos ship or an independent group on one planetary 
              research station or an independent group on one mining station etc are collectively called a 
              Workers Cooperative. Work will be distributed as per skill, interest, requirement and in rotation. 
              The first two things are not written in stone that they can't be acquired as time progresses. The tasks 
-             will be rotated to prevent a worker from being slotted into a relatively unpleasant task for a long time which  
-	     creates a class system consciously or unconsciously. The tasks within a Workers Cooperative can be 
+             will be rotated to prevent a worker from being slotted into a relatively unpleasant task for a long time, 
+	     thus preventing conscious or unconscious establishment of class system. The tasks within a Workers Cooperative can be 
 	     water management, food, communication, engines, waste management, caring for 
              the tourists, understanding possible Moon landing sites, understanding an asteroid etc. 
              There will be one or more members for each task as per requirement and total group size.
            </p>
-           
+
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(n).</span> There has to be one person who has to be the interface between the internal Workers 
+             <span>(o).</span> There has to be one person who has to be the interface between the internal Workers 
              Cooperative members and also the interface of that Workers Cooperative to the outside and 
              that person will be the Coordinator. The Coordinator is a time-bound position decided by democratic discussion and consensus 
              within that cooperative and in accordance with Natural laws. All the workers including the Coordinator 
              can be of any naturally reasonable responsible age, whether 13 or 30 or 90... anyone as long as they make sense 
              and are willing and able to put physical or intellectual effort including being a good leader. And this responsibility of 
-             "Coordinator" can rotate between the cooperative's members as per requirement or 
-             consensus.
+             "Coordinator" can rotate between the cooperative's members as per requirement or consensus.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(o).</span> So a Workers Cooperative is democratic, enables harmony and enables more 
-             focus on the group's purpose.
+             <span>(p).</span> Further, a tourist in the kosmos a few hundred thousand kilometers from Earth ( the Moon ) or a 
+             few hundred million kilometers from Earth ( the Asteroid Belt ) will naturally feel deprived from Earthen settings 
+	     including the social aspect and the simple personal fact of feeling the Sun's heat on the open face and 
+	     this deprivation will depress a person for a moment or more, despite that tourist's purpose of tourism. 
+	     But if every person in the kosmik efforts, including the tourist, participates in the tasks by being part of the kosmik Workers Cooperatives 
+	     it will keep him or her engaged and away from depression, enable fraternity and contribute to two more hands in the tasks.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(p).</span> Further, a tourist in space a few hundred thousand kilometers from Earth ( the Moon ) or a 
-             few hundred million kilometers from Earth ( the Asteroid Belt ) will naturally feel deprived 
-             from Earthen settings including the social aspect and the simple fact of feeling the Sun's 
-             heat on the open face and this deprivation will depress a person for a moment or more, 
-             despite that tourist's purpose of tourism. But if every person in the space efforts, including 
-             the tourist, participates in the tasks by being part of the space Workers Cooperatives it will 
-             keep him or her engaged and away from depression, enable fraternity and contribute to one 
-             more hand in the tasks.
-           </p>
-
-           <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(q).</span> So, humans in space will be a collection of Workers Cooperatives collaborating with each 
+             <span>(q).</span> So, humans in the kosmos will be a collection of Workers Cooperatives collaborating with each 
              other on a common and equal human level regardless of their origin nation and social station 
              on Earth and they will agree on the same ideal natural laws for humans and help each other. 
-             Thus harmony in space and also harmony contributed on Earth when these people return to 
-             Earth carrying their gentle experiences in the space Workers Cooperatives.
+             Thus harmony in the kosmos and also harmony contributed on Earth when these people return to 
+             Earth carrying their gentle experiences in the kosmik Workers Cooperatives.
            </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(r).</span> Though humans in space will be arranged as a large set of Workers Cooperatives 
-	     who cooperate with each other and with individual humans without a thought of receving 
-	     money and tax for their voluntary help, the Workers Cooperatives will also hold allegiance 
-	     to their nation, and to the space department of their national government they will send back 
-	     all the unprocessed raw material from space and any space-produced products too, which they produced 
+             <span>(r).</span> Though humans in the kosmos will be arranged as a large set of Workers Cooperatives 
+	     who cooperate with each other and with individual humans without a thought of receiving 
+	     tax for their voluntary help, the Workers Cooperatives will also hold allegiance to their Earthen nation, 
+	     and to the space department of their national government they will send back 
+	     all the unprocessed raw material from the kosmos and any kosmos-produced products too, which they produced 
 	     by their labor, and these materials these space departments will trade with the space departments of other countries 
 	     and the trade will be done in some agreed Earthen currency. However, none of this trade 
-	     need affect the comfortable presence in space of the citizens of those nations.
+	     need affect the comfortable presence in the kosmos of the citizens of those nations. 
+	     And this trading will exist until the natural idea of a borderless Earth is not adopted. Borderless Earth in a Borderless Kosmos.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(s).</span> In the kosmos therefore, every kosmonaut in every Workers Cooperative will be given due respect as a human individual 
+	     who has equality in everything and will be allowed to attain his or her full potential, unless a kosmonaut chooses to become cruel, apathetic, 
+	     superstitious, non-gentle, competitive, tribalist and a danger to the Workers Cooperative and consequently to all humans in the kosmos.
 	   </p>
 
            </div>
 
            <div id="tea" class="section">
-           <h2> 05. Tea and Space</h2>
+           <h2> 05. Tea and Kosmos</h2>
 
            <p>
              Intoxicating substances like alcohol should not be used in the inherently risks-filled 
-             environment of space, including the social mistakes people will make by such consumption 
-             and lead to disaster in space. Celebrations can be done with rounds of tea and biscuits. Tea 
+             environment of the kosmos, including the social mistakes people will make by such consumption 
+             and lead to disaster there. Celebrations can be done with rounds of tea and biscuits. Tea 
              has been such a great multi-purpose discovery... the drink of philosophers, revolutionaries, 
              inventors, discussers, intellectual and physical laborers, lovers of taste and refinement, 
              providing energy and relief in heat, cold and rain, in the heat of the deserts and the cold of the 
@@ -2234,23 +2227,22 @@ modalText.innerHTML = `
              comes in various varieties whether in tea leaf, additional addings for taste, health and 
              experience like lemongrass, ginger and tapioca pearls, and preferences like the water-based 
              Sulaimani chai or the milk-based Assam tea or the ice tea.
-             </p>
+           </p>
 
            <p>
-             In space, other than the non-intoxicating, energizing and health-bringing nature of tea 
-             usage, regular tea'ing also will hydrate the skin which may become dry in spaceships and 
-             spacesuits and will also create solidarity because of group drinking. Tea is also a good 
+             In the kosmos, other than the non-intoxicating, energizing and health-bringing nature of tea 
+             usage, regular tea'ing also will hydrate the skin which may become dry in the kosmos ships and 
+             the kosmos suits and will also create solidarity because of group drinking. Tea is also a good 
              laxative including when starting the day. Further, tea leaves are a good natural fertilizer for 
              plants.
            </p>
 
            <p>
-             And maybe tea grown in space may become a new variety or multiple varieties in 
-             accordance with conditions in different space locations.
+             And maybe tea grown in the kosmos may become a new variety or multiple varieties in accordance with conditions in different kosmik locations.
            </p>
 	   
 	   <p>
-	     Related to alcohol is cigarettes and the obvious danger of cigarette smoking in space habitations is poisoning 
+	     Related to alcohol is cigarettes and the obvious danger of cigarette smoking in the kosmik habitations is poisoning 
 	     of the habitation air, eye irritation, unpleasant smell and the danger of fire. Cigarettes are smoked because 
 	     the people think it is cool and also that a cigarette is substitute for company and also it becomes a habit. 
 	     However, smokers must look at "Throw the smoke stick, hold a tea glass".
@@ -2258,19 +2250,25 @@ modalText.innerHTML = `
 
            </div>
 
-           <div id="appearance" class="section">         
-           <h2> 06. Appearance and personality of the space travellers</h2>
-           
+           <div id="language" class="section">         
+           <h2> 06. Language, appearance and personality of the kosmonauts</h2>
+
+           <p>
+             English is the most appropriate common language in the kosmos and will be the base language in our 
+	     Frema internet system but provision must be there for use of other languages but with the understanding that 
+	     such communications must be open and translatable and pronounceable by other language speakers.
+           </p>
+
            <p> [ To be done ] </p>
 
            </div>           
 
            <div id="sports" class="section">
-           <h2> 07. Sports and recreation in space</h2>
+           <h2> 07. Sports and recreation in the kosmos</h2>
 
            <p>
              These should be rational, gentle, health-building, natural, humanist and contribute to 
-             harmony and collaborativeness in the risks-filled environment of Space. No competition 
+             harmony and collaborativeness in the risks-filled environment of the kosmos. No competition 
 	     should be present including in sports and certainly no sports which involve more than two 
 	     people playing with each other. A system better and very unlike the sports and recreation systems 
 	     in a lot of the Earthen world now.
@@ -2334,7 +2332,7 @@ modalText.innerHTML = `
            <p>
 	     Therefore we of Kosmos Society wish to calm down and evolve humanity from this barbarity and competition in sports, including in the kosmos, 
 	     so we consider badminton, swimming, walking, floor exercises, pull-ups and light gymming ( the last three only for men ) to not only be the ideal sports 
-	     for Earth but also among the best ones for kosmos / space though with considerations for low-gravity places like the Moon and no-gravity places 
+	     for Earth but also among the best ones for the kosmos though with considerations for low-gravity places like the Moon and no-gravity places 
              like the Alef-F ferry when its spin system has been turned off.
            </p>
 
@@ -2345,20 +2343,8 @@ modalText.innerHTML = `
 
            </div>
 
-           <div id="language" class="section">           
-           <h2> 08. Human language in space</h2>
-
-           <p>
-             English is the most appropriate language and will be the base language in our Frema 
-             internet system but provision must be there for use of other languages but with the 
-             understanding that such communications must be open and translatable and pronounceable 
-             by other language speakers.
-           </p>
-
-           </div>
-
            <div id="education" class="section">
-           <h2> 09. Education in space</h2> 
+           <h2> 08. Education in the kosmos</h2> 
 
            <p>The purposes of education are :</p> 
 
@@ -2374,66 +2360,60 @@ modalText.innerHTML = `
              sneaky, amoral and selfish.
            </p> 
 
-           <p> <span> >> </span> To begin to understand the timeless and infinite universe and acknowledge our very 
-             humble individual place in the grandness of the universe, thus our approach to the universe 
+           <p> <span> >> </span> To begin to understand the timeless and infinite kosmos and acknowledge our very 
+             humble individual place in the grandness of the kosmos, thus our approach to the kosmos
              must be with gentleness, sensitiveness, receptiveness and humbleness. A single medium-sized star like the Sun 
              is uncountably more powerful than any mere human who is a billionaire with ten college degrees, 40 years of experience 
-             in the corporate world and very proud of his culture. The Kosmos / Universe / Space does not care for these arrogant human 
-             affiliations.
+             in the corporate world and very proud of his culture. The Kosmos does not care for these arrogant human affiliations.
            </p>
 
            <p>
-             The above learnings should be our approach to space and the resulting bettering of 
-             the individual and the bettering of humanity.
+             The above learnings should be our approach to the kosmos and the resulting bettering of the individual and the bettering of humanity.
            </p>
 
            <p>
-             Decades of in-person human presence in space has been in a very limited way, with most of 
-             it in Low Earth Orbit and a little on the Moon. Cosmonauts have reported their in-person 
-             understandings of space like they seeing flashes in their eyes even when they close their 
+             Decades of in-person human presence in the kosmos has been in a very limited way, with most of 
+             it in Low Earth Orbit and a little on the Moon. Kosmonauts have reported their in-person 
+             understandings of the kosmos like they seeing flashes in their eyes even when they close their 
              eyes. Other experiences like smelling burnt smell when they are in the airlock. These 
              experiences were not proposed by academics who usually pretend to be experts of the 
-             Universe despite never having stepped into the Universe even once.
+             kosmos despite never having stepped into the kosmos even once.
            </p>
 
            <p>
-             The Big Bang Theory confidently declares the birth of the Kosmos / Universe / Space to be 13.8 billion years ago but this is a 
+             The Big Bang Theory confidently declares the birth of the Kosmos / Universe to be 13.8 billion years ago but this is a 
              theory mainly forwarded by academia, proposed solely on the basis of mathematical equations on paper and origining 98 years ago. 
              This way these maths-as-a-religion academics are no different from astrologers.
            </p>
-           
+
            <p>
              These academics went about lectures and conferences chanting "Big Bang Theory" for almost a hundred years 
              when until recently someone proposed a second Big Bang which "created Dark Matter". Dark Matter is 
              again another nonsensical maths-basis idea which has been around for many decades but 
              has never been observed in Nature, let alone measured. These academics don't know how big the 
-             universe is, they have never stepped into the universe, yet they confidently declare its 
-             birthday to the microsecond, LOL.
-           </p>
-           
-           <p>
-             So to understand space / universe we must reject the current dominance of mathematics in 
-             astronomy and be humble, gentle, sensitive, receptive and natural to the knowledge of 
-             space / universe by actually going into space and narrating our every experience to the rest 
-             of humanity.
-           </p>
-           
-           <p>
-             We must also accept the very simple idea that space / universe is timeless and infinite and 
-             we don't know what all kinds of objects are in space and what kinds of life types are in 
-             space and that these life types may not evolve from the same ecosystem conditions as on Earth.
+             kosmos is, they have never stepped into the kosmos, yet they confidently declare its birthday to the microsecond, LOL.
            </p>
 
            <p>
-             We must look at the natural, observant and non-arrogant responses of the first two human travellers to space - Yuri 
-             Gagarin and Gherman Titov.
+             So to understand the kosmos we must reject the current dominance of mathematics in 
+             astronomy and be humble, gentle, sensitive, receptive and natural to the knowledge of 
+             the kosmos by actually going into the kosmos and narrating our every experience to the rest of humanity.
+           </p>
+           
+           <p>
+             We must also accept the very simple idea that the kosmos is timeless and infinite and 
+             we don't know what all kinds of objects are in the kosmos and what kinds of life types are in 
+             the kosmos and that these life types may not evolve from the same ecosystem conditions as on Earth.
+           </p>
+
+           <p>
+             We must look at the natural, observant and non-arrogant responses of the first two human travellers to the kosmos - Yuri Gagarin and Gherman Titov.
            </p> 
 
-           <p> Among the statements of Cosmonaut Yuri are : </p>
+           <p> Among the statements of Kosmonaut Yuri are : </p>
            
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(a).</span> Orbiting Earth in the spaceship, I saw how beautiful our planet is. People, let us 
-             preserve and increase this beauty, not destroy it!
+             <span>(a).</span> Orbiting Earth in the spaceship, I saw how beautiful our planet is. People, let us preserve and increase this beauty, not destroy it!
            </p>
            
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -2447,21 +2427,21 @@ modalText.innerHTML = `
              <span>(c).</span> "The main force in man is the power of the spirit." Here "Man" of course means 
              Human.
            </p> 
-           
+
            <p>
-             The most famous statement of Cosmonaut Gherman was when he visited USA in 1962 and 
-             was asked by reporters how his space flight affected his understanding of life. He said 
+             The most famous statement of Kosmonaut Gherman was when he visited USA in 1962 and 
+             was asked by reporters how his flight into the kosmos affected his understanding of life. He said 
              "Sometimes people are saying that God is out there. I was looking around attentively all day 
              but I didn't find anybody there. I saw neither angels nor God".
            </p>
 
            <p>
-             These two people were humble and natural in their approach to space and to life. Certainly 
+             These two people were humble and natural in their approach to the kosmos and to life. Certainly 
              not the arrogance of maths-driven academics and astrologers, nor the unthinking ordinary 
              people who accept their arrogant pronouncements without questioning because they think 
              even simple questions will make them seem foolish. However, it is the simple, "foolish" 
              questions which have benefited humanity throughout its history in its bettered social systems 
-             and better technology and the presence of Human in space.
+             and better technology and the presence of Human in Kosmos.
            </p>
            
            <p>
@@ -2494,11 +2474,10 @@ modalText.innerHTML = `
              What college degree system Fatima started more than 1100 years ago in Africa has now led to multi-generation misery and 
              oppressions in most places across Earth now in 2025 for billions of people. This act of Fatima is the single wrong thing 
              in the about thousand year period of the Islamic Golden Age which was a period which not only created great philosophies and 
-			 technologies but also forwarded past brilliant knowledges from the Greeks, the Egyptians, the West Asians, Buddha, Isa and the Chinese, 
-	         and forwarded the good things by its contemporary Indians. This period of great creativity was the direct influence on the establishment 
-		     of the Enlightenment period in Europe and its consequent Industrial Revolution whose benefits we use now. But that single act of Fatima 
-             of adding competition to education more than a thousand years ago has created such tragedies now. We speak more on the wrongness
-             of competition in the below section called "Why competition is wrong in space".
+	     technologies but also forwarded past brilliant knowledges from the Greeks, the Egyptians, the West Asians, Buddha, Isa and the Chinese, 
+	     and forwarded the good things by its contemporary Indians. This period of great creativity was the direct influence on the establishment 
+	     of the Enlightenment period in Europe and its consequent Industrial Revolution whose benefits we use now. But that single act of Fatima 
+             of adding competition to education more than a thousand years ago has created such tragedies now.
            </p>
     
            <p>
@@ -2531,214 +2510,30 @@ modalText.innerHTML = `
              examples of untaxed and for-all education and collaboration systems in modern times : one the internet itself, 
              second the Open Source Computing movement, third the Wikipedia and fourth the Khan Academy. Both those gents and 
              every naturally intelligent contributor in history would have wanted the four above examples to contribute to 
-             the system of education on Earth and in the exploration and settlement of space, with the understanding that 
+             the system of education on Earth and in the exploration and settlement of the kosmos, with the understanding that 
              there is much material in those places which are misinfo and disinfo.
            </p>
 
            <p>
-             Next, since we speak for Workers Cooperatives as the organizational method for humans 
-             in space, each of the people involved in the cooperatives should be participants in 
-             live-narrating their experiences in space as also later recording their experiences and 
+             Next, since we speak for Workers Cooperatives as the organizational method for kosmonauts, 
+	     each of the people involved in the cooperatives should be participants in 
+             live-narrating their experiences in the kosmos as also later recording their experiences and 
              adding these experiences to the Frema internet blog that is produced by each Worker 
-             Cooperative, and these blogs being accessible by every human in Space and on Earth. The 
+             Cooperative, and these blogs being accessible by every human in Kosmos and on Earth. The 
              blogs will have text, voice, still pictures and videos because someone's experience will 
              become non-limited in explanation by presenting it in different formats. And these blogs will 
              have a response system for the readers and viewers though of course the reception of these 
              informations by the readers and their responses by the readers may take small delays to 
-             very large delays because of the in-space location of the blog producers and their duties 
+             very large delays because of the in-kosmos location of the blog producers and their duties 
              and other activities. The one-way communication time itself may be from about a second ( 
              the Moon ) to 13 minutes ( Red One ) to many many hours, and these delays just within the 
              Solar System.
            </p>
 
            </div>
-
-           <div id="competition" class="section">
-           <h2> 10. Why competition is wrong in space</h2>
-
-           <p>
-             <span> >> </span> Competition is an irrational way to decide someone's capabilities 
-             because a highly intelligent person may not enter a competition or will drop out from competition 
-             because he or she simply is bored by it. Intelligence is also known by a person learning from others 
-             and learning with others which means Collaboration and there is no Collaboration in Competition. 
-	     The intelligent person will also find the system that promotes competition to be not respectable and 
-	     an insult to his or her dignity because competition is a bureaucratic impersonal system. And the numbers on a paper 
-	     called Exam Marks do not show the intelligence or lack of it of a student. Or the intelligence of the persons 
-	     who set the exam question papers. This we have shown in previous sections.
-           </p>
-
-           <p>
-             <span> >> </span> Competition creates social disharmony where people don't support each other, 
-             don't trust and want to step on each other's heads to progress through the wrong systems that 
-             allow competition. For example, in the schooling system in many societies, two students sitting 
-             on the same bench in school declare themselves to be mutual good friends 
-             but in truth they are competing with each other for exam marks all year round. Meaning they are not 
-             true friends of each other but a little more than the "hi, bye" types. Both want to outdo each other 
-             in exams in a sneaky way, just so that they get those meaningless numbers called Exam Marks 
-             by not truly learning but memorizing facts and sentences to vomit those on the exam paper.
-           </p>
-
-           <p>
-             <span> >> </span> In some societies exams are the measures for even parents to judge the intelligence of their 
-             own children. They lived with their children for two decades even but will not listen to their children's ideas and 
-             desires however wonderful they may be and however gentle the children may be, but the parents will instead listen 
-             to third parties called school principals and exam answer sheet examiners who have 
-             no real interest in these parents' student children's intelligence and potential. For these third parties 
-             the student is either just a direct source of income ( school tax aka school fees ) or just a duty from which he or she 
-             will earn salary for that task. No more. These parents therefore do not trust in their own intelligence 
-             to judge their children's intelligence.
-           </p>
-
-           <p>
-             <span> >> </span> In such societies the parents have no true love and loyalty to their children 
-	     but love only for the potential later income their children will bring to the 
-             family through wage employment and this income will continue when the parents are retired from their own 
-             wage employment and their society provides them with little source of survival by them having 
-             little money leftover. Therefore in such societies, children are a future financial investment 
-             no different than investment in the stock market or interest-based bank investments. Put money once 
-             and encash for years ignoring the immorality of it.
-           </p>
-
-           <p>
-             <span> >> </span> In such societies, competition is prevalent in every day in most things including employment. 
-             Since these societies have no rational, scientific, empathy-based and collectivized work distribution system 
-             where the whole society benefits and humanity benefits, the situation is every-person-for-themselves... dog-eat-dog... 
-             a rat-race everyday especially in employment. Employments will be wage-based for mediocre or totally unnecessary things 
-             which nobody really wants in the world but geopolitics by powerful governments creates such employments in their subordinate societies. 
-             And these wage employments are obtained by high competition among the candidates who recently graduated from the education system 
-             or have been monthly-wagers for decades even. Since the employments are not scientific and collectivist, the way they are obtained 
-             will also be not scientific and collectivist, resulting in every job candidate trying to outdo the other by showing his or her 
-             higher marks in exams down years in the so-called education system, so that the interviewers are impressed with these 
-             meaningless numbers on paper and give them the wage-based employment.
-           </p>
-
-           <p>
-             <span> >> </span> All this creates a social environment where competition of exam marks and future potential money earnings 
-             are extremely respected and the non-love and non-loyalty of the parents for their children make the parents put extreme pressure 
-             on their children for as high exam marks as is possible by students. The parents want to tom-tom these high exam marks 
-             to neighbors, colleagues and relatives as their "good upbringing" of their children whose "future is secured" 
-             by a "good job" which really is not for the children themselves but for the parents socio-economic well-being. 
-             This is fake pride on baseless things for selfish reasons.
-           </p>
-
-           <p>
-             <span> >> </span> In a few of these competition-based societies is the even sadder aspect of families getting 
-             socio-economically boycotted by the local community and by relatives if that family doesn't have sufficient money income. 
-             Since the income has to come from competition-obtained wage employment for most people, especially the middle class, 
-             the parents in these families who anyway don't love their children truly, they don't want to be socio-economically 
-             boycotted and lose their means of food, water, transport etc. They don't want to be taunted by the cruel 
-             community. This is another aspect of such parents putting pressure on their children for higher and higher 
-             exams marks... 600 out of 600... 900 out of 900... "Get that gold medal".
-           </p>
-
-           <p>
-             <span> >> </span> The children of these parents may be highly intelligent and have potential for many things, 
-             whether painting or inventing machines or understanding the kosmos or singing and so on. 
-             However, they are not supported by their cruel and selfish parents who are in a cloud of 
-             lust for money, fake pride and fear of socio-economic boycott. These parents therefore will not rebel 
-             against their anti-human community and social system, wanting their society to become humane, empathetic, 
-             scientific, gentle and evolved. These parents instead will bring their society's pressure onto their children. 
-             The children who are intelligent will naturally not accept the exams-based life as their judge of intelligence 
-             nor will they like their true interests and talents to lose time to preparing for exams. The children undergo 
-             these conflicts as internal torture every minute and also taunts by their parents for not putting full mind 
-             to the exam preparation books. Such parents are the first to cast the stones on their children.
-           </p>
-
-           <p>
-             <span> >> </span> Many times to reach the competition-based wage employments, 
-             the path is through so-called prestigious colleges which are nothing but assembly lines to produce 
-             drones for useless employments based on fashionable technology trends and finance trends. 
-             And for the student to get into these "prestigious colleges" he or she must write competitive exams 
-             called Entrance Exams and to prepare for these Entrance Exams the student must enter Coaching Institutes 
-             of whose famous ones may have their own entrance exams in addition to high money enrollment fee tax. 
-             So those non-loving and selfish parents will push their children into these coaching centers 
-             and the children will undergo torture everyday, forced to do something not of their interest, forced to ignore 
-             their interest, and in fact their very obtaining of food will come from the parents' satisfaction with 
-             their children's progress through the coaching center. So, if no high performance in the coaching center, 
-	     then no food, no new clothes, no mobile phone recharge, no travel money, no living quarters rent money.
-           </p>
-
-           <p>
-             <span> >> </span> So, many of these students being tortured by their parents mindlessness, 
-             lust for money, fake pride, fear of socio-economic boycott, non-rejection of this oppressive system, 
-             not being supportive of their children including for basic food and housing... all this presents the idea 
-             of suicide in many students and many of them suicide. They jump from the sixth storey of their 
-             coaching center or from a bridge or hang themselves from their room's fan or consume some pesticide 
-             they could purchase from their meagre money. After the suicide the coaching centers are not held accountable, 
-             the parents show fake grief for two days and go back to their routine, the system continues to find 
-             more student victims. This has been the story of the Indian city of Kota probably for many decades. 
-             This has been the story of Pakistan, South Korea, Japan and China for decades.
-           </p>
-
-           <p>
-             <span> >> </span> Bringing back the two bench mates competing with each other in exams all year round, 
-             since they do not have true loyalty to each other they will not be sad when one of them suicides 
-             because of the internal torture after failing in an exam or because of no interest in taking an exam. 
-             The living friend will not be sad and will not march on the roads with banners to abolish the exams system 
-             and its associated forthcoming competition-based life. There is also the lack of rebel spirit and 
-             lack of confidence in the non-protest. The max rebellion such students do is smoke cigarettes or keep long hair 
-	     or listen to rock music or use f-words or ride loud motorcycles and such other things, and these so-called rebellions 
-	     are allowed by the system because these rebellions do not knock off the system but maintain it.
-           </p>
-
-           <p>
-             <span> >> </span> In case the student doesn't suicide, he or she lives to usually do wage slavery 
-             in feudal corporations which are exploitative. The parents again don't care. And this newly 
-             wage-employed person may die of heart attack because of the exploitative over-work or may suicide. 
-             Most parents won't care.
-           </p>
-
-           <p>
-             <span> >> </span> Regularly in a few societies the parents directly murder their own children 
-             because the children did something that harmed the parents' fake pride, lust for potential future income and 
-             safety from socio-economic boycott. This murder is called Honor Killing and also happens to students 
-             and young workers in addition to men loving women from free will and women loving men from free will.
-           </p>
-
-           <p>
-             <span> >> </span> These suiciding and murdered workers, students and lovers live in cities of millions and 
-             in countries of more than a billion but they do not find support for their internal torture. Not from their parents, 
-             not from their neighbors and most times not from their colleagues. They die in isolation, either through suicide or murder. 
-             This is the effect of competition on societies in addition to tax in other forms like class, 
-             college degree, social respect through tradition-following and money.
-           </p>
-
-           <p>
-             <span> >> </span> By all these needless sacrifices of the youth for the sake of exams and wage employment income 
-             what have so many societies achieved ?
-           </p>
-
-           <p>
-             <span> >> </span> To add another point about the idiocy of exams, in India there is the stereotype of 
-             the Soda Glass Student who is forever top of his class in exams by scoring very high exam marks and 
-             being a "Distinction rank student" or "Gold medalist student". The Soda Glass Student is mostly male and 
-             is called so because he wears thick-glassed spectacles ( the "soda glass" ) because he has been memorizing 
-             his school and college text books and taking notes on paper so much for so many years that it has 
-             damaged his eyes and caused him unable to see things at close range, hence his "soda glass" to amplify the texts. 
-             However, there are a few hundred million of these "soda glass" exam fanatic people and how many of them have we known 
-             to have created marvelous technologies for humanity and simple social systems for humanity ?
-           </p>
-        
-           <p>
-             In conclusion, competition is neither good for Earth and certainly has no space in Space 
-             where Nature will not reveal its wonders to only someone with high exam marks and 
-             also keep that person alive while all those exam failures will be automatically sucked into 
-             a star. Further, the environment of space has many risks at every moment and for humans to be 
-             in space safely and attain their research and contribute to humanity, they must be able to trust 
-             their fellow space mates. Competition will not create that trust but will create sneaky and 
-             untrustworthy people. There can be mass death in space because of exams or other forms of competition. 
-             So, space must not have competition.
-           </p>
-	   
-	   <p>
-	     In case in space there are multiple approaches to one issue or problem then best is to have discussion, 
-	     take harmonious consensus and take the good from each approach and create a melded, evolved approach.
-	   </p>  
-
-           </div>
            
            <div id="satellite" class="section">
-           <h2> 11. Basis of satellite design</h2>
+           <h2> 09. Basis of satellite design</h2>
            
            <p>
              There should be no design of needless nano-satellites and larger satellites that are currently 
@@ -2747,52 +2542,52 @@ modalText.innerHTML = `
              unnecessary situation brought about by profit-mindedness, competition in education, 
              unscientific thinking and avoidable ultranational posturing.
            </p>
-           
+
            <p>
-             On the contrary, satellites around Earth or other worlds or in open space should be few and larger trackable systems which 
+             On the contrary, satellites around Earth or other worlds or in the kosmik void should be few and larger trackable systems which 
              can be repaired in orbit or in place or retrieved for recycling. Secondly, all new satellites 
              should be managed by a collective human committee. We of Kosmos Society will keep this 
-             as a necessary element when designing our Frema space-capable internet system. We will 
-             also design systems that contribute to clearing up the current space debris around Earth. 
-             Please read the section about Serf satellite in the "Our techno projects" chapter on this website.
+             as a necessary element when designing our Frema kosmos-capable internet system. We will 
+             also design systems that contribute to clearing up the current satellite and rocket debris around Earth. 
+             Please read the section about Serf satellite in the "Techno projects" chapter on this website.
            </p>
 
            </div>
 
            <div id="mining" class="section">           
-           <h2> 12. Mining in space</h2>
+           <h2> 10. Mining in the kosmos</h2>
 
            <p>
-             Space belongs to no single human nation state and certainly to no feudal corporation. 
-             Space belongs to all humankind in a collective sense and no nation state can endanger other humans by placing weapons of 
-             mass destruction in open space or around space bodies nor can a nation state exclusively 
-             claim space objects for taking resources ( say even from a star like the Sun ). Similar is the 
+             The kosmos belongs to no single human nation state and certainly to no feudal corporation. 
+             The kosmos belongs to all humankind in a collective sense and no nation state can endanger other humans by placing weapons of 
+             mass destruction in the kosmik void or on kosmik bodies nor can a nation state exclusively 
+             claim kosmik objects for taking resources ( say even from a star like the Sun ). Similar is the 
              agreement undertaken at UNOOSA ( United Nations Office for Outer Space Affairs ) 
              which is a department of the UN. Though the UN has failed to prevent invasions, needless conflicts, genocides and subversions 
              since its inception in 1945 and has served only as a decoration, very much not uniting nations despite its name, 
              its UNOOSA department at least makes sense.
            </p> 
-           
+
            <p>
-             In space no one should be a Scrooge McDuck i.e. not greedily see space as yet another 
+             In the kosmos no one should be a Scrooge McDuck i.e. not greedily see the kosmos as yet another 
              natural resource to do selfish profiteering from, to the exclusion of other humans and to the 
-             exploitation of the workers working for that corporation in the dangers of space and to the 
-             consequent spoiling of Nature, but instead seeing space resources as the means to bring easy material 
+             exploitation of the workers working for that corporation in the dangers of the kosmos and to the 
+             consequent spoiling of Nature, but instead seeing kosmik resources as the means to bring easy material 
              collective enrichment of every human on Earth and beyond Earth on an equal basis, where all humans are 
              collectively prosperous. It then also follows the necessity that national governments on Earth 
              will participate in such a democratic pan-humanist effort.
            </p>
-	   
+
 	   <p>
 	     Lastly, when humanity becomes a largely biological race in the sense of using bacterial biology to make the materials it needs 
 	     via bio-transmutation and when that is added to use of Circular Economy, there will become very less mining in the ways 
-	     known presently and additionally humanity will fully arrive upon Post-scarcity Economy.
+	     known presently and additionally humanity will fully be Post-scarcity Civilization.
 	   </p>
 
            </div>
 
            <div id="mirkeen01" class="section">
-           <h2> 13. Mirkeen-01 base on the Moon</h2>
+           <h2> 11. Mirkeen-01 base on the Moon</h2>
 
            <p>
              Project Mirkeen-01 will be our effort in building a humanity-uniting progressive research base 
@@ -2802,7 +2597,7 @@ modalText.innerHTML = `
            <p>
              Presently, Artemis Accords and ILRS ( International Lunar Research Station ) are two 
              projects for the near-future construction of bases and other infrastructure on the Moon and 
-             includes the space vehicles needed to carry humans and luggage between Earth and the 
+             includes the kosmik vehicles needed to carry humans and luggage between Earth and the 
              Moon towards the construction of the bases and during their operation. Artemis Accords is 
              led by the USA government and the ILRS is led by the governments of China and Russia, 
              and these three governments have needlessly extended to the Moon their disharmony-filled 
@@ -2828,7 +2623,7 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";>
              <span>(b).</span> With all this brought-together "snapshot of humanity" we begin to build the Mirkeen-01 base on the Moon 
-             starting 2036, using our to-Moon transport means ( our-designed Alef-A airship-spaceships manufactured by partner governments ) and 
+             starting 2036, using our to-Moon transport means ( our-designed Alef-A airship-kosmosships manufactured by partner governments ) and 
              our other technologies and the technologies of other partner pan-humanist organizations with 
              common protocols. The construction workers will base themselves in the Alef-As until the 
              base is built.
@@ -2836,11 +2631,10 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";>
              <span>(c).</span> We will site the Mirkeen-01 base underground in a place which will be in line-of-sight with Earth but not far from 
-             the Moon's Far Side. These criteria are for safety from space rocks and radiation, to be in constant communication with Earth 
-             and to sally out to the Far Side at will to learn deep-space operations as well as to obtain water from the possible water ice 
+             the Moon's Far Side. These criteria are for safety from kosmik rocks and radiation, to be in constant communication with Earth 
+             and to sally out to the Far Side at will to learn deep-kosmos operations as well as to obtain water from the possible water ice 
              there and possibly from Moon soil. There will be at least one communications relay satellite in the Moon's orbit above Far 
-             Side to connect to a few relay satellites above Earth with these relay satellites being 
-             operated by our partner organizations.
+             Side to connect to a few relay satellites above Earth with these relay satellites being operated by our partner organizations.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -2852,7 +2646,7 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";>
              <span>(e).</span> The construction materials for the Mirkeen-01 base, ground vehicles etc 
-             will be partly materials carried from Earth in our Alef-A airship-spaceships and partly local materials as 
+             will be partly materials carried from Earth in our Alef-A airship-kosmosships and partly local materials as 
              per application ( ISRU - In Situ Resource Utilization ). The on-Moon vehicles will be our Moggy robot cats.
            </p>
 
@@ -2873,9 +2667,9 @@ modalText.innerHTML = `
            <p style="margin-left:1em; margin-bottom:10px";>
              <span>(h).</span> For the time being the Mirkeen-01 base can engage in commercial activities 
              to sustain itself other than getting support from Kosmos Society and its partners on Earth. This 
-             commerce will be in accordance with our social system for space. The commerce 
+             commerce will be in accordance with our social system for the kosmos. The commerce 
              can be about Moon-available minerals needed on Earth ( iron, silicon etc ) or on others' 
-             space stations around Earth; the commerce can be about those produced materials and 
+             kosmik stations around Earth; the commerce can be about those produced materials and 
              services which benefit from the low-gravity and vacuum conditions on the Moon; the 
              commerce can be tourism on the Moon; etc.
            </p> 
@@ -2903,17 +2697,17 @@ modalText.innerHTML = `
            </div>
 
            <div id="aliens" class="section">
-           <h2> 14. Meetings or sightings of aliens</h2>
+           <h2> 12. Meetings or sightings of aliens</h2>
            
            <p>
              It is not known what kinds of alien life we will encounter, whether on Red One or on Europa 
              or beyond the Solar System, whether in the form of bacteria or as plants or as more 
              intelligent animals or something else. It is not known if they have been communicating with 
-             us or with any other lifeforms in the infinite universe. Some humans say we must actively 
+             us or with any other lifeforms in the infinite kosmos. Some humans say we must actively 
              find them, some say it is dangerous to try communicating with other lifeforms because they 
              may seek us out to wipe us out. But advancement is of course seeking them and we must be open 
              to the types of life we may find and the different ecological situations on their worlds,
-             not limiting our understanding of space lifes to the ecological situations on Earth.
+             not limiting our understanding of kosmik lifes to the ecological situations on Earth.
            </p>
 
            <p>
@@ -2936,9 +2730,9 @@ modalText.innerHTML = `
            <p>
              There is a wonderful story written and posted on LinkedIn by Don Michael Feeney called 
              "The Interplanetary Civilian : A Novella of Mars and Memory". This story speaks of the 
-             building of the first human settlements in space in terms of technologies and social systems 
+             building of the first human settlements in the kosmos in terms of technologies and social systems 
              including pan-human development, decentralized governance, the first human baby born in 
-             space, an artificial intelligence included with empathy and learning from unprogrammed space events,
+             the kosmos, an artificial intelligence included with empathy and learning from unprogrammed kosmik events,
              and a very different kind of alien encounter. This story prepares us to look for intelligent lifeforms by being open-minded as 
              to their type and their reaction to us and our reaction to them. This is the link to the story [  <a href=" https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-feeney-676nf " target="_blank" style="color:#0000FF;">https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-fee
            ney-676nf </a> ].
@@ -2947,16 +2741,16 @@ modalText.innerHTML = `
            <p>
              While looking for alien life or encountering them by chance, we must acknowledge the 
              general idea that ultimately we and every kind of life origined maybe within dying stars and 
-             within the dust around stars and maybe the gas clouds in free space, we must develop 
-             pan-universe fraternity though subject to those lifes having or not having gentleness.
+             within the dust around stars and maybe the gas clouds in the kosmik void, we must develop 
+             pan-kosmos fraternity though subject to those lifes having or not having gentleness.
            </p>
           
            <p>
-             It is said that space-origined lifes were carried through space in various forms like spores, 
+             It is said that kosmos-origined lifes were carried through the kosmos in various forms like spores, 
              viruses, eggs etc and seeded various worlds including ours to various levels and then 
              evolutionary steps took over in many of those worlds depending on the conditions of those 
              worlds. This idea is called Panspermia. For example, it is said that the octopus and squid in 
-             Earth's seas are not from Earth but from space, their eggs carried within ice rocks and then 
+             Earth's seas are not from Earth but from the kosmos, their eggs carried within ice rocks and then 
              released on Earth when the ice rocks fell into the seas here. This is a good read about this 
              topic [ <a href=" https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/ target="_blank" style="color:#0000FF;"> https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/"</a> ]. 
            </p>           
@@ -2980,10 +2774,10 @@ modal.style.display = 'flex';
           toggleBtn.addEventListener('click', function() {
             if (linksDiv.style.display === 'none' || linksDiv.style.display === '') {
               linksDiv.style.display = 'flex';
-              toggleBtn.innerHTML = 'Social system for space - Topics &#9650;';
+              toggleBtn.innerHTML = 'Social system for the kosmos - Topics &#9650;';
             } else {
               linksDiv.style.display = 'none';
-              toggleBtn.innerHTML = 'Social system for space - Topics &#9660;';
+              toggleBtn.innerHTML = 'Social system for the kosmos - Topics &#9660;';
             }
           });
           // Add event listeners to links to close topics box on click
@@ -2991,7 +2785,7 @@ modal.style.display = 'flex';
           navLinks.forEach(function(link) {
             link.addEventListener('click', function(e) {
               linksDiv.style.display = 'none';
-              toggleBtn.innerHTML = 'Social system for space - Topics &#9660;';
+              toggleBtn.innerHTML = 'Social system for the kosmos - Topics &#9660;';
               // Prevent default anchor behavior
               e.preventDefault();
               // Get the target section
@@ -3256,7 +3050,7 @@ modalText.innerHTML = `
        <p class=name> Mohammed Sameer - General Coordinator</p>
        
        <div>
-         <img src="assets/Sameer .jpeg" 
+         <img src="assets/Sameer photo.jpeg" 
          alt="Mohammed Sameer" 
          class="profile-image">
        </div>
@@ -3303,14 +3097,14 @@ modalText.innerHTML = `
 	 <p>
            Afzal is a practical person but also philosophical. He has been a patient 
            supporter of the organization from the time it was thought up in early 2023 but also his discussions 
-	   with Sameer about space travel going back to 2007. He contributes presently to our electricity generator project, 
-	   our spaceship projects, our robot cat project and our hovercraft-wheelcraft project.
+	   with Sameer about kosmik travel going back to 2007. He contributes presently to our electricity generator project, 
+	   our kosmos ship projects, our robot cat project and our hovercraft-wheelcraft project.
          </p>
 
          <p class=name> Mahmoud Hosny - Regional Coordinator, Africa and West Asia </p>
 
 	 <div>
-           <img src="assets/Mahmoud photo (1).png" 
+           <img src="assets/Mahmoud photo.png" 
              alt="Mahmoud Hosny " 
              class="profile-image">
          </div>
@@ -3363,7 +3157,7 @@ modalText.innerHTML = `
 			 made using an electro-magnetic relay. This vid called "1026 The easiest inverter you will ever make" is on this page [ <a href="https://www.youtube.com/watch?v=L-vC9SvU2Lo" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-vC9SvU2Lo</a> ]. 
              This we use in our design of the Faradn generator.
            </p>
-           
+
            <p><span>&gt;&gt;</span> 
              The YouTube channel "The Action Lab" for the idea about using heat to run a self-sustained piston engine. 
              This vid called "This engine runs on sound waves" is on this page [ <a href="https://www.youtube.com/watch?v=xCnxsoXtlmY" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=xCnxsoXtlmY</a> ].
@@ -3392,7 +3186,7 @@ modalText.innerHTML = `
            </p>
 
            <p><span>&gt;&gt;</span>
-             Coke Studio Bangla Season One for presenting the song "Shob Lokey Koy" which is among our inspirations for our social system for space. 
+             Coke Studio Bangla Season One for presenting the song "Shob Lokey Koy" which is among our inspirations for our social system for the kosmos. 
              This song is in the Bengali and Hindi languages and is a celebration of two past South Asian humanitarian mystics, 
              Lalon Fakir and Kabir Das, and calls for unity of humans because they all are the waters from the
              same well except for some differences in the vessels which then contain the waters. 
@@ -3437,8 +3231,8 @@ modalText.innerHTML = `
 	</p>
 	
 	<p><span>&gt;&gt;</span> 
-	  If your knowledge is actually useful to the industry of space-travel and space-living in a democratic 
-	  and non-profit way. So this discounts work types like HR, CSR and MBA-requiring positions.
+	  If your knowledge is actually useful to the industry of travelling and living in the kosmos travel in a democratic and non-profit way. 
+	  So this discounts work types like HR, CSR and MBA-requiring positions.
 	</p>
 	
 	<p><p><span>&gt;&gt;</span> 
@@ -3454,11 +3248,11 @@ modalText.innerHTML = `
 	</p>
 
 	<p><p><span>&gt;&gt;</span> 
-	  If you desire a largely secular borderless unification of humanity on Earth and in Space.
+	  If you desire a largely secular borderless unification of humanity on Earth and in Kosmos.
 	</p>
 
 	<p><p><span>&gt;&gt;</span> 
-	  If you ideally consider the cat as the most perfect animal in the universe, ha ha.
+	  If you ideally consider the cat as the most perfect animal in the kosmos, ha ha.
 	</p>
 	
 	<p><p><span>&gt;&gt;</span> 
@@ -3483,9 +3277,8 @@ modalText.innerHTML = `
 
 	<p><p><span>&gt;&gt;</span> 
 	  Our company is structured as a Workers Cooperative where you will be an equal co-owner and 
-	  not a subordinate to some feudal boss. Please read the "Social organization in space travel and 
-	  space living" section in the "Our social system for space" chapter and return to this point. 
-	  That section describes the Workers Cooperative concept.
+	  not a subordinate to some feudal boss. Please read the "Social organization for kosmonauts" section in the "Social system for the kosmos" chapter and 
+	  return to this point. That section describes the Workers Cooperative concept.
 	</p>
 
 	<p><p><span>&gt;&gt;</span> 
@@ -3495,7 +3288,7 @@ modalText.innerHTML = `
 	</p>	
 
 	<p><p><span>&gt;&gt;</span> 
-	  The space industry is a permanent one so with us you will be in permanent employment.
+	  The kosmos industry is a permanent one so with us you will be in permanent employment.
 	</p>
 
 	<p><p><span>&gt;&gt;</span> 
