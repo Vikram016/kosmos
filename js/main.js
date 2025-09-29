@@ -177,16 +177,16 @@ modalText.innerHTML = `
             <button id="topics-toggle">Techno projects - Topics &#9660;</button>
             <div id="topics-links">
               <a href="#principles">&nbsp;&nbsp; 01. Our progressive product design principles</a>
-              <a href="#faradn">&nbsp;&nbsp; 02. Faradn electricity generator</a>
+              <a href="#faradn">&nbsp;&nbsp; 02. Faradn self-sustaining electricity generator</a>
               <a href="#dunebuk">&nbsp;&nbsp; 03. Dune Buk wearable computer</a>
-	      <a href="#alefa">&nbsp;&nbsp; 04. Alef-A airship-kosmosship</a>
+	      <a href="#alefa">&nbsp;&nbsp; 04. Alef-A airship-type kosmos ship</a>
               <a href="#aleff">&nbsp;&nbsp; 05. Alef-F kosmos ferry</a>
               <a href="#bothships">&nbsp;&nbsp; 06. About both Alef-A and Alef-F kosmos ships</a>
               <a href="#stillsuit">&nbsp;&nbsp; 07. A kosmos suit called Stillsuit</a>
               <a href="#biology">&nbsp;&nbsp; 08. Biology researches</a>
 	      <a href="#wmachines">&nbsp;&nbsp; 09. Machines for water</a>
 	      <a href="#moggy">&nbsp;&nbsp; 10. Moggy robot cat</a>
-              <a href="#serf">&nbsp;&nbsp; 11. Serf autonomous satellite for Earth orbit debris cleaning</a>
+              <a href="#serf">&nbsp;&nbsp; 11. Serf satellite for Earth orbit debris cleaning</a>
 	      <a href="#habitat">&nbsp;&nbsp; 12. Habitat construction on other worlds</a>
 	      <a href="#city">&nbsp;&nbsp; 13. City redesign on Earth</a>
             </div>
@@ -202,15 +202,16 @@ modalText.innerHTML = `
              Liberty, Equality, Fraternity, Humanism, Simplicity, Beauty, Gentleness, 
              Human safety as much as possible, Respect for Nature including reversing Climate Change on Earth.              
            </p>
-           
-           <p><span>&gt;&gt;</span> 
-             Readiness to explore sensible methods that are from old times or are unusual.
-           </p>
-           
+
            <p><span>&gt;&gt;</span> 
              We won't do a technology just because there are a hundred other companies doing it 
              or it has been done for a hundred years or just because it has been proposed by some celebrated scientist but 
              the idea is not sensible, for example the concept called Dyson Sphere aka Dyson Swarm.
+           </p>
+
+           <p><span>&gt;&gt;</span> 
+             Readiness to explore sensible methods that are from old times or are unusual. What works, works. What is natural, must become the system. 
+	     We don't need to wait for "peer review" for five years before using an idea.
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -254,7 +255,7 @@ modalText.innerHTML = `
 
            <p><span>&gt;&gt;</span> 
              Our technologies will align around our draft for a democratic, pan-human and Nature-respecting social system for the kosmos, 
-	     presented in the "Social system for the kosmos" chapter of that name on this website.
+	     presented in the "Social system for the kosmos" chapter on this website.
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -278,7 +279,7 @@ modalText.innerHTML = `
            </div>
 
            <div id="faradn" class="section">
-           <h2> 02. Faradn electricity generator</h2>
+           <h2> 02. Faradn self-sustaining electricity generator</h2>
            
            <p>
              Advancement in electricity generation is not to make the generators huge, 
@@ -492,7 +493,7 @@ modalText.innerHTML = `
            </div>
 
            <div id="alefa" class="section">           
-           <h2> 04. Alef-A airship-kosmosship</h2>
+           <h2> 04. Alef-A airship-type kosmos ship</h2>
 
            <p>
              We use the airship type of craft to ascend to orbital kosmos from any atmosphere-having world 
@@ -511,32 +512,32 @@ modalText.innerHTML = `
            <ul>
 
            <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
-             The Tall Rocket requires lot of fuel just to lift itself one centimeter off the launch pad whereas the airship-kosmosship's lift when in an atmosphere world 
-	     happens largely automatically through its lift gases.
+             The Tall Rocket requires lot of fuel just to lift itself one centimeter off the launch pad whereas the airship-type kosmos ship's lift when in 
+	     an atmosphere world happens largely automatically through its lift gases.
 	   </li>
 
            <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
-             Much less push-into-orbit fuel in the airship-kosmosship makes the airship-kosmosship much more safer in terms of explosion than 
-	     the Tall Rocket whose majority of mass is the very explosive fuel. Therefore an airship-kosmosship can lift to the kosmos from any neighborhood's 
+             Much less push-into-orbit fuel in the airship-type kosmos ship makes the airship-type kosmos ship much more safer in terms of explosion than 
+	     the Tall Rocket whose majority of mass is the very explosive fuel. Therefore an airship-type kosmos ship can lift to the kosmos from any neighborhood's 
 	     bus stand or ground, and land similarly, unlike the Tall Rocket which is always launched from isolated places like near sea or remote mountain 
 	     or isolated forest or remote flat land.
 	   </li>
 
            <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
-             The airship-kosmosship can easily be made horizontally larger instead of the vertically huge of the Tall Rocket. 
+             The airship-type kosmos ship can easily be made horizontally larger instead of the vertically huge of the Tall Rocket. 
 	     This horizontal largening will make the craft aesthetically pleasing as well as not requiring a huge infrastructure to hold it before launch and 
 	     will keep it from toppling when it is sitting on some world... all unlike the Tall Rocket including with the fashionable legs or bottom fins which 
 	     every rocket company is building.
 	   </li>
 
            <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
-             The airship-kosmosship will also be a single-stage-to-orbit craft ( SSTO ) unlike the at least two stages of the Tall Rocket.
+             The airship-type kosmos ship will also be a single-stage-to-orbit craft ( SSTO ) unlike the at least two stages of the Tall Rocket.
 	   </li>
 
            </ul>
 
            <p>
-             Our airship-kosmosship is the Alef-A which will be shaped like an upside-down teacup without the handle,
+             Our airship-type kosmos ship is the Alef-A which will be shaped like an upside-down teacup without the handle,
              and its lift gases will be colder helium gas and heated helium gas. An airship or a balloon which uses this lift-gas combination of 
 	     a colder gas and a heated gas is called a Roziere Balloon.
            </p>
@@ -573,7 +574,7 @@ modalText.innerHTML = `
 
            <p>
              The Alef-F will be a kosmos-bound ferry large enough to carry five Alef-A crafts, a hundred
-             humans, ten Moggy robot cats ( described below ) and a hundred tons of other cargo and will be primarily propelled by water steam
+             humans, ten Moggy robot cats ( described in a below section below ) and a hundred tons of other cargo and will be primarily propelled by water steam
              jets but will include coal propulsion for momentary high-thrust-requiring situations. It will have 
              proper water-using baths and toilets with the toilets having disinfectant-having water spray for hygienic and satisfying 
              cleaning after defecation. The ferry will also have sufficient growing facilities for food crop, 
@@ -922,7 +923,7 @@ modalText.innerHTML = `
 	   </div>	   
 
            <div id="serf" class="section">           
-           <h2> 11. Serf autonomous satellite for Earth orbit debris cleaning</h2>
+           <h2> 11. Serf satellite for Earth orbit debris cleaning</h2>
 
            <p>
              There are an estimated 100 million human-made pieces of various sizes in Earth orbit, made
@@ -1150,7 +1151,7 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";> 
              <span>(e).</span> 
-	     Gentleness in cities also from rethinking inter-city public transport by using our Alef-A airship-kosmosships which can land within neighborhoods 
+	     Gentleness in cities also from rethinking inter-city public transport by using our Alef-A airship-type kosmos ships which can land within neighborhoods 
 	     and other small public areas, removing the need for airports, train stations and bus stations. Our Alef-A crafts will also be able to do inter-continent 
 	     travel this way too.
 	   </p>
@@ -1162,7 +1163,7 @@ modalText.innerHTML = `
 	     because of this and those who don't die they endure daily chaos. But through Kosmos Society's redesign of cities which will be largely self-sufficient and 
 	     will be filled with people of scientific temper, what will be made obsolete will be those tens of thousands of out-of-city travellers. Not only will this make 
 	     cities gentle but there will be very few people travelling beyond their cities on a daily basis and these few people will use our Moggy vehicles, 
-	     our Ra vehicles and our Alef-A airship-kosmosships. This lesser daily out-of-city travel will also contribute to serene Earthen societies.
+	     our Ra vehicles and our Alef-A airship-type kosmos ships. This lesser daily out-of-city travel will also contribute to serene Earthen societies.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -1462,7 +1463,7 @@ modalText.innerHTML = `
               <a href="#equality">&nbsp;&nbsp; 03. Natural equality to be a kosmonaut and when being a kosmonaut </a>
               <a href="#organization">&nbsp;&nbsp; 04. Social organization for kosmonauts </a>
               <a href="#tea">&nbsp;&nbsp; 05. Tea and Kosmos</a>
-              <a href="#language">&nbsp;&nbsp; 06. Language, appearance and personality of the kosmonauts </a>
+              <a href="#language">&nbsp;&nbsp; 06. Personality of the kosmonauts </a>
               <a href="#sports">&nbsp;&nbsp; 07. Sports and recreation in the kosmos </a>
               <a href="#education">&nbsp;&nbsp; 08. Education in the kosmos </a>
               <a href="#satellite">&nbsp;&nbsp; 09. Basis of satellite design </a>
@@ -1479,15 +1480,15 @@ modalText.innerHTML = `
            <h2> 01. Introduction to this chapter</h2>
         
            <p> 
-             We present the draft of a social system for the kosmos ( space / universe ), which is simple, progressive, pan-humanist, harmonious 
-             and Nature-ordained and is for all humans going and living in the kosmos and hopefully this social system finds adoption throughout Earth in time. 
+             We present the draft of a social system for the kosmos which is simple, progressive, pan-humanist, harmonious and Nature-ordained and 
+	     is for all humans going and living in the kosmos and hopefully this social system finds adoption throughout Earth in time. 
 	     This draft social system seeks to remove all the artificial and needless unpleasantnesses, tragedies and anti-natural beliefs that humans do or endure 
 	     presently on Earth, and we promote all the approaches which are natural, rational, simple, enlightened and gentle.
            </p>
 
            <p>
              In every human being a kosmonaut he or she must have an enlightened spirit including by selflessly sharing kosmik resources with every other human 
-	     in an equal manner without needless taxes like money, college degrees, race, belief in certain divinities, Earthen passport and 
+	     in an equal manner without demanding taxes like money, college degrees, race, belief in certain divinities, Earthen passport and 
 	     other human-made social positions.
            </p>
 
@@ -1496,9 +1497,9 @@ modalText.innerHTML = `
              then will start spreading to the Asteroid Belt which sits in the space between Red One and Jupiter 
              and then beyond to the edges of the Solar System and then to the stars. Our social system will help 
              humans from those starting 12 years to the far far future which is unknown now but what is known 
-             is that how much ever humans become superior biologically and intellectually they must live 
+             is that how much ever humans become superior biologically and intellectually, they must live 
              within the laws and ways of Nature, with the realization that Nature is supreme. We must build 
-             a kosmic utopia, making humankind an evolved kosmos society.
+             a kosmik utopia, making humankind an evolved kosmos society.
            </p>
 
            <p>
@@ -1512,7 +1513,7 @@ modalText.innerHTML = `
            <h2>02. The Kosmos and human nations on Earth</h2>
            
            <p>
-             The kosmos has existed forever, much before some modern human scientists and academics foolishly
+             The Kosmos has existed forever, much before some modern human scientists and academics foolishly
              affixed an age to it on the basis of needless mathematics i.e. the Big Bang Theory and now
              there are two Big Bang theories. Kosmos has existed before human nations existed on Earth,
              before Earth itself existed. The concept of Earthen Nations / Nation States
@@ -2251,7 +2252,11 @@ modalText.innerHTML = `
            </div>
 
            <div id="language" class="section">         
-           <h2> 06. Language, appearance and personality of the kosmonauts</h2>
+           <h2> 06. Personality of the kosmonauts</h2>
+
+          <p>
+	    This section is about language, appearance and personality of the kosmonauts.
+	  </p>  
 
            <p>
              English is the most appropriate common language in the kosmos and will be the base language in our 
@@ -2623,10 +2628,9 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";>
              <span>(b).</span> With all this brought-together "snapshot of humanity" we begin to build the Mirkeen-01 base on the Moon 
-             starting 2036, using our to-Moon transport means ( our-designed Alef-A airship-kosmosships manufactured by partner governments ) and 
+             starting 2036, using our to-Moon transport means ( our-designed Alef-A airship-type kosmos ships manufactured by partner governments ) and 
              our other technologies and the technologies of other partner pan-humanist organizations with 
-             common protocols. The construction workers will base themselves in the Alef-As until the 
-             base is built.
+             common protocols. The construction workers will base themselves in the Alef-As until the base is built.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -2637,17 +2641,18 @@ modalText.innerHTML = `
              Side to connect to a few relay satellites above Earth with these relay satellites being operated by our partner organizations.
            </p>
 
-           <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(d).</span> The Mirkeen-01 base will be designed to be partly self-sufficient food-wise, 
-             in water, in production of clothing, computers, ground vehicles etc but be extendible for meeting with 
-             future self-sufficiency situations. The electricity will be decentralized and will use our safe, 
-             self-sustaining, modular and easily repairable Faradn generators.
+	   <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(d).</span> The construction materials for the Mirkeen-01 base, ground vehicles etc 
+             will be partly materials carried from Earth in our Alef-A airship-type kosmos ships and partly local materials as 
+             per application ( ISRU - In Situ Resource Utilization ). The machines to dig the ground will be our Moggy robot cats 
+	     and the Moggys will also be our on-Moon vehicles.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(e).</span> The construction materials for the Mirkeen-01 base, ground vehicles etc 
-             will be partly materials carried from Earth in our Alef-A airship-kosmosships and partly local materials as 
-             per application ( ISRU - In Situ Resource Utilization ). The on-Moon vehicles will be our Moggy robot cats.
+             <span>(e).</span> The Mirkeen-01 base will be designed to be partly self-sufficient food-wise, 
+             in water, in production of clothing, computers, ground vehicles etc but be extendible for meeting with 
+             future self-sufficiency situations. The electricity will be decentralized and will use our safe, 
+             self-sustaining, modular and easily repairable Faradn generators.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -2655,28 +2660,27 @@ modalText.innerHTML = `
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(g).</span> The Mirkeen-01 base will be the first very advanced society which won't have feudalism and 
+             <span>(g).</span> The Mirkeen-01 base will be the first very advanced human society which won't have feudalism and 
              tax in any form including money. The true wealth of a society is not in the money, mansions and luxury motorcars 
              held by a few privileged. The true wealth is the potential and the positive ideas and works of the citizens 
-             and these can exist without money and tax hoarding. In fact the potential of a society is eroded by the presence of money and 
+             and these can exist without money and tax hoarding. In fact the potential of a society is corroded by the presence of money and 
 	     hoarded tax because so many people have potential but when they get socially excluded through the various aspects of tax  
              they don't get the opportunity to realize their potential and their society does not get to benefit. 
              This realization extends to all of humanity.
            </p>
-           
+
            <p style="margin-left:1em; margin-bottom:10px";>
              <span>(h).</span> For the time being the Mirkeen-01 base can engage in commercial activities 
              to sustain itself other than getting support from Kosmos Society and its partners on Earth. This 
              commerce will be in accordance with our social system for the kosmos. The commerce 
-             can be about Moon-available minerals needed on Earth ( iron, silicon etc ) or on others' 
+             can be about Moon-available minerals needed on Earth ( iron, silicon etc ) or needed on others' 
              kosmik stations around Earth; the commerce can be about those produced materials and 
-             services which benefit from the low-gravity and vacuum conditions on the Moon; the 
-             commerce can be tourism on the Moon; etc.
+             services which benefit from the low-gravity and vacuum conditions on the Moon.
            </p> 
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(i).</span> The Mirkeen-01 base can also have guests from the Artemis Accords base and the ILRS base. 
-             All human-spirited gentle people will be welcomed with tea and biscuits.
+             <span>(i).</span> The Mirkeen-01 base will host guests from any place on Earth as well as from the Artemis Accords base and the ILRS base, 
+             as long as the guests are human-spirited gentle people and will be welcomed with tea and biscuits.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -2715,9 +2719,8 @@ modalText.innerHTML = `
              For example, the jaguar cats of the Amazon forests hunt crocodiles for food but this was rarely
              recorded on camera, perhaps never, until 2013 when photographer Kedar Hippalgaonkar along with his wife 
              Parul, recorded a jaguar locally named Mick Jaguar hunting a croc in a river in Brazil's 
-             Pantanal wetlands. Kedar's photos went viral on the internet. And only recently has it been researched 
-             how octopuses collaborate with certain types of fishes to hunt other fishes. So, as we seek lifes beyond Earth 
-             we must not have preconceived notions and set academic dictations on where we will find these lifes and how they will be.
+             Pantanal wetlands. Kedar's photos went viral on the internet. So, as we seek lifes beyond Earth 
+             we must not have preconceived notions and set academic dictations on where we will find these lifes and how they behave.
            </p>
            
            <p>
@@ -2734,8 +2737,7 @@ modalText.innerHTML = `
              including pan-human development, decentralized governance, the first human baby born in 
              the kosmos, an artificial intelligence included with empathy and learning from unprogrammed kosmik events,
              and a very different kind of alien encounter. This story prepares us to look for intelligent lifeforms by being open-minded as 
-             to their type and their reaction to us and our reaction to them. This is the link to the story [  <a href=" https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-feeney-676nf " target="_blank" style="color:#0000FF;">https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-fee
-           ney-676nf </a> ].
+             to their type and their reaction to us and our reaction to them. This is the link to the story [  https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-feeney-676nf ].
            </p>
           
            <p>
@@ -2752,7 +2754,7 @@ modalText.innerHTML = `
              worlds. This idea is called Panspermia. For example, it is said that the octopus and squid in 
              Earth's seas are not from Earth but from the kosmos, their eggs carried within ice rocks and then 
              released on Earth when the ice rocks fell into the seas here. This is a good read about this 
-             topic [ <a href=" https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/ target="_blank" style="color:#0000FF;"> https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/"</a> ]. 
+             topic [ https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/ ]. 
            </p>           
           
            <p>
@@ -3088,8 +3090,8 @@ modalText.innerHTML = `
          <p style="margin-bottom:4px;"> 
            Dr. Siddharth has been a patient supporter of the organization for more than 
            two years. He joined our more little group when we didn't have this organization and our sole 
-           project was the Kosmos microprocessor+OS. Presently, he has been an advisor in a 
-           system-level way.
+           project was the Kosmos microprocessor+OS which remains documented on the OpenCores website 
+	   at this page [ opencores.org/projects/taar ]. Presently, he has been an advisor in a system-level way.
          </p>
 
          <p class=name> Afzal - Advisor </p>
@@ -3146,27 +3148,26 @@ modalText.innerHTML = `
            <p><span>&gt;&gt;</span> 
              Apoorva JR for presenting to us an Instagram page in 2023 which contained reports on eco-friendly ways 
              of generating electricity and which led to our discovery of the "sand battery" which we use in our design of the Faradn generator. 
-             Apoorva's LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#0000FF;">https://www.linkedin.com/in/apoorvajr</a> ].
-             Sadly we forgot the Insta page's name but we are thankful to that page's maintainer. 
-             That Insta page spoke of the company Polar Night Energy which applied the sand battery in a real life setting despite there being no prior 
-	         industry use of this method and we are thankful to this company.
+             Apoorva's LInkedIn page [ https://www.linkedin.com/in/apoorvajr ]. Sadly we forgot the Insta page's name but we are thankful to that page's 
+	     maintainer. That Insta page spoke of the company Polar Night Energy which applied the sand battery in a real life setting despite there being no prior 
+	     industry use of this method and we are thankful to this company.
            </p>
 
            <p><span>&gt;&gt;</span> 
              Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, 
-			 made using an electro-magnetic relay. This vid called "1026 The easiest inverter you will ever make" is on this page [ <a href="https://www.youtube.com/watch?v=L-vC9SvU2Lo" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-vC9SvU2Lo</a> ]. 
+			 made using an electro-magnetic relay. This vid called "1026 The easiest inverter you will ever make" is on this page [ https://www.youtube.com/watch?v=L-vC9SvU2Lo ]. 
              This we use in our design of the Faradn generator.
            </p>
 
            <p><span>&gt;&gt;</span> 
              The YouTube channel "The Action Lab" for the idea about using heat to run a self-sustained piston engine. 
-             This vid called "This engine runs on sound waves" is on this page [ <a href="https://www.youtube.com/watch?v=xCnxsoXtlmY" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=xCnxsoXtlmY</a> ].
+             This vid called "This engine runs on sound waves" is on this page [ https://www.youtube.com/watch?v=xCnxsoXtlmY ].
            </p>
 
            <p><span>&gt;&gt;</span> 
              The YouTube channel "Mech Marvels" for the idea about using mutually repelling magnets 
              to form a self-sustained sustained motor. This vid called "Magnets - the key to endless power ?" 
-             is on this page [ <a href="https://www.youtube.com/shorts/yTHXh-5uxRM" target="_blank" style="color:#0000FF;">https://www.youtube.com/shorts/yTHXh-5uxRM</a> ].
+             is on this page [ https://www.youtube.com/shorts/yTHXh-5uxRM ].
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -3190,26 +3191,24 @@ modalText.innerHTML = `
              This song is in the Bengali and Hindi languages and is a celebration of two past South Asian humanitarian mystics, 
              Lalon Fakir and Kabir Das, and calls for unity of humans because they all are the waters from the
              same well except for some differences in the vessels which then contain the waters. 
-             The song is available on YouTube on this page [ <a href="https://www.youtube.com/watch?v=L-arhlgPiy8" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-arhlgPiy8</a> ].
+             The song is available on YouTube on this page [ https://www.youtube.com/watch?v=L-arhlgPiy8 ].
            </p>
 
            <p><span>&gt;&gt;</span>
              The website [ constitutionofindia.net ] for the info about the discussions during the early years 
              of the design of the Indian constitution, in particular the proposals by Socialists Hasrat Mohani 
-             and Brajeshwar Prasad. The proposals can be read here [ <a href="https://www.constitutionofindia.net/debates/17-oct-1949/" 
-             target="_blank" style="color:#0000FF;">https://www.constitutionofindia.net/debates/17-oct-1949/ </a> ].
+             and Brajeshwar Prasad. The proposals can be read here [ https://www.constitutionofindia.net/debates/17-oct-1949/ ].
            </p>
            
            <p><span>&gt;&gt;</span>
              Ashok on the "Nationalizer" account on [ medium.com ] for his essay about the Indian Socialist Brajeshwar Prasad 
              who spoke in favour of Socialism during the design years of the Indian constitution. The essay can be read here 
-             [ <a href="https://nationalizer.medium.com/socialist-and-secular-but-not-sovereign-brajeshwar-prasad-s-amendment-to-preamble-1bb8a1e8142e" 
-             target="_blank" style="color:#0000FF;">https://nationalizer.medium.com/socialist-and-secular-but-not-sovereign-brajeshwar-prasad-s-amendment-to-preamble-1bb8a1e8142e </a> ].
+             [ https://nationalizer.medium.com/socialist-and-secular-but-not-sovereign-brajeshwar-prasad-s-amendment-to-preamble-1bb8a1e8142e ].
            </p>
          
            <p><span>&gt;&gt;</span>
              Rabindranath Tagore for his essay that speaks against Nationalism. The essay can be
-             read here [ <a href="https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf" target="_blank" style="color:#0000FF;">https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf</a> ].
+             read here [ https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf ].
            </p>
 
            <p><span>&gt;&gt;</span>
@@ -3307,8 +3306,7 @@ modalText.innerHTML = `
            <h2> 05. News </h2>
 
           <p><span>Youtube :</span> 
-	  <a href="https://youtube.com/@KosmosSociety" 
-             target="_blank" style="color:#0000FF;">https://youtube.com/@KosmosSociety </a>
+	    https://youtube.com/@KosmosSociety
 	  </p>
 
            </div>           
@@ -3321,11 +3319,11 @@ modalText.innerHTML = `
 	  </p>
 
 	  <p><span>Email :</span> 
-	    <a href="mailto:hello@kosmossociety.space">hello@kosmossociety.space</a>
+	    hello@kosmossociety.space
 	  </p>
 	  
 	  <p><span>LinkedIn ( to reach Sameer ) :</span> 
-	    <a href="https://linkedin.com/in/sameer-kosmos-society" target="_blank">linkedin.com/in/sameer-kosmos-society</a>
+	    https://linkedin.com/in/sameer-kosmos-society
 	  </p>
 
           <p><span>Physical address :</span> 
@@ -3333,7 +3331,7 @@ modalText.innerHTML = `
 	    which is in the east side of India. This move because Calcutta is the only true city in India though it can be lot more improved.
 	  </p>
 
-	  <p><span>Talk to us in person over tea</span> 
+	  <p><span>Talk to us in person over tea.</span> 
 	  </p>	  
 
        </div>
