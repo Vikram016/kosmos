@@ -31,8 +31,8 @@ const chapter = card.getAttribute('data-chapter');
         history.replaceState(null, '', window.location.pathname + window.location.search);
       }       
 
-// Techno projects
-if (chapter === 'technoprojects'){
+// Techno systems
+if (chapter === 'technosystems'){
 modalText.innerHTML = `
        <div style="position:relative;padding:0;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:600px;overflow:hidden;">
           <style>
@@ -174,21 +174,21 @@ modalText.innerHTML = `
           </style>
 
           <div class="nav-links">
-            <button id="topics-toggle">Techno projects - Topics &#9660;</button>
+            <button id="topics-toggle">Our techno systems - Show topics</button>
             <div id="topics-links">
               <a href="#principles">&nbsp;&nbsp; 01. Our progressive product design principles</a>
-              <a href="#faradn">&nbsp;&nbsp; 02. Faradn electricity generator</a>
+              <a href="#faradn">&nbsp;&nbsp; 02. Faradn self-sustaining electricity generator</a>
               <a href="#dunebuk">&nbsp;&nbsp; 03. Dune Buk wearable computer</a>
-	      <a href="#alefa">&nbsp;&nbsp; 04. Alef-A airship-kosmosship</a>
+	      <a href="#alefa">&nbsp;&nbsp; 04. Alef-A airship-type kosmos ship</a>
               <a href="#aleff">&nbsp;&nbsp; 05. Alef-F kosmos ferry</a>
               <a href="#bothships">&nbsp;&nbsp; 06. About both Alef-A and Alef-F kosmos ships</a>
               <a href="#stillsuit">&nbsp;&nbsp; 07. A kosmos suit called Stillsuit</a>
               <a href="#biology">&nbsp;&nbsp; 08. Biology researches</a>
 	      <a href="#wmachines">&nbsp;&nbsp; 09. Machines for water</a>
 	      <a href="#moggy">&nbsp;&nbsp; 10. Moggy robot cat</a>
-              <a href="#serf">&nbsp;&nbsp; 11. Serf autonomous satellite for Earth orbit debris cleaning</a>
-	      <a href="#habitat">&nbsp;&nbsp; 12. Habitat construction on other worlds</a>
-	      <a href="#city">&nbsp;&nbsp; 13. City redesign on Earth</a>
+	      <a href="#mehfil">&nbsp;&nbsp; 11. Mehfil tent</a>
+              <a href="#serf">&nbsp;&nbsp; 12. Serf satellite for Earth orbit debris cleaning</a>
+	      <a href="#habitat">&nbsp;&nbsp; 13. Habitat construction on other worlds</a>
             </div>
 
           </div>
@@ -199,18 +199,20 @@ modalText.innerHTML = `
          <h2> 01. Our progressive product design principles</h2> 
 
            <p><span>&gt;&gt;</span>
-             Liberty, Equality, Fraternity, Humanism, Simplicity, Beauty, Gentleness, 
+             Liberty, Equality, Fraternity, Humanism, Simplicity, Beauty, Gentleness, Realness, 
              Human safety as much as possible, Respect for Nature including reversing Climate Change on Earth.              
            </p>
-           
-           <p><span>&gt;&gt;</span> 
-             Readiness to explore sensible methods that are from old times or are unusual.
-           </p>
-           
+
            <p><span>&gt;&gt;</span> 
              We won't do a technology just because there are a hundred other companies doing it 
              or it has been done for a hundred years or just because it has been proposed by some celebrated scientist but 
              the idea is not sensible, for example the concept called Dyson Sphere aka Dyson Swarm.
+           </p>
+
+           <p><span>&gt;&gt;</span> 
+             Readiness to explore sensible methods that are from old times or are unusual. In some things, the future is the past. What works, works. 
+	     What is natural, must become the system. We won't wait for "peer review" for five years before using an idea. If an idea is sensible 
+	     as understood by natural intelligence, we use it.
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -254,31 +256,38 @@ modalText.innerHTML = `
 
            <p><span>&gt;&gt;</span> 
              Our technologies will align around our draft for a democratic, pan-human and Nature-respecting social system for the kosmos, 
-	     presented in the "Social system for the kosmos" chapter of that name on this website.
+	     presented in the "Our social system" chapter on this website.
            </p>
 
            <p><span>&gt;&gt;</span> 
              As examples of the above points :
            </p>
 
-	       <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> 
-	         A "Gentleness" example is renaming of the planet Mars to "Red One" as the former is the Roman 
-             god of war while the latter is a gentle name.
-		   </p>	 
+	   <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> 
+	     A "Gentleness" example is renaming of the planet Mars to "Red One" as the former is the Roman god of war while the latter is a gentle name.
+	   </p>	 
 
-	       <p style='margin-left:2em;margin-bottom:10px;'><span>(b).</span> 
-		     A "Human safety" example is not following the silliness of nuclear fission 
-	         or fusion as the means to generate electricity or propel kosmos ships.
-		   </p> 
+	   <p style='margin-left:2em;margin-bottom:10px;'><span>(b).</span> 
+	     A "Human safety" example is not following the silliness of nuclear fission 
+	     or fusion as the means to generate electricity or propel kosmos ships.
+	   </p> 
 
-	       <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> 
-		     A "Simplicity" example is we not using semiconductors.
-		   </p>
+	   <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> 
+	     A "Simplicity" example is we not using semiconductors.
+	   </p>
+
+	   <p style='margin-left:2em;margin-bottom:10px;'><span>(d).</span> 
+	     A "Realness" example is the portable computer in the following wonderful sci-fi short film on YouTube called 
+	     "ICE - A Thousand Suns / Episode 1" and is at this link [ https://www.youtube.com/watch?v=RXaVgAxtYFI ]. This portable computer and 
+	     our wearable computer "Dune Buk" ( described in a below section ) will look something natural, real, dignified, robust, intelligent, democratic... 
+	     as against the bland, gimmicky, non-robust and social-class-system-imbued cell phones of now. The machines in the Dune story books 
+	     also are imaginable to be real and natural, and the machines in the Dune films and the TV series also look good.
+	   </p>
 
            </div>
 
            <div id="faradn" class="section">
-           <h2> 02. Faradn electricity generator</h2>
+           <h2> 02. Faradn self-sustaining electricity generator</h2>
            
            <p>
              Advancement in electricity generation is not to make the generators huge, 
@@ -294,7 +303,7 @@ modalText.innerHTML = `
              then convert the electricity to high-power microwaves and send down the microwaves to certain large-focus spots on Earth 
              where on those spots on the ground the microwaves are converted back to electricity by rectennas 
              to be supplied to the grid. The nefarious element here is the potential of this system to be used to zap 
-             humans and other things on the ground using the high-power microwaves by moving these power 
+             humans and other things on the ground and in the air using the high-power microwaves by moving these power 
              satellites over targets.
            </p>          
 
@@ -313,7 +322,7 @@ modalText.innerHTML = `
              by sitting within them or just outside them. It will produce 24 volts DC which is enough for most purposes, 
              neither too low a current nor dangerously high. Once started, this generator will continuously produce current 
 	     of 24 volts DC for at least a month... this is the self-sustained part. After a month the generator 
-	     can be easily refurbished at any small repair shop in any Earthen neighborhood or in the kosmos ship or on another world.
+	     can be easily refurbished at any small repair shop in any Earthen neighborhood or in a kosmos ship or on another world.
            </p>
  
            <p>
@@ -322,21 +331,10 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             Within the Faradn generator there are two very simple approaches we are considering in generating the initial low-voltage current 
-	     before we amplify that current, clean it and provide it as the 24 volts DC output. The two approaches are :
+             We are presently experimenting this generator's simple design. A heat-driven piston engine will produce rotary motion which in turn 
+	     will activate piezo-electric material to produce the initial current. This current will be smoothened and outputted as 24 volts DC. Heat will be retained 
+	     in the system in a "sand battery" to enable a closed loop generation system.
            </p>
-
-	   <ul>
-          
-	      <li style="margin-left:1em; margin-bottom:10px;">
-               <span> (a). </span> A thermo-mechanical piston mechanism which includes a "sand battery".
-	      </li>
-
-	      <li style="margin-left:1em; margin-bottom:10px;">
-               <span> (b). </span> A simple magnet-repulsion motor mechanism with at least two magnet sets.
-	      </li>	      
-
-	   </ul>  
 
            <p>
              Please check the "Credits" section in the "Our company" chapter on this website to see where we derive most of our ideas for the 
@@ -349,9 +347,9 @@ modalText.innerHTML = `
            </p>                    
 
            <p>
-             There can be a bio-material rechargeable battery included within this system or outside this system 
+             There can be a bio-material-based rechargeable battery included within this system or outside this system 
 	     to provide short-duration backup and enable generator switchover when one generator fails. 
-	     Using bio-material battery allows safety, eco-friendliness, social harmony, sustainability and decentralization 
+	     Using bio-material battery allows safety, eco-friendliness, social harmony, sustainability, local material production and decentralization 
              in terms of its electricity storage materials, electrodes, packaging, carryability, use and manufacture. 
 	     Very much not the lithium-ion battery which has been one of humanity's most idiotic inventions.
            </p>
@@ -367,16 +365,23 @@ modalText.innerHTML = `
              upper arm and another over the shoulder, and thus can be used with any kind of clothing (
              kosmos suits, office dress etc ) and will be aesthetic enough for the stylish person.
            </p>
-          
+
            <p>
-             The processor will be called Meow and will use sound for the computations. "Meow" usually
+             Since we are going away radically from traditional electronic computing, this "away" will include data formats in all aspects of our wearable computer. 
+	     Our data formats used for sensors, computation, storage, wireless transmission and display will neither be based on 
+	     the traditional binary format ( "bits" made of 0 and 1 ) nor the also old but not usually used ternary format ( "trits" made of -1, 0, 1 ). 
+	     We will form data formats that are for our system and simple.
+	   </p>
+
+           <p>
+             The Dune Buk's processor will be called Meow and will use sound for the computations. "Meow" usually
              is the sweetest of sounds. Some of the processor's design will derive from our previous
              processor+OS project, Kosmos, which was an open source project that remains documented
              on the OpenCores website on this page [ opencores.org/projects/taar ]. The Meow processor
              will have two computation parts which both use sound - a digital part for regular
              computations and an analog part for more complex computations like image recognition.
            </p>
-           
+
            <p>
              This computer will use novel methods for data storage in form of faster visuals-based
              temporary memory and fast micromechanical switches for slower permanent memory.
@@ -386,18 +391,18 @@ modalText.innerHTML = `
              We are discussing a simple and universal way of sensing the electromagnetic spectrum using
              sound. The electromagnetic spectrum includes light in all its variations.
            </p>
-           
+
            <p>
              The display will be a projected display system showing GUI on a screen pullable to the front
              of the user, parallel to the standing surface. Screen input will be performed using a special
              pen for regular input as well as on-screen virtual keyboard for extended typing. The display system 
              will also use sound.
            </p>
-           
+
            <p>
              File system will be non-hierarchical and categories-recording.
            </p>
-           
+
            <p>
              There will be a note-taking application which can record drawing, handwriting, typed writing,
              voice, video and pictures.
@@ -492,7 +497,7 @@ modalText.innerHTML = `
            </div>
 
            <div id="alefa" class="section">           
-           <h2> 04. Alef-A airship-kosmosship</h2>
+           <h2> 04. Alef-A airship-type kosmos ship</h2>
 
            <p>
              We use the airship type of craft to ascend to orbital kosmos from any atmosphere-having world 
@@ -511,32 +516,32 @@ modalText.innerHTML = `
            <ul>
 
            <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
-             The Tall Rocket requires lot of fuel just to lift itself one centimeter off the launch pad whereas the airship-kosmosship's lift when in an atmosphere world 
-	     happens largely automatically through its lift gases.
+             The Tall Rocket requires lot of fuel just to lift itself one centimeter off the launch pad whereas the airship-type kosmos ship's lift when in 
+	     an atmosphere world happens largely automatically through its lift gases.
 	   </li>
 
            <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
-             Much less push-into-orbit fuel in the airship-kosmosship makes the airship-kosmosship much more safer in terms of explosion than 
-	     the Tall Rocket whose majority of mass is the very explosive fuel. Therefore an airship-kosmosship can lift to the kosmos from any neighborhood's 
+             Much less push-into-orbit fuel in the airship-type kosmos ship makes the airship-type kosmos ship much more safer in terms of explosion than 
+	     the Tall Rocket whose majority of mass is the very explosive fuel. Therefore an airship-type kosmos ship can lift to the kosmos from any neighborhood's 
 	     bus stand or ground, and land similarly, unlike the Tall Rocket which is always launched from isolated places like near sea or remote mountain 
 	     or isolated forest or remote flat land.
 	   </li>
 
            <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
-             The airship-kosmosship can easily be made horizontally larger instead of the vertically huge of the Tall Rocket. 
+             The airship-type kosmos ship can easily be made horizontally larger instead of the vertically huge of the Tall Rocket. 
 	     This horizontal largening will make the craft aesthetically pleasing as well as not requiring a huge infrastructure to hold it before launch and 
 	     will keep it from toppling when it is sitting on some world... all unlike the Tall Rocket including with the fashionable legs or bottom fins which 
 	     every rocket company is building.
 	   </li>
 
            <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
-             The airship-kosmosship will also be a single-stage-to-orbit craft ( SSTO ) unlike the at least two stages of the Tall Rocket.
+             The airship-type kosmos ship will also be a single-stage-to-orbit craft ( SSTO ) unlike the at least two stages of the Tall Rocket.
 	   </li>
 
            </ul>
 
            <p>
-             Our airship-kosmosship is the Alef-A which will be shaped like an upside-down teacup without the handle,
+             Our airship-type kosmos ship is the Alef-A which will be shaped like an upside-down teacup without the handle,
              and its lift gases will be colder helium gas and heated helium gas. An airship or a balloon which uses this lift-gas combination of 
 	     a colder gas and a heated gas is called a Roziere Balloon.
            </p>
@@ -573,27 +578,37 @@ modalText.innerHTML = `
 
            <p>
              The Alef-F will be a kosmos-bound ferry large enough to carry five Alef-A crafts, a hundred
-             humans, ten Moggy robot cats ( described below ) and a hundred tons of other cargo and will be primarily propelled by water steam
-             jets but will include coal propulsion for momentary high-thrust-requiring situations. It will have 
-             proper water-using baths and toilets with the toilets having disinfectant-having water spray for hygienic and satisfying 
-             cleaning after defecation. The ferry will also have sufficient growing facilities for food crop, 
-             fuel crop ( for the coal via biocoal ), other crops, a clinic, mini mills for textile, woodwork, 
-             metalwork, bio-engineering, electricals and computers, then tailoring, research facility, mineral processing, 
-             water storage, telescopes, a small swimming pool that is time-segregated for men and women... 
-             all this for largely self-sustained long-term living and far travel.
+             humans, ten Moggy robot cats ( described in a below section below ), facilities for those in-ferry kosmonauts and 
+	     a hundred tons of other cargo and the craft will be primarily propelled by water steam
+             jets but will include coal propulsion for momentary high-thrust-requiring situations.
+	   </p>
+
+           <p>
+	     The facilities will include proper water-using baths and toilets with the toilets having disinfectant-having water jet for hygienic and satisfying 
+             cleaning after defecation. No yucky toilet paper. The ferry will also have sufficient growing facilities for food crop, 
+             fuel crop ( for the coal via biocoal ), other crops, a clinic, mini mills for tailoring, woodwork, 
+             metalwork, bio-engineering, electricals and computers, research facility, mineral processing, 
+             water storage, telescopes and a small swimming pool that is time-segregated for men and women. 
+             All this for largely self-sustained long-term living and far travel.
            </p>
 
            <p>
              This ferry will be able to travel from the Inner Solar System to the Outer Solar System and station around various worlds and 
              kosmik objects to enable from-orbit observations and allow descent-ascent using the Alef-A crafts. 
              The cargo can be anything including mining equipment and habitation-building material. 
-             Thus this ferry craft is much better than the current and proposed kosmos stations around Earth and the Moon. 
-             It can also be called a colony ship.
+	     The construction material will be carried to orbit by the Alef-A crafts.
+	   </p>
+
+	   <p>
+	     The Alef-F ferry craft is better than not only the current and proposed kosmos stations around Earth and the Moon, 
+	     but also better than any deep-kosmos travel crafts proposed by others which will be needlessly complicated, unsafe, 
+	     will carry less people and will have very less facilities and will be propelled either chemically or nuclear or plasma. 
+	     Our Alef-F ferry can also be called a colony ship.
            </p>
 
            <p> 
-             This ferry craft will be constructed in Earth orbit and in other world orbits and will always
-             remain in the kosmik void, never to descend on any world. The construction material will be carried to orbit by the Alef-A crafts.
+             This ferry craft will be constructed in Earth orbit and in other world orbits and will always remain in the kosmik void, 
+	     never to descend on any world.
            </p>
 
            </div>
@@ -634,10 +649,10 @@ modalText.innerHTML = `
              propulsion uses a simple heating mechanism to turn water to steam instead of having other 
              complex and unsafe propulsion mechanisms like plasma or nuclear power.</li>
            </ul>
-           
+
            <p>
              It may be possible to form these two kosmik ships to have artificial gravity generation
-             using spin by spinning sections of the craft This enabling will allow humans to live 
+             using spin by spinning sections of the craft. This enabling will allow humans to live 
              in healthy Earth-like gravity for most of their kosmos journeys and also configure 
              lower or higher gravity to prepare the human travellers for the gravity of other 
              worlds like the Moon or Red One.
@@ -842,12 +857,19 @@ modalText.innerHTML = `
              a human with gentleness, wisdom, sensitiveness and empathy who a cat can trust... certainly not the robotic 
              massively-muscled enhanced beings of some Hollywood films who do not seem "human".
            </p>
-	   
+
+	   <p>
+	     <span> >> </span> 
+	     Lastly, when humanity becomes a largely biological race in the sense of using bacterial biology to make the materials it needs 
+	     via bio-transmutation and when that is added to use of Circular Economy, there will become very less mining in the kosmos in the ways 
+	     known presently and this will lead to humanity fully becoming a Post-scarcity Civilization.
+	   </p>
+
 	   </div>
            
            <div id="wmachines" class="section">
-           <h2> 09. Machines for water including</h2>
-           
+           <h2> 09. Machines for water</h2>
+
              <p>
                <span> >> </span> Portable extractors of water from ice, open water, soil and air.
              </p>
@@ -860,26 +882,40 @@ modalText.innerHTML = `
                <span> >> </span> Electrolysis machines.
              </p>
 
+	     <p>
+               <span> >> </span> Others.
+             </p>
+
            </div>
 
            <div id="moggy" class="section">
            <h2> 10. Moggy robot cat</h2>
 
 	     <p>
-               Moggy robot will be a large cat-like robot whose walk and other movements will be as graceful, silent, quick and strong as a cat and this will involve 
-	       replicating the muscles and bone structure of cats. This robot will also fly using electric rotors. This robot will be able 80 kgs of load on its back in 
-	       a container. The container cover will double up as a seat so that instead of a load inside the container, a kosmonaut wearing our Stillsuit kosmos suit can 
-	       ride on this robot like people ride horses, donkeys and camels, and also fly when seated on it. This robot will be able to dig slope-wise into the soil or 
-	       ice of Earth and other worlds like Earthen animals dig, and this robot will remove the soil to the outside by carrying it in the container on the back.
+               Moggy robot will be a large cat-like robot which can travel on the surface and in the air of any world including Earth and can carry either a kosmonaut 
+	       or 80 kgs load. Its walk and other movements will be as graceful, silent, quick and strong as a cat and this will involve replicating the muscles and 
+	       bone structure of cats. This robot will fly using electric rotors.
 	     </p>
 
 	     <p>
-	       There will be an inflatable transparent roof and walls to protect the human rider from rain, dust, wind, small kosmik rocks and sun.
+               The non-human load of 80 kgs will be carried in a container on its back. The container's cover will double up as a seat so that 
+	       instead of a load inside the container, a kosmonaut wearing our Stillsuit kosmos suit can ride on this robot like people ride horses, donkeys and camels. 
+	       The kosmonaut rider will also fly when seated on this seat. There will be a handle and straps to secure the rider.
 	     </p>
 
 	     <p>
-	       There can be tents strapped onto one or more Moggy robot cat for the humans who will ride or fly on their own Moggys, and the tent-carrying Moggys 
-	       will follow the other Moggys.
+	       This robot will be able to dig slope-wise into the soil or ice or rock of Earth and other worlds like Earthen animals dig, and this robot will remove the 
+	       dug material to the outside by carrying it in the container on the back. The Moggy will use its paws to do the digging, helped by the paws able to 
+	       hold metal tools or biology to do the digging.
+	     </p>
+
+	     <p>
+	       Attached to the Moggy will be an inflatable transparent roof and walls to protect the human rider from rain, dust, wind, small kosmik rocks and sun.
+	     </p>
+
+	     <p>
+	       There can be tents strappable onto one or more Moggy robot cat for the humans who will ride or fly on their own Moggys, and the tent-carrying Moggys 
+	       will follow the other Moggys. The tents will be of Mehfil type which are described below.
 	     </p>
 
              <p>
@@ -888,12 +924,12 @@ modalText.innerHTML = `
 
 	     <p>
                This robot will be water-proof for activity within ice and water and it will be able to swim and climb up like fishing cats, jaguars and tigers. 
-	       It will have heater mechanism to melt the ice. Useful for this robot's excursions on some ice world like Europa to dig through the ice to 
+	       It will have heater mechanism to melt ice. Useful for this robot's excursions on some ice world like Europa to dig through the ice to 
 	       reach the supposed water sea under the ice.
 	     </p>
 
 	     <p>
-	       There can be a group of such cat robots doing the digging and swimming, and will be useful for creating underground habitations for humans on 
+	       There can be a group of such cat robots doing the digging and swimming, and this will be useful for creating underground habitations for humans on 
 	       the Moon or other world.
 	     </p>
 
@@ -921,8 +957,63 @@ modalText.innerHTML = `
 
 	   </div>	   
 
+           <div id="mehfil" class="section">           
+           <h2> 11. Mehfil tent</h2>
+
+           <p>
+	     Mehfil tent will be an armored, inflatable and multi-level tent which will have breathable air inside the inner-most level where will be space for 
+	     four kosmonauts plus some more space for equipment. When the Mehfil tent is fully inflated it will become shaped like an igloo and there will be an airlock 
+	     inside the entrance tunnel.
+           </p>
+
+           <p>
+	     One such tent will be carried by one Moggy robot cat.
+           </p>
+
+           <p>
+	     This tent will have bio-based radiation shielding as well as light-weight electromagnetic shielding.
+           </p>
+
+           <p>
+	     This tent will have a portable, heated-water toilet and wash basin which will be carried on one of the Moggy robot cats.
+           </p>
+
+           <p>
+	     Our Moggy robot cats will set up the Mehfil tents and if necessary these robots will dig the local ground to create a hole where this tent can be placed 
+	     so that there is protection from the environment. The Moggy robot cats will then act as guards outside these tents.
+           </p>
+
+           <p>
+	     In the Urdu language, Mehfil means a place for social gathering. A mehfil can be for anything, especially for discussing the nicer things and 
+	     below are three song examples from older Hindi cinema or related to older Hindi cinema, depicting three different moods in a mehfil... 
+	     the first song being fun and flirty, the second being softer, the third being passionate :
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span>(a).</span> 
+	     Song is called "Parda hai parda" translatable as "This veil, look at that veil" and the link is 
+	     [ https://www.youtube.com/watch?v=WCBkUNedgrk ].
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span>(b).</span> 
+	     Song is called "Naghma-o-shayr ki saughaat kisay paysh karoon" translatable as "Whom do I present this gift of love poetry" and the link is
+	     [ https://www.youtube.com/watch?v=4FYlNks47SU ].
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span>(c).</span> 
+	     Song is called "Ramta jogi" translatable from Panjabi language as "The wandering mystic" and refers to Ranjha, the lover of Heer in 
+	     the great Panjabi love story Heer-Ranjha and the song link is [ https://www.youtube.com/watch?v=qudezKP6_T8 ]. The famous story of Heer-Ranjha is 
+	     about the Panjabi girl Heer who becomes in love with the young man Ranjha from another clan and their local society conspires to separate them and 
+	     in the middle of the story Ranjha becomes a wandering mystic and the story in the end ends in tragedy. This story is also relevant to our company 
+	     as we are spreading only love, gentleness and harmony among humanity and call for the end of needless conflicts, hates and anti-human traditions.
+           </p>
+
+	   </div>
+
            <div id="serf" class="section">           
-           <h2> 11. Serf autonomous satellite for Earth orbit debris cleaning</h2>
+           <h2> 12. Serf satellite for Earth orbit debris cleaning</h2>
 
            <p>
              There are an estimated 100 million human-made pieces of various sizes in Earth orbit, made
@@ -1021,7 +1112,14 @@ modalText.innerHTML = `
            </div>
 
 	   <div id="habitat" class="section">
-           <h2> 12. Habitat construction on other worlds</h2>
+           <h2> 13. Habitat construction on other worlds</h2>
+
+           <p>
+             The below ideas are for worlds which have soil with rock. For ice worlds it is best to not build permanent habitations 
+	     on their surface and instead first observe them from orbit for a long duration and when needed descend on them carefully 
+	     using the Alef-A crafts and only if needed use the Moggy robot cat vehicles to carefully travel their surface. And once the ice world 
+	     are decided to be safe, the below ideas can be adapted to it.
+	   </p>
 
            <p>
              <span>(a).</span> Building most of the habitation underground for protection against kosmik radiation, 
@@ -1042,218 +1140,109 @@ modalText.innerHTML = `
            </p>
 
 	   <p>
-	     <span>(d).</span> The tunnel will be big enough to hold five Moggy robot cats which will be used by the kosmonauts to 
-	     ride out across that world or fly across it.
-           </p>
-
-           <p>
-             <span>(e).</span> On the inside of the tunnel on one side will be an airlock system large enough to hold eight people 
-	     wearing our Stillsuit kosmos suits to use to transfer from the unpressurized tunnel into the pressurized actual inside of the habitation.
-           </p>
-
-           <p>
-             <span>(f).</span> The internal walls will be made of strengthened wood. Wood is lighter than a metal like steel and also growable in the form of trees.
-           </p>
-
-           <p>
-             <span>(g).</span> Use of bio-mimicry and biology in the structures for self-healing.
-           </p>
-
-           <p>
-             <span>(h).</span> Living quarters can be made to spin at Earth gravity level for healthy living.
-           </p>
-
-           <p>
-             <span>(i).</span> All this construction has to be quake-proof and fire-proof.
-           </p>
-
-           <p>
-             <span>(j).</span> All this construction has to be aesthetic. No need to discard aesthetics just because we are in the kosmos. 
-	     Form and function, both are important.
+	     <span>(d).</span> The tunnel will be big enough to hold three Moggy robot cats, where these machines not only will be used 
+	     by the kosmonauts to ride out across that world or fly across it, but also guard the habitation.
            </p>
 
 	   <p>
-             <span>(k).</span> To protect the habitats against big rocks which may penerate even the underground habitats, 
+	     <span>(e).</span> There will be a staircase from inside the tunnel to an enclosed but unpressurized watch tower located on top of the construction. 
+	     The watch tower will have 360 degree view via hardened windows and also a dome window which will also be hardened. The windows will have 
+	     Rajasthani-style "jaali" window covering aka "jali" on the outside to reduce possible high sunlight as well as dust and also to give aesthetic look. 
+	     A picture example of jaali is given below. The entry to the staircase from inside the tunnel will have a door as well as a door at the entry to the watch tower, 
+	     and both doors will be made of the materials given in point (c) above. There will be Dune Buk computers doing video and audio recording in 
+	     the watch tower as well as use of other sensors.
+           </p>
+
+           <p>
+             <span>(f).</span> On the inside of the tunnel on one side will be an airlock system large enough to hold eight people 
+	     wearing our Stillsuit kosmos suits to use to transfer from the unpressurized outside tunnel into the pressurized actual inside of the habitation.
+           </p>
+
+           <p>
+             <span>(g).</span> Beyond the inner side of the airlock will be space to easily hold two more Moggy robot cats in addition to having 
+	     enough space for Stillsuit'ed kosmonauts to easily pass. From here will be the more interiors.
+           </p>
+
+           <p>
+             <span>(h).</span> The internal walls will be made of strengthened wood. Wood is lighter than a metal like steel and also growable in the form of trees.
+           </p>
+
+           <p>
+             <span>(i).</span> Use of bio-mimicry and biology in the structures for self-healing.
+           </p>
+
+           <p>
+             <span>(j).</span> The entire interiors will be made to spin at Earth gravity level for healthy living. Easily done because a large part of the 
+	     internal structure will be made of light but strengthened wood and the living quarters and working quarters will be a network of our Mehfil inflatable tents.
+           </p>
+
+           <p>
+             <span>(k).</span> All this construction has to be quake-proof and fire-proof.
+           </p>
+
+           <p>
+             <span>(l).</span> All this construction has to be aesthetic. No need to discard aesthetics just because we are in the kosmos. 	     
+	     Form and function, both are important. The architecture should be harmonious, gentle, impose no oppressiveness, must inspire thinking 
+	     and must be a delight to the senses. The architecture must be a mix of the most beautiful and environment-sensitive architectures on Earth : 
+	     Rajasthani, Andalusian, Mughal, African, Russian and West Asian. For passive and active environment control, depending on the kosmik world, 
+	     the features must include types like jaali, malqaf, qanat, salsabil, aromatic wetted mat curtains for entrances and balconies 
+	     ( like the Indian "khass" / "khus" grass mats ), fountains and small gardens which have trees growable on the inside. 
+	     There can be trees on the outside of the habitations... these trees genetically modified for the soil situation of that particular world 
+	     as well as every tree having a supporting enclosure if needed. Below are photo examples of some of these features :
+           </p>
+
+           <p>
+             <span> &gt;&gt; </span>
+	     Example of a "jaali" window feature from a 19th century house in Gwalior city in India :
+	   </p>
+
+	   <p>
+	     [ https://en.wikipedia.org/wiki/Jali#/media/File:P_306--Winter_India.jpg ].
+           </p>
+
+           <p>
+               The webpage for this picture is [ https://en.wikipedia.org/wiki/Jali ].
+           </p>
+
+           <p>
+             <span> &gt;&gt; </span>
+	     Example of a "salsabil" feature from Red Fort in Delhi, to do water-based cooling of a room via the water flowing down a shallow 
+	     corrugated surface and getting evaporated :
+	   </p>
+
+           <p>
+	     [ https://upload.wikimedia.org/wikipedia/commons/b/b6/Lal_Qila_%28Red_Fort%29_123.jpg ]. The webpage for this picture is 
+           </p>
+
+           <p>
+             The webpage for this picture is [ https://en.wikipedia.org/wiki/Salsabil_%28fountain%29 ].
+           </p>
+
+	   <p>
+             <span>(m).</span> To protect the habitats against big rocks which may penerate even the hardened underground habitats, 
 	     stationed in orbit will be the bigger versions of the Serf satellite. In case the incoming kosmik rocks have to be taken away 
 	     from that habitation world, the nearest disposal place can be the Sun, Jupiter, Neptune etc depending on which of these
 	     places is near to the habitation world.
            </p>
 
+           <p>
+	     Imagine coming upon such an architectured city on Deimos, one of the two moons of Red One, or such a city on some rocky world beyond Pluto, 
+	     or in a deep crater on Mercury where the crater's bottom is shielded from the Sun... 
+	     of course in all three cases the city's features made relevant to the environment of those kosmik places.
+           </p>
+
 	   <p>
-             <span>(l).</span> An extension of habitat construction is terraforming other worlds like Red One 
-	     so that they begin to resemble Earth. For example, because Red One doesn't have a natural magnetosphere 
-	     to protect it from most of the Sun's radiation and cosmic radiation, we can create a magnetosphere 
-	     by installing large electromagnetic field generators around Red One to prevent most radiation from reaching the atmosphere of 
-	     Red One and its surface. These field generators will be powered by our Faradn generators.
+             An extension of habitat construction is terraforming other worlds like Red One so that they begin to resemble Earth. For example, 
+	     because Red One doesn't have a natural magnetosphere to protect it from most of the Sun's radiation and kosmik radiation, 
+	     we can create a magnetosphere by installing large electromagnetic field generators around Red One to prevent most radiation from 
+	     reaching the atmosphere of Red One and its surface. These field generators will be powered by our Faradn electricity generators.
              Having multiple generators will be useful in terms of redundancy and multi-level 
              coverage.
            </p>
 
            </div>
 
-           <div id="city" class="section">        
-           <h2> 13. City redesign on Earth</h2>
-
-           <p>
-             This effort will consist of designing large and small cities on Earth which are aesthetic, clean, scientifically-built, citizen-managed through the citizens 
-	     directly participating using the natural and progressive concept of Workers Cooperatives ( described in our "Social system for the kosmos" chapter ), 
-	     humanist, not creating pollution, largely food-wise self-sufficient, largely employment-wise self-sufficient, gentle. These new cities will take 
-	     the pressure off current chaotic cities and also bring reasonable city culture to rural people because generally great ideas, discussions and developments
-	     happen in the cities.
-           </p>
-	   
-           <p>
-             In this effort we reject most current notions of how cities are designed because these notions are for unscientific, unplanned, ugly, harmful and chaotic 
-	     installations of features like flyovers, metro lines, skyscrapers, needless feudal office towers made of glass and concrete, feeding programs for dogs, 
-	     small housing plots where the neighborhoods cram tens of thousands of people in small areas which don't have wide roads, trees, parks, 
-	     benches along roads, no local community halls and no self-management of neighborhoods by citizens, where in the city there are no fountains, 
-	     no other aesthetic constructions, no tea houses and no wide footpaths on the main roads... etc etc.
-           </p>
-
-           <p>
-             The gentleness in our redesigned cities will come from seven things :
-           </p>
-
-           <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(a).</span> 
-	     From removing feudalism and profiteering in employment, in city maintenance, in availing amenities and every aspect of human life and conduct.  
-	     These removals will result in removal of competition, cruelty, apathy, chaos and will enable harmonious engagement of humans with humans. 
-	     This in turn means adopting the Workers Cooperative work model in all aspects of life.
-	   </p>
-
-           <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(b).</span> 
-	     From realizing that the attitude of people in a society can be known from their attitude to cats and dogs. Cats are animals of perfection... 
-	     perfection in form, grace, attitude and thinking. They are gentle, sensitive, beautiful in looks, clean, extremely intelligent, loyal, 
-	     empathetic, observant, thoughtful, graceful in movement, independent and produce good vibes for any place they are comfortable in. 
-	     Dogs are the opposite... aggressive, noisy, bring chaos, are mob-oriented, are ugly, are mindless killers, violently compete with other dogs, 
-	     have disgusting habits and carry harmful microbes. There are old descriptions : "Wise cat" and "Dog-eat-dog society". It is clear then... 
-	     do we want a human society to adore cats and thus have gentleness, intelligence, sensitiveness, empathy, beauty, loyalty and 
-	     contribution to humanity or do we want a society to adore dogs and thus have chaos, competition, apathy, cruelty, filth, disgustingness and mindlessness ?
-             Therefore we must create a safe and comfy environment for real cats to prosper and consequently no place for dogs.
-	   </p>
-
-           <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(c).</span> 
-             Gentleness in cities also from fashioning personal vehicles in the likeness of cats and which are electric vehicles in a way that is pollution-free, 
-	     feudalism-free and profiteering-free, instead of the personal two-wheelers and cars of now which have led to class conflict, needless mishaps, crimes, 
-	     noise, chaos, apathy, pollution, feudalism, profiteering, Climate Change and social disconnect. A person riding a cat-likeness vehicle will automatically 
-	     become less aggressive, more dignified and less chaos-making. Our solution for this is our Moggy robot cat vehicle which can walk, 
-	     run and fly while being silent, non-polluting, non-feudal and non-profiteering.
-	   </p>
-
-           <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(d).</span> 
-	     Gentleness in cities also from creating a new kind of public transportation system for intra-city main roads in form of our Ra hybrid vehicle platform 
-	     for ground transportation. This vehicle is described in a below section.
-	   </p>
-
-           <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(e).</span> 
-	     Gentleness in cities also from rethinking inter-city public transport by using our Alef-A airship-kosmosships which can land within neighborhoods 
-	     and other small public areas, removing the need for airports, train stations and bus stations. Our Alef-A crafts will also be able to do inter-continent 
-	     travel this way too.
-	   </p>
-
-           <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(f).</span> 
-	     Gentleness in cities also from removing the current notion of cities being chaotic, non-self-sufficient, impersonal and competion-based which all makes 
-	     tens of thousands of people to needlessly do out-of-city travel daily by various means including trains and so many of these people die needlessly 
-	     because of this and those who don't die they endure daily chaos. But through Kosmos Society's redesign of cities which will be largely self-sufficient and 
-	     will be filled with people of scientific temper, what will be made obsolete will be those tens of thousands of out-of-city travellers. Not only will this make 
-	     cities gentle but there will be very few people travelling beyond their cities on a daily basis and these few people will use our Moggy vehicles, 
-	     our Ra vehicles and our Alef-A airship-kosmosships. This lesser daily out-of-city travel will also contribute to serene Earthen societies.
-           </p>
-
-           <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(g).</span> 
-	     Gentleness in cities also from removing public prayer houses. Belief in God is a personal aspect in those who believe in God and the public veneration 
-	     of God especially in public places has only led to avoidable conflict, oppression, imposition, noise, superstition and disharmony. If anyone chooses to 
-	     believe in God and make prayer, he or she must do this in the personal space of their houses and that too in a silent manner and without imposing 
-	     his or her personal belief on any other human.
-           </p>
-
-	   <p>
-	     Our Ra hybrid electric vehicle will be used for public transportation on the main roads of a city. Though our Moggy robot cat vehicle is non-polluting 
-	     and dignity-bringing, we recognize that allowing hundreds or a million personal vehicles on the main roads of a city will create chaos and traffic congestion.
-	     Therefore we bring to you a unique but simple vehicle concept - the Ra.
-	   </p>
-
-	   <p>
-	     The Ra vehicle will be a combination of hovercraft and wheelcraft having a flat platform where citizens will climb to while riding their Moggy robot cat 
-	     vehicles which they have ridden from their houses, workplaces and other places. The platform of the Ra vehicle will have space for 30 passengers, 
-	     meaning 30 Moggy robot cat vehicles with their riders sitting on the Moggys. Each Moggy vehicle will climb onto the Ra vehicle's platform from 
-	     either the left side or the right side to specifically their empty spot on the Ra's platform. The platform will have a central aisle. 
-	     There will be a human driver in front of the Ra who will be seated there on his or her own Moggy vehicle and control the Ra vehicle using 
-	     a personal Dune Buk wearable computer along with a mechanical control mechanism fitted into the Ra. There will be an inflatable transparent 
-	     enclosure around this vehicle.
-	   </p>
-
-	   <p>
-	     The Ra vehicle is a combination / hybrid of hovercraft and wheelcraft because in normal times the vehicle will use wheels, especially on hilly roads, 
-	     but when a city is flooded then wheels are useless so the hovercraft mode is used. Also, hovercraft mode will be useful when a road leads to a river 
-	     or a lake and the road continues on the other side, so on the river water or lake water the hovercraft mode is used, and it will be better in this case 
-	     to construct ramps that lead from the road to the water and then another ramp from the water to back to the road. This way most bridges across 
-	     rivers need not be constructed.
-	   </p>
-
-	   <p>
-	     A few hundred thousand of our Ra hovercraft-wheelcraft hybrid vehicles on Earth are better than the few billion personal vehicles which clog and pollute 
-	     Earth presently and have been the major cause of Climate Change.
-	   </p>
-
-	   <p>
-             Climate Change cannot be reversed by stupid things like "Carbon credits", lithium batteries, nuclear reactors, huge wind farms and such other things. 
-	     The regular "Climate Change discussion conference" called COP Conferences are a waste of time and are optics and a wine-and-dine gathering. 
-	     The activist Greta Thunberg said of the 2021 COP conference conducted in Glasgow city that "It is a greenwash" and that many of the attending 
-	     national government leaders actually benefit from the profiteering companies which cause human misery and the pollution which caused Climate Change. 
-	     The solutions we of Kosmos Society present about transporation and other things will lead to the beginning of drastic reversal of Climate Change and 
-	     of course eradication of human misery.
-	   </p>
-
-	   <p>
-	     The name of our hovercraft-wheelcraft vehicle, "Ra", comes from ancient Egyptian mythology where Ra was their supreme god and had many forms 
-	     including a cat which slays snakes. This god-being was a hybrid. Other than using this name for our hovercraft-wheelcraft vehicle as our dedication to 
-	     cats, our vehicle is also a hybrid of hovercraft and wheelcraft, thus the name.
-	   </p>
-
-	   <p>
-	     Next, there is a sad fact of hunger in various places on Earth, including in cities of a million people at least, and this is a three part problem :
-           </p>
-	   
-	   <p style="margin-left:1em; margin-bottom:10px";> 
-	     <span> (a). </span>
-	     A technological problem via use of traditional methods of growing food in open farms which are inefficient, centralized, polluting, climate-vulnerable and 
-	     pest-vulnerable. Also connected is non-availibility of water in many places because farmers have either exhausted ground water due to over-use 
-	     or there has been drought.
-           </p>
-
-	   <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(b).</span>
-	     A social problem via growing useless crops. These crops are nutritionally poor yet take up a lot of expenditure of water, fertilizers, labor etc. 
-	     This contradiction is because these crops hold cultural significance. Rice is one example.
-           </p>
-          
-          <p style="margin-left:1em; margin-bottom:10px";> 
-            <span>(c).</span> 
-	    A social problem largely via tax on food, within-family feudalist unequal distribution of food, abandonment by family, social apathy, classism, 
-	    culture-dependent wastages of food, private profiteering by merchants and geopolitical interferences in food distribution.
-	  </p>
-
-          <p>              
-	     So many people go hungry or die of hunger despite abundance of food elsewhere and sometimes because of wastages of food.
-	  </p>
-	   
-	  <p>
-	    The simple solution for hunger is not only social enlightenment but also a technological combination of bio-engineered plant-based foods and 
-	    the nutritious originally animal products like given in the "Biology researches" section above. These techno food productions must be done in decentralized,
-	    neighborhood-level indoor farms which have localized water generation as much as possible as well as scientifically built canals. 
-	    There is no need for anyone to die of hunger now in 2025 AD.
-          </p>
-
-          <p>[ To be done ] </p>
-
-       </div>
+         </div>
      `;
 modal.style.display = 'flex';
 // Attach Topics toggle event after DOM update
@@ -1264,10 +1253,10 @@ modal.style.display = 'flex';
           toggleBtn.addEventListener('click', function() {
             if (linksDiv.style.display === 'none' || linksDiv.style.display === '') {
               linksDiv.style.display = 'flex';
-              toggleBtn.innerHTML = 'Techno projects - Topics &#9650;';
+              toggleBtn.innerHTML = 'Our techno systems - Hide topics';
             } else {
               linksDiv.style.display = 'none';
-              toggleBtn.innerHTML = 'Techno projects - Topics &#9660;';
+              toggleBtn.innerHTML = 'Our techno systems - Show topics';
             }
           });
           // Add event listeners to links to close topics box on click
@@ -1275,7 +1264,7 @@ modal.style.display = 'flex';
           navLinks.forEach(function(link) {
             link.addEventListener('click', function(e) {
               linksDiv.style.display = 'none';
-              toggleBtn.innerHTML = 'Techno projects - Topics &#9660;';
+              toggleBtn.innerHTML = 'Our techno systems - Show topics';
               // Prevent default anchor behavior
               e.preventDefault();
               // Get the target section
@@ -1306,7 +1295,7 @@ modal.style.display = 'none';
 }
 }, 0);
 
-// Social system for the kosmos
+// Social system
 }  else if (chapter === 'socialsystem') {
 modalText.innerHTML = `
        <div style="position:relative;padding:0;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:600px;overflow:hidden;">
@@ -1455,20 +1444,20 @@ modalText.innerHTML = `
          </style>
 
          <div class="nav-links">
-            <button id="topics-toggle">Social system for the kosmos - Topics &#9660;</button>
+            <button id="topics-toggle">Our social system - Show topics</button>
             <div id="topics-links">
               <a href="#intro">&nbsp;&nbsp; 01. Introduction to this chapter </a>
-              <a href="#nations">&nbsp;&nbsp; 02. The Kosmos and human nations on Earth </a>
-              <a href="#equality">&nbsp;&nbsp; 03. Natural equality to be a kosmonaut and when being a kosmonaut </a>
+              <a href="#nations">&nbsp;&nbsp; 02. Kosmos and the human nations on Earth </a>
+              <a href="#equality">&nbsp;&nbsp; 03. Natural equality to be a kosmonaut </a>
               <a href="#organization">&nbsp;&nbsp; 04. Social organization for kosmonauts </a>
               <a href="#tea">&nbsp;&nbsp; 05. Tea and Kosmos</a>
-              <a href="#language">&nbsp;&nbsp; 06. Language, appearance and personality of the kosmonauts </a>
+              <a href="#language">&nbsp;&nbsp; 06. Personality of the kosmonauts </a>
               <a href="#sports">&nbsp;&nbsp; 07. Sports and recreation in the kosmos </a>
               <a href="#education">&nbsp;&nbsp; 08. Education in the kosmos </a>
               <a href="#satellite">&nbsp;&nbsp; 09. Basis of satellite design </a>
-              <a href="#mining">&nbsp;&nbsp; 10. Mining in the kosmos </a>
-              <a href="#mirkeen01">&nbsp;&nbsp; 11. Mirkeen-01 base on the Moon</a>
-              <a href="#aliens">&nbsp;&nbsp; 12. Meetings or sightings of aliens </a>
+              <a href="#mirkeen01">&nbsp;&nbsp; 10. Mirkeen-01 base on the Moon</a>
+              <a href="#aliens">&nbsp;&nbsp; 11. Meetings or sightings of aliens </a>
+	      <a href="#city">&nbsp;&nbsp; 12. City redesign on Earth</a>
             </div>
 
          </div>
@@ -1477,17 +1466,16 @@ modalText.innerHTML = `
                   
          <div id="intro" class="section">
            <h2> 01. Introduction to this chapter</h2>
-        
+
            <p> 
-             We present the draft of a social system for the kosmos ( space / universe ), which is simple, progressive, pan-humanist, harmonious 
-             and Nature-ordained and is for all humans going and living in the kosmos and hopefully this social system finds adoption throughout Earth in time. 
-	     This draft social system seeks to remove all the artificial and needless unpleasantnesses, tragedies and anti-natural beliefs that humans do or endure 
-	     presently on Earth, and we promote all the approaches which are natural, rational, simple, enlightened and gentle.
+             We present the draft of a social system for all humans in the kosmos, including on Earth. This social system is simple, progressive, rational, gentle, 
+	     pan-humanist, harmonious and Nature-ordained. This draft social system seeks to remove all the artificial and needless unpleasantnesses, tragedies and 
+	     anti-natural beliefs that humans do or endure presently on Earth.
            </p>
 
            <p>
-             In every human being a kosmonaut he or she must have an enlightened spirit including by selflessly sharing kosmik resources with every other human 
-	     in an equal manner without needless taxes like money, college degrees, race, belief in certain divinities, Earthen passport and 
+             Every kosmonaut must have an enlightened spirit including by selflessly sharing kosmik resources with every other human 
+	     in an equal manner without demanding taxes like money, college degrees, race, belief in certain divinities, Earthen passport and 
 	     other human-made social positions.
            </p>
 
@@ -1496,9 +1484,9 @@ modalText.innerHTML = `
              then will start spreading to the Asteroid Belt which sits in the space between Red One and Jupiter 
              and then beyond to the edges of the Solar System and then to the stars. Our social system will help 
              humans from those starting 12 years to the far far future which is unknown now but what is known 
-             is that how much ever humans become superior biologically and intellectually they must live 
+             is that how much ever humans become superior biologically and intellectually, they must live 
              within the laws and ways of Nature, with the realization that Nature is supreme. We must build 
-             a kosmic utopia, making humankind an evolved kosmos society.
+             a kosmik utopia, making humankind an evolved kosmos society.
            </p>
 
            <p>
@@ -1509,10 +1497,10 @@ modalText.innerHTML = `
            </div>
 
            <div id="nations" class="section">
-           <h2>02. The Kosmos and human nations on Earth</h2>
+           <h2>02. Kosmos and the human nations on Earth</h2>
            
            <p>
-             The kosmos has existed forever, much before some modern human scientists and academics foolishly
+             The Kosmos / Universe has existed forever, much before some modern human scientists and academics foolishly
              affixed an age to it on the basis of needless mathematics i.e. the Big Bang Theory and now
              there are two Big Bang theories. Kosmos has existed before human nations existed on Earth,
              before Earth itself existed. The concept of Earthen Nations / Nation States
@@ -1755,7 +1743,7 @@ modalText.innerHTML = `
 
        <p>
          Jumping back to the modern age, in India between the 1850s and 1930s lived the general researcher Jagadish Chandra Bose... 
-	     a man interested in many sciences including humane social conduct. He was the first to investigate microwave radiofrequency and made great discoveries
+	 a man interested in many sciences including humane social conduct. He was the first to investigate microwave radiofrequency and made great discoveries
          in botany and among his researches living now is our modern telecom including the everywhere-present
          cell phone. He treated other humans in an equal manner, whether they be of "lower caste" or of other religions, and he was against the patent system
          so in today's terms he can be called part of the earlier Open Source Knowledge movement
@@ -1764,28 +1752,36 @@ modalText.innerHTML = `
 
        <p>
          So it will be irrational, immoral and ungrateful for a group from Earth to claim national or 
-         cultural exclusive superiority on Earth and act in an ultranationalist way while not 
-         acknowledging the shared history of humanity and not acknowledging their benefiting of  
+         cultural exclusive superiority on Earth and act in an nationalist way while not acknowledging 
+	 the shared history of humanity and not acknowledging their benefiting from 
          social philosophies and technologies that may have had origins elsewhere on Earth.
        </p>
 
        <p>
-         It is then natural, rational, automatic and moral to expect that the kosmos be a place of a united 
-         humanity instead of carrying the needless artificial hates and divides on Earth. The 
-         timelessly existent kosmos and kosmik objects should not be divided up by humans by way of 
-         selective ownerships by Earthen nations and not be introduced with militarization to defend 
-         those selective ownerships against other humans. We should not allow the nationalist 
-         bickerings and tragedies on Earth to be carried over into the kosmos. The kosmos should be the 
-         peaceful exploration medium, mining place and settlement place of a collective humanity 
-         under a truly democratic framework. National boundaries are artificial but human fraternity is 
-         natural.
+         It is then natural, rational, automatic and moral to expect that the kosmos be a place of a united humanity 
+	 instead of carrying the needless artificial hates and divides on Earth.
        </p>
+
+       <p>
+	 This also leads to the point of mining in the kosmos. The timelessly existent and borderless kosmos and kosmik objects 
+	 should not be divided up by humans by way of selective ownerships by Earthen national governments and private corporations and 
+	 and these entities should not introduce militarization to defend those selective ownerships against other humans. We should not allow the tragedies 
+         on Earth based on nationalism and profiteering to be carried over into the kosmos. The kosmos should be the peaceful exploration medium, 
+	 mining place and settlement place of a collective humanity under a truly democratic framework. 
+	 National boundaries are artificial but human fraternity is natural.
+       </p>
+
+            <p>
+	     Such is also the agreement undertaken at UNOOSA ( United Nations Office for Outer Space Affairs ) which is a department of the UN. 
+	     Though the UN has failed to prevent invasions, needless conflicts, genocides and subversions since its inception in 1945 and 
+	     has served only as a decoration, very much not uniting nations despite its name, its UNOOSA department at least makes sense.
+           </p>
 
            </div>
 
            <div id="equality" class="section">
-           <h2> 03. Natural equality to be a kosmonaut and when being a kosmonaut </h2>
-           
+           <h2> 03. Natural equality to be a kosmonaut </h2>
+
            <p>
              The current human-transport kosmos industry / space industry is feudal where aspiring kosmonauts 
              have to fit the below irrational categories to qualify for travel to the kosmonaut :
@@ -1856,42 +1852,98 @@ modalText.innerHTML = `
 	     can be trusted to think good of the nation by voting in elections and can be trusted to think good of the world and can be trusted to drive vehicles 
 	     without causing a single mishap, rule breaking or crime. And until a person becomes 18 age he or she must have "guardians" in form of "family elders", 
 	     essentially older persons in the family who are supposedly wise enough to guide the younger person's life to perfection. And the turning of the 
-	     younger person to 18 age will supposedly bring that person maturity, sense of freedom, freedom and purpose to life but this is a lie. Nature has no such 
-	     hard "adult age" separation where a person aged "17 years, 23 months, 29 days, 23 hours, 59 seconds" is immature, does not have a sense of freedom, 
-	     can be easily misled and cannot be trusted to know good of himself or herself, of their neighborhood, nation and humanity, but when the clock moves 
-	     forward one second and the person turns 18, suddenly this person supposedly experiences an explosion of genius and finally attains a sense of freedom,
-	     cannot be misled and can be trusted to know good of himself or herself, of the neighborhood, nation and humanity and therefore becomes called "Adult" 
-	     and will supposedly be given all freedoms by society. All nonsense. A 60-year-old person who has been "adult" for 42 years can be very easily immature, 
-	     can be easily misled, can be violent, cruel, apathetic, cause genocide and also be a slave until death. If every 80-year-old was automatically a genius 
-	     just because he or she was 80 of age, the world would not have seen feudalism, wars, oppressions, superstitions, competition, crimes, suicides, cruelty,
-	     apathy, competition, Climate Change and disharmony. All of Earth would have been utopia 300,000 years ago when Homo Sapiens supposedly began. 
+	     younger person to 18 age will supposedly bring that person maturity, sense of freedom, freedom and purpose to life but this is a lie.
+	   </p>  
+
+	   <p style="margin-left:1em; margin-bottom:10px";>  
+	     Nature has no such hard "adult age" separation where a person aged "17 years, 11 months, 29 days, 23 hours, 59 seconds" is immature, 
+	     does not have a sense of freedom, can be easily misled and cannot be trusted to know good of himself or herself, of their neighborhood, nation and 
+	     humanity, but when the clock moves forward just one second and the person turns 18, suddenly this person supposedly experiences an explosion 
+	     of genius and finally attains a sense of freedom, cannot be misled and can be trusted to know good of himself or herself, of the neighborhood, nation and 
+	     humanity and therefore becomes called "Adult" and will supposedly be given all freedoms by society. All nonsense.
+	   </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";>
+	     A 60-year-old person who has been "adult" for 42 years can be very easily immature, can be easily misled, can be violent, cruel, apathetic, competitive, 
+	     create chaos, cause genocide, be a voluntary slave until death and look disgusting. If every 80-year-old was automatically a genius just because he or she 
+	     was 80 of age, the world would not have seen feudalism, wars, oppressions, superstitions, competition, crimes, suicides, cruelty, apathy, 
+	     Climate Change and disharmony. All of Earth would have been utopia 300,000 years ago when Homo Sapiens supposedly began.
+	   </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";>
 	     This "Adult age 18" is an unnatural, nonsense invention by the feudals ruling Western countries... the age 18 chosen randomly to define "Voting age" 
 	     to give the masses of these societies a celebratory moment within the multi-generation illusion that they live in democracy because they can vote
 	     in elections, own personal cars and purchase houses but in truth their ideas and voices don't matter to the parties they have voted to power and
-	     they continue to live in wage slavery and other slavery that their previous ten generations at least had lived in their feudal setup. It's not like 
-	     an 18-age voter and his 60-age voter father can together drive their personal car to the gate of the mansion of the politician they voted for, 
-	     who is also a feudal running a needless software services empire, and this son and father will be welcomed in the feudal-politician's mansion with 
-	     tea and biscuits and they will be allowed to describe their good ideas for their society and humanity and they will be listened by this election-winning 
-	     feudal-politician and they will be made advisors to the nation. This of course won't happen despite the "Magical adult age 18" of the son and 
-	     father and therefore this "Magic adult age 18" is a nonsense idea. Five hundred years ago the Mughal emperor Akbar became emperor at age 13 and 
-	     he became a good administrator, very unlike most other feudals in history. He did progressive things that most other feudals never had the idea of doing 
-	     at their 80 of age. And like we wrote in the second section in this chapter, 1800 years before Akbar was the Indian king Chandragupta Maurya 
-             who at age 40 married the 15-year-old Greek-Irani girl Helena. Chandragupta didn't consider Helena as immature and incapable including in 
-             being his queen of an important kingdom on Earth. He married her and her progeny with Chandragupta was the great Buddhist king Ashoka. It is not as if 
-	     Ashoka was the progeny of a grandmother who had married at the modern "Magic adult age 18" or 38. Lastly, in the context of this chapter being about
-	     removal of feudalism from kosmos travel, it is not as if the kosmos / Nature will throw back to Earth any human who is below 
-	     "Magic adult age 18" and has reached Low Earth Orbit to try to reach the Moon. Nature does not have this age discrimination and age feudalism. 
-	     The kosmos will easily kill any 80-age kosmonaut who has gone close to the Sun as easily as a 15-age kosmonaut.
+	     they continue to live in wage slavery and other slavery that their previous ten generations at least had lived in their feudal setup.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+	     It's not like an 18-age voter and his 60-age voter father in London can together drive their personal car to the gate of the mansion of 
+	     the politician they voted for, who is also a feudal running a needless software services empire, and this son and father will be welcomed in 
+	     the feudal-politician's mansion with tea and biscuits just because the 18-age son has newly become a voter, and they will be allowed 
+	     to sit in the feudal-politician's garden and describe their good ideas for their society and humanity and they will be listened by 
+	     this election-winning feudal-politician and he will arrange for them to become made advisors to the nation by sitting in the House of Commons and 
+	     this feudal-politician will get them made advisors in the United Nations General Assembly. This of course won't happen despite 
+	     the "Magical adult age 18" of the son and father.
+	   </p>  
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+            Therefore this "Magic adult age 18" is a nonsense idea.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+	     Five hundred years ago the Mughal prince Jalaaluddeen Muhammad, who later became called Akbar ( "The Great One" ), became emperor of India 
+	     at age 13 and he became a good administrator in time because he was a sensible person inherently despite being from a feudal family, 
+	     very unlike most other feudals in history. He did progressive things at younger ages that most other feudals never had the idea of doing at their 80 of age... 
+	     for example at age 20 he married a Hindu Rajput princess now popularly called Jodha Bai. And Jodha Bai after becoming Akbar's wife, 
+	     was renamed as "Mariyam uz Zamaani" which meant "Mary of Our Times"... Mary / Mariyam being the mother of Isa / Jesus. 
+	     Akbar, through this marriage alliance, brought some harmony to the warring nature within then India by creating family bond between 
+	     the Muslim-dominated empire of Akbar and the Hindu Rajput kingdoms dominating much of the north of India. And also through the name 
+	     "Mariyam uz Zamaani" a nod to the non-tribalist teachings of Isa / Jesus to bridge India more culturally to the rest of the known world. 
+	     How many feudals in the world who were 80 of age could think of such an alliance ?
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+	     Another of Akbar's brilliances was his creation of a new constitution for his Indian empire. This constitution is now called 
+	     "Deen e Elaahi" and then was called "Tauheed e Elaahi"... meaning "The One-ness of God" or perhaps "The One-ness of the Divine". This system 
+	     was a syncretic system which brought together the beliefs of Islam, Hinduism, Christianity, Zoroastrianism and others. This new syncretic system called 
+	     "Tauheed e Elaahi" was presented as the state system for his empire to bring together as humans all his subjects who were of various religions. 
+	     The theology of this syncretic system was amplified by him gathering in his library the texts from various parts of the world and in various languages... 
+	     from Kashmiri in the north of India to Greek from Greece thousands of kilometers away in Europa. The Wikipedia page for this syncretic system 
+	     [ en.wikipedia.org/wiki/Din-i_Ilahi ] has this sentence : "In a letter to King Philip II of Spain, Akbar laments that so many people do not 
+	     investigate their religious arguments, stating that most people will instead blindly "follow the religion in which [ they ] were born and educated, 
+	     thus excluding [ themselves ] from the possibility of ascertaining the truth, which is the noblest aim of the human intellect."". Though this new 
+	     syncretic system died with the death of Akbar, he created this syncretic system as his country's constitution and his contribution to humanity 
+	     in general, at the age of 40 in year 1582 what many other feudals in history... indeed most humans in history... could not do at age 80.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+	     And like we wrote in the second section in this chapter, 1800 years before Akbar was the Indian king Chandragupta Maurya who at age 40 married 
+	     the 15-year-old Greek-Irani girl Helena. Chandragupta didn't consider Helena as immature and incapable including in being his queen of 
+	     an important kingdom on Earth. He married her, and her progeny with Chandragupta was the great Buddhist king Ashoka. It is not as if the greatness 
+	     of Ashoka came about because he was the progeny of a grandmother who had married at the modern "Magic adult age 18" or 38.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+             Ageism is nonsense, whether a person is not given his or her human rights because of younger age or older age.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+	     So about age, in the context of this 
+	     being about removal of feudalism from kosmos travel, it is not as if Kosmos / Nature will throw back to Earth 
+	     any human who is below "Magic adult age 18" and has reached Low Earth Orbit to try to reach the Moon. Nature does not have this irrational 
+	     age discrimination and age feudalism. The kosmos will easily kill any 80-age kosmonaut who has gone close to the Sun as easily as a 15-age kosmonaut.
 	   </p>
 
            <p>
              Thus presently most humans are excluded from going to the kosmos even if they are intelligent, gentle, physically able and respect Nature... 
              even if experiencing the kosmos must be the easy right of every human. But it is not Nature denying most people 
              access to the kosmos... it is anti-democratic systems among humans doing so. The kosmos does not create celestial messaging 
-             where the kosmos displays an "Only allow them" list in Earth's night sky every night where the list shows names of 
-	     only the moneyed and the other unfairly privileged who can experience the kosmos. In truth the kosmos knows neither money nor rank.
+             where the kosmos displays an "Only allow them" list in Earth's night sky every night... the alphabets in the list formed by 
+	     formations of stars... where the list shows names of  only the moneyed and the other unfairly privileged who can experience the kosmos. 
+	     In truth the kosmos knows neither money nor rank nor college degree nor age nor any other such nonsense.
 	   </p>
-	     
+
            <p>
 	     And for those very very few people on Earth who are able to become kosmonauts, they go by sitting in very unsafe and unreliable systems 
 	     which can explode any time and kill them and many other humans around. All this is just needless.
@@ -1969,32 +2021,53 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";>
 	     <span> (i). </span> 
-             Tax is not from Nature... neither in form of huge money for a ticket to the Moon or in form of other demands like 
-	     compulsory college degrees, "adult age 18", belief in certain divinities, the billionaires' idea of "physical fitness" for women to become kosmonauts, 
-	     or for kosmonauts to belong to only certain Earthen countries their governments like, and so on. The kosmos belongs to all humans 
-             as long as they respect Nature and Nature's laws and are not cruel and apathetic to others.
+             Tax is not from Nature. Does a tree demand tax from a bird which wants to eat that tree's fruits ? Does the sky demand tax from a garden 
+	     so that the sky can send rain to the garden ? Do the words of a book demand tax from a reader so that the words become imprinted into the mind 
+	     of the reader and provide him or her with knowledge, enjoyment and imagination ?
+	   </p>
+	   
+           <p style="margin-left:1em; margin-bottom:10px";>
+             Therefore in context of the kosmos industry, the kosmos too doesn't demand tax from a prospective kosmonaut... neither in form of huge money 
+	     for a ticket to the Moon or in form of other demands like compulsory college degrees, "adult age 18", belief in certain divinities, 
+	     the billionaires' idea of "physical fitness" for women to become kosmonauts, or for kosmonauts to belong to only certain Earthen countries 
+	     who their governments like, and so on. The kosmos belongs to all humans as long as they respect Nature and Nature's laws and are not cruel, 
+	     apathetic, competitive and exploitative with others.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+             The concept of tax is a feudalist idea which existed during the times of kings and colonizers ( like the British colonials in India ) who had officials called 
+	     Collectors to collect tax even from  a peasant who earned 100 dollars per year after hard labor in the open, while the feudal earned 100,000 dollars 
+	     every month just sitting comfy in his mansion, and only misery was the sole free thing in the life of the peasant while the feudal earned his 100,000 dollars
+	     every month by profiting off the misery of the peasant including by doing usury to the peasant who in turn burdened every month by usury and 
+	     by the artificial unobtainability of the necessities of life, much less desire for the finer things of life, hanged himself or herself from a tree in the village or 
+	     jumped into the village lake.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+	     Isa spoke against this 2025 years ago, so now in 2025 AD any person who claims to believe in Democracy should not demand tax and those who do 
+	     must reflect. Let us not take tax and other forms of feudalism to the kosmos and bring disharmony there. Can the tax-loving person convince the 
+	     mighty Sun to allow tax system in the Solar System ?
            </p>
 
            <p>
              For us, Kosmos Society, the simple answer is to enable a cheaper, simpler and safer kosmos industry which also propagates true progressive pan-human 
              liberty, equality and fraternity, and we will do this by designing kosmos machinery which are simplified, reliable, aesthetic and universal in usage 
-             and can be built for cheap, operated for cheap and repaired for cheap. And these systems will be built and deployed by governments to benefit 
+             and can be built for cheap, operated for cheap and repaired for cheap. And these systems will be built and deployed by Earthen governments to benefit 
              their citizens and all citizens of humanity, on Earth and in the kosmos, and these governments should not collect tax for :
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(a).</span> Providing and repairing the personal systems like 
-             our Dune Buk wearable computer.
+             <span>(a).</span> Providing and repairing the personal systems like our Dune Buk wearable computer.
            </p>
            
            <p style="margin-left:1em; margin-bottom:10px";>
              <span>(b).</span> Transporting people in our designed kosmos ships and our on-world personal transport vehicles, the Moggys.
            </p>
-           
+
            <p style="margin-left:1em; margin-bottom:10px";>
              <span>(c).</span> Selflessly providing food, communication, health support and rescue in the kosmos.
            </p> 
-           
+
            <p style="margin-left:1em; margin-bottom:10px";>
              <span>(d).</span> Transporting any habitation equipment in the kosmos not makeable via ISRU ( In-situ Resource Utilization ).
            </p>
@@ -2002,23 +2075,23 @@ modalText.innerHTML = `
            <p style="margin-left:1em; margin-bottom:10px";>
              <span>(e).</span> Transporting research equipment and conducting research.
            </p> 
-           
+
            <p style="margin-left:1em; margin-bottom:10px";>
              <span>(f).</span> Transporting any large reasonable leisure equipment.
            </p> 
-           
+
            <p style="margin-left:1em; margin-bottom:10px";>
              <span>(g).</span> Transporting mining equipment and mined produce in the kosmos.
            </p>
-           
+
            <p style="margin-left:1em; margin-bottom:10px";>
              <span>(h).</span> Providing habitation in the kosmos.
            </p>
-           
+
            <p style="margin-left:1em; margin-bottom:10px";>
              <span>(i).</span> Providing education in the kosmos. Please read of this topic more in the below section of that name.
            </p>
-	   
+
 	   <p>
 	     Many of you will ask, how will the governments earn money if they send their citizens to the kosmos by not placing tax on their citizens. 
 	     This question is addressed in the next section in the second last point there.
@@ -2138,7 +2211,7 @@ modalText.innerHTML = `
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(m).</span> This system leads to thinking about decentralization / self-governance, gentleness, a non-corporate environment, 
+             <span>(m).</span> This system leads to thinking about decentralization / self-governance, gentleness, collectivism, a non-corporate environment, 
 	     a non-militarist environment and a pan-human outlook. This also means in the kosmos context, no hierarchy and no traditional 
              aerospace titles like "Captain" and "Commander". The environment in the group will be relaxing and 
              focused towards the purpose of the group's setting-up and for pan-humanism and not for hierarchy-induced disharmony and "making a career". 
@@ -2251,7 +2324,11 @@ modalText.innerHTML = `
            </div>
 
            <div id="language" class="section">         
-           <h2> 06. Language, appearance and personality of the kosmonauts</h2>
+           <h2> 06. Personality of the kosmonauts</h2>
+
+          <p>
+	    This section is about language, appearance and personality of the kosmonauts.
+	  </p>  
 
            <p>
              English is the most appropriate common language in the kosmos and will be the base language in our 
@@ -2315,7 +2392,7 @@ modalText.innerHTML = `
            </p>
 
            <p>
-	     Finally, the surviving gladiators who may still remain slaves, but of others now, despite promises of liberation from this kind of slavery, 
+	     Finally, the surviving gladiators who may still remain slaves, but owned by others now, despite promises of liberation from this kind of slavery, 
 	     they were lionized, glorified, heroized and made examples of supposed manlines... something every eight-year-old ordinary boy and every 60-year-old 
 	     ordinary "man" should celebrate, venerate and look forward to becoming. The word "lionized" about the surviving gladiators is ironical considering that 
 	     real lions would have been maimed and killed by the gladiators. What for ???
@@ -2330,9 +2407,32 @@ modalText.innerHTML = `
            </p>
 
            <p>
-	     Therefore we of Kosmos Society wish to calm down and evolve humanity from this barbarity and competition in sports, including in the kosmos, 
+	     Also in the modern world, most sports stars will become uncaring feudals with regards to their very fans who made them famous and wealthy. 
+	     Ordinary sports-mad citizens spend years being loyal to professional sports people... to sports stars... instead of being loyal to their fellow citizens and 
+	     to humanity. In return, the sports stars will neither give a million dollars from their millions more, to their most ardent and loyal fans, 
+	     nor will these sports stars speak up on social issues and global issues.
+           </p>
+
+           <p>
+	     Even when the fans become victims of stampede when waiting for their cherished sports stars and die in the stampede or get injured,
+	     the sports heroes will not care one bit and maybe days later post a tweet with bland words of fake sadness. Nothing more. And the same sports stars 
+	     may in coming days release tweets hating other people on Earth.
+           </p>
+
+           <p>
+	     So why are these sports stars cherished by the masses if all they are are fake heroes ?
+           </p>
+
+           <p>
+	     There are other sports stars who were good people in general and could have used their charisma for good things but sadly wasted those opportunities. 
+	     For example, the handsome chap Ayrton Senna who was a famous car racer. He could have become a model for good products and 
+	     acted in humanist serials and films instead of wasting his time going round and round the racing tracks and ultimately dying there in a crash.
+           </p>
+
+           <p>
+	     Therefore we of Kosmos Society wish to calm down and evolve humanity from this barbarity, competition and pointlessness in most sports, 
 	     so we consider badminton, swimming, walking, floor exercises, pull-ups and light gymming ( the last three only for men ) to not only be the ideal sports 
-	     for Earth but also among the best ones for the kosmos though with considerations for low-gravity places like the Moon and no-gravity places 
+	     for Earth but also among the best ones for elsewhere in the kosmos though with considerations for low-gravity places like the Moon and no-gravity places 
              like the Alef-F ferry when its spin system has been turned off.
            </p>
 
@@ -2531,16 +2631,16 @@ modalText.innerHTML = `
            </p>
 
            </div>
-           
+
            <div id="satellite" class="section">
            <h2> 09. Basis of satellite design</h2>
            
            <p>
-             There should be no design of needless nano-satellites and larger satellites that are currently 
+             There should be no construction of needless nano-satellites and larger satellites that are currently 
              built by every second engineering college and launched into Earth orbit by misguided launch 
              organizations and cumulatively make Earth orbit dangerous for humans to travel in - an 
              unnecessary situation brought about by profit-mindedness, competition in education, 
-             unscientific thinking and avoidable ultranational posturing.
+             unscientific thinking and avoidable nationalist posturing.
            </p>
 
            <p>
@@ -2549,45 +2649,13 @@ modalText.innerHTML = `
              should be managed by a collective human committee. We of Kosmos Society will keep this 
              as a necessary element when designing our Frema kosmos-capable internet system. We will 
              also design systems that contribute to clearing up the current satellite and rocket debris around Earth. 
-             Please read the section about Serf satellite in the "Techno projects" chapter on this website.
+             Please read the section about Serf satellite in the "Our techno systems" chapter on this website.
            </p>
-
-           </div>
-
-           <div id="mining" class="section">           
-           <h2> 10. Mining in the kosmos</h2>
-
-           <p>
-             The kosmos belongs to no single human nation state and certainly to no feudal corporation. 
-             The kosmos belongs to all humankind in a collective sense and no nation state can endanger other humans by placing weapons of 
-             mass destruction in the kosmik void or on kosmik bodies nor can a nation state exclusively 
-             claim kosmik objects for taking resources ( say even from a star like the Sun ). Similar is the 
-             agreement undertaken at UNOOSA ( United Nations Office for Outer Space Affairs ) 
-             which is a department of the UN. Though the UN has failed to prevent invasions, needless conflicts, genocides and subversions 
-             since its inception in 1945 and has served only as a decoration, very much not uniting nations despite its name, 
-             its UNOOSA department at least makes sense.
-           </p> 
-
-           <p>
-             In the kosmos no one should be a Scrooge McDuck i.e. not greedily see the kosmos as yet another 
-             natural resource to do selfish profiteering from, to the exclusion of other humans and to the 
-             exploitation of the workers working for that corporation in the dangers of the kosmos and to the 
-             consequent spoiling of Nature, but instead seeing kosmik resources as the means to bring easy material 
-             collective enrichment of every human on Earth and beyond Earth on an equal basis, where all humans are 
-             collectively prosperous. It then also follows the necessity that national governments on Earth 
-             will participate in such a democratic pan-humanist effort.
-           </p>
-
-	   <p>
-	     Lastly, when humanity becomes a largely biological race in the sense of using bacterial biology to make the materials it needs 
-	     via bio-transmutation and when that is added to use of Circular Economy, there will become very less mining in the ways 
-	     known presently and additionally humanity will fully be Post-scarcity Civilization.
-	   </p>
 
            </div>
 
            <div id="mirkeen01" class="section">
-           <h2> 11. Mirkeen-01 base on the Moon</h2>
+           <h2> 10. Mirkeen-01 base on the Moon</h2>
 
            <p>
              Project Mirkeen-01 will be our effort in building a humanity-uniting progressive research base 
@@ -2623,10 +2691,9 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";>
              <span>(b).</span> With all this brought-together "snapshot of humanity" we begin to build the Mirkeen-01 base on the Moon 
-             starting 2036, using our to-Moon transport means ( our-designed Alef-A airship-kosmosships manufactured by partner governments ) and 
+             starting 2036, using our to-Moon transport means ( our-designed Alef-A airship-type kosmos ships manufactured by partner governments ) and 
              our other technologies and the technologies of other partner pan-humanist organizations with 
-             common protocols. The construction workers will base themselves in the Alef-As until the 
-             base is built.
+             common protocols. The construction workers will base themselves in the Alef-As until the base is built.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -2637,17 +2704,18 @@ modalText.innerHTML = `
              Side to connect to a few relay satellites above Earth with these relay satellites being operated by our partner organizations.
            </p>
 
-           <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(d).</span> The Mirkeen-01 base will be designed to be partly self-sufficient food-wise, 
-             in water, in production of clothing, computers, ground vehicles etc but be extendible for meeting with 
-             future self-sufficiency situations. The electricity will be decentralized and will use our safe, 
-             self-sustaining, modular and easily repairable Faradn generators.
+	   <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(d).</span> The construction materials for the Mirkeen-01 base, ground vehicles etc 
+             will be partly materials carried from Earth in our Alef-A airship-type kosmos ships and partly local materials as 
+             per application ( ISRU - In Situ Resource Utilization ). The machines to dig the ground will be our Moggy robot cats 
+	     and the Moggys will also be our on-Moon vehicles.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(e).</span> The construction materials for the Mirkeen-01 base, ground vehicles etc 
-             will be partly materials carried from Earth in our Alef-A airship-kosmosships and partly local materials as 
-             per application ( ISRU - In Situ Resource Utilization ). The on-Moon vehicles will be our Moggy robot cats.
+             <span>(e).</span> The Mirkeen-01 base will be designed to be partly self-sufficient food-wise, 
+             in water, in production of clothing, computers, ground vehicles etc but be extendible for meeting with 
+             future self-sufficiency situations. The electricity will be decentralized and will use our safe, 
+             self-sustaining, modular and easily repairable Faradn generators.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -2655,28 +2723,27 @@ modalText.innerHTML = `
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(g).</span> The Mirkeen-01 base will be the first very advanced society which won't have feudalism and 
+             <span>(g).</span> The Mirkeen-01 base will be the first very advanced human society which won't have feudalism and 
              tax in any form including money. The true wealth of a society is not in the money, mansions and luxury motorcars 
              held by a few privileged. The true wealth is the potential and the positive ideas and works of the citizens 
-             and these can exist without money and tax hoarding. In fact the potential of a society is eroded by the presence of money and 
+             and these can exist without money and tax hoarding. In fact the potential of a society is corroded by the presence of money and 
 	     hoarded tax because so many people have potential but when they get socially excluded through the various aspects of tax  
              they don't get the opportunity to realize their potential and their society does not get to benefit. 
              This realization extends to all of humanity.
            </p>
-           
+
            <p style="margin-left:1em; margin-bottom:10px";>
              <span>(h).</span> For the time being the Mirkeen-01 base can engage in commercial activities 
              to sustain itself other than getting support from Kosmos Society and its partners on Earth. This 
              commerce will be in accordance with our social system for the kosmos. The commerce 
-             can be about Moon-available minerals needed on Earth ( iron, silicon etc ) or on others' 
+             can be about Moon-available minerals needed on Earth ( iron, silicon etc ) or needed on others' 
              kosmik stations around Earth; the commerce can be about those produced materials and 
-             services which benefit from the low-gravity and vacuum conditions on the Moon; the 
-             commerce can be tourism on the Moon; etc.
+             services which benefit from the low-gravity and vacuum conditions on the Moon.
            </p> 
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(i).</span> The Mirkeen-01 base can also have guests from the Artemis Accords base and the ILRS base. 
-             All human-spirited gentle people will be welcomed with tea and biscuits.
+             <span>(i).</span> The Mirkeen-01 base will host guests from any place on Earth as well as from the Artemis Accords base and the ILRS base, 
+             as long as the guests are human-spirited gentle people and will be welcomed with tea and biscuits.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -2697,7 +2764,7 @@ modalText.innerHTML = `
            </div>
 
            <div id="aliens" class="section">
-           <h2> 12. Meetings or sightings of aliens</h2>
+           <h2> 11. Meetings or sightings of aliens</h2>
            
            <p>
              It is not known what kinds of alien life we will encounter, whether on Red One or on Europa 
@@ -2715,9 +2782,8 @@ modalText.innerHTML = `
              For example, the jaguar cats of the Amazon forests hunt crocodiles for food but this was rarely
              recorded on camera, perhaps never, until 2013 when photographer Kedar Hippalgaonkar along with his wife 
              Parul, recorded a jaguar locally named Mick Jaguar hunting a croc in a river in Brazil's 
-             Pantanal wetlands. Kedar's photos went viral on the internet. And only recently has it been researched 
-             how octopuses collaborate with certain types of fishes to hunt other fishes. So, as we seek lifes beyond Earth 
-             we must not have preconceived notions and set academic dictations on where we will find these lifes and how they will be.
+             Pantanal wetlands. Kedar's photos went viral on the internet. So, as we seek lifes beyond Earth 
+             we must not have preconceived notions and set academic dictations on where we will find these lifes and how they behave.
            </p>
            
            <p>
@@ -2734,8 +2800,8 @@ modalText.innerHTML = `
              including pan-human development, decentralized governance, the first human baby born in 
              the kosmos, an artificial intelligence included with empathy and learning from unprogrammed kosmik events,
              and a very different kind of alien encounter. This story prepares us to look for intelligent lifeforms by being open-minded as 
-             to their type and their reaction to us and our reaction to them. This is the link to the story [  <a href=" https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-feeney-676nf " target="_blank" style="color:#0000FF;">https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-fee
-           ney-676nf </a> ].
+             to their type and their reaction to us and our reaction to them. This is the link to the story 
+	     [  https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-feeney-676nf ].
            </p>
           
            <p>
@@ -2752,7 +2818,7 @@ modalText.innerHTML = `
              worlds. This idea is called Panspermia. For example, it is said that the octopus and squid in 
              Earth's seas are not from Earth but from the kosmos, their eggs carried within ice rocks and then 
              released on Earth when the ice rocks fell into the seas here. This is a good read about this 
-             topic [ <a href=" https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/ target="_blank" style="color:#0000FF;"> https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/"</a> ]. 
+             topic [ https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/ ]. 
            </p>           
           
            <p>
@@ -2760,6 +2826,279 @@ modalText.innerHTML = `
            </p>
 
            </div>
+
+	   <div id="city" class="section">
+           <h2> 12. City redesign on Earth</h2>
+
+           <p>
+             This effort will consist of designing large and small cities on Earth which are aesthetic, clean, scientifically-built, citizen-managed through the citizens 
+	     directly participating using the natural and progressive concept of Workers Cooperatives ( described in the "Social organization for kosmonauts" 
+	     section above ), humanist, not creating pollution, largely food-wise self-sufficient, largely employment-wise self-sufficient, gentle, collaborative, 
+	     humanist, inherent with fraternity, inherent with Circular Economy and construction features which calm the citizen and inspire.
+           </p>
+
+           <p>
+	     We will build cities which combine function, beauty, gentleness, serenity and enlightenment. These new cities will take the pressure off 
+	     current chaotic cities, infuse humanity into those humans who live in current cities and also bring reasonable city culture to rural people because 
+	     ideally great ideas, discussions and developments happen in the cities.
+           </p>
+
+           <p>
+             The ideas for these cities mingle with our ideas for human exploration of the kosmos and from human exploration of the kosmos.
+	   </p>
+
+           <p>
+             In this effort we reject most current notions of how cities are designed because these notions have created places which are unscientific, unplanned, 
+	     ugly, harmful, without-soul, competitive, cruel, noisy, apathetic, mishaps-full, polluting, hot, classist, chaotic and where there is the contradiction 
+	     of the few rich having mansions with parking space for ten private luxury cars and these rich have multiple such mansions but the same city will have 
+	     tens of thousands of poor homeless people...
+	   </p>
+
+	   <p>   
+	     ...and where there are installations of needless features like flyovers, metro lines, skyscrapers, feudal office towers made of glass and concrete... 
+	   </p>
+
+	   <p>
+	     ...where the unthinking middle class voluntary slaves in feudal organizations love to feed ten dogs with lavish food on a road on whose narrow footpaths
+	     there are five homeless and hungry humans who are looking on with sadness and rage at the middle class zombies feeding dogs instead of giving 
+	     the food to them, the homeless humans, who have not eaten for two days... and those ten dogs once full with food, proceed to attack the humans 
+	     passing by... a scene of avoidable stupidity...
+	   </p>
+
+	   <p>
+	     ...cities where most neighborhoods are crammed with small housing plots where the residents number in the tens of thousands in the most ugly, 
+	     noisy, chaotic, dangerous situations... the neighborhood not having wide roads, trees, parks, benches along roads, no local community halls, 
+	     no self-management of neighborhoods by citizens and no serenity... the neighborhoods filled with tens of thousands of people but most not bothering 
+	     about the hunger situation of their next door neighbors or even if a neighbor is suiciding or being murdered or facing daily oppression... 
+	     neighborhoods where a crime is happening on the road in front of someone's balcony which is ten feet away from the road 
+	     but the resident on the balcony is ordered by his "family elder" to "come inside, none of our business" inside of rushing down to help the victim...
+	   </p>
+
+	   <p>
+	     ...but the VIP areas being with quietness, secure, tree-lined, with the housing plots large and having gardens... these areas having few housing plots...
+	   </p>
+
+	   <p>
+	     ...where in the wider city there are no fountains, no trees, no flowers, no other aesthetic constructions, no tea houses, no wide footpaths on 
+	     the main roads, no channels for flood water, no thought given to fire safety, to earthquakes, to gentleness and harmony and to make the citizens reflect 
+	     and to feel inspired and refreshed...
+	   </p>
+
+	   <p>
+             ...where the market places are chaotic, filled with urgency, filth and garish lighting which adds to the urgency and increased heart-beat...
+	   </p>
+
+	   <p>
+	     ...where in the cities is the tragi-comedy of the IT-industry-enabled newly rich middle class purchasing flats in quieter gated communities for 
+	     500,000 dollars but when these neo-rich leave their gated community and enter the real city, all they encounter is the rotten-ness of their city 
+	     which didn't vanish just because the neo-rich could purchase a flat costing 500,000 dollars...
+	   </p>
+
+	   <p>
+	     ...cities where there is no thought given to having clear star-lit sky in the night where the citizens can sit on a comfy bench with safety, serenity, 
+	     with a gentle breeze around, wearing a jacket for warmth, with gentle and loyal human friends and cats for company, 
+	     a gentle stillness around and looking up at the sky and wondering about the kosmos and experience one-ness with it...
+	   </p>
+
+	   <p>
+	     ...cities with no thought given to preventing the citizens from being zombies who rat-race and dog-eat-dog for a lifetime and push their children 
+	     into these dystopias.
+	   </p>
+
+           <p>
+	    New York, Singapore, Los Angeles, Dubai, Shanghai, Bombay, Karachi, Bangalore, Dhaka, Tokyo, London, Paris, West Berlin... primary examples of 
+	    copy-paste cities without soul, gentleness, collaborativeness, beauty, serenity, inspiringness... without liberty, equality, fraternity... 
+	    without enlightened people as a rule rather than exception.
+           </p>
+
+	   <p>
+	     By definition a city is meant to be serene, safe, enlightened, humanist, collaborative, harmonious, beautiful, everything available easily, 
+	     a place of science and observation of Nature and contributive to humanity... opposite of what a village is. But the above mentioned cities are 
+	     no better than villages... they are just over-grown villages. Of course, these cities will inspire enlightened people in one sense, to imagine how 
+	     cities should not be, how humans should not be. This is the sole good thing about these cities.
+	   </p>
+
+           <p>
+             The cities redesigned by us, Kosmos Society, will have beauty in every sense coming from eleven things :
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(a).</span> 
+	     From removing feudalism and profiteering in employment, in city maintenance, in availing amenities and every aspect of human life and conduct.  
+	     These removals will result in removal of competition, class, cruelty, apathy, chaos and will enable harmonious engagement of humans with humans. 
+	     This in turn means adopting the Workers Cooperative and Collectivist work model in all aspects of life. This means that there will be no class system 
+	     in these cities.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(b).</span> 
+	     From realizing that the attitude of people in a society can be known from their attitude to cats and dogs. Cats are animals of perfection... 
+	     perfection in form, grace, attitude and thinking. They are gentle, sensitive, beautiful in looks, clean, extremely intelligent, loyal, 
+	     empathetic, observant, thoughtful, graceful in movement, independent and produce good vibes for any place they are comfortable in. 
+	     Dogs are the opposite... aggressive, noisy, bring chaos, are mob-oriented, are ugly, are mindless killers, violently compete with other dogs, 
+	     have disgusting habits and carry harmful microbes. There are old descriptions : "Wise cat" and "Dog-eat-dog society". It is clear then... 
+	     do we want a human society to adore cats and thus have gentleness, intelligence, sensitiveness, empathy, beauty, loyalty and 
+	     contribution to humanity or do we want a society to adore dogs and thus have chaos, competition, apathy, cruelty, filth, violence, disgustingness and
+	     mindlessness ? Therefore we must create a safe and comfy environment for real cats to prosper and consequently no place for dogs. The comfy 
+	     environment for cats includes having in cities, regularly sited gardens with semi-large not-deep pools of fresh water with fish in them which can be taken
+	     by cats for food by them freely wandering into the gardens.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(c).</span>
+	     The architecture of buildings, infrastructure and features must be a mix of the most beautiful and environment-sensitive architectures on Earth : 
+	     Rajasthani, Andalusian, Mughal, African, Russian and West Asian. For passive and active environment control, the features must include windcatchers, 
+	     qanats, salsabils, aromatic wetted mat curtains for entrances and balconies ( like the Indian "khass" / "khus" grass mats ), fountains and gardens 
+	     which have at least one tree. The city should have comfy soft benches everywhere outside and should have tea houses. No building must be taller than 
+	     two storeys and every building must be safe for human and cat. Every public building and personal house must have comfy housing for cats 
+	     whose entrances are shaded from sun, dust, sand and rain, and have human-removable protective grill, have soft beds, are cool in summer, 
+	     warm in the cold, have drinking water and have a place for food for the cats. There should be a hotel in every neighborhood and indoor farms which 
+	     also double as provision stores. Also in every neighborhood should be small sports places for badminton, swimming, walking and 
+	     light gymming ( the last for men only ).
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+	     <span>(d).</span>
+	     No class system in these new cities also means no traditional slavery like domestic servants and multi-generational sanitation workers. 
+	     Which in turn mean every house must be maintained by its residents including that every house will have its compound area having its own 
+	     sanitation system which will be made secure against entry by snakes and rats. South Asia in particular will benefit from this idea because 
+	     in this region the culture enforces another multi-generation caste system among many where the middle class in particular has a cruel attitude 
+	     with regards to area cleanliness : the middle class won't clean the shit and the urine they themselves created in their bodies but instead 
+	     assign this work to a "low class" people aka "kamzaat log" aka "kamjaat log" who have done this dangerous work for a hundred generations and 
+	     they die in the drains of the middle class neighborhoods because of being suffocated by methane gas, by lack of oxygen, by drowning in sewage and 
+	     by getting bitten by snakes, and the middle class of this region who act super-pious all the year by doing daily prayers multiple times, by doing regular 
+	     festivals, by doing regular pilgrimages... these people don't see the immorality and cruelty of not cleaning their own drains but imposing this 
+	     work on multi-generational "kamzaat log" who die in the drains yearly. This is genocide. So what is it that the super-pious middle class peepz in 
+	     South Asia learn from their 365-days-a-year religious posturing ? The middle class itself is a slave class for the rich yet the middle class do not 
+	     empathize with those poorer than them but instead impose cruelty upon the poorer like sanitation workers. The middle class people are just enforcers of
+	     the feudals... of the millenia-long feudal system, despite the middle class claiming to be educated people. Therefore in the classless cities we of 
+	     Kosmos Society will design, the former middle class peepz of South Asia will learn to become human.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(e).</span>
+             Gentleness in our cities will also be from abolishing personal vehicles. The concept of personal motor vehicles ( cars and two-wheelers ) has only led to 
+	     class conflict, needless mishaps, crimes, noise, chaos, apathy, misogyny, pollution, feudalism, profiteering, social disconnect and Climate Change. 
+	     We present a new kind of public transportation system for intra-city main roads in form of our Ra hybrid vehicle for ground transportation. 
+	     This vehicle is described below.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(f).</span> 
+	     Gentleness in cities also from rethinking inter-city public transport by using our Alef-A airship-type kosmos ships which can land and take-off from 
+	     within neighborhoods and other small public areas, removing the need for airports, train stations and bus stations. Our Alef-A crafts will also be able to 
+	     do inter-continent travel.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(g).</span> 
+	     Gentleness in cities also from removing the current notion of cities being chaotic, non-self-sufficient, impersonal and competion-based which all makes 
+	     tens of thousands of people to needlessly do out-of-city travel daily by various means including trains and so many of these people die needlessly 
+	     because of this and those who don't die, they endure daily chaos till death. But through Kosmos Society's redesign of cities which will be 
+	     largely self-sufficient and will be filled with people of scientific temper, what will be made obsolete will be those tens of thousands of 
+	     out-of-city travellers. Not only will this make cities gentle but there will be very few people travelling beyond their cities on a daily basis and 
+	     these few people will use our Ra vehicles and our Alef-A airship-type kosmos ships. This lesser daily out-of-city travel will also contribute to 
+	     serene Earthen societies.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(h).</span> 
+	     About food habits, meat eating should be left to the cats and the birds. The humans should eat the necessary plants from the indoor farms along with 
+	     chicken egg, sheep milk and honey. For the last three foods there should be farms which are kind to the relevant animals yet beneficial for humans 
+	     and this in a way where animal diseases don't spread in the city.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(i).</span> 
+	     The security for human, cat, chicken and sheep should be combination of citizens on security duty as per their name in the roster, added with 
+	     our Moggy robot cats who replicate the reflexes of cats.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(j).</span> 
+	     Gentleness in cities also from removing public prayer houses. Belief in God is a personal aspect in the believers and the public veneration 
+	     of God especially in public places has only led to avoidable conflict, oppression, imposition, noise, superstition and disharmony. If anyone chooses to 
+	     believe in God and make prayer, he or she must do this in the personal space of their houses and that too in a silent manner and without imposing 
+	     his or her personal belief on any other human.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(k).</span> 
+	     Education system we are still considering but it won't have competition i.e. no exams thus no marks and no degrees.
+           </p>
+
+	   <p>
+	     Our Ra hybrid electric vehicle ( mix of hovercraft and wheelcraft ) will be used for public transportation within a city. 
+	     A few hundred thousand of our Ra hovercraft-wheelcraft vehicles on Earth are better than the few billion personal vehicles which clog and 
+	     pollute Earth presently and have been the major cause of needless mishaps, crimes, noise, chaos, class-system propagation, disharmony and 
+	     Climate Change.
+	   </p>
+
+	   <p>
+	     The Ra vehicle will be a combination of hovercraft and wheelcraft and will be enclosed and carry 30 passengers plus a driver. In normal times 
+	     the vehicle will use hovercraft mode but on hilly roads the vehicle will use its wheels for safety. Hovercraft mode is also helpful when a city's 
+	     non-hilly roads are flooded as then wheels generally become useless but hovercraft mode becomes a more natural means. 
+	     Also, hovercraft mode will be useful when a road leads to a river or a lake and the road continues on the other side, so on the river water or lake water 
+	     the hovercraft mode is used, and it will be better in this case to construct ramps that lead from the road to the water and then another ramp from 
+	     the water to back to the road. This way most bridges across rivers need not be constructed.
+	   </p>
+
+	   <p>
+	     The number of wheels will be eight and these wheels will not be passive wheels but will be individually able to bring out blades which will dig into 
+	     the ground under each wheel, and this in effect makes these wheels like tank tracks.
+	   </p>
+
+	   <p>
+	     The name of our hovercraft-wheelcraft vehicle, "Ra", comes from ancient Egyptian mythology where Ra was their supreme god and had many forms 
+	     including a cat which slays snakes. This god-being was a hybrid. Other than using this name for our hovercraft-wheelcraft vehicle as another of our 
+	     dedication to cats, our vehicle is also a hybrid of hovercraft and wheelcraft, thus the name.
+	   </p>
+
+	   <p>
+             Climate Change cannot be reversed by stupid things like "Carbon credits", lithium batteries, nuclear reactors, huge wind farms and other such things. 
+	     The regular "Climate Change discussion conference" called COP Conferences are a waste of time and are optics and a wine-and-dine gathering. 
+	     The activist Greta Thunberg said of the 2021 COP conference conducted in Glasgow city that "It is a greenwash" and that many of the attending 
+	     national government leaders actually benefit from the profiteering companies which cause human misery and the pollution which caused Climate Change. 
+	     The solutions we of Kosmos Society present about transporation and other things will lead to the beginning of drastic reversal of Climate Change and 
+	     of course eradication of human misery.
+	   </p>
+
+	   <p>
+	     Next, there is a sad fact of hunger in various places on Earth, including in cities of a million people at least, and this is a three part problem :
+           </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";> 
+	     <span> (a). </span>
+	     A technological problem via use of traditional methods of growing food in open farms which are inefficient, centralized, polluting, climate-vulnerable and 
+	     pest-vulnerable. Also connected is non-availibility of water in many places because farmers have either exhausted ground water due to over-use 
+	     or there has been drought.
+           </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(b).</span>
+	     A social problem via growing fully useless crops or crops which should be meagrely consumed. These crops are nutritionally poor or cause indigestion and 
+	     reduce the quality of life and cause cultural non-progress and non-contribution to humanity yet these crops are grown and take up a lot of expenditure 
+	     of water, fertilizers, labor etc. This contradiction of uselessness yet growing is because these crops hold cultural significance. Examples are rice, chilli, 
+	     onion and vegetables as the main food.
+           </p>
+
+          <p style="margin-left:1em; margin-bottom:10px";> 
+            <span>(c).</span> 
+	    A social problem largely via tax on food, within-family feudalist unequal distribution of food, abandonment by family, social apathy, classism, 
+	    culture-dependent wastages of food, private profiteering by merchants and geopolitical interferences in food distribution. So many people go hungry or 
+	    die of hunger despite abundance of food elsewhere and sometimes because of wastages of food.
+	  </p>
+
+	  <p>
+	    The simple solution for hunger is not only social enlightenment but also a technological combination of bio-engineered plant-based foods and 
+	    the nutritious originally animal products like given in the "Biology researches" section in the "Our techno systems" chapter. These techno-social 
+	    food productions must be done in decentralized, neighborhood-level indoor farms which have localized water generation as much as possible 
+	    as well as scientifically built canals. There is no need for anyone to die of hunger now in 2025 AD.
+          </p>
+
+          <p>[ To be done ] </p>
+
+         </div>   
 
        </div>
 
@@ -2774,10 +3113,10 @@ modal.style.display = 'flex';
           toggleBtn.addEventListener('click', function() {
             if (linksDiv.style.display === 'none' || linksDiv.style.display === '') {
               linksDiv.style.display = 'flex';
-              toggleBtn.innerHTML = 'Social system for the kosmos - Topics &#9650;';
+              toggleBtn.innerHTML = 'Our social system - Hide topics';
             } else {
               linksDiv.style.display = 'none';
-              toggleBtn.innerHTML = 'Social system for the kosmos - Topics &#9660;';
+              toggleBtn.innerHTML = 'Our social system - Show topics';
             }
           });
           // Add event listeners to links to close topics box on click
@@ -2785,7 +3124,7 @@ modal.style.display = 'flex';
           navLinks.forEach(function(link) {
             link.addEventListener('click', function(e) {
               linksDiv.style.display = 'none';
-              toggleBtn.innerHTML = 'Social system for the kosmos - Topics &#9660;';
+              toggleBtn.innerHTML = 'Our social system - Show topics';
               // Prevent default anchor behavior
               e.preventDefault();
               // Get the target section
@@ -3030,14 +3369,16 @@ modalText.innerHTML = `
          </style>
 
          <div class="nav-links">
-            <button id="topics-toggle">Our company - Topics &#9660;</button>
+            <button id="topics-toggle">Our company - Show topics</button>
             <div id="topics-links">
 	      <a href="#founders">&nbsp;&nbsp; 01. Our founders </a>
 	      <a href="#credits">&nbsp;&nbsp; 02. Credits </a>
 	      <a href="#joinus">&nbsp;&nbsp; 03. You can join us if... </a>
 	      <a href="#weoffer">&nbsp;&nbsp; 04. We offer you as a worker what no other company offers </a>
-	      <a href="#news">&nbsp;&nbsp; 05. News </a>
-	      <a href="#contact">&nbsp;&nbsp; 06. Contact info </a>
+	      <a href="#bmodel">&nbsp;&nbsp; 05. Our simple business model </a>
+              <a href="#firstdemo">&nbsp;&nbsp; 06. First demo of our kosmos crafts </a>
+              <a href="#news">&nbsp;&nbsp; 07. News </a>
+	      <a href="#contact">&nbsp;&nbsp; 08. Contact info </a>
             </div>
 
          </div>
@@ -3074,7 +3415,7 @@ modalText.innerHTML = `
          from philosophy to nano tech to power generation and other fields in a nuanced and 
          humanist way. He has been an advisor to Sameer for years and brings a practised, practical 
          and also system-level thinking to the organization not only about technology but the human 
-        condition too.
+        aspect too.
        </p>
 
        <p class=name> Prof. Dr. Siddharth Dabhade - Advisor </p>
@@ -3088,8 +3429,8 @@ modalText.innerHTML = `
          <p style="margin-bottom:4px;"> 
            Dr. Siddharth has been a patient supporter of the organization for more than 
            two years. He joined our more little group when we didn't have this organization and our sole 
-           project was the Kosmos microprocessor+OS. Presently, he has been an advisor in a 
-           system-level way.
+           project was the Kosmos microprocessor+OS which remains documented on the OpenCores website 
+	   at this page [ opencores.org/projects/taar ]. Presently, he has been an advisor in a system-level way.
          </p>
 
          <p class=name> Afzal - Advisor </p>
@@ -3140,39 +3481,26 @@ modalText.innerHTML = `
            </p>
        
            <p><span>&gt;&gt;</span> 
-             Vikram for the logo, the website design and for provoking the thought in us to have this Credits page.
+             Vikram for the logo, the website design and for provoking the thought in us to have this Credits section.
            </p>
            
            <p><span>&gt;&gt;</span> 
              Apoorva JR for presenting to us an Instagram page in 2023 which contained reports on eco-friendly ways 
              of generating electricity and which led to our discovery of the "sand battery" which we use in our design of the Faradn generator. 
-             Apoorva's LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#0000FF;">https://www.linkedin.com/in/apoorvajr</a> ].
-             Sadly we forgot the Insta page's name but we are thankful to that page's maintainer. 
-             That Insta page spoke of the company Polar Night Energy which applied the sand battery in a real life setting despite there being no prior 
-	         industry use of this method and we are thankful to this company.
+             Apoorva's LInkedIn page [ https://www.linkedin.com/in/apoorvajr ]. Sadly we forgot the Insta page's name but we are thankful to that page's 
+	     maintainer. That Insta page spoke of the company Polar Night Energy which applied the sand battery in a real life setting despite there being no prior 
+	     industry use of this method and we are thankful to this company.
            </p>
 
            <p><span>&gt;&gt;</span> 
              Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, 
-			 made using an electro-magnetic relay. This vid called "1026 The easiest inverter you will ever make" is on this page [ <a href="https://www.youtube.com/watch?v=L-vC9SvU2Lo" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-vC9SvU2Lo</a> ]. 
+			 made using an electro-magnetic relay. This vid called "1026 The easiest inverter you will ever make" is on this page [ https://www.youtube.com/watch?v=L-vC9SvU2Lo ]. 
              This we use in our design of the Faradn generator.
            </p>
 
            <p><span>&gt;&gt;</span> 
              The YouTube channel "The Action Lab" for the idea about using heat to run a self-sustained piston engine. 
-             This vid called "This engine runs on sound waves" is on this page [ <a href="https://www.youtube.com/watch?v=xCnxsoXtlmY" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=xCnxsoXtlmY</a> ].
-           </p>
-
-           <p><span>&gt;&gt;</span> 
-             The YouTube channel "Mech Marvels" for the idea about using mutually repelling magnets 
-             to form a self-sustained sustained motor. This vid called "Magnets - the key to endless power ?" 
-             is on this page [ <a href="https://www.youtube.com/shorts/yTHXh-5uxRM" target="_blank" style="color:#0000FF;">https://www.youtube.com/shorts/yTHXh-5uxRM</a> ].
-           </p>
-
-           <p><span>&gt;&gt;</span> 
-             The above two mechanisms we have considered for use in our Faradn electricity generator. 
-             We will use one of them and to select we must experiment on them and we are presently engaging 
-             with a manufacturer to experiment on them in the road to develop our generator's prototype.
+             This vid called "This engine runs on sound waves" is on this page [ https://www.youtube.com/watch?v=xCnxsoXtlmY ].
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -3190,26 +3518,24 @@ modalText.innerHTML = `
              This song is in the Bengali and Hindi languages and is a celebration of two past South Asian humanitarian mystics, 
              Lalon Fakir and Kabir Das, and calls for unity of humans because they all are the waters from the
              same well except for some differences in the vessels which then contain the waters. 
-             The song is available on YouTube on this page [ <a href="https://www.youtube.com/watch?v=L-arhlgPiy8" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-arhlgPiy8</a> ].
+             The song is available on YouTube on this page [ https://www.youtube.com/watch?v=L-arhlgPiy8 ].
            </p>
 
            <p><span>&gt;&gt;</span>
              The website [ constitutionofindia.net ] for the info about the discussions during the early years 
              of the design of the Indian constitution, in particular the proposals by Socialists Hasrat Mohani 
-             and Brajeshwar Prasad. The proposals can be read here [ <a href="https://www.constitutionofindia.net/debates/17-oct-1949/" 
-             target="_blank" style="color:#0000FF;">https://www.constitutionofindia.net/debates/17-oct-1949/ </a> ].
+             and Brajeshwar Prasad. The proposals can be read here [ https://www.constitutionofindia.net/debates/17-oct-1949/ ].
            </p>
            
            <p><span>&gt;&gt;</span>
              Ashok on the "Nationalizer" account on [ medium.com ] for his essay about the Indian Socialist Brajeshwar Prasad 
              who spoke in favour of Socialism during the design years of the Indian constitution. The essay can be read here 
-             [ <a href="https://nationalizer.medium.com/socialist-and-secular-but-not-sovereign-brajeshwar-prasad-s-amendment-to-preamble-1bb8a1e8142e" 
-             target="_blank" style="color:#0000FF;">https://nationalizer.medium.com/socialist-and-secular-but-not-sovereign-brajeshwar-prasad-s-amendment-to-preamble-1bb8a1e8142e </a> ].
+             [ https://nationalizer.medium.com/socialist-and-secular-but-not-sovereign-brajeshwar-prasad-s-amendment-to-preamble-1bb8a1e8142e ].
            </p>
          
            <p><span>&gt;&gt;</span>
              Rabindranath Tagore for his essay that speaks against Nationalism. The essay can be
-             read here [ <a href="https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf" target="_blank" style="color:#0000FF;">https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf</a> ].
+             read here [ https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf ].
            </p>
 
            <p><span>&gt;&gt;</span>
@@ -3231,7 +3557,7 @@ modalText.innerHTML = `
 	</p>
 	
 	<p><span>&gt;&gt;</span> 
-	  If your knowledge is actually useful to the industry of travelling and living in the kosmos travel in a democratic and non-profit way. 
+	  If your knowledge is actually useful to the industry of travelling and living in the kosmos in a democratic and non-profit way. 
 	  So this discounts work types like HR, CSR and MBA-requiring positions.
 	</p>
 	
@@ -3277,13 +3603,13 @@ modalText.innerHTML = `
 
 	<p><p><span>&gt;&gt;</span> 
 	  Our company is structured as a Workers Cooperative where you will be an equal co-owner and 
-	  not a subordinate to some feudal boss. Please read the "Social organization for kosmonauts" section in the "Social system for the kosmos" chapter and 
+	  not a subordinate to some feudal boss. Please read the "Social organization for kosmonauts" section in the "Our social system" chapter and 
 	  return to this point. That section describes the Workers Cooperative concept.
 	</p>
 
 	<p><p><span>&gt;&gt;</span> 
 	  You will have the same equal salary as everyone else in the company and this salary 
-	  will be comfortable, not an obscene amount which is waved in the face of poor people. 
+	  will be comfortable but not an obscene amount which is waved in the face of poor people. 
 	  We want you to have decency, empathy and pan-human fraternity.
 	</p>	
 
@@ -3303,29 +3629,48 @@ modalText.innerHTML = `
 
            </div>
 
-           <div id="news" class="section">
-           <h2> 05. News </h2>
+           <div id="bmodel" class="section">
+           <h2> 05. Our simple business model </h2>
 
-          <p><span>Youtube :</span> 
-	  <a href="https://youtube.com/@KosmosSociety" 
-             target="_blank" style="color:#0000FF;">https://youtube.com/@KosmosSociety </a>
+           <p>
+	     Our direct clients will be the space departments of national governments who will purchase the designs of our products 
+	     for a reasonably cheap license fee and build our systems in their societies as many as possible and make them available 
+	     to their citizens without tax. This way the kosmos will become accessible to potentially any human.
+	   </p>
+
+           </div>
+
+           <div id="firstdemo" class="section">
+           <h2> 06. First demo of our kosmos crafts </h2>
+
+           <p>
+	     Our Alef-A airship-type of kosmos craft will have its first manned flight to Low Earth Orbit by 2031.
+	   </p>
+
+           </div>
+
+           <div id="news" class="section">
+           <h2> 07. News </h2>
+
+          <p><span>YouTube :</span> 
+	    https://youtube.com/@KosmosSociety
 	  </p>
 
-           </div>           
+           </div>
 
            <div id="contact" class="section">
-           <h2> 06. Contact info </h2>
+           <h2> 08. Contact info </h2>
 
 	   <p><span> Phone :</span> 
 	     Coming soon.
 	  </p>
 
 	  <p><span>Email :</span> 
-	    <a href="mailto:hello@kosmossociety.space">hello@kosmossociety.space</a>
+	    hello@kosmossociety.space
 	  </p>
 	  
-	  <p><span>LinkedIn ( to reach Sameer ) :</span> 
-	    <a href="https://linkedin.com/in/sameer-kosmos-society" target="_blank">linkedin.com/in/sameer-kosmos-society</a>
+	  <p><span>LinkedIn to reach Sameer :</span> 
+	    https://linkedin.com/in/sameer-kosmos-society
 	  </p>
 
           <p><span>Physical address :</span> 
@@ -3333,7 +3678,7 @@ modalText.innerHTML = `
 	    which is in the east side of India. This move because Calcutta is the only true city in India though it can be lot more improved.
 	  </p>
 
-	  <p><span>Talk to us in person over tea</span> 
+	  <p><span>Talk to us in person over tea.</span> 
 	  </p>	  
 
        </div>
@@ -3349,10 +3694,10 @@ modal.style.display = 'flex';
           toggleBtn.addEventListener('click', function() {
             if (linksDiv.style.display === 'none' || linksDiv.style.display === '') {
               linksDiv.style.display = 'flex';
-              toggleBtn.innerHTML = 'Our company - Topics &#9650;';
+              toggleBtn.innerHTML = 'Our company - Hide topics';
             } else {
               linksDiv.style.display = 'none';
-              toggleBtn.innerHTML = 'Our company - Topics &#9660;';
+              toggleBtn.innerHTML = 'Our company - Show topics';
             }
           });
           // Add event listeners to links to close topics box on click
@@ -3360,7 +3705,7 @@ modal.style.display = 'flex';
           navLinks.forEach(function(link) {
             link.addEventListener('click', function(e) {
               linksDiv.style.display = 'none';
-              toggleBtn.innerHTML = 'Our company - Topics &#9660;';
+              toggleBtn.innerHTML = 'Our company - Show topics';
               // Prevent default anchor behavior
               e.preventDefault();
               // Get the target section
@@ -3382,7 +3727,6 @@ modal.style.display = 'flex';
       }, 0);
       // End of modalText.innerHTML assignment
       modal.style.display = 'flex';
-
        
 }
 
@@ -3398,3 +3742,5 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
+
