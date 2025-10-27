@@ -3739,7 +3739,7 @@ modalText.innerHTML = `
 
            <p>
 	     About how our client governments will recoup our one million dollar license fee, it is given in "section (r)" in the "Iskra social system" chapter, 
-	     topic "Social system for kosmonauts".
+	     topic "Social organization for kosmonauts".
 	   </p>
 
            </div>
@@ -3846,3 +3846,4 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
