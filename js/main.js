@@ -3118,6 +3118,14 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p>
+	     The Ra vehicle can be used as a bus for regular commutes or as a taxi for special occasions. 
+		 In bus mode there will be no people standing and those sitting will have comfortable seats. 
+		 Provision will be there for comfortable entry, seating and exit of disabled people, for example 
+		 for those in wheelchairs the seats in the Ra can be folded and the wheelchair person sit in his or her 
+		 wheelchair in that seat position.
+	   </p>
+
+	   <p>
 	     The name of our hovercraft-wheelcraft vehicle, Ra, comes from ancient Egyptian mythology where Ra was their supreme god and had many forms 
 	     including a cat which slays snakes. This god-being was a hybrid. Other than using this name for our hovercraft-wheelcraft vehicle as another of our 
 	     dedication to cats, our vehicle is also a hybrid of hovercraft and wheelcraft, thus the name.
@@ -3147,15 +3155,15 @@ modalText.innerHTML = `
          <span>(b).</span>
 	     A social problem via growing fully useless crops or crops which should be meagrely consumed. These crops are nutritionally poor or cause indigestion and 
 	     reduce the quality of life and cause cultural non-progress and non-contribution to humanity yet these crops are grown and take up a lot of expenditure 
-	     of water, fertilizers, labor etc. This contradiction of uselessness yet growing is because these crops hold cultural significance. Examples are rice, 
-	     needless excessive use of chilli, onion and vegetables as the main food.
+	     of water, fertilizers, labor etc which instead could have been used for useful food. This contradiction of uselessness yet growing is because these crops hold 
+		 cultural significance. Examples are rice, needless excessive use of chilli, onion, turmeric and vegetables as the main food.
        </p>
 
        <p style="margin-left:1em; margin-bottom:10px";> 
         <span>(c).</span> 
 	    A social problem largely via tax on food, within-family feudalist unequal distribution of food, abandonment by family, social apathy, classism, 
-	    culture-dependent wastages of food, private profiteering by merchants and geopolitical interferences in food distribution. So many people go hungry or 
-	    die of hunger despite abundance of food elsewhere and sometimes because of wastages of food.
+	    cultural wastages of food, private profiteering by merchants and geopolitical interferences in food distribution. So many people go hungry or 
+	    die of hunger despite abundance of food elsewhere and wastages of food.
 	  </p>
 
 	  <p>
@@ -3170,24 +3178,40 @@ modalText.innerHTML = `
 	    Commentary must be made about the idiocy of eating more than a bit of chilli, whether green or red or others. 
 		There seems to be an idiotic thought in many people's minds that they must eat chillis just to show off 
 		to others that they can eat chilli, whether this is in Mexico or some Indian village. 
-		All that results in these chilli eaters is gas, running to the toilet, heat, an anti-calm angry state of mind 
-		and cultural wrongs and anti-progress. So, use only a bit of chilli in food for four people or five... 
-		like a very small cut of green chilli.
+		All that results in these chilli eaters is gas, running to the toilet, heat, an anti-calm angry state of mind,  
+		long-term degradation of health, social misconduct ( gas released in public settings ) and cultural wrongs and anti-progress. 
+		So, use only a bit of chilli in food for four people or five... like a very small cut of green chilli.
 	  </p>
 
 	  <p>
 	    In some cultures like India, green chilli also has become part of the cultural presence of superstition... 
-		people creating a small garland of green chillis along with lemons and stringing them onto houses 
+		people creating a small garland of green chillis along with lemons and stringing them onto house doors  
 		and personal vehicles. To bring luck, prosperity and continued life they say. But this hasn't stopped their personal 
 		vehicles from being in mishaps and killing or seriously injuring the occupants and others around. 
 		Hasn't stopped the people from remaining middle-class-poor wage-slaves for generations. 
-		Hasn't created true knowledge and understanding in these people. Funny thing is that the green chilli 
+		Hasn't created true knowledge, enlightenment and gentleness in these people. Funny thing is that the green chilli 
 		used in this Indian superstition is not even from India but was brought by the Portuguese 
-		colonizers and settlers centuries ago and it may be that the Portuguese themselves didn't indulge in this superstition.
+		colonizers and settlers centuries ago and very possible that the Portuguese themselves didn't indulge in this superstition.
 	  </p>
 
 	  <p>
-	    Cooking oil is another aspect deciding personal and societal growth, harmony or non-growth. 
+	    An example of the uselessness of this superstition came in June of 2025. The RCB cricket team 
+		has its base in Bangalore city in South India and most middle class people in this city are sports mad, 
+		especially cricket mad, instead of being intellectual, productive and empathetic and gentle. 
+		They wanted their fave RCB team to win in a soon-coming match and did the usual superstitious stuffs 
+		like the below-linked person stringing a lemon and chilli garland on his personal vehicle and 
+		attaching a placard declaring "This time the cup is ours". Yes, the magic happened and this fan's 
+		fave RCB team won the cup but when their darling RCB team came to Bangalore to get felicitated and admired 
+		there were a few hundred thousand cricket fans gathered at two points to receive them. 
+		Stampede happened and eleven of these fans were killed and 56 injured, some with broken legs 
+		and some fainted. So, was the "for luck and prosperity" lemon-and-chilli garland on that cricket fan's 
+		personal vehicle responsible for this tragedy ? If so this practise must be discontinued. 
+		This is the article to that fan's vehicle 
+		[ https://www.hindustantimes.com/trending/bengaluru-fan-wraps-car-in-nimbu-mirchi-to-ward-off-nazar-ahead-of-rcb-s-final-ipl-clash-with-pbks-101748953522418.html ].
+	  </p>
+
+	  <p>
+	    Cooking oil is another aspect deciding personal and societal growth or non-growth. 
 		Best oil to use is olive oil and perhaps argan oil though both not excessively.
 	  </p>
 
@@ -3876,6 +3900,7 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
 
