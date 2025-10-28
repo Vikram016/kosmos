@@ -3099,13 +3099,12 @@ modalText.innerHTML = `
 
 	   <p>
 	     Now about our Ra hybrid electric vehicle ( mix of hovercraft and wheelcraft ) for public transportation within a city. 
-	     A few hundred thousand of our Ra hovercraft-wheelcraft vehicles on Earth are lot lot better than the few billion personal vehicles which clog and 
-	     pollute Earth presently and have been the major cause of needless mishaps, crimes, noise, chaos, distancing of one human from another, 
-		 continuance of traditional misogyny, class-system propagation, disharmony and Climate Change.
+	     A few hundred thousand of our Ra hovercraft-wheelcraft vehicles on Earth are lot lot better than the few billion personal vehicles which clog 
+		 our cities and create those many problems we described above.
 	   </p>
 
 	   <p>
-	     The Ra vehicle will be a combination of hovercraft and wheelcraft and will be enclosed and carry 30 passengers plus a driver. In normal times 
+	     The Ra vehicle will be a combination of hovercraft and wheelcraft and will be enclosed and carry 20 passengers in comfort plus a driver. In normal times 
 	     the vehicle will use hovercraft mode but on hilly roads the vehicle will use its wheels for safety. Hovercraft mode is also helpful when a city's 
 	     non-hilly roads are flooded as then wheels generally become useless but hovercraft mode becomes a more natural means. 
 	     Also, hovercraft mode will be useful when a road leads to a river or a lake and the road continues on the other side, so on the river water or lake water 
@@ -3114,7 +3113,7 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p>
-	     The number of wheels will be eight and these wheels will not be passive wheels but will be individually able to bring out blades which will dig into 
+	     The number of wheels will be six and these wheels will not be passive wheels but will be individually able to bring out blades which will dig into 
 	     the ground under each wheel, and this in effect makes these wheels like tank tracks.
 	   </p>
 
@@ -3125,7 +3124,7 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p>
-             Climate Change cannot be reversed by stupid things like "Carbon credits", lithium batteries, nuclear reactors, huge wind farms and other such things. 
+         Climate Change cannot be reversed by stupid things like "Carbon credits", lithium batteries, nuclear reactors, huge wind farms and other such things. 
 	     The regular "Climate Change discussion conference" called COP Conferences are a waste of time and are optics and a wine-and-dine gathering. 
 	     The activist Greta Thunberg said of the 2021 COP conference conducted in Glasgow city that "It is a greenwash" and that many of the attending 
 	     national government leaders actually benefit from the profiteering companies which cause human misery and the pollution which caused Climate Change. 
@@ -3135,25 +3134,25 @@ modalText.innerHTML = `
 
 	   <p>
 	     Next, there is a sad fact of hunger in various places on Earth, including in cities of a million people at least, and this is a three part problem :
-           </p>
+       </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";> 
 	     <span> (a). </span>
-	     A technological problem via use of traditional methods of growing food in open farms which are inefficient, centralized, polluting, climate-vulnerable and 
-	     pest-vulnerable. Also connected is non-availibility of water in many places because farmers have either exhausted ground water due to over-use 
-	     or there has been drought.
-           </p>
+	     A technological problem via use of traditional methods of growing food in open farms which are inefficient, centralized, polluting, climate-vulnerable, 
+		 pest-vulnerable and continue feudalism, poverty, profiteering and separation of human from human. Also connected is non-availibility of water in many places 
+		 because farmers have either exhausted ground water due to over-use or there has been drought.
+       </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(b).</span>
+         <span>(b).</span>
 	     A social problem via growing fully useless crops or crops which should be meagrely consumed. These crops are nutritionally poor or cause indigestion and 
 	     reduce the quality of life and cause cultural non-progress and non-contribution to humanity yet these crops are grown and take up a lot of expenditure 
 	     of water, fertilizers, labor etc. This contradiction of uselessness yet growing is because these crops hold cultural significance. Examples are rice, 
-	     excessive use of chilli, onion and vegetables as the main food.
-           </p>
+	     needless excessive use of chilli, onion and vegetables as the main food.
+       </p>
 
-          <p style="margin-left:1em; margin-bottom:10px";> 
-            <span>(c).</span> 
+       <p style="margin-left:1em; margin-bottom:10px";> 
+        <span>(c).</span> 
 	    A social problem largely via tax on food, within-family feudalist unequal distribution of food, abandonment by family, social apathy, classism, 
 	    culture-dependent wastages of food, private profiteering by merchants and geopolitical interferences in food distribution. So many people go hungry or 
 	    die of hunger despite abundance of food elsewhere and sometimes because of wastages of food.
@@ -3163,12 +3162,38 @@ modalText.innerHTML = `
 	    The simple solution for hunger is not only social enlightenment but also a technological combination of bio-engineered plant-based foods and 
 	    the nutritious originally animal products like given in the "Biology researches" topic in the "Techno systems" chapter. These techno-social 
 	    food productions must be done in decentralized, neighborhood-level indoor farms which have localized water generation as much as possible 
-	    as well as scientifically built canals. There is no need for anyone to die of hunger now in 2025 AD.
-          </p>
+	    as well as take water from scientifically built canals and the workers do collaborative and collectivist farming. 
+		There is no need for anyone to die of hunger now in 2025 AD.
+      </p>
 
-          <p>[ To be done ] </p>
+	  <p>
+	    Commentary must be made about the idiocy of eating more than a bit of chilli, whether green or red or others. 
+		There seems to be an idiotic thought in many people's minds that they must eat chillis just to show off 
+		to others that they can eat chilli, whether this is in Mexico or some Indian village. 
+		All that results in these chilli eaters is gas, running to the toilet, heat, an anti-calm angry state of mind 
+		and cultural wrongs and anti-progress. So, use only a bit of chilli in food for four people or five... 
+		like a very small cut of green chilli.
+	  </p>
 
-         </div>   
+	  <p>
+	    In some cultures like India, green chilli also has become part of the cultural presence of superstition... 
+		people creating a small garland of green chillis along with lemons and stringing them onto houses 
+		and personal vehicles. To bring luck, prosperity and continued life they say. But this hasn't stopped their personal 
+		vehicles from being in mishaps and killing or seriously injuring the occupants and others around. 
+		Hasn't stopped the people from remaining middle-class-poor wage-slaves for generations. 
+		Hasn't created true knowledge and understanding in these people. Funny thing is that the green chilli 
+		used in this Indian superstition is not even from India but was brought by the Portuguese 
+		colonizers and settlers centuries ago and it may be that the Portuguese themselves didn't indulge in this superstition.
+	  </p>
+
+	  <p>
+	    Cooking oil is another aspect deciding personal and societal growth, harmony or non-growth. 
+		Best oil to use is olive oil and perhaps argan oil though both not excessively.
+	  </p>
+
+      <p>[ To be done ] </p>
+
+      </div>   
 
        </div>
 
@@ -3851,5 +3876,6 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
 
