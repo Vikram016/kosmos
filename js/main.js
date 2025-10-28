@@ -2210,7 +2210,7 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";> 
              <span>(j).</span> The existence of a Workers Cooperative doesn't depend on if the economic system 
-             works with money system or money has been abolished. The Workers Cooperative concept is efficient in both situations. 
+             works with money system or money has been rightly abolished. The Workers Cooperative concept is efficient in both situations. 
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -3009,10 +3009,15 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";> 
              <span>(e).</span>
-             Gentleness in our cities will also be from abolishing all personal vehicles. The concept of personal vehicles ( bicycles, cars and motorized two-wheelers ) 
-	     has only led to class conflict, needless mishaps, crimes, noise, chaos, apathy, misogyny, pollution, feudalism, profiteering, social disconnect and 
-	     Climate Change. We present a new kind of public transportation system for intra-city main roads in form of our Ra hybrid vehicle for ground 
-	     transportation. This vehicle is described below sections in this topic.
+         Gentleness in our cities will also be from abolishing all personal vehicles. The concept of personal vehicles ( bicycles, cars and motorized two-wheelers ) 
+	     has only led to needless mishaps, crimes, noise, chaos, needless voluntary separation of human from human, class conflict, apathy, continuance of cultural misogyny, 
+		 pollution, feudalism, profiteering and Climate Change. When we know the many harms of personal vehicles 
+		 no point in retaining them. The feudalist and profiteer Henry Ford is most responsible for bringing these harms to us. 
+		 When he had his own hungry, oppressed and protesting factory workers shot ( "Ford Hunger March" ) just so that he can retain his wealth, 
+		 profits, mansions and anti-human social privileges, do you think he will care if most of you who are middle class or poorer, 
+		 you get smashed by another personal vehicle or your city's temperate increases to 40 celsius ? Therefore to replace personal vehicles 
+		 with a nice transport mechanism for people on city roads we present a new kind of vehicle, our Ra hybrid vehicle 
+	     which is described below sections in this topic.
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -3082,7 +3087,7 @@ modalText.innerHTML = `
              There is also the fact that a few of such exam-based, other-competitions-based societies will socio-economic boycott a family not seen as money-having and 
 	     not seen getting through the actually horizontal ladder of "career" life which starts with the child getting "good marks" in schooling, then jobs, 
 	     then marriage, then children, they getting into schooling and cycle repeating. A family not doing this culturally-recommended life path may be 
-	     socio-economically boycotted ( in South Asia called "Hukkaah-Paani bandh" meaning, stopping of tobacco and water ) and some parents who are selfish 
+	     socio-economically boycotted ( in India called "Hukkaah-Paani bandh" meaning, stopping of tobacco and water ) and some parents who are selfish 
 	     and don't wish the boycott on themselves ( husband, wife, their parents and their earning children ) and don't want to anymore support their 
 	     school-dropout child  or "jobless" child or low-exam-marks-scoring child, these parents will instead murder that "offending" child. The Indian city of Kota 
 	     is notorious for student suicides. Similar is situation in Pakistan, South Korea, China and Japan. In these competitions-filled societies many parents 
@@ -3094,9 +3099,9 @@ modalText.innerHTML = `
 
 	   <p>
 	     Now about our Ra hybrid electric vehicle ( mix of hovercraft and wheelcraft ) for public transportation within a city. 
-	     A few hundred thousand of our Ra hovercraft-wheelcraft vehicles on Earth are better than the few billion personal vehicles which clog and 
-	     pollute Earth presently and have been the major cause of needless mishaps, crimes, noise, chaos, class-system propagation, disharmony and 
-	     Climate Change.
+	     A few hundred thousand of our Ra hovercraft-wheelcraft vehicles on Earth are lot lot better than the few billion personal vehicles which clog and 
+	     pollute Earth presently and have been the major cause of needless mishaps, crimes, noise, chaos, distancing of one human from another, 
+		 continuance of traditional misogyny, class-system propagation, disharmony and Climate Change.
 	   </p>
 
 	   <p>
@@ -3846,4 +3851,5 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
