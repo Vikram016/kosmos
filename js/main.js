@@ -278,12 +278,12 @@ modalText.innerHTML = `
 	   </p> 
 
 	   <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> 
-	     A "Simplicity" example is we not using semiconductors.
+	     A "Simplicity" example is not using semiconductor transistors. So no VLSI stuff.
 	   </p>
 
 	   <p style='margin-left:2em;margin-bottom:10px;'><span>(d).</span> 
-	     A "Realness" example is the portable computer in the following wonderful sci-fi short film on YouTube called 
-	     "ICE - A Thousand Suns / Episode 1" and is at this link [ https://www.youtube.com/watch?v=RXaVgAxtYFI ]. This portable computer and 
+	     A "Realness" example is the wearable computer in the following wonderful sci-fi short film on YouTube called 
+	     "ICE - A Thousand Suns / Episode 1" and is at this link [ https://www.youtube.com/watch?v=RXaVgAxtYFI ]. This wearable computer and 
 	     our wearable computer "Dune Buk" ( described in a below topic ) will look something natural, real, dignified, robust, intelligent, democratic... 
 	     as against the bland, gimmicky, non-robust and social-class-system-imbued cell phones of now. The machines in the Dune story books 
 	     also are imaginable to be real and natural, and the machines in the Dune films and the TV series also look good.
@@ -293,24 +293,37 @@ modalText.innerHTML = `
 
            <div id="faradn" class="section">
            <h2> 02. Faradn self-sustaining electricity generator</h2>
-           
+
            <p>
-             Advancement in electricity generation is not to make the generators huge, 
-             centralized, complicated, unsafe, polluting and needless like nuclear, hydropower dams,
-             huge on-sea wind turbines etc along with their complicated and huge system controls, 
-	     power controls and power delivery mechanisms and all these stretched hundreds of kilometers 
-	     or even millions of kilometers like the idiotic concept Dyson Swarm.
+             Presently, electricity generation is by the wrong kinds of generators which are huge, centralized, complicated, 
+	     unsafe, polluting and needless like nuclear, hydropower dams, huge on-sea wind turbines etc along with 
+	     their complicated and huge system controls, power controls and power delivery mechanisms and all these stretched hundreds of kilometers 
+	     or even millions of kilometers like the idiotic concept Dyson Sphere aka Dyson Swarm.
            </p>
 
            <p>
-             There's also an unspoken nefarious element in the promotion of Space-based Solar Power 
+             There's also an unspoken nefarious element in the promotion of Space-based Solar Power ( SBSP ) 
              where huge photovoltaic panels will sit in Earth orbit and convert the abundant sunlight there to electricity, 
              then convert the electricity to high-power microwaves and send down the microwaves to certain large-focus spots on Earth 
              where on those spots on the ground the microwaves are converted back to electricity by rectennas 
              to be supplied to the grid. The nefarious element here is the potential of this system to be used to zap 
              humans and other things on the ground and in the air using the high-power microwaves by moving these power 
              satellites over targets.
-           </p>          
+           </p>
+
+           <p>
+	     And then once through this centralized electricity delivery system the electricity comes to a building, 
+	     it is distributed within the building through a complicated and fire-hazard wiring system and ultimately is 
+	     to be collected by the users from wall sockets. There, either the larger electricity-needing machines use cables 
+	     that are plugged into the sockets to directly use the electricity, or there is a charger which uses cable to plug into 
+	     the socket and the charger reduces the electricity strength to be used as output to portable machines like cell phones 
+	     which use cable or socket to connect to the charger and then store this electricity into internal rechargeable batteries 
+	     which presently is the lithium-ion battery which has been one of humanity's most idiotic inventions.
+           </p>
+
+           <p>
+             All in all a very complicated, dangerous, polluting, socially disharmonious and needless system.
+           </p>
 
            <p>
              Actual advancement in electricity generation is to make generators simple, compact, 
@@ -329,16 +342,16 @@ modalText.innerHTML = `
 	     of 24 volts DC for at least a month... this is the self-sustained part. After a month the generator 
 	     can be easily refurbished at any small repair shop in any Earthen neighborhood or in a kosmos ship or on another world.
            </p>
- 
+
            <p>
-             For high voltage requirements we can externally connect this self-sustained generator to further amplifying systems 
-             like a motor-generator or a Van de Graff Generator.
+             We are presently experimenting this generator's simple design. The Nernst Effect in thermo-electric materials will be used 
+	     to produce the initial low current. This current will be amplified, smoothened and outputted as 24 volts DC. Heat will be retained in the system 
+	     in a "sand battery" to enable a closed loop generation system.
            </p>
 
            <p>
-             We are presently experimenting this generator's simple design. A heat-driven piston engine will produce rotary motion which in turn 
-	     will activate piezo-electric material to produce the initial current. This current will be smoothened and outputted as 24 volts DC. Heat will be retained 
-	     in the system in a "sand battery" to enable a closed loop generation system.
+             For high voltage requirements we can create larger, external versions of this generator... or use other amplifying systems like 
+	     a motor-generator or a Van de Graff Generator.
            </p>
 
            <p>
@@ -348,14 +361,12 @@ modalText.innerHTML = `
            <p>
              The name of this system, Faradn, refers to two things : an acknowledgement to Michael
              Faraday and a nod to the Dune story which has the character Farad'n.
-           </p>                    
+           </p>
 
            <p>
-             There can be a bio-material-based rechargeable battery included within this system or outside this system 
-	     to provide short-duration backup and enable generator switchover when one generator fails. 
-	     Using bio-material battery allows safety, eco-friendliness, social harmony, sustainability, local material production and decentralization 
-             in terms of its electricity storage materials, electrodes, packaging, carryability, use and manufacture. 
-	     Very much not the lithium-ion battery which has been one of humanity's most idiotic inventions.
+             Bio-batteries based on plant materials can be used to provide the starting electricity in many situations, 
+	     like the Faradn generator production workshop in a kosmos ship. Using bio-material battery allows safety, eco-friendliness, social harmony, 
+	     sustainability, local material production and decentralization in terms of its electrolyte materials, electrodes, packaging, carryability, use and manufacture.
            </p>
 
            </div>
@@ -367,12 +378,12 @@ modalText.innerHTML = `
              Dune Buk will be a general-purpose kosmos-operable wearable computer whose main body will be about
              three feet long and worn on the back of the upper arm using two straps - one around the
              upper arm and another over the shoulder, and thus can be used with any kind of clothing (
-             kosmos suits, office dress etc ) and will be aesthetic enough for the stylish person.
+             kosmos suits, office dress, social clothing etc ) and will be aesthetic enough for the stylish person.
            </p>
 
            <p>
-             Since we are going away radically from traditional electronic computing, this "away" will include data formats in all aspects of our wearable computer. 
-	     Our data formats used for sensors, computation, storage, wireless transmission and display will neither be based on 
+             Since we are going away radically from traditional electronic computing, this "away" will include new data formats in all aspects of our wearable computer. 
+	     Our new data formats used for sensors, computation, storage, wireless transmission and display will neither be based on 
 	     the traditional binary format ( "bits" made of 0 and 1 ) nor the also old but not usually used ternary format ( "trits" made of -1, 0, 1 ). 
 	     We will form data formats that are for our system and simple.
 	   </p>
@@ -409,9 +420,15 @@ modalText.innerHTML = `
 
            <p>
              There will be a note-taking application which can record drawing, handwriting, typed writing,
-             voice, video and pictures.
+             voice and video.
            </p>
-           
+
+           <p>
+	     There will be no separate still picture format like JPEG. Videos can be recorded with a minimum duration of one second and 
+	     on the Dune Buk they will be viewed as continuous frame vids or they will be viewed frame by frame. And the one second duration vids 
+	     will be printable on paper as hologram so that the entire one second vid is viewed on paper documents.
+           </p>
+
            <p>
              Frema is our own in-design wireless internet system for the kosmos and Earth which will be used
              by our Dune Buk wearable computer. The system will be based on peer-to-peer architecture which among other
@@ -446,7 +463,7 @@ modalText.innerHTML = `
            <li style="margin-left:1em; margin-bottom:10px;">
              <span> >> </span> 
 	     Specifically about kosmik communication the signaling system and the communication protocol will factor-in 
-	     the delay-included conditions of long-distance communication in the kosmos which can range from milliseconds to many hours.
+	     the delay-included conditions of long-distance communication in the kosmos which can range from milliseconds to many hours to lot more.
 	   </li>
 
            <li style="margin-left:1em; margin-bottom:10px;">
@@ -551,9 +568,9 @@ modalText.innerHTML = `
            </p>
 
            <p>
-	     The Alef-A's horizontal travel or lift into higher atmosphere and then into the kosmik void will be assisted by electric rotors, 
-	     coal combustion and water steam jets. Of course the gas lift and electric rotors are usable only if that world has air
-             / atmosphere. The coal propulsion and steam jets can be used to ascend or descend on any world even without atmosphere.
+	     The Alef-A's horizontal travel or lift into higher atmosphere and then into the kosmik void will be assisted by rotors, 
+	     coal combustion and water steam jets. Of course the gas lift and rotors are usable only if that world has air / atmosphere. The coal propulsion and 
+	     steam jets can be used to ascend or descend on any world even without atmosphere.
            </p>
 
            <p>
@@ -628,7 +645,7 @@ modalText.innerHTML = `
              including the Preamble ( short introduction ) to the Indian Constitution. </li>
 
              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> The "A" stands for 
-             Alif ( "The first" ), meaning these kosmos ships are just the first types of kosmos ships from our organization Further will be more types. 
+             Alif ( "The first" ), meaning these kosmos ships are just the first types of kosmos ships from our organization. Further will be more types. 
 	     </li>
            </ul>
            
@@ -637,21 +654,34 @@ modalText.innerHTML = `
 	   </p>
            
            <ul>
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Steam is made 
-             from water which is found in many places in the Solar System and beyond.</li>
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Water in itself is safe to handle by humans.</li>
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Water doesn't explode normally unlike rocket fuel like 
-             liquid hydrogen.</li>
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Water doesn't need 
-             to be stored at cryogenic conditions unlike with some current popular kosmos ship fuels like 
-             liquid hydrogen and liquid methane. Water can be just kept a warm liquid using electrical heating.
+
+             <li style="margin-left:1em; margin-bottom:10px;">
+	       <span>&gt;&gt;</span> Steam is made from water which is found in many places in the Solar System and beyond.
 	     </li>
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> When in the kosmik void, most of the
-              jetted steam is recoverable to liquid water which can be fed back to the propulsion system to 
-              allow for continuous thrust, faster travel and longer travel.</li>
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Our steam-based 
-             propulsion uses a simple heating mechanism to turn water to steam instead of having other 
-             complex and unsafe propulsion mechanisms like plasma or nuclear power.</li>
+
+             <li style="margin-left:1em; margin-bottom:10px;">
+	       <span>&gt;&gt;</span> Water in itself is safe to handle by humans.
+	     </li>
+
+             <li style="margin-left:1em; margin-bottom:10px;">
+	       <span>&gt;&gt;</span> Water doesn't explode normally unlike rocket fuel like liquid hydrogen.
+	     </li>
+
+             <li style="margin-left:1em; margin-bottom:10px;">
+	       <span>&gt;&gt;</span> Water doesn't need to be stored at cryogenic conditions unlike with some current popular kosmos ship fuels 
+	       like liquid hydrogen and liquid methane. Water can be just kept a warm liquid using electrical heating.
+	     </li>
+
+             <li style="margin-left:1em; margin-bottom:10px;">
+	       <span>&gt;&gt;</span> When in the kosmik void, most of the jetted steam is recoverable to liquid water which can be 
+	       fed back to the propulsion system to allow for continuous thrust, faster travel and longer travel.
+	     </li>
+
+             <li style="margin-left:1em; margin-bottom:10px;">
+	       <span>&gt;&gt;</span> Our steam-based propulsion uses a simple heating mechanism to turn water to steam 
+	       instead of having other complex and unsafe propulsion mechanisms like plasma or nuclear power.
+	     </li>
+
            </ul>
 
            <p>
@@ -749,9 +779,9 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             <span> >> </span> Strengthened and fire-proof wood for structures in the kosmos ships, kosmos suits and
-             kosmos habitations. Such wood is preferable to metal in many cases. The trees for the wood should
-             be growable in the kosmos.
+             <span> >> </span> Strengthened and fire-proof wood for structures in the kosmos ships, kosmos suits, 
+             kosmos habitations, the Dune Buk wearable computer and so on. Such wood is preferable to metal in many cases. 
+	     The trees for the wood should be growable in the kosmos.
            </p>
 
            <p>
@@ -761,10 +791,9 @@ modalText.innerHTML = `
 
            <p> 
              <span> >> </span> Structures of the kosmos ships, kosmos suits and kosmos habitations to be bio-mimicking and also made of biological elements 
-	     for radiation shielding, self-repair and a sense of more naturality. For example, there is interest in the fungus Cladosporium sphaerospermum which was first
-             identified in the Chernobyl reactor's remains and converts the area's radiation into energy for
-             itself, a process called radiosynthesis which is comparable to plants converting light to
-             energy through photosynthesis. This fungus eats the radiation.
+	     for radiation shielding, self-repair and a sense of more naturality. For example, there is interest in the fungus Cladosporium Sphaerospermum 
+	     which was first identified around the Chernobyl reactor's remains and converts the area's radiation into energy for itself, 
+	     a process called radiosynthesis which is comparable to plants converting light to energy through photosynthesis. This fungus eats the radiation.
            </p>
 
            <p>
@@ -803,17 +832,32 @@ modalText.innerHTML = `
              <span> >> </span> 
 	     The previously described phenomenon of radiosynthesis has an interesting application for the kosmos which uses the idea 
              similar to the Astrophage bio-organism in Andy Weir's sci-fi book of 2021 called Project Hail Mary. This application is propulsion of 
-	     kosmos ships. This will make use of self-replicating bacteria which absorb / eat the different radiations in the kosmos, store those radiation energies 
-	     internally like an electrical capacitor and can be made to release / discharge those energies in a single burst at extremely 
-             high energy levels just like a high-voltage electrical capacitor discharge, and this high energy discharge by these bio-organisms can propel kosmos ships 
-	     at very very high speeds, maybe greater than Nuclear Pulse Propulsion. This bio-propulsion can be used in association with our regular steam propulsion
-	     where the bacteria give initial extremely high speed pushes to the kosmos ships and then are not used and then the steam engines with their 
-	     recoverable water mechanism are turned on to give continuous propulsion so that higher speeds are reached. Before water collection points in the kosmos, 
-	     the bacteria propulsion on the front of the kosmos ship is turned on to brake the ship and use its steam propulsion to do precise adjustments. 
-	     Maybe our coal propulsion can be used here or it may not need to be used. Water is collected and the propulsion process repeated. At the destination, 
-	     again the combination of bacteria braking and steam-based positioning is used and maybe to descend on a world the bacteria propulsion can be used 
-	     in addition to the coal and steam propulsion. This system may allow us lot faster and shorter-duration travel within the Solar System and to the stars 
-	     in a sustainable way using bacteria-constructed matter.
+	     kosmos ships :
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+             This will make use of self-replicating bacteria which absorb / eat the different radiations in the kosmos, store those radiation energies internally 
+	     like an electrical capacitor and can be made to release / discharge those energies in a single burst at extremely high energy levels just like 
+	     a high-voltage electrical capacitor discharge, and this high energy discharge by these bio-organisms can propel kosmos ships 
+	     at very very high speeds, maybe greater than Nuclear Pulse Propulsion.
+	   </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";> 
+	     This bio-propulsion can be used in association with our regular steam propulsion where the bacteria give initial extremely high speed pushes to 
+	     the kosmos ships and then are not used and then the steam engines with their recoverable water mechanism are turned on to give 
+	     continuous propulsion so that higher speeds are reached.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     Before water collection points in the kosmos, the bacteria propulsion on the front of the kosmos ship is turned on to brake the ship and 
+	     use its steam propulsion to do precise adjustments. Maybe our coal propulsion can be used here or it may not need to be used. Water is collected and 
+	     the propulsion process repeated. At the destination, again the combination of bacteria braking and steam-based positioning is used and 
+	     maybe to descend on a world the bacteria propulsion can be used in addition to the coal and steam propulsion.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     This system may allow us lot faster and shorter-duration travel within the Solar System and to the stars in a sustainable way using 
+	     bacteria-stored energy.
            </p>
 
            <p>
@@ -895,7 +939,7 @@ modalText.innerHTML = `
 	     </p>
 
 	     <p>
-               This robot will walk using four legs, fly using electric rotors and go on the surface of water using a flotation mechanism.
+               This robot will walk using four legs, fly using rotors and go on the surface of water using a flotation mechanism.
 	     </p>
 
 	     <p>
@@ -944,6 +988,13 @@ modalText.innerHTML = `
 	     </p>
 
 	     <p>
+	       This robot cat as a human transport mechanism for single humans is for the initial exploration of other worlds. When more humans begin to live, 
+	       say on the Moon, our Ra surface vehicle will be used to transport 20 humans at once in the vehicle's kosmos-use version. This vehicle is
+	       described in the "City redesign on Earth" topic in the "Iskra social system" chapter. In its kosmos-use version it will be built on a world like the Moon and 
+	       will never leave that world.
+	     </p>
+
+	     <p>
 	       There will be a baby version of this robot cat to enter small tunnels.
 	     </p>
 
@@ -985,14 +1036,14 @@ modalText.innerHTML = `
            </p>
 
            <p>
-	     In the Urdu language, Mehfil means a place for social gathering. A mehfil can be for anything, especially for discussing the nicer things and 
+	     In the Urdu language, Mehfil means "a social gathering". A mehfil can be for anything, especially for discussing the nicer things and 
 	     below are three song examples from older Hindi cinema or related to older Hindi cinema, depicting three different moods in a mehfil... 
 	     the first song being fun and flirty, the second being softer, the third being passionate :
            </p>
 
            <p style='margin-left:2em;margin-bottom:10px;'>
 	     <span>(a).</span> 
-	     Song is called "Parda hai parda" translatable as "This veil, look at that veil" and the link is 
+	     Song is called "Parda hai parda" translatable as "That veil, look at that veil" and the link is 
 	     [ https://www.youtube.com/watch?v=WCBkUNedgrk ].
            </p>
 
@@ -1006,8 +1057,8 @@ modalText.innerHTML = `
 	     <span>(c).</span> 
 	     Song is called "Ramta jogi" translatable from Panjabi language as "The wandering mystic" and refers to Ranjha, the lover of Heer in 
 	     the great Panjabi love story Heer-Ranjha and the song link is [ https://www.youtube.com/watch?v=qudezKP6_T8 ]. The famous story of Heer-Ranjha is 
-	     about the Panjabi girl Heer who becomes in love with the young man Ranjha from another clan and their local society conspires to separate them and 
-	     in the middle of the story Ranjha becomes a wandering mystic and the story in the end ends in tragedy. This story is also relevant to our company 
+	     about the Panjabi girl Heer who becomes in love with the young man Ranjha from another Panjabi clan and their local society conspires to separate them 
+	     and in the middle of the story Ranjha becomes a wandering mystic and the story ends in tragedy. This story is also relevant to our company 
 	     as we are spreading only love, gentleness and harmony among humanity and call for the end of needless conflicts, hates and anti-human traditions.
            </p>
 
@@ -1041,6 +1092,7 @@ modalText.innerHTML = `
            </p>
 	   
 	   <ul>
+
              <li style="margin-left:1em; margin-bottom:10px;">
                 <span>(a).</span> A race of national governments to individually have their own Earth observation satellites in Earth
                orbit for purposes of Earth natural resource observation, pollution observation, climate
@@ -1119,7 +1171,7 @@ modalText.innerHTML = `
              The below ideas are for worlds which have soil with rock. For ice worlds it is best to not build permanent habitations 
 	     on their surface and instead first observe them from orbit for a long duration and when needed descend on them carefully 
 	     using the Alef-A crafts and only if needed use the Moggy robot cat vehicles to carefully travel their surface. And once the ice world 
-	     are decided to be safe, the below ideas can be adapted to it.
+	     is decided to be safe, the below ideas can be adapted to it.
 	   </p>
 
            <p>
@@ -1185,11 +1237,19 @@ modalText.innerHTML = `
              <span>(l).</span> All this construction has to be aesthetic. No need to discard aesthetics just because we are in the kosmos. 	     
 	     Form and function, both are important. The architecture should be harmonious, gentle, impose no oppressiveness, must inspire thinking 
 	     and must be a delight to the senses. The architecture must be a mix of the most beautiful and environment-sensitive architectures on Earth : 
-	     Rajasthani, Andalusian, Mughal, African, Russian and West Asian. For passive and active environment control, depending on the kosmik world, 
-	     the features must include types like jaali, malqaf, qanat, salsabil, aromatic wetted mat curtains for entrances and balconies 
+	     Rajasthani, Andalusian, Mughal, African, Russian and West Asian.
+           </p>
+
+           <p>
+             From these architectures, the features chosen for passive and active environment control, depending on the kosmik world, 
+	     must include types like jaali, malqaf, qanat, salsabil, aromatic wetted mat curtains for entrances and balconies 
 	     ( like the Indian "khass" / "khus" grass mats ), fountains and small gardens which have trees growable on the inside. 
 	     There can be trees on the outside of the habitations... these trees genetically modified for the soil situation of that particular world 
-	     as well as every tree having a supporting enclosure if needed. Below are photo examples of some of these features :
+	     as well as every tree having a supporting enclosure if needed.
+           </p>
+
+           <p>
+	     Below are photo examples of some of these features :
            </p>
 
            <p>
@@ -1198,7 +1258,7 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p>
-	     [ https://en.wikipedia.org/wiki/Jali#/media/File:P_306--Winter_India.jpg ].
+	     https://en.wikipedia.org/wiki/Jali#/media/File:P_306--Winter_India.jpg
            </p>
 
            <p>
@@ -1212,7 +1272,7 @@ modalText.innerHTML = `
 	   </p>
 
            <p>
-	     [ https://upload.wikimedia.org/wikipedia/commons/b/b6/Lal_Qila_%28Red_Fort%29_123.jpg ]. The webpage for this picture is 
+	     https://upload.wikimedia.org/wikipedia/commons/b/b6/Lal_Qila_%28Red_Fort%29_123.jpg
            </p>
 
            <p>
@@ -1230,7 +1290,7 @@ modalText.innerHTML = `
 	     Imagine coming upon such an architectured city on Deimos, one of the two moons of Red One, or such a city on some rocky world beyond Pluto, 
 	     or in a deep crater on Mercury where the crater's bottom is shielded from the Sun... 
 	     of course in all three cases the city's features made relevant to the environment of those kosmik places. Our first built example 
-	     of such a city will be the Mirkeen-01 base on the Moon whose details you will find in the "Mirkeen-01..." topic in the "Iskra social system" chapter 
+	     of such a city will be the Mirkeen-01 city on the Moon whose details you will find in the "Mirkeen-01..." topic in the "Iskra social system" chapter 
 	     on this website.
            </p>
 
@@ -1458,7 +1518,7 @@ modalText.innerHTML = `
               <a href="#sports">&nbsp;&nbsp; 07. Sports and recreation in the kosmos </a>
               <a href="#education">&nbsp;&nbsp; 08. Education in the kosmos </a>
               <a href="#satellite">&nbsp;&nbsp; 09. Basis of satellite design </a>
-              <a href="#mirkeen01">&nbsp;&nbsp; 10. Mirkeen-01 base on the Moon</a>
+              <a href="#mirkeen">&nbsp;&nbsp; 10. Mirkeen-01 city on the Moon</a>
               <a href="#aliens">&nbsp;&nbsp; 11. Meetings or sightings of aliens </a>
 	      <a href="#city">&nbsp;&nbsp; 12. City redesign on Earth</a>
             </div>
@@ -1485,15 +1545,18 @@ modalText.innerHTML = `
 
            <p>
              It will be at least nine years from now ( by 2033 ) when humans start living on the Moon and 
-             then will spread to the Asteroid Belt which sits in the space between Red One and Jupiter 
-             and then beyond to the edges of the Solar System and then to the stars. Our Iskra social system will guide  
-             humans from those starting years from 2033 to the far far future which is unknown now but what is known 
+             then will start spreading to rest of the Solar System like a base on Mercury and then to the Asteroid Belt 
+	     which sits in the space between Red One and Jupiter and then beyond to the edges of the Solar System and then to the stars.
+	   </p>
+
+           <p>
+	     Our Iskra social system will guide humans from those starting years from 2033 to the far far future which is unknown now but what is known 
              is that a unified human utopia spread throughout the kosmos, with humans having become superior biologically, intellectually, 
              technologically and socially, will always mean that humans must live within the laws and ways of Nature, with the realization that Nature is supreme.
            </p>
 
            <p>
-             This draft is substantial and we will further it by discussions in progressive forums like World Social Forum and 
+             This draft social system is substantial and we will further it by discussions in progressive forums like World Social Forum and 
              join it with others' drafts for this purpose. Some points below are "To be done".
            </p>
 
@@ -1506,38 +1569,65 @@ modalText.innerHTML = `
              The Kosmos / Universe has existed forever, much before some modern human scientists and academics foolishly
              affixed an age to it on the basis of needless mathematics i.e. the Big Bang Theory and now
              there are two Big Bang theories. Kosmos has existed before human nations existed on Earth,
-             before Earth itself existed. The concept of Earthen Nations / Nation States
-             does not exist in Nature / Kosmos / Universe and comes on Earth
-             from as recent as the French Revolution of the late 1700s which led to France becoming a
-             Republic which was meant to become citizen-governed with natural human freedoms as
-             against France previously being a typical kingdom governed by a supreme oppressive feudal lord.
+             before Earth itself existed.
+	   </p>
+
+           <p>
+	     The concept of Earthen Nations / Nation States does not exist in Nature / Kosmos / Universe and comes on Earth
+             from as recent as the French Revolution of the late 1700s which led to France becoming a Republic 
+	     which was meant to become citizen-governed with natural human freedoms as against 
+	     France previously being a typical kingdom governed by a supreme oppressive feudal lord.
              We must look at this further to understand the non-kosmos non-natural basis of human nations.
            </p>
 
            <p>
              The famous slogan "Liberty, Equality, Fraternity" which our organization uses, 
              it is used in other progressive thought streams. Newly independent India in the late 1940s presents 
-	         a wonderful such example. The Indian Constitution's main archictect was the great liberator, BR Ambedkar, 
-	         and he produced a wonderfully progressive system for India and this included "Liberty, Equality, Fraternity" 
-	         being placed in the preamble ( short introduction ) to this constitution. This constitution was mainly drafted during the late 1940s 
-	         and before adoption at country level it was discussed in the in-development parliament by progressives 
-             like Hasrat Mohani and Brajeshwar Prasad. These two chaps wanted India to be a progressive, humanist society. 
-	         Hasrat Mohani proposed to name India as UISR - Union of Indian Socialistic Republics, which derived 
-	         from the name USSR, the first modern Socialist society. Brajeshwar Prasad proposed the word "Socialist" 
-	         to be included into the preamble of the constitution to describe what the newly independent India must be. 
-	         He also said that "Liberty" and "Equality" do not go together unless that society becomes a class-less society. 
-	         He also said that India, and by extension other countries, should not use "Sovereign" to describe themselves 
-	         because that word implies war and imperialism and these are of course against pan-human fraternity, 
-	         the third word in "Liberty, Equality, Fraternity". Newly independent India was a place of great promise.
+	     a wonderful such example. The Indian Constitution's main archictect was the great liberator, BR Ambedkar, 
+	     and he produced a wonderfully progressive system for India and this included "Liberty, Equality, Fraternity" 
+	     being placed in the preamble ( short introduction ) to this constitution.
+           </p>
+
+           <p>
+		 This constitution was mainly drafted during the late 1940s and before adoption at country level it was discussed in the in-development parliament 
+		 by progressives like Hasrat Mohani and Brajeshwar Prasad. These two chaps wanted India to be a progressive, humanist society.
+	   </p>
+
+	   <p>
+	     Hasrat Mohani proposed to name India as UISR - Union of Indian Socialistic Republics, which derived from the name USSR, 
+	     the first modern Socialist society.
+	   </p>
+
+	   <p>
+	     Brajeshwar Prasad proposed the word "Socialist" to be included into 
+	     the preamble of the constitution to describe what the newly independent India must be. 
+	     He also said that "Liberty" and "Equality" do not go together unless that society becomes a class-less society. 
+	     He also said that India, and by extension other countries, should not use "Sovereign" to describe themselves 
+	     because that word implies war and imperialism and these are of course against pan-human fraternity, 
+	     the third word in "Liberty, Equality, Fraternity".
+	   </p>
+
+	   <p>  
+	     Newly independent India was a place of great promise.
            </p>
 
            <p>
              But this slogan of "Liberty, Equality, Fraternity" was produced much earlier in the struggle of the French masses in the late 1700s 
              against the feudal dominance of the French kings and queens where the kings considered themselves
              appointed to eternal kinghood by God, by the God of Jesus Christ they claimed, but this is contradiction as Jesus / Isa was one of the 
-             greatest rebels, liberators and social reformers of history whose idea of God was not the oppressor which these kings of France were
-             and these kings were supported by priests, and priests were a class opposed by Jesus, and the kings were also supported by merchants 
-             who did usury and profited in every form off the misery of fellow citizens. Such merchants also had been rebelled against by Jesus. 
+             greatest rebels, liberators and social reformers of history whose idea of God was not the oppressor which these kings of France were.
+	   </p>
+
+	   <p>
+             And these kings were supported by priests, and priests were also a class opposed by Jesus.
+	   </p>
+
+           <p>
+             And the kings were also supported by merchants who did usury and profited in every form off the misery of fellow citizens. 
+	     Such merchants also had been rebelled against by Jesus.
+	   </p>
+
+           <p>
              And these three types of mutually-back-scratching self-appointed socially superior people in royal France lived grandly by walking 
              on the backs of the ordinary French people. And these oppressed ordinary people were told to be grateful for being oppressed 
              for millenia.
@@ -1549,22 +1639,23 @@ modalText.innerHTML = `
              all their life, for all their succeeding generations, despite their so visible poverty
              while the ruling royalty used those taxes to daily wine, dine and wear velvet and jewelry
              whose typical single necklace cost more money than the money collectively owned by a serf family 
-             maybe in fifty generations. The royalty and its associated lower feudals, profiteering merchants and 
-             the greedy priests lived in well-defended mansions surrounded by vast, clean gardens and slept on 
-             soft, luxurious beds while the ordinary citizens lived in dirty urban slums and rural hovels whose floors were of mud 
-             and they slept on grass beds with possibly logs to support the neck and there were rats and other pests 
-             running about these "houses".
+             maybe in fifty generations.
+           </p>
+
+           <p>
+	     The royalty and its associated lower feudals, profiteering merchants and the greedy priests lived in well-defended mansions 
+	     surrounded by vast, clean gardens and slept on soft, luxurious beds while the ordinary citizens lived in dirty urban slums and 
+	     rural hovels whose floors were of mud and they slept on grass beds with possibly logs to support the neck and there were rats and 
+	     other pests running about these "houses".
            </p>
              
            <p>
-             And there was the ever present danger of raids by bandits who often were fellow citizens driven by poverty
-             to loot.
+             And there was the ever present danger of raids by bandits who often were fellow citizens driven by poverty to loot.
            </p>
            
            <p>
-             The ordinary people also had to enlist in the wars the kings waged 
-             and all these wars brought were more land for the kings to exploit, more gold and jewels 
-             for the kings' treasury and more death, maiming and famine for the ordinary French. 
+             The ordinary people also had to enlist in the wars the kings waged and all these wars brought were more land for the kings to exploit, 
+	     more gold and jewels for the kings' treasury and more death, maiming and famine for the ordinary French. 
              During the war and after the war the king ate the most luxuriously prepared dinners and the ordinary French endured 
              famines with usually not even the basic bread.
            </p>
@@ -1572,17 +1663,23 @@ modalText.innerHTML = `
            <p>
              System-promoted language in Royal France and remainder of Medieval Europe also took on the class oppression 
              attitude of the system. The word "Villain" now is taken to be someone inherently bad, somebody evil, but the word's
-             origin is a classist slur used by the rich against the "low-born" of the poor "villa" houses. As is usual with priests, the French priests 
-             declared that to be poor automatically meant the person is bad and he or she was condemned by God to remain poor because of their inherent 
-             "badness" and that the French king was massively rich to easily afford multiple diamond necklaces because God ordained the king to be rich 
-             because the king was without blame. This promoted belief was ridiculously contradictory to the realizations and 
+             origin is a classist slur used by the rich against the "low-born" of the poor "villa" houses.
+           </p>
+
+           <p>
+	     As is usual with priests, the French priests declared that to be poor automatically meant the person is bad and he or she was condemned by God 
+	     to remain poor because of their inherent "badness" and that the French king was massively rich to easily afford multiple diamond necklaces because 
+	     God ordained the king to be rich because the king was without blame. This promoted belief was ridiculously contradictory to the realizations and 
              teachings of Isa / Christ but his ideas had been hijacked by priests who did oppression in his name.
            </p>
             
            <p>
              So it became that these anti-Nature and anti-human social inequalities and oppressions in Royal France were discussed by the intellectuals and 
-             the other passionate of France and they discussed the overturning of their inherited social situation. Also, some of the bandits were seen as 
-             heroes by the poor because the bandits were seen as the resistance against the the oppressive royalty system 
+             the other passionate of France and they discussed the overturning of their inherited social situation.
+	   </p>
+
+           <p>	   
+	     Also, some of the bandits were seen as heroes by the poor because the bandits were seen as the resistance against the the oppressive royalty system 
              and the bandits looted the rich including the priests. All these were sparks which lit the light for the French Revolution.
            </p>
 
@@ -1592,14 +1689,17 @@ modalText.innerHTML = `
              the simple access to basic bread and the queen declared carelessly "Then let them eat brioches". Brioche is a French bread 
              which is more expensive than the ordinary bread because it has butter and eggs, which were items out of reach of the French masses 
              who did not have even the simple bread and were long suffering the famines created by the French feudalism and its needless wars.
-	       </p>
+	   </p>
 
            <p>
              The queen's uncaring remark of "Then let them eat brioches" was a rallying cry for the revolutionaries to finally remove 
              the millennia-old royalty of France... the monarchy... and replace it with the people's republic where ended the feudalism of 
-             the king and his associated elements like the profiteering merchants and the priests. These French revolutionaries gave humanity 
-             the clear and simple humanist slogan "Liberty, Equality, Fraternity". Monarchy was replaced with Anarchy i.e. A-narchy, 
-             the Nature-given freewill of humans to not be ruled by monarchy, feudals, oppressors.
+             the king and his associated elements like the profiteering merchants and the priests.
+	   </p>
+
+           <p>
+    	     The French revolutionaries gave humanity the clear and simple humanist slogan "Liberty, Equality, Fraternity". 
+	     Monarchy was replaced with Anarchy i.e. A-narchy, the Nature-given freewill of humans to not be ruled by monarchy, feudals, oppressors.
            </p>
 
            <p>
@@ -1608,8 +1708,11 @@ modalText.innerHTML = `
              and rebuild Earth with a clean slate where will be replaced the oppression of the heavy rule of the monarchs and the profiteers and 
              the fake promises of the priests of divine salvation of the peasants. All these to be cast aside by the peasants emancipating themselves and 
              establishing throughout Earth a society of equals, collective welfare and true productivity, and the human race 
-             becoming one harmonious people on whom the sun of freedom will at last shine. This song 
-             "The Internationale" later was adopted by various progressive pan-humanists across the world 
+             becoming one harmonious people on whom the sun of freedom will at last shine.
+	   </p>
+
+	   <p>
+	     This song "The Internationale" later was adopted by various progressive pan-humanists across the world 
              and in the context of our company based in India, this song was first translated into 
              the Indian context by the poet Kazi Nazrul Islam in his native Bengali language, 
              including in context of encouraging the Indian freedom fighters to continue rebelling 
@@ -1618,7 +1721,7 @@ modalText.innerHTML = `
            
            <p>
              But the humanist concept of Republic from revolutionary France became distorted 
-             in the succeeding two centuries and the pan-humanist evocative song "The Internationale" sadly was 
+             in the next two centuries and the pan-humanist evocative song "The Internationale" sadly was 
              made forgotten so now in 2025 the ideas of "Natural liberty, equality and fraternity among all humans"
              has largely and sadly been replaced with "Unnatural class divisions and border divisions among humans 
              who are divided into kingdom-like nations and the hatreds between nations enforced by needless, forever wars".
@@ -1636,10 +1739,14 @@ modalText.innerHTML = `
              To extend Tagore's idea, there is difference between patriotism and nationalism. 
              Patriotism means inherent love and empathy for the oppressed, the innocent and the sensible of one's own society and 
              wanting one's society to become gentle, empathetic, just, rights-filled, having all reasonable freedoms and evolved 
-             and having fraternity with all of humanity. However, Nationalism, in particular Ultranationalism, is the opposite, 
-             narrow and contradictory concept which ignores the oppressed, the innocent and the sensible in one's own society and 
-             in fact participates in maintaining hate based on class and community and contempt for the oppressed, the innocent and 
-             the sensible in one's own society but having a strange, irrational hate for unknown people outside one's borders who have done them no harm.
+             and having fraternity with all of humanity.
+	   </p>
+
+           <p>
+	     However, Nationalism is the opposite, narrow and contradictory concept which ignores the oppressed, the innocent and 
+	     the sensible in one's own society and in fact participates in maintaining hate based on class and community and 
+	     contempt for the oppressed, the innocent and the sensible in one's own society but having a strange, irrational hate for unknown people 
+	     outside one's borders who have done them no harm.
            </p>
 
            <p>
@@ -1647,7 +1754,7 @@ modalText.innerHTML = `
              often employed in feudal organizations as a monthly wager... a wage slave, on his daily trip to and from his office, 
              passes by the same homeless and hungry people on the footpath, but will never stop to take a blanket, 
              clothes and food to them, will never even give 20 dollars to them, never will fill with tears after hearing 
-             that some of those homeless died of hunger that morning, never will have anger and disappointment and a "What ???" 
+             that some of those homeless died of hunger that morning, will never have anger and disappointment and a "What ???" 
              when hearing that that homeless person lay hungry for three days, in full view of the busy road, 
              and another middle class person brought luxurious food for five dogs on that same road 20 feet away from the hungry person, 
              and then that hungry human died of hunger.
@@ -1665,10 +1772,13 @@ modalText.innerHTML = `
            <p>
 	     And in that other faraway progressive society who our middle classee wishes to cause genocide, the citizens there don't have to struggle to take 
 	     ungiving permissions of family elders just to love a person of the opposite gender or to invent, write, paint and observe the kosmos and won't be told 
-	     by parents to either enslave themselves to earn money to be called of worth or go die silently somewhere far away. But our unthinking middle class person
-	     will call that humanist society a "rogue nation" which must be changed even by genocide so that "Democracy" can be brought there and Free Market can be
-	     brought there and the anti-worker teachings of B-schools can be brought there, LOL. But our typical middle classee is not thoughtful, educated and 
-	     awake to know all this realization.
+	     by parents to either enslave themselves to earn money to be called of worth or go die silently somewhere far.
+           </p>
+
+           <p>	   
+             But our unthinking middle class person will call that humanist society a "rogue nation" which must be changed even by genocide so that 
+	     "Democracy" can be brought there and Free Market can be brought there and the anti-worker teachings of B-schools can be brought there, LOL. 
+	     But our typical middle classee is not thoughtful, educated and awake to know all this realization.
            </p>
 
            <p>
@@ -1684,11 +1794,17 @@ modalText.innerHTML = `
              grandness of Kosmos than a human from another modern nation. A socially-advantaged 
              human from one modern "superpower wealthy nation" will be burned up in the Sun as easily as a 
              money-poor human from another modern "superpower wealthy nation"... to believe otherwise is 
-             pointless arrogance. Some thoughtful kosmos travellers who have gone to Earth orbit have 
-             spoken of seeing the Earth as a singular delicate blue world in the dark of the kosmik void, 
-	     with no natural boundaries dividing Earthen nations, though to us adding here : with the exception of Australia and 
-	     other island nations bounded by the seas but that is besides the point. It is then unwise to be fanatic 
-             nationalists in the kosmos when just the Sun can fit in itself a million Earths and the Sun being 
+             pointless arrogance.
+           </p>
+
+           <p>	   
+	     Some thoughtful kosmos travellers who have gone to Earth orbit have spoken of seeing the Earth 
+	     as a singular delicate blue world in the dark of the kosmik void, with no natural boundaries dividing Earthen nations, 
+	     though to us adding here : with the exception of Australia and other island nations bounded by the seas but that is besides the point.
+           </p>
+
+           <p>
+	     It is then unwise to be fanatic nationalists in the kosmos when just the Sun can fit in itself a million Earths and the Sun being 
              just a medium-sized star, and in reality the Sun instantly burning up those million Earths and 
              all the nations within them and with them all of the eight billion people of Earth. 
              A human is a tiny humble speck in the infinite kosmos.
@@ -1698,8 +1814,11 @@ modalText.innerHTML = `
              Secondly, the human technological advancements of now and the social advancements 
              have come from developments from people of various parts and cultures of Earth, whether 
              those people acting individually or by group efforts and these people taking inspiration from 
-             elsewhere or even being helped by others. Even the French Revolution previously 
-             mentioned did not derive all its ideas in isolation but derived some from philosophers from previous 
+             elsewhere or even being helped by others.
+           </p>
+
+           <p>
+	     Even the French Revolution previously mentioned did not derive all its ideas in isolation but derived some from philosophers from previous 
              centuries and millenia from everywhere. For example, the Greeks of 2500 years ago thought up 
 	     the semi-democratic idea of Demokratia where many non-slave male citizens directly participated in 
 	     the governance of their cities rather than kings and lower feudals doing it. And these Greeks themselves 
@@ -1712,6 +1831,9 @@ modalText.innerHTML = `
              Asia / India, and Buddha's ideas being preached later. The South Asian / Indian great emperor Ashoka
              lived more than two centuries after Buddha. He was great not because he was an emperor
              but because he used his position to advance the teachings of Buddha throughout South Asia / India and beyond.
+           </p>
+
+           <p>	   
              Ashoka's ancestry may have had cross-cultural connections because his grandfather the king Chandragupta Maurya
              married a girl from Iran called Helena whose father was the Greek empire's Greek governor of West Asia,
              Seleukus Nikator. Helena's mother was Irani. Helena was aged 15-17 and Chandragupta was 40 and 
@@ -1860,16 +1982,29 @@ modalText.innerHTML = `
              The to-kosmos launch organizations may demand that the candidate kosmonaut be of at least "Adult age 18". This is an irrational demand. Age 18 is 
 	     portrayed by every feudal society as a magical age turning a human from a "non-sensible teenager" into a "sensible adult" whereupon this new adult 
 	     can be trusted to think good of the nation by voting in elections and can be trusted to think good of the world and can be trusted to drive vehicles 
-	     without causing a single mishap, rule breaking or crime. And until a person becomes 18 age he or she must have "guardians" in form of "family elders", 
-	     essentially older persons in the family who are income-bringing and supposedly wise enough to guide the younger person's life to perfection. 
-	     And the turning of the younger person to 18 age will supposedly bring that person maturity, sense of freedom, freedom and purpose to life but this is a lie. 
+	     without causing a single mishap, rule breaking or crime.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     And until a person becomes 18 age he or she must have "guardians" in form of "family elders", essentially older persons in the family who are 
+	     income-bringing and supposedly wise enough to guide the younger person's life to perfection.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 	     
+	     And the turning of the younger person to 18 age will supposedly bring that person maturity, sense of freedom, freedom and purpose to life but this is a lie.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
 	     Most age-18 people and age-40 people will never be free from the diktats, feudalism and daily cruelty of their family elders. They will never have the right to
 	     choose the opposite gender person they like, the right to pursue the occupation they like, the right to help other humans, the right to take food to 
 	     their hungry neighbors, the right to give 20 dollars to a blind person begging on their road, the right to say that they don't want to engage in 
 	     their family's multi-generation life-long wage slavery under feudals, the right to not have their intestines removed by a gang of dogs 
 	     on the chaos-filled road outside their house gate or the intestines removed in a mindless socio-economic quarrel, the right not to die of mindless overwork 
-	     just to earn ten dollars, and instead want their society and humanity to evolve from dog-eat-dog situation to utopia. But the age-18-and-beyond children 
-	     will never have these rights in the so-called Democracies of now so this "Adult age 18" thing is nonsense.
+	     just to earn ten dollars, and instead want their society and humanity to evolve from dog-eat-dog situation to utopia.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     The age-18-and-beyond citizens will never have these rights in the so-called Democracies of now so this "Adult age 18" thing is nonsense.
 	   </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";>  
@@ -1909,12 +2044,16 @@ modalText.innerHTML = `
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-	     Five hundred years ago the Mughal prince Jalaaluddeen Muhammad, who later became called Akbar ( "The Great One" ), became emperor of India 
-	     at age 13 and he became a good administrator in time because he was a sensible person inherently despite being from a feudal family, 
-	     very unlike most other feudals in history. He did progressive things at younger ages that most other feudals never had the idea of doing at their 80 of age... 
-	     for example at age 20 he married a Hindu Rajput princess now popularly called Jodha Bai. And Jodha Bai after becoming Akbar's wife, 
+	     Another example for us to adopt naturality regarding age is of the Mughal emperor of India, Akbar. Five hundred years ago the Mughal prince 
+	     Jalaaluddeen Muhammad, who later became called Akbar ( "The Great One" ), became emperor of India at age 13 and he became a good administrator 
+	     in time because he was a sensible person inherently despite being from a feudal family, very unlike most other feudals in history. He did progressive things
+	     at younger ages that most other feudals never had the idea of doing at their 80 of age.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     For example at age 20 he married a Hindu Rajput princess now popularly called Jodha Bai. And Jodha Bai after becoming Akbar's wife, 
 	     was renamed as "Mariyam uz Zamaani" which meant "Mary of Our Times"... Mary / Mariyam being the mother of Isa / Jesus. 
-	     Akbar, through this marriage alliance, brought some harmony to the warring nature within then India by creating family bond between 
+	     Akbar, through this marriage alliance, brought some harmony to the constant wars situation within then India by creating family bond between 
 	     the Muslim-dominated empire of Akbar and the Hindu Rajput kingdoms dominating much of the north of India. And also through the name 
 	     "Mariyam uz Zamaani" a nod to the non-tribalist teachings of Isa / Jesus to bridge India more culturally to the rest of the known world. 
 	     How many feudals in the world who were 80 of age could think of such an alliance ?
@@ -1923,15 +2062,26 @@ modalText.innerHTML = `
            <p style="margin-left:1em; margin-bottom:10px";>
 	     Another of Akbar's brilliances was his creation of a new constitution for his Indian empire. This constitution is now called 
 	     "Deen e Elaahi" and then was called "Tauheed e Elaahi"... meaning "The One-ness of God" or perhaps "The One-ness of the Divine". This system 
-	     was a syncretic system which brought together the beliefs of Islam, Hinduism, Christianity, Zoroastrianism and others. This new syncretic system called 
-	     "Tauheed e Elaahi" was presented as the state system for his empire to bring together as humans all his subjects who were of various religions. 
-	     The theology of this syncretic system was amplified by him gathering in his library the texts from various parts of the world and in various languages... 
-	     from Kashmiri in the north of India to Greek from Greece thousands of kilometers away in Europa. The Wikipedia page for this syncretic system 
-	     [ en.wikipedia.org/wiki/Din-i_Ilahi ] has this sentence : "In a letter to King Philip II of Spain, Akbar laments that so many people do not 
-	     investigate their religious arguments, stating that most people will instead blindly "follow the religion in which [ they ] were born and educated, 
-	     thus excluding [ themselves ] from the possibility of ascertaining the truth, which is the noblest aim of the human intellect."". Though this new 
-	     syncretic system died with the death of Akbar, he created this syncretic system as his country's constitution and his contribution to humanity 
-	     in general, at the age of 40 in year 1582 what many other feudals in history... indeed most humans in history... could not do at age 80.
+	     was a syncretic system which brought together the beliefs of Islam, Hinduism, Christianity, Zoroastrianism and others.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     This new syncretic system called "Tauheed e Elaahi" was presented as the state system for his empire to bring together as humans all his subjects 
+	     who were of various religions. The theology of this syncretic system was amplified by him gathering in his library the texts from various parts of the world 
+	     and in various languages... from Kashmiri in the north of India to Greek from Greece thousands of kilometers away in Europa.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     The Wikipedia page for this syncretic system [ en.wikipedia.org/wiki/Din-i_Ilahi ] has this sentence : "In a letter to King Philip II of Spain, 
+	     Akbar laments that so many people do not investigate their religious arguments, stating that most people will instead blindly "follow the religion 
+	     in which [ they ] were born and educated, thus excluding [ themselves ] from the possibility of ascertaining the truth, which is the noblest aim 
+	     of the human intellect."".
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     Though this syncretic system died with the death of Akbar, he created this syncretic system as his country's constitution and 
+	     his contribution to humanity in general, at the age of 40 in year 1582 what many other feudals in history... indeed most humans in history... 
+	     could not do at age 80.
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -1946,19 +2096,21 @@ modalText.innerHTML = `
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-	     So about age, in the context of this 
-	     being about removal of feudalism from kosmos travel, it is not as if Kosmos / Nature will throw back to Earth 
+	     So about age, in the context of this being about removal of feudalism from kosmos travel, it is not as if Kosmos / Nature will throw back to Earth 
 	     any human who is below "Magic adult age 18" and has reached Low Earth Orbit to try to reach the Moon. Nature does not have this irrational 
 	     age discrimination and age feudalism. The kosmos will easily kill any 80-age kosmonaut who has gone close to the Sun as easily as a 15-age kosmonaut.
 	   </p>
 
            <p>
              Thus presently most humans are excluded from going to the kosmos even if they are intelligent, gentle, physically able and respect Nature... 
-             even if experiencing the kosmos must be the easy right of every human. But it is not Nature denying most people 
-             access to the kosmos... it is anti-democratic systems among humans doing so. The kosmos does not create celestial messaging 
-             where the kosmos displays an "Only allow them" list in Earth's night sky every night... the alphabets in the list formed by 
-	     formations of stars... where the list shows names of  only the moneyed and the other unfairly privileged who can experience the kosmos. 
-	     In truth the kosmos knows neither money nor rank nor college degree nor age nor any other such nonsense.
+             even if experiencing the kosmos must be the easy right of every human.
+	   </p>
+
+           <p> 
+	     But it is not Nature denying most people access to the kosmos... it is anti-democratic systems among humans doing so. The kosmos does not 
+	     create celestial messaging where the kosmos displays an "Only allow them" list in Earth's night sky every night... 
+	     the alphabets in the list formed by formations of stars... where the list shows names of  only the moneyed and the other unfairly privileged 
+	     who can experience the kosmos. In truth the kosmos knows neither money nor rank nor college degree nor age nor any other such nonsense.
 	   </p>
 
            <p>
@@ -1983,7 +2135,11 @@ modalText.innerHTML = `
              Part of that trillion of the wannabe space billionaires will come from charging huge tax ransoms 
              to take people to the kosmos and keep them alive in the kosmos and provide them with communication and food and healthcare and rescue 
              and collaboration and other things... things that should be available to every human without he or she 
-             being taxed. How can there be tax on oxygen, water and food in Nature's kosmos ? Surely these billionaires 
+             being taxed.
+	   </p>  
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     How can there be tax on oxygen, water and food in Nature's kosmos ? Surely these billionaires 
              are not Nature to have produced them and surely when these billionaires on Earth see rain falling from the sky and it feeding the rivers
              and the seas and seeding plants and feeding the birds and the other animals, the billionaires don't find Nature's message in the sky 
              demanding that they pay Nature a big tax and only then it will send rain to their gardens and to the farms 
@@ -2175,15 +2331,29 @@ modalText.innerHTML = `
            <p style="margin-left:1em; margin-bottom:10px";> 
              <span>(e).</span> Every worker is given respect and rights as a human individual who is not subordinate to his or her family. 
 	     The Family system is a feudal system which creates islands of selfishness and apathy, islands of micro feudalism, promotes competition and 
-	     promotes multi-generation slavery. Human society will never achieve utopia until Family system exists. The system of Family wasn't present 
-	     in early humanity because then humans lived in natural, communal bliss. All the members of a settlement collectively owning and managing 
-	     public-use things like farms, water sources, means of production and housing. The young ones were raised as responsibility by all the members. 
-	     A younger member was put into social responsibility and given full reasonable freedom when naturally becoming sensible ( not some supposedly magical 
-	     voting-age 18 ). There was no tax of any sort including money and no one person controlling things useful to everyone ( a feudal / landlord / king ) and 
-	     there was no person instilling superstitious fear into the others so that he can control them this way ( by becoming priest ). No king wanting more power 
-	     for power's sake by reorganizing the rest of the community into warriors and making them die or get injured for him by fighting 
-	     needlessly with other humans. Early humans lived in a Socialist arrangement... happy, innocent, empathetic, natural, without cunning. Then someone 
-	     started landlordism, family, kingship, tax, money, treasury, war and social structures only became bad. We have addressed most of those things previously. 
+	     promotes multi-generation slavery. Human society will never achieve utopia until Family system exists.
+	   </p>  
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     The system of Family wasn't present in early humanity because then humans lived in natural, communal bliss. 
+	     All the members of a settlement collectively owning and managing public-use things like farms, water sources, means of production and housing. 
+	     The young ones were raised as common responsibility by all the members. A younger member was put into social responsibility and 
+	     given full reasonable freedom when naturally becoming sensible ( not some supposedly magical voting-age 18 ).
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     There was no tax of any sort including money and no one person controlling things useful to everyone ( a feudal / landlord / king ) and 
+	     there was no person instilling superstitious fear into the others so that he can control them this way ( by becoming priest ). No king wanting more power
+	     for power's sake by reorganizing the rest of the community into warriors and making them die or get injured for him by fighting
+	     needlessly with other humans. Early humans lived in blissful Socialist arrangement... happy, innocent, empathetic, natural, without cunning.
+	   </p>  
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     Then someone started landlordism, priesthood, family, kingship, tax, money, treasury, war and social structure only became bad. 
+	     We have addressed most of those things previously.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 	     
 	     But in a Workers Cooperative all these wrong things will be made obsolete and the worker will be given respect and respects as a human individual 
 	     who is not subordinate to his or her family.
            </p>
@@ -2215,8 +2385,8 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";> 
              <span>(k).</span> The need for a workers union now becomes not necessary because the 
-             company is no longer divided into bosses and workers where the workers have to agitate 
-             for their rights. With the Workers Cooperative concept all the workers equally own the company 
+             company is no longer divided into bosses and workers where the workers have to form a collective and 
+	     agitate for their rights. With the Workers Cooperative concept all the workers equally own the company 
              and there no longer are the bosses of the past. If any worker i.e. co-owner of the company has issues, 
              he or she can directly call a discussion circle.
            </p>
@@ -2344,13 +2514,127 @@ modalText.innerHTML = `
            <h2> 06. Personality of the kosmonauts</h2>
 
           <p>
-	    This topic is about language, appearance and personality of the kosmonauts.
-	  </p>  
+	    This topic is about language, appearance and personality of the kosmonauts and is necessary for safe, collaborative and harmonious presence of humans 
+	    in the kosmos but also applies to Earthen settings.
+	  </p>
 
            <p>
              English is the most appropriate common language in the kosmos and will be the base language in our 
 	     Frema internet system but provision must be there for use of other languages but with the understanding that 
 	     such communications must be open and translatable and pronounceable by other language speakers.
+           </p>
+
+           <p>
+	     To be understood is that man is male and woman is female and there are naturally different personalities and duties of the two.
+	   </p>
+	   
+	   <p>
+	     Men have to be gentlemen who are gentle, honest, genuine, trusting and trustworthy, are well groomed and well dressed, genuine in speech, 
+	     speak their mind but with decency, support the correct ( like ceding place in a queue for an elderly person ) and not support the incorrect vocally 
+	     ( like telling a queue breaker ), do no anti-social behavior ( like urinating in public places ) and are collaborative instead of competitive.
+           </p>
+
+           <p>
+	     Men should not dress in the sloppy t-shirt and shorts as their outer dress. Men's legs should not be seen in shorts in the public unless 
+	     there is a health reason and then too in long shorts extending below the knee. T-shirts are to be only used as under-shirts. 
+	     Social wear for men should normally be pants and full sleeve shirts with no garish design. Jackets as per situation, season and not seeming 
+	     "Manager in MNC" type. Ties are a no... the tie being an idiotic invention whose only function is adding color to the dress. 
+	     There are good neckwear in form of scarves and cravats which are to be worn if the man can carry them.
+           </p>
+
+           <p>
+	     Men should shave their face at least once every two days, though leaving a neat mustache if mustache suits the man, and a beard if suiting the man. 
+	     Beard suits very few men.
+           </p>
+
+           <p>
+             The only ethnic wear for men which looks good is the cloak, head dress and face cover of men from the Imohag people of the Sahara desert, 
+	     aka the Tuareg people... this dress probably being the inspiration for the desert dress of the Fremen people in the Dune stories. 
+	     "Imohag" means "Free men" in the Tamasheq language of the Imohag people and maybe the Fremen people having "blue within blue" eyes 
+	     from intake of "spice" comes from two things :
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(a).</span> Blue eyes found within the Imohag people who live within a desert setting like the Fremen.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(b).</span> The Imohag men's desert dress which we speak of, which leaves blue coloring on their face from the face cover's indigo dye 
+	     rubbing on the skin. The face cover / veil part of this dress is worn only by the Imohag men, not women whose face remains unveiled.
+	   </p>
+
+	   <p>
+	     Below are some photo examples of this men's dress :
+           </p>
+
+           <p>
+	     https://ibiene.com/wp-content/uploads/2022/05/img_0674-1024x683.jpg
+           </p>
+	   
+           <p>
+	     https://ibiene.com/wp-content/uploads/2022/05/b296f9c116ddf9d6efd13b3f9eef4968.jpg
+           </p>
+	   
+           <p>
+	     https://www.alamy.com/stock-photo-close-up-of-a-tuareg-man-morocco-29006757.html
+           </p>
+	   
+           <p>
+	     https://www.facebook.com/100063535277856/posts/tuareg-desert-man-his-blue-eyes-sparkle-like-the-stars-in-a-clear-night-sky/1344335357694294/
+           </p>
+
+           <p>
+	     https://www.terres-touareg.com/wp-content/uploads/2024/04/Sans-titre-6-3.jpg
+           </p>
+	   
+           <p>
+	     https://sharjahevents.ae/en/event/tinariwen-live-in-sharjah/
+           </p>
+
+           <p>
+	     About women's dress and presentation, women should not appear fake or unfeminine or remind of obsolete or oppressive 
+	     cultural elements. Recommendations include not using or doing the following items :
+           </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";>
+             <span> >> </span> Eyelash curler.
+           </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";>
+	     <span> >> </span> Face botox.
+           </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";>
+	     <span> >> </span> Lip filling.
+           </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";>
+	     <span> >> </span> Face makeup.
+           </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";>
+	     <span> >> </span> Heel shoes.
+           </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";>
+	     <span> >> </span> Aggressive attitude and foul words in order to pretend to be "one of the boys" or 
+	     to display a wrong understanding of women's emancipation.
+           </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";>
+	     <span> >> </span> Gymming. More on this in the next topic.
+           </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";>
+	     <span> >> </span> Power suit and a "professional", impersonal, apathetic manner.
+           </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";>
+	     <span> >> </span> Too much jewelry and garish jewelry.
+           </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";>
+	     <span> >> </span> Piercings though okay for nose and ears.
            </p>
 
            <p> [ To be done ] </p>
@@ -2395,10 +2679,13 @@ modalText.innerHTML = `
            <p>
              Also through the gladiator games, the emperor made the non-rebelling citizens become used to and enjoy blood, maiming, pain, death and senseless killing 
 	     of human and non-human. This was useful for the emperor to prepare these unthinking masses to fill his military as ready soldiers for no other reason than 
-	     more glory, land and wealth for himself... from Rome to England, Afrika, West Asia and beyond. What did the ordinary Roman subject citizen soldier get 
-	     from killing an Ethiopean or Englander or Arab ? Either getting his hand cut off or death and glory in title. Did his material situation improve ? No. 
-	     Did the emperor give one of his many mansions to the ordinary citizen soldier ? No. Did the soldier citizen become freed from slavery to the feudals ? No. 
-	     A senseless thing this.
+	     more glory, land and wealth for himself... from Rome to England, Afrika, West Asia and beyond.
+           </p>
+
+           <p>
+	     What did the ordinary Roman subject citizen soldier get from killing an Ethiopean or Englander or Arab ? Either getting his hand cut off in the war or 
+	     death and glory in title. Did his material situation improve ? No. Did the emperor give one of his many mansions to the ordinary citizen soldier ? No. 
+	     Did the soldier citizen become freed from slavery to the feudals ? No. A senseless thing this.
            </p>
 
            <p>
@@ -2418,9 +2705,21 @@ modalText.innerHTML = `
            <p>
 	     This stupidity was 2000 years ago but it still continues in the so-called Democratic Societies... for example the baseball matches and the boxing matches. 
 	     Four hundred audience members around the boxing ring... who have paid the ticket to be there, whose amount will be a substantial amount from 
-	     their monthly wage slavery salary... they sit in the boxing arena waiting eagerly for the barbarity called boxing to start, carry t-shirts and banners 
+	     their monthly wage slavery salary... they sit in the boxing arena waiting eagerly for the barbarity called boxing to start, wear t-shirts and carry banners 
 	     of their artificially-made-favorite boxer... and cheer with mindless bloodlust for the two humans in the boxing ring beating each other to blooding, 
-	     exhaustion, injury, collapse, fainting and possible death. Stupid stupid stuff. Having all the reasons for existence as the gladiator games of 2000 years ago.
+	     exhaustion, injury, collapse, fainting and possible death. The boxer may carry permanent serious health degradation like with Muhammad Ali 
+	     who developed Parkinson's. Contradiction of this boxer carrying the name Muhammad, one of humankind's great philosophers and reformers who 
+	     would have found boxing to be obscene, to have all the reasons for existence as the barbaric Roman gladiator games 800 years before him and 
+	     who would have been saddened for what became of the boxer carrying his name.
+           </p>
+
+           <p>
+             Another largely barbaric sport is hunting. What is the point of hunting cats, whales, elephants, deer, zebra, rhinos, giraffes, dodos, ostriches etc 
+	     except to demonstrate cowardliness, feudal power, profiteering and non-appreciation of beauty and intelligence by shooting at them with arrows or guns or
+	     harpoons at 20 meters distance ? Anyone who wants to kill a cat is being stupid and thus should stop. Any society which celebrates such killing 
+	     including by fixing a cat's head to the most prominent wall of his house or the hunter holding the killed cat in a photo, 
+	     such society is in need of enlightenment. But permissible is removal of wolf, hyena and all other dogs and also snakes, crocodiles, sharks and orcas 
+	     as these animals are dangerous pests.
            </p>
 
            <p>
@@ -2463,8 +2762,18 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             Other recreations can be poetry, painting, pottery, music, writing stories and long discussions over tea. There is nothing more manly for a man than 
-	     to be a philosopher, to be a gentleman, to be passionate about learning about Nature, to be a humanist... on Earth and beyond Earth.
+	     When women start gymming and doing regular running for "fitness", there is an unfeminine hardness that comes into them, both physically and 
+	     in their psyche. Hard body, foul mouth, athletic running manner and a callous attitude are totally undesirable in women.
+           </p>
+
+           <p>
+             About the good sports, other than badminton, swimming and brisk walking as recreations for all, others can be poetry, painting, pottery, music, 
+	     writing stories and long discussions over tea.
+           </p>
+
+           <p>
+	     And there is nothing more manly for a man than to be a philosopher, to be a gentleman, to be passionate about learning about Nature, to be a humanist... 
+	     on Earth and beyond Earth.
            </p>
 
            </div>
@@ -2575,7 +2884,7 @@ modalText.innerHTML = `
              questions which have benefited humanity throughout its history in its bettered social systems 
              and better technology and the presence of Human in Kosmos.
            </p>
-           
+
            <p>
              Knowledge is bettered when it is shared freely with all, without being taxed in various forms 
              like the receiver must only be of certain artificial social classes including having two college degrees 
@@ -2587,12 +2896,15 @@ modalText.innerHTML = `
              societies and individual people of natural thinking created over thousands of years without 
              consideration of college degrees or other kinds of artificial social separations.
            </p>          
-           
+
            <p>
              The wrong system of college degrees was started by a Muslim African woman by name Fatima al-Fihri 
              in year 859 AD when she established the university in Qayrawan city in what is now Morocco. 
              This university was the first known university in the world and still operates. It started as a theology 
-             place but later it added other sciences including astronomy and it became a famous general university. 
+             place but later it added other sciences including astronomy and it became a famous general university.
+           </p>
+
+           <p>
 	     However, Fatima as the founder decided to start the system of degrees which in her mind was to limit the student intake 
 	     which was big because of the university's popularity and also probably because she thought degrees will 
 	     give her passing students prestige and probably give her university more renown than the legendary libraries of 
@@ -2604,19 +2916,27 @@ modalText.innerHTML = `
 
            <p>
              What college degree system Fatima started more than 1100 years ago in Africa has now led to multi-generation misery and 
-             oppressions in most places across Earth now in 2025 for billions of people. This act of Fatima is the single wrong thing 
-             in the about thousand year period of the Islamic Golden Age which was a period which not only created great philosophies and 
-	     technologies but also forwarded past brilliant knowledges from the Greeks, the Egyptians, the West Asians, Buddha, Isa and the Chinese, 
-	     and forwarded the good things by its contemporary Indians. This period of great creativity was the direct influence on the establishment 
-	     of the Enlightenment period in Europe and its consequent Industrial Revolution whose benefits we use now. But that single act of Fatima 
-             of adding competition to education more than a thousand years ago has created such tragedies now.
+             oppressions in most places across Earth now in 2025 for billions of people.
+	   </p>
+
+           <p>
+	     This act of Fatima is the single wrong thing in the more than thousand year period of the Islamic Golden Age which 
+	     was a period which not only created great philosophies and technologies but also forwarded past brilliant knowledges from the Greeks, 
+	     the Egyptians, the West Asians, Buddha, Isa and the Chinese, and forwarded the good things by its contemporary Indians. 
+	     This period of great creativity was the direct influence on the establishment of the Enlightenment period in Europe and its consequent 
+	     Industrial Revolution whose benefits we use now. But that single act of Fatima of adding competition to education more than a thousand years ago 
+	     has created such tragedies now.
            </p>
     
            <p>
              In the modern world if the college degree is one form of tax to get respect, to get the college degree itself 
              requires other taxes like money and high exams marks in the preceeding school years but how is this rational ? 
              Will knowledge not enter into a person's mind if he or she do not acquire these preceeding taxes and 
-             the suceeding taxes ? We now have so many knowledges, technologies, amenities and progressive social systems 
+             the suceeding taxes ?
+           </p>
+
+           <p>
+             We now have so many knowledges, technologies, amenities and progressive social systems 
              because of free knowledge distribution by thousands of brilliant people before us who in their time either did not 
              have the modern assembly-line degree-based education system of now or did not go to the formal universities of their time 
              and instead were self-taught engineers, doctors, philosophers, astronomers, naturalists etc, or they went to colleges 
@@ -2630,20 +2950,35 @@ modalText.innerHTML = `
              led to our modern world using electrical machinery whether the lamp, the motor car, 
              the washing machine or the cell phone. And he studied only till middle school 
              in terms of the modern assembly-line degree-based education system. He was not at all a college graduate, 
-             let alone one with three post-graduate diplomas including from a B-school and subsequent years 
-             of experience in the corporate world. This means many from those societies which place great multi-generational 
-             emphasis on college degrees, and disrespect anyone not achieving degrees, they must stop using electrical machinery 
-             because this field was forwarded by the "unschooled" Michael Faraday. Stopping thus will be a principled stand. 
-             But will they ?
+             let alone one with three post-graduate diplomas including from a B-school and subsequent 20 years of "experience  
+	     in senior manager positions in the corporate world".
+	   </p>
+
+           <p>
+	     This means many from those societies which place great multi-generational emphasis on college degrees, 
+	     and disrespect anyone not achieving degrees, they must stop using electrical machinery because this field was forwarded by 
+	     the "unschooled" Michael Faraday. Stopping thus will be a principled stand. But will they ?
+           </p>
+
+           <p>
+             Similar is the case of the Wright Brothers who built and flew the first aeroplanes more than a hundred years ago. 
+	     They did not finish high school and were thus "unschooled" as per many present societies especially South Asia, and then were humble cycle shop owners. 
+	     They were not PhDs who were fintech company entrepreneurs with their company being a "unicorn". 
+	     Therefore, those people now arrogant about their three college degrees and decades-long corporate experience, 
+	     with contempt for school dropouts, should not use aeroplanes. Simple. Let them create a magic carpet made from their college degrees and 
+	     their many job experience letters and fly on this carpet.
            </p>
 
            <p>
              Jagadish Chandra Bose disagreed with the modern patents system and he and Michael Faraday would have agreed with the four big 
              examples of untaxed and for-all education and collaboration systems in modern times : one the internet itself, 
-             second the Open Source Computing movement, third the Wikipedia and fourth the Khan Academy. Both those gents and 
-             every naturally intelligent contributor in history would have wanted the four above examples to contribute to 
+             second the Open Source Computing movement, third the Wikipedia and fourth the Khan Academy.
+	   </p>
+
+           <p>
+	     Both Faraday and Bose and every naturally intelligent contributor in history would have wanted the four above examples to contribute to 
              the system of education on Earth and in the exploration and settlement of the kosmos, with the understanding that 
-             there is much material in those places which are misinfo and disinfo.
+             there is much material in those learning mediums which is misinfo and disinfo.
            </p>
 
            <p>
@@ -2652,14 +2987,21 @@ modalText.innerHTML = `
              live-narrating their experiences in the kosmos as also later recording their experiences and 
              adding these experiences to the Frema internet blog that is produced by each Worker 
              Cooperative, and these blogs being accessible by every human in Kosmos and on Earth. The 
-             blogs will have text, voice, still pictures and videos because someone's experience will 
-             become non-limited in explanation by presenting it in different formats. And these blogs will 
-             have a response system for the readers and viewers though of course the reception of these 
+             blogs will have text, voice and videos because someone's experience will 
+             become non-limited in explanation by presenting it in different formats.
+           </p>
+
+           <p>
+	     And these blogs will have a response system for the readers and viewers though of course the reception of these 
              informations by the readers and their responses by the readers may take small delays to 
              very large delays because of the in-kosmos location of the blog producers and their duties 
              and other activities. The one-way communication time itself may be from about a second ( 
              the Moon ) to 13 minutes ( Red One ) to many many hours, and these delays just within the 
              Solar System.
+           </p>
+
+           <p>
+	     Further explanations about education are in the below topic "City redesign on Earth".
            </p>
 
            </div>
@@ -2686,32 +3028,36 @@ modalText.innerHTML = `
 
            </div>
 
-           <div id="mirkeen01" class="section">
-           <h2> 10. Mirkeen-01 base on the Moon</h2>
+           <div id="mirkeen" class="section">
+           <h2> 10. Mirkeen-01 city on the Moon</h2>
 
            <p>
-             Project Mirkeen-01 will be our effort in building a humanity-uniting progressive research base 
+             Project Mirkeen will be our effort in building a humanity-uniting progressive research city 
              on the Moon ( Earth's moon ), having the name "Mirkeen-01" and to be built beginning in 2032.
            </p>
 
            <p>
-             Presently, Artemis Accords and ILRS ( International Lunar Research Station ) are two 
-             projects for the near-future construction of bases and other infrastructure on the Moon and 
+             Presently, Artemis Accords and ILRS ( International Lunar Research Station ) are two projects for 
+	     the near-future construction of bases and other infrastructure on the Moon and 
              includes the kosmik vehicles needed to carry humans and luggage between Earth and the 
-             Moon towards the construction of the bases and during their operation. Artemis Accords is 
-             led by the USA government and the ILRS is led by the governments of China and Russia, 
-             and these three governments have needlessly extended to the Moon their disharmony-filled 
-             Earthen bloc politics when instead they should have proposed a pan-human, collective Moon 
-             Base effort. So we of Kosmos Society propose a third way... sometimes there is a third way 
-             as nicely put in the slogan of the World Social Forum - "Another world is possible". We call 
-             this third way as "Project Mirkeen-01".
+             Moon towards the construction of the bases and during their operation.
            </p>
 
            <p>
-             "Mirkeen" is a combination of "Mir" and "Keen". "Mir" means Peace in the Russian language 
-             and also World. "Keen" is the main city in the Dune story. Our project involves building a 
-             separate base on the Moon called Mirkeen-01, separate to Artemis Accords and ILRS, in the 
-             following way :
+             Artemis Accords is led by the USA government and the ILRS is led by the governments of China and Russia, 
+             and these three governments have needlessly extended to the Moon their disharmony-filled Earthen bloc politics 
+	     when instead they should have proposed a pan-human, collective Moon Base effort.
+           </p>
+
+           <p>
+	     So we of Kosmos Society propose a third way... sometimes there is a third way as nicely put in the slogan of the World Social Forum - 
+	     "Another world is possible". Our third way is the Moon city "Mirkeen-01" which we will build and it will be separate to Artemis Accords and 
+	     ILRS.
+           </p>
+
+           <p>
+             The name "Mirkeen" is a combination of "Mir" and "Keen". "Mir" means Peace in the Russian language 
+             and also World. "Keen" is the main city in the Dune story. This Moon city will be built in the following way :
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -2722,76 +3068,123 @@ modalText.innerHTML = `
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(b).</span> With all this brought-together "snapshot of humanity" we begin to build the Mirkeen-01 base on the Moon 
+             <span>(b).</span> With all this brought-together "snapshot of humanity" we begin to build the Mirkeen-01 city on the Moon 
              starting 2032, using our to-Moon transport means ( our-designed Alef-A airship-type kosmos ships manufactured by partner governments ) and 
-             our other technologies and the technologies of other partner pan-humanist organizations with 
-             common protocols. The construction workers will base themselves in the Alef-As until the base is built.
+             our other technologies and the technologies of other partner pan-humanist organizations with common protocols. 
+	     The construction workers will base themselves in the Alef-As until the base is built.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(c).</span> We will site the Mirkeen-01 base underground in a place which will be in line-of-sight with Earth but not far from 
+             <span>(c).</span> We will site the Mirkeen-01 city underground in a place which will be in line-of-sight with Earth but not far from 
              the Moon's Far Side. These criteria are for safety from kosmik rocks and radiation, to be in constant communication with Earth 
              and to sally out to the Far Side at will to learn deep-kosmos operations as well as to obtain water from the possible water ice 
-             there and possibly from Moon soil. There will be at least one communications relay satellite in the Moon's orbit above Far 
-             Side to connect to a few relay satellites above Earth with these relay satellites being operated by our partner organizations.
+             there and possibly from Moon soil. There will be at least one communications relay satellite in the Moon's orbit above Far Side to 
+	     connect to a few relay satellites above Earth with these relay satellites being operated by our partner organizations.
            </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(d).</span> The construction materials for the Mirkeen-01 base, ground vehicles etc 
+             <span>(d).</span> The construction materials for the Mirkeen-01 city, ground vehicles etc 
              will be partly materials carried from Earth in our Alef-A airship-type kosmos ships and partly local materials as 
              per application ( ISRU - In Situ Resource Utilization ). The machines to dig the ground will be our Moggy robot cats 
 	     and the Moggys will also be our on-Moon vehicles.
            </p>
 
+	   <p style="margin-left:1em; margin-bottom:10px";>
+             <span>(e).</span> The excavation of the ground will keep in mind further underground extensions of the city.
+           </p>
+
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(e).</span> The Mirkeen-01 base will be designed to be partly self-sufficient food-wise, 
-             in water, in production of clothing, computers, ground vehicles etc but be extendible for meeting with 
-             future self-sufficiency situations. The electricity will be decentralized and will use our safe, 
+             <span>(f).</span> The Mirkeen-01 city will be designed to be partly self-sufficient food-wise, 
+             in water, in production of clothing, computers, the Moggy robot cats for ground transport etc 
+	     but be extendible for meeting with future self-sufficiency situations. The electricity will be decentralized and will use our safe, 
              self-sustaining, modular and easily repairable Faradn generators.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-             <span>(f).</span> The social organization system of the Mirkeen-01 base will be the points in this chapter.
+             <span>(g).</span> The social organization system of the Mirkeen-01 city will be the points in this chapter.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(g).</span> The Mirkeen-01 base will be the first very advanced human society which won't have feudalism and 
-             tax in any form including money. The true wealth of a society is not in the money, mansions and luxury motorcars 
-             held by a few privileged. The true wealth is the potential and the positive ideas and works of the citizens 
-             and these can exist without money and tax hoarding. In fact the potential of a society is corroded by the presence of money and 
-	     hoarded tax because so many people have potential but when they get socially excluded through the various aspects of tax  
-             they don't get the opportunity to realize their potential and their society does not get to benefit. 
+             <span>(h).</span> The Mirkeen-01 city will be the first very advanced human society which won't have feudalism and 
+             tax in any form including money. The true meaning of "prosperous society" is not in the money, mansions and luxury motorcars 
+             hoarded by a few privileged. The true meaning of "prosperous society" is the situation where the potential and the positive ideas and works of 
+	     every citizen is encouraged and the society collectively develops because of the contribution of each encouraged citizen.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             And this situation can exist without the few priviledged hoarding money and others kinds of tax. In fact the potential of a society is corroded by 
+	     the presence of money and other hoarded taxes because so many people have potential but when they get socially excluded through 
+	     their inability to pay various kinds of tax, they don't get the opportunity to realize their potential and their society does not get to benefit. 
              This realization extends to all of humanity.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(h).</span> For the time being the Mirkeen-01 base can engage in commercial activities 
-             to sustain itself other than getting support from Kosmos Society and its partners on Earth. This 
-             commerce will be in accordance with our social system for the kosmos. The commerce 
-             can be about Moon-available minerals needed on Earth ( iron, silicon etc ) or needed on others' 
-             kosmik stations around Earth; the commerce can be about those produced materials and 
-             services which benefit from the low-gravity and vacuum conditions on the Moon.
+             <span>(i).</span> For the time being the Mirkeen-01 city can engage in commercial activities 
+             to sustain itself other than getting support from Kosmos Society and its partners on Earth. 
+	     This commerce will be in accordance with our social system for the kosmos. The commerce can be about 
+	     Moon-available minerals needed on Earth ( iron, silicon etc ) or needed on others' kosmik stations around Earth; 
+	     the commerce can be about those produced materials and services which benefit from the low-gravity and vacuum conditions on the Moon.
            </p> 
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(i).</span> The Mirkeen-01 base will host guests from any place on Earth as well as from the Artemis Accords base and the ILRS base, 
+             <span>(j).</span> The Mirkeen-01 city will host guests from any place on Earth as well as from the Artemis Accords base and the ILRS base, 
              as long as the guests are human-spirited gentle people and will be welcomed with tea and biscuits.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(j).</span> The Mirkeen-01 base will serve as a store for desirable biological material and technological recipes 
+             <span>(k).</span> The Mirkeen-01 city will serve as a store for desirable biological material and technological recipes 
              so that if Earth is threatened by natural events ( asteroids, comets, big solar flares, pandemics, super volcanoes etc ) 
              or unfortunately done human-made events ( global war etc ), advanced human life and other desirable lifeforms 
-             on Earth ( like plants, cats, fish, birds, deer etc ) can recover and thrive. This arrangement 
+             on Earth ( like plants, cats, fish, whales, birds, deer etc ) can recover and thrive. This arrangement 
              will supplement the Svalbard Global Seed Vault.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(k).</span> The Mirkeen-01 base will also serve as an example to replicate its techno systems and 
+             <span>(l).</span> The Mirkeen-01 city will also serve as an example to replicate its techno systems and 
              social system on other worlds like Red One and Red One's moons and the Asteroid Belt. Each new such base 
-             will be named Mirkeen but with increasing numbers like 02, 05, 20 and going into hexadecimal numbers like 
+             will be named Mirkeen but with increasing numbers like 03, 05, 20 and going into hexadecimal numbers like 
              0A, 4C and FA.
            </p>
+
+	   <p>
+	     Example story set on the Mirkeen-01 Moon city :
+	   </p>
+
+	   <p>
+	     It is year 2035. You have a whim to go to the Moon, to its pan-human city Mirkeen-01. This young city is built in architecture 
+	     which is a mix of Andalusian, Rajasthani and other fine architectures. Particularly in this city you wish to experience the tea house 
+	     called Chai Guevara which is famed as the gathering place for easy-going philosophers who replicate the "adda" culture of the tea houses 
+	     of Calcutta city in present India.
+	   </p>
+
+	   <p>
+             You wish to sit in Chai Guevara and discuss for hours over tea and eats. And listen to the singers in the tea house singing 
+             in the new kosmik human language Kora which is a mix of English, Urdu, Russian, Tamasheq and Spanish. The songs are written by 
+	     such young poets as Faiza, Alexey, Carlos and Siddhartha, and the singing accompanied by the music instruments kora, sarangi, cymbals and 
+	     conga drums.
+	   </p>
+
+	   <p>
+	      You wish to enjoy in Mirkeen-01 city for two months and at no point in your journeys to and fro the Moon, and your two month stay in Mirkeen-01, 
+	      you wish to pay a single dollar because true democracy has arrived through our techno-social systems.
+	   </p>
+
+	   <p>
+	      So all you do to get started on this journey and stay is, use your Dune Buk wearable computer designed by us, 
+	      to register your name in the next trip of our Alef-A airship-type kosmos crafts ( also designed by us ) which are due 
+	      to go to the Moon city Mirkeen-01. Your flight is due in four days.
+	   </p>
+
+	   <p>
+	      The wait is done and your Alef-A craft lands in your neighborhood park at 10:00 AM and you board the craft and off it takes you on a day-long journey to 
+	      Mirkeen-01 city on the Moon.
+	   </p>
+
+	   <p>
+	      Your Alef-A descends on the Moon and lands 100 feet outside Mirkeen-01 city. You are already clothed in our-designed Stillsuit kosmos suit and 
+	      you walk the 100 feet to the entrance of this new Mirkeen-01 city on the Moon and you feel content and serene that you wanting to do this journey and 
+	      experience this Moon city, has been so easy, comfy and safe.
+	   </p>
 
            </div>
 
@@ -2835,7 +3228,7 @@ modalText.innerHTML = `
              to their type and their reaction to us and our reaction to them. This is the link to the story 
 	     [  https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-feeney-676nf ].
            </p>
-          
+
            <p>
              While looking for alien life or encountering them by chance, we must acknowledge the 
              general idea that ultimately we and every kind of life origined maybe within dying stars and 
@@ -2863,16 +3256,18 @@ modalText.innerHTML = `
            <h2> 12. City redesign on Earth</h2>
 
            <p>
-             This effort will consist of designing large and small cities on Earth which are aesthetic, clean, scientifically-built, citizen-managed through the citizens 
+             This effort will consist of designing small cities on Earth which will hold resident populations of max 30,000 plus a few thousand guests. 
+	     These cities will combine aesthetic form with function and will be scientifically-built, horizontally spread, citizen-managed through the citizens 
 	     directly participating using the natural and progressive concept of Workers Cooperatives ( described in the "Social organization for kosmonauts" 
-	     topic above ), humanist, not creating pollution, largely food-wise self-sufficient, largely employment-wise self-sufficient, gentle, collaborative, 
-	     humanist, inherent with fraternity, inherent with Circular Economy and construction features which calm the citizen and inspire.
+	     topic above ), humanist, easy to maintain, not create pollution, largely food-wise self-sufficient, largely employment-wise self-sufficient, gentle, 
+	     collaborative, humanist, inherent with fraternity, inherent with Circular Economy and construction features which calm the citizens, 
+	     delight their senses and inspire.
            </p>
 
            <p>
-	     We will build cities which combine function, beauty, gentleness, serenity and enlightenment. These new cities will take the pressure off 
-	     current chaotic cities, infuse humanity into those humans who live in current cities and also bring reasonable city culture to rural people because 
-	     ideally great ideas, discussions and developments happen in the cities.
+	     These new cities will take the pressure off current chaotic and soul-less cities, infuse humanity into those humans who live in current cities and also bring 
+	     reasonable city culture to rural people because ideally great ideas, discussions and developments happen in the cities and rural areas in many parts 
+	     of the world are rife with feudalism, non-safety and pollution.
            </p>
 
            <p>
@@ -2881,13 +3276,13 @@ modalText.innerHTML = `
 
            <p>
              In this effort we reject most current notions of how cities are designed because these notions have created places which are unscientific, unplanned, 
-	     ugly, harmful, without-soul, competitive, cruel, noisy, apathetic, mishaps-full, polluting, hot, classist, chaotic and where there is the contradiction 
-	     of the few rich having mansions with parking space for ten private luxury cars and these rich have multiple such mansions but the same city will have 
-	     tens of thousands of poor homeless people...
+	     ugly, harmful, vertically spread, without soul, competitive, cruel, noisy, apathetic, mishaps-full, polluting, hot, classist, chaotic and 
+	     where there is the contradiction of the few rich having mansions with parking space for ten private luxury cars and these rich have multiple 
+	     such mansions but the same city will have tens of thousands of poor homeless people not having a single house...
 	   </p>
 
 	   <p>   
-	     ...and where there are installations of needless features like flyovers, metro lines, skyscrapers, feudal office towers made of glass and concrete... 
+	     ...and the cities have installations of needless and ugly features like flyovers, metro lines, skyscrapers, feudal office towers made of glass and concrete...
 	   </p>
 
 	   <p>
@@ -2917,13 +3312,14 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p>
-             ...where the market places are chaotic, filled with urgency, filth and garish lighting which adds to the urgency and increased heart-beat...
+             ...where the market places are chaotic, fast moving, filled with urgency and competition, have filth and garish lighting which adds to the urgency and 
+	     increased heart-beat...
 	   </p>
 
 	   <p>
 	     ...where in the cities is the tragi-comedy of the IT-industry-enabled newly rich middle class purchasing flats in quieter gated communities for 
-	     500,000 dollars but when these neo-rich leave their gated community and enter the real city, all they encounter is the rotten-ness of their city 
-	     which didn't vanish just because the neo-rich could purchase a flat costing 500,000 dollars...
+	     100,000 dollars but when these neo-rich leave their gated community and enter the real city, all they encounter is the rotten-ness of their city 
+	     which didn't vanish just because the neo-rich could purchase a flat costing 100,000 dollars...
 	   </p>
 
 	   <p>
@@ -2966,58 +3362,179 @@ modalText.innerHTML = `
              <span>(b).</span> 
 	     From realizing that the attitude of people in a society can be known from their attitude to cats and dogs. Cats are animals of perfection... 
 	     perfection in form, grace, attitude and thinking. They are gentle, sensitive, beautiful in looks, clean, extremely intelligent, loyal, 
-	     empathetic, observant, thoughtful, graceful in movement, independent and produce good vibes for any place they are comfortable in. 
+	     empathetic, observant, thoughtful, graceful in movement, independent and produce good vibes for any place they are comfortable in.
+	   </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";> 
 	     Dogs are the opposite... aggressive, noisy, bring chaos, are mob-oriented, are ugly, are mindless killers, violently compete with other dogs, 
-	     have disgusting habits and carry harmful microbes. There are old descriptions : "Wise cat" and "Dog-eat-dog society". It is clear then... 
-	     do we want a human society to adore cats and thus have gentleness, intelligence, sensitiveness, empathy, beauty, loyalty and 
-	     contribution to humanity or do we want a society to adore dogs and thus have chaos, competition, apathy, cruelty, filth, violence, disgustingness and
-	     mindlessness ? Therefore we must create a safe and comfy environment for real cats to prosper and consequently no place for dogs. The comfy 
-	     environment for cats includes having in cities, regularly sited gardens with semi-large not-deep pools of fresh water with fish in them which can be taken
-	     by cats for food by them freely wandering into the gardens.
+	     have disgusting habits and carry harmful microbes.
+	   </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";> 
+             There are old descriptions : "Wise cat" and "Dog-eat-dog society". It is clear then... do we want a human society to adore cats and thus have gentleness,
+	     intelligence, sensitiveness, empathy, beauty, loyalty and contribution to humanity or do we want a society to adore dogs and thus have chaos, 
+	     competition, apathy, cruelty, filth, violence, disgustingness and mindlessness ?
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>   	   
+	     Therefore we must create a safe and comfy environment for real cats to prosper and consequently no place for dogs. The comfy environment for cats 
+	     includes having in cities, regularly sited gardens with semi-large not-deep pools of fresh water with fish in them which can be taken by cats for food 
+	     by them freely wandering into the gardens.
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
              <span>(c).</span>
 	     The architecture of buildings, infrastructure and features must be a mix of the most beautiful and environment-sensitive architectures on Earth : 
-	     Rajasthani, Andalusian, Mughal, African, Russian and West Asian. For passive and active environment control, the features must include windcatchers, 
-	     qanats, salsabils, aromatic wetted mat curtains for entrances and balconies ( like the Indian "khass" / "khus" grass mats ), fountains and gardens 
-	     which have at least one tree. The city should have comfy soft benches everywhere outside and should have tea houses. No building must be taller than 
-	     two storeys and every building must be safe for human and cat. Every public building and personal house must have comfy housing for cats 
+	     Rajasthani, Andalusian, Mughal, African, Russian and West Asian.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     For passive and active environment control, the features must include windcatchers, qanats, salsabils, aromatic wetted mat curtains for entrances and 
+	     balconies ( like the Indian "khass" / "khus" grass mats ), fountains and gardens which have at least one tree.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+	     The city should have comfy soft benches everywhere outside and should have tea houses. No building must be taller than two storeys and 
+	     every building must be safe for human and cat. Every public building and personal house must have comfy housing for cats 
 	     whose entrances are shaded from sun, dust, sand and rain, and have human-removable protective grill, have soft beds, are cool in summer, 
-	     warm in the cold, have drinking water and have a place for food for the cats. There should be a hotel in every neighborhood and indoor farms which 
-	     also double as provision stores. Also in every neighborhood should be small sports places for badminton, swimming, walking and 
-	     light gymming ( the last for men only ).
+	     warm in the cold, have drinking water and have a place for food for the cats.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     Every house area must be at least 50 feet wide x 60 feet long, the house building set away from the road side front. In a row there should be a maximum of
+	     four houses. The width of the roads must be broad and have regularly placed trees on the road sides to offer shade and Nature to the residents as also
+	     places for the cats to climb. This arrangement brings harmony among residents, both within the individuals and between the neighbors. 
+	     Also will be safer during earthquakes.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     To extend the harmony argument we take the example of the most non-harmonious region of Earth, South Asia. Houses here except of those of the rich 
+	     and powerful, are set in chaotic neighborhoods where houses are cheek by jowl. Width of roads is narrow so houses are so near in all directions. 
+	     This brings mob rule to these neighborhoods where neighbors are quick to gossip and socially boycott say a girl who likes a man or a man who doesn't 
+	     do the culturally-enforced wage slavery or is a college dropout and so on... but the same neighbors will never contribute a lakh rupees each to that girl or 
+	     the man in case they get cancer and need money for treatment in this most money-oriented of cultures.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>     
+	     The cancered girl or man may die, not because the cancer treatment is technologically absent in this society but because they don't have money 
+	     to pay the profiteering medical system. The neighbors may at most come to the dead person's house and stand for a few minutes in 
+	     pretend sorrow and leave for their houses to read up for exams or leave for their feudal work place. These people will be instantly ready to hold grudges for
+	     neighbors for irrational causes or even socially boycott the neighbors, but will not step in to help neighbors in need.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>     
+	     In South Asian cities of populations of a million at least, a neighbor may suicide in his room in social isolation or a family may honor-kill their 
+	     family member or a neighbor may be starving for lack of money, but the very next door neighbors on all four sides are not saddened, 
+	     much less stop these tragedies. This apathy and cruelty comes from the mob rule in congested neighborhoods where there are thousands of citizens and 
+	     the roads full of passing personal vehicles, and dogs and crows making noise and chaos and presence of other noises but no empathy and human-ness in
+	     these neighborhods. Social disconnection in neighborhoods of thousands, amplified to the city level with populations of a million, amplified to societies of 
+	     a billion.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     Therefore, harmony comes from eradicating mobs including by making neighborhoods serene. Humans will rediscover natural liberty, eqality, fraternity.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     There should be a hotel in every neighborhood and indoor farms which also double as provision stores. Also in every neighborhood should be small 
+	     activity buildings which normally will be sports places for badminton, swimming and light gymming ( the last for men only ), but will double up as 
+	     assembly places for the neighborhood's people's congresses, drama presentations etc.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     All residential houses will not be personally owned by the residents but will be assigned to the citizens as per need and situation. No citizen will have 
+	     more than one house assigned because why will a human need more than one house and certainly no mansion especially when other humans are 
+	     without a single house and live on the footpaths, bus stops, under bridges, in pipes on road sides etc.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             Also, every citizen when attaining the age of 13 will be assigned their own house so that the micro feudalism and the micro social distancing 
+	     brought by the family system is prevented. Such a citizen must now maintain their house by themselves. This freedom is further enhanced 
+	     when family system itself is abolished on Earth and humanity goes back to the non-selfish Socialist thinking of early humans.
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
 	     <span>(d).</span>
 	     No class system in these new cities also means no traditional slavery like domestic servants and multi-generational sanitation workers. 
-	     Which in turn mean every house must be maintained by its residents including that every house will have its compound area having its own 
-	     sanitation system which will be made secure against entry by snakes and rats. South Asia in particular will benefit from this idea because 
-	     in this region the culture enforces another multi-generation caste system among many where the middle class in particular has a cruel attitude 
-	     with regards to area cleanliness : the middle class won't clean the shit and the urine they themselves created in their bodies but instead 
-	     assign this work to a "low class" people aka "kamzaat log" aka "kamjaat log" who have done this dangerous work for a hundred generations and 
-	     they die in the drains of the middle class neighborhoods because of being suffocated by methane gas, by lack of oxygen, by drowning in sewage and 
-	     by getting bitten by snakes, and the middle class of this region who act super-pious all the year by doing daily prayers multiple times, by doing regular 
-	     festivals, by doing regular pilgrimages... these people don't see the immorality and cruelty of not cleaning their own drains but imposing this 
-	     work on multi-generational "kamzaat log" who die in the drains yearly. This is genocide. So what is it that the super-pious middle class peepz in 
-	     South Asia learn from their 365-days-a-year religious posturing ? The middle class itself is a slave class for the rich yet the middle class do not 
-	     empathize with those poorer than them but instead impose cruelty upon the poorer like sanitation workers. The middle class people are just enforcers of
-	     the feudals... of the millenia-long feudal system, despite the middle class claiming to be educated people. Therefore in the classless cities we of 
-	     Kosmos Society will design, the former middle class peepz of South Asia will learn to become human.
+	     Which in turn mean every house must be maintained by its residents including every house's compound area having its own resident-maintained 
+	     sanitation system which is made secure against entry by snakes, centipedes and rats.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     All other buildings will be maintained to their full extent by the people's committees for that neighborhood.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     South Asia in particular will benefit from this self-cleaning and self-maintenance idea because in this region the culture enforces another 
+	     multi-generation caste system among many where the middle class in particular has a cruel attitude with regards to area cleanliness : 
+	     the middle class won't clean the defecation and the urine they themselves created in their bodies but instead assign this work to 
+	     a "low class" people aka "kamzaat log" aka "kamjaat log" who have done this dangerous work for a hundred generations and die in the drains of 
+	     the middle class neighborhoods because of being suffocated by methane gas, by lack of oxygen, by drowning in sewage and by getting bitten by snakes 
+	     and scorpians.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     The middle class of this region who act super-pious all the year by doing daily prayers multiple times, do regular festivals, do regular pilgrimages, 
+	     call themselves educated with multiple college degrees and do what they think is "white collar prestigious work"... these people don't see 
+	     the immorality and cruelty of not cleaning their own drains but imposing this work on multi-generational money-deprived "kamzaat log" 
+	     who die in the dozens in the drains yearly. This is genocide by death and genocide on the living going on for a hundred generations.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     About domestic servants, again in South Asia, in most cases dogs and snakes are more respected than them. In so many middle class and upper class 
+	     gated communities the domestic servants who clean and cook in the flats of the middle and upper class people, they are forced by the gated community
+	     diktats to not use the regular lifts which the owners of the flats use. The domestic servants must use either the service lifts or even staircases. 
+	     These owners of the flats eat the food cooked by the domestic servants, sit on the sofas cleaned by the domestic servants, but in the public situation 
+	     of the lifts the middle class and upper class owners of the flats do not like standing beside their own domestic servants, do not like being seen 
+	     standing beside the domestic servants. And largely, the common areas in the gated communities are absent of the domestic servants.
+	   </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";> 
+	     And when the middle class family goes to a restaurant, they generally may not include their domestic servant in the outing and if they do 
+	     then the servant will not be included in the dining and will be made to sit on another table some way away but near enough 
+	     so that the family can call the servant for some work quickly.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     Similar is the behavior towards delivery people who bring food and other parcels. Instead of the flat owners getting down to come to the gate of the 
+	     gated community, the flat owners expect delivery to their door including by the delivery person having to use the stairs 20 storeys up 
+	     even if the lifts are not working because of power cut.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     The middle class of India especially acts most entitled just because they have a few thousand rupees more salary than the domestic servants, 
+	     delivery people, mall security staff etc because of the IT / fintech / edtech / Quantum Computing etc needless kinds of industries. 
+	     The middle class will take their pampered "doggos" ( dogs ) in the lifts but not allow their domestic servants, delivery people and other poorer people 
+	     into their lifts. Their doggos may attack the others standing in the lift but in most cases the middle class are not bothered... 
+	     not aware that they are being zombies.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     The middle class itself is a slave class for the rich yet the middle class neither liberate themselves and liberate the remainder of their society nor 
+	     they empathize with those poorer than them but instead impose cruelty upon the poorer like sanitation workers. Most of the middle class people are 
+	     just enforcers of the feudals... of the millenia-long feudal system, despite the middle class claiming to be educated people. 
+	     Therefore in the classless cities we of Kosmos Society will design, the former middle class peepz of South Asia will learn to become human.
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
              <span>(e).</span>
-         Gentleness in our cities will also be from abolishing all personal vehicles. The concept of personal vehicles ( bicycles, cars and motorized two-wheelers ) 
-	     has only led to needless mishaps, crimes, noise, chaos, needless voluntary separation of human from human, class conflict, apathy, continuance of cultural misogyny, 
-		 pollution, feudalism, profiteering and Climate Change. When we know the many harms of personal vehicles 
-		 no point in retaining them. The feudalist and profiteer Henry Ford is most responsible for bringing these harms to us. 
-		 When he had his own hungry, oppressed and protesting factory workers shot ( "Ford Hunger March" ) just so that he can retain his wealth, 
-		 profits, mansions and anti-human social privileges, do you think he will care if most of you who are middle class or poorer, 
-		 you get smashed by another personal vehicle or your city's temperate increases to 40 celsius ? Therefore to replace personal vehicles 
-		 with a nice transport mechanism for people on city roads we present a new kind of vehicle, our Ra hybrid vehicle 
-	     which is described below sections in this topic.
+             Gentleness in our cities will also be from abolishing all personal vehicles. The concept of personal vehicles ( bicycles, cars and motorized two-wheelers ) 
+	     has only led to needless mishaps, pollution, crimes ( including road rage, wheelies and other anti-social behavior ), noise, chaos, unsightliness, 
+	     needless voluntary separation of human from human, class conflict, apathy, continuance of cultural misogyny, defeminization of women, hot cities, 
+	     feudalism, profiteering and Climate Change.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     When we know the many harms of personal vehicles there is no point retaining them. The feudalist and profiteer Henry Ford is most responsible for 
+	     bringing these harms to us by being the first to mass-produce personal vehicles. When he had his own hungry, oppressed and 
+	     protesting factory workers shot ( "Ford Hunger March of 1932" ) just so that he can retain his wealth, profits, mansions and anti-human social privileges, 
+	     do you think he will care if most of you who are middle class or poorer, you get smashed by another personal vehicle or your city's temperature 
+	     increases to 40 celsius ?
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     Therefore to replace personal vehicles with a nice transport mechanism for people on city roads we present a new kind of vehicle - 
+	     our Ra hybrid vehicle described in below sections in this topic.
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -3031,11 +3548,14 @@ modalText.innerHTML = `
              <span>(g).</span> 
 	     Gentleness in cities also from removing the current notion of cities being chaotic, non-self-sufficient, impersonal and competion-based which all makes 
 	     tens of thousands of people to needlessly do out-of-city travel daily by various means including trains and so many of these people die needlessly 
-	     because of this and those who don't die, they endure daily chaos till death. But through Kosmos Society's redesign of cities which will be 
-	     largely self-sufficient and will be filled with people of scientific temper, what will be made obsolete will be those tens of thousands of 
-	     out-of-city travellers. Not only will this make cities gentle but there will be very few people travelling beyond their cities on a daily basis and 
-	     these few people will use our Ra vehicles and our Alef-A airship-type kosmos ships. This lesser daily out-of-city travel will also contribute to 
-	     serene Earthen societies.
+	     because of this and those who don't die, they endure daily chaos till death.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     But through Kosmos Society's redesign of cities which will be largely self-sufficient and will be filled with people of 
+	     scientific temper, what will be made obsolete will be those tens of thousands of out-of-city travellers. Not only will this make cities gentle but 
+	     there will be very few people travelling beyond their cities on a daily basis and these few people will use our Ra vehicles and our Alef-A airship-type 
+	     kosmos ships. This lesser daily out-of-city travel will also contribute to serene Earthen societies.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -3063,156 +3583,221 @@ modalText.innerHTML = `
              <span>(k).</span> 
 	     A new education system we are still considering but it won't have competition i.e. no exams thus no marks and no degrees. In the present 
 	     so-called Education System in many societies, two students on the same bench will claim to be great friends of each other but in truth 
-	     they will compete against each other year-round for marks in exams. This competition in some societies leads regularly to the suicide 
-	     of a student yet his bench-mate, supposedly his great friend, will not get outraged over his friend's suicide, will not march on the roads 
-	     to call for the end of exam-competition and instead will continue to do mindless memorization-based so-called learning so that he gets 
-	     as high exam marks as possible, not only for him to feel happy in this stupid way but also to provide his parents with fake pride which they can 
-	     tom-tom to neighbors, relatives and work colleagues. It were such parents of his bench-mate suicided "friend" who caused the suicide 
-	     by imposing competition on their own child when he wanted to simply pursue his interests and talents.
+	     they will compete against each other all the year for marks in exams.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 	     
+	     This competition in some societies leads regularly to the suicide of a student yet his bench-mate, supposedly his great friend, will not get outraged 
+	     over his friend's suicide, will not march on the roads to call for the end of exam-competition and instead will continue to do 
+	     mindless memorization-based so-called learning so that he gets as high exam marks as possible, not only for him to feel happy in this stupid way 
+	     but also to provide his non-sensible parents with fake pride which they can tom-tom to neighbors, relatives and work colleagues. It is such parents 
+	     of his bench-mate suicided "friend" who caused the suicide by imposing competition on their own child when he wanted to simply pursue his interests and 
+	     talents.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
 	     Other than such mindless, cruel parents taking their children to the steps of suicide just for the sake of fake pride, it is also that such parents are selfish 
 	     who never cared for their child as a human but only saw their child as a money investment by putting some money into him for about sixteen years, 
 	     within their feudalist, money-based society, and then their child has to earn wage-slavery money for the next 35 to 40 years to sustain his selfish parents, 
-	     forgetting all his interests, passions and talents and he is culturally expected to fall at the feet of his selfish parents every morning before leaving 
-	     for his wage-slavery workplace. This money investment by the parents is the same as putting some money in an interest-based bank and getting interest
-	     every month from that bank's ATM machine. So what if their child suicides ? And it may happen that the parents will directly murder 
-	     their child who rejects this anti-human exams-based education system, because the parents will feel that their money and fake-pride investment 
-	     in their child has been "wasted" by their child so he is no longer of use to them, so why waste more money on him for food and all so best is to murder him 
-	     once and for all and save money.
+	     forgetting all his interests, passions, talents and potential to contribute to humanity.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     The child is culturally expected to fall at the feet of his selfish parents every morning to "seek their blessing" before he leaves for 
+	     his wage-slavery workplace... the undignified, anti-human social position brought to him, not by his choice but by his parents' idiocy.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 	     
+	     The money investment into him by his selfish parents, in form of "education" fees, personal vehicle purchase, outside-of-school coaching classes, 
+	     internet data plan purchase, exam preparation books and so on, this investment by parents is the same as putting some money in an interest-based bank
+	     and getting interest every month from that bank's ATM machine. So what if their child suicides ?
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>      
+	     And it may happen that these parents will directly murder their child who rejects this anti-human exams-based education system or doesn't want to 
+	     do wage-slavery "job" thus he is called "jobless" and good-for-nothing. He will be murdered by his parents because the parents feel that their money and
+	     fake-pride investment in their child has been "wasted" by their child so he is no longer of use to them, so why waste more money on him for food and all 
+	     so best is to murder him once and for all and save money.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
              There is also the fact that a few of such exam-based, other-competitions-based societies will socio-economic boycott a family not seen as money-having and 
 	     not seen getting through the actually horizontal ladder of "career" life which starts with the child getting "good marks" in schooling, then jobs, 
-	     then marriage, then children, they getting into schooling and cycle repeating. A family not doing this culturally-recommended life path may be 
-	     socio-economically boycotted ( in India called "Hukkaah-Paani bandh" meaning, stopping of tobacco and water ) and some parents who are selfish 
-	     and don't wish the boycott on themselves ( husband, wife, their parents and their earning children ) and don't want to anymore support their 
-	     school-dropout child  or "jobless" child or low-exam-marks-scoring child, these parents will instead murder that "offending" child. The Indian city of Kota 
-	     is notorious for student suicides. Similar is situation in Pakistan, South Korea, China and Japan. In these competitions-filled societies many parents 
-	     sacrifice their own children at the twin altars of Mammon and Fake Pride. Societies based on daily competition from cradle to grave do not have 
-	     collaboration, thus no harmony, thus no inclination to explore for intellectual curiosity and social use, thus no techno-social contribution to humanity. 
-	     Do we want this anti-human situation to corrupt humanity for the next five years and the next five hundred years ? Do we want dystopia or utopia ? 
-	     If the second then let us abolish competition in education and in everything else.
+	     then marriage, then children, they getting into schooling and cycle repeating.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>  
+	     A family not doing this culturally-recommended life path may be socio-economically boycotted ( in India called "Hukkaa-Paani bandh" meaning, 
+	     stopping of tobacco and water ) and some parents who are selfish and don't wish the boycott on themselves ( husband, wife, their parents and 
+	     their earning children ) and don't want to anymore support their school-dropout child or "jobless" child or low-exam-marks-scoring child, 
+	     these parents will instead murder that "offending" child.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     The Indian city of Kota is notorious for student suicides. Similar is situation in Pakistan, South Korea, China and Japan.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     And if the child succumbs to pressure by the parents and society and voluntarily takes up wage slavery which will be life-long, 
+	     then he doing wage slavery is not directly his fault but the fault of his ancestors who in their youth instead of rejecting their given social situation and 
+	     joining progressive movements and ending the feudalism they lived with and therefore ending tax system including money, 
+	     they instead joined some college to engage in competition with their class mates so that they top the exams and earn a college degree 
+	     whose only purpose in so-called Democratic Societies is to produce another slave to fit in the machine of rule by feudals. 
+	     When they produced children and pushed the same system onto their children they condemned their children into life-long competition and slavery.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     In these competitions-filled societies many parents sacrifice their own children at the trio altars of Mammon, Fake Pride and Selfish Fear.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     Societies based on daily competition from cradle to grave do not have collaboration, thus no harmony, thus no inclination to explore for 
+	     intellectual curiosity and social use, thus no techno-social contribution to humanity.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     Do we want this anti-human situation to corrupt the remainder of humanity for the next five years and the next five hundred years ? 
+	     Do we want dystopia or utopia ? If the second then let us abolish competition in education and in everything else, and this solution is furthered when 
+	     family system itself is abolished on Earth.
            </p>
 
 	   <p>
-	     Now about our Ra hybrid electric vehicle ( mix of hovercraft and wheelcraft ) for public transportation within a city. 
-	     A few hundred thousand of our Ra hovercraft-wheelcraft vehicles on Earth are lot lot better than the few billion personal vehicles which clog 
-		 our cities and create those many problems we described above.
+	     Now about our Ra hybrid vehicle ( mix of hovercraft and wheelcraft ) for public transportation within a city. The Ra vehicle will be a combination of
+	     hovercraft and wheelcraft and will be powered by electricity and water and will be enclosed and carry 20 passengers in comfort plus a driver. 
+	     The electricity will come from our Faradn self-sustaining generator. In normal times the Ra vehicle will use hovercraft mode but on hilly roads the vehicle will
+	     use its wheels for safety. Hovercraft mode is also helpful when a city's non-hilly roads are flooded as then wheels generally become useless but
+	     hovercraft mode becomes a more natural means.
 	   </p>
 
 	   <p>
-	     The Ra vehicle will be a combination of hovercraft and wheelcraft and will be enclosed and carry 20 passengers in comfort plus a driver. In normal times 
-	     the vehicle will use hovercraft mode but on hilly roads the vehicle will use its wheels for safety. Hovercraft mode is also helpful when a city's 
-	     non-hilly roads are flooded as then wheels generally become useless but hovercraft mode becomes a more natural means. 
-	     Also, hovercraft mode will be useful when a road leads to a river or a lake and the road continues on the other side, so on the river water or lake water 
+	     Hovercraft mode will be also useful when a road leads to a river or a lake and the road continues on the other side, so on the river water or lake water 
 	     the hovercraft mode is used, and it will be better in this case to construct ramps that lead from the road to the water and then another ramp from 
 	     the water to back to the road. This way most bridges across rivers need not be constructed.
 	   </p>
 
 	   <p>
-	     The number of wheels will be six and these wheels will not be passive wheels but will be individually able to bring out blades which will dig into 
-	     the ground under each wheel, and this in effect makes these wheels like tank tracks.
+	     The number of wheels in the Ra will be six and these wheels will not be passive wheels but will be individually able to bring out blades which will dig into 
+	     the ground under each wheel, and this in effect makes these wheels like tank tracks. This is useful in emergency braking and in reversing.
 	   </p>
 
 	   <p>
-	     The Ra vehicle can be used as a bus for regular commutes or as a taxi for special occasions. 
-		 In bus mode there will be no people standing and those sitting will have comfortable seats. 
-		 Provision will be there for comfortable entry, seating and exit of disabled people, for example 
-		 for those in wheelchairs the seats in the Ra can be folded and the wheelchair person sit in his or her 
-		 wheelchair in that seat position.
+	     The Ra vehicle can be used as a bus for regular commutes or as a taxi for special occasions. In bus mode there will be no people standing and 
+	     those sitting will have comfortable seats. Provision will be there for comfortable entry, seating and exit of disabled people, 
+	     example for those in wheelchairs the seats in the Ra can be folded and the wheelchair person sit in his or her wheelchair in that seat position.
+	   </p>
+
+	   <p>
+	     Our Ra hybrid public transport vehicle will use clean fuels ( water and self-sustaining electricity generator ); will be built using sustainable structural
+	     elements; will remove chaos, noise and mishaps from the roads; will bring beauty to public transport; will make the citizens engage humanly with 
+	     other citizens and will enable removal of most crimes and disharmony. Result is clean and serene cities. A few hundred thousand of our Ra 
+	     hovercraft-wheelcraft vehicles on Earth are lot lot better than the few billion personal vehicles which clog our cities now and create those many problems 
+	     we described above.
 	   </p>
 
 	   <p>
 	     The name of our hovercraft-wheelcraft vehicle, Ra, comes from ancient Egyptian mythology where Ra was their supreme god and had many forms 
-	     including a cat which slays snakes. This god-being was a hybrid. Other than using this name for our hovercraft-wheelcraft vehicle as another of our 
-	     dedication to cats, our vehicle is also a hybrid of hovercraft and wheelcraft, thus the name.
+	     including a cat which slays snakes. This god-being was a hybrid. Having our vehicle's name as Ra is not only another of our dedications to cats
+	     but also because our vehicle is a hybrid of hovercraft and wheelcraft.
 	   </p>
 
 	   <p>
-         Climate Change cannot be reversed by stupid things like "Carbon credits", lithium batteries, nuclear reactors, huge wind farms and other such things. 
-	     The regular "Climate Change discussion conference" called COP Conferences are a waste of time and are optics and a wine-and-dine gathering. 
-	     The activist Greta Thunberg said of the 2021 COP conference conducted in Glasgow city that "It is a greenwash" and that many of the attending 
-	     national government leaders actually benefit from the profiteering companies which cause human misery and the pollution which caused Climate Change. 
-	     The solutions we of Kosmos Society present about transporation and other things will lead to the beginning of drastic reversal of Climate Change and 
-	     of course eradication of human misery.
+             The Ra vehicle and the Alef-A airship craft are our solutions for reversal of Climate Change in the transportation sector. Climate Change cannot be reversed
+	     by stupid things like "Carbon Credits", lithium batteries, nuclear reactors and huge wind farms. The regular Climate Change discussion conference called 
+	     COP Conferences are a waste of time and are optics and a wine-and-dine gathering. The activist Greta Thunberg said of the 2021 COP conference 
+	     conducted in Glasgow city that "It is a greenwash" and that many of the attending national government leaders actually benefit from 
+	     the profiteering companies which cause human misery and the pollutions which caused Climate Change.
+	   </p>
+
+	   <p>
+             The solutions we of Kosmos Society present about transportation and other things will lead to the immediate beginning of drastic reversal of 
+	     Climate Change and of course eradication of human misery.
 	   </p>
 
 	   <p>
 	     Next, there is a sad fact of hunger in various places on Earth, including in cities of a million people at least, and this is a three part problem :
-       </p>
+           </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";> 
 	     <span> (a). </span>
 	     A technological problem via use of traditional methods of growing food in open farms which are inefficient, centralized, polluting, climate-vulnerable, 
-		 pest-vulnerable and continue feudalism, poverty, profiteering and separation of human from human. Also connected is non-availibility of water in many places 
-		 because farmers have either exhausted ground water due to over-use or there has been drought.
-       </p>
+	     pest-vulnerable and continue feudalism, poverty, profiteering and separation of human from human. Also connected is non-availibility of water in 
+	     many places because farmers have either exhausted ground water due to over-use or there has been drought.
+           </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";> 
-         <span>(b).</span>
+             <span>(b).</span>
 	     A social problem via growing fully useless crops or crops which should be meagrely consumed. These crops are nutritionally poor or cause indigestion and 
 	     reduce the quality of life and cause cultural non-progress and non-contribution to humanity yet these crops are grown and take up a lot of expenditure 
 	     of water, fertilizers, labor etc which instead could have been used for useful food. This contradiction of uselessness yet growing is because these crops hold 
-		 cultural significance. Examples are rice, needless excessive use of chilli, onion, turmeric and vegetables as the main food.
-       </p>
+	     cultural significance. Examples are rice, needless excessive use of chilli, onion, turmeric and vegetables as the main food.
+           </p>
 
-       <p style="margin-left:1em; margin-bottom:10px";> 
-        <span>(c).</span> 
-	    A social problem largely via tax on food, within-family feudalist unequal distribution of food, abandonment by family, social apathy, classism, 
-	    cultural wastages of food, private profiteering by merchants and geopolitical interferences in food distribution. So many people go hungry or 
-	    die of hunger despite abundance of food elsewhere and wastages of food.
-	  </p>
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             <span>(c).</span> 
+	     A social problem largely via tax on food, within-family feudalist unequal distribution of food, abandonment by family, social apathy, classism, 
+	     cultural wastages of food, private profiteering by merchants and geopolitical interferences in food distribution. So many people go hungry or 
+	     die of hunger despite abundance of food elsewhere and wastages of food.
+	   </p>
 
 	  <p>
 	    The simple solution for hunger is not only social enlightenment but also a technological combination of bio-engineered plant-based foods and 
 	    the nutritious originally animal products like given in the "Biology researches" topic in the "Techno systems" chapter. These techno-social 
 	    food productions must be done in decentralized, neighborhood-level indoor farms which have localized water generation as much as possible 
 	    as well as take water from scientifically built canals and the workers do collaborative and collectivist farming. 
-		There is no need for anyone to die of hunger now in 2025 AD.
-      </p>
+	    There is no need for anyone to die of hunger now in 2025 AD.
+          </p>
 
 	  <p>
 	    Commentary must be made about the idiocy of eating more than a bit of chilli, whether green or red or others. 
-		There seems to be an idiotic thought in many people's minds that they must eat chillis just to show off 
-		to others that they can eat chilli, whether this is in Mexico or some Indian village. 
-		All that results in these chilli eaters is gas, running to the toilet, heat, an anti-calm angry state of mind,  
-		long-term degradation of health, social misconduct ( gas released in public settings ) and cultural wrongs and anti-progress. 
-		So, use only a bit of chilli in food for four people or five... like a very small cut of green chilli.
+	    There seems to be an idiotic thought in many people's minds that they must eat chillis just to show off 
+	    to others that they can eat chilli, whether this is in Mexico or some Indian village. 
+	    All that results in these chilli eaters is gas, running to the toilet, heat, an anti-calm angry state of mind,  
+	    long-term degradation of health, social misconduct ( gas released in public settings ) and cultural wrongs and anti-progress. 
+	    So, use only a bit of chilli in food for four people or five... like a very small cut of green chilli.
 	  </p>
 
 	  <p>
 	    In some cultures like India, green chilli also has become part of the cultural presence of superstition... 
-		people creating a small garland of green chillis along with lemons and stringing them onto house doors  
-		and personal vehicles. To bring luck, prosperity and continued life they say. But this hasn't stopped their personal 
-		vehicles from being in mishaps and killing or seriously injuring the occupants and others around. 
-		Hasn't stopped the people from remaining middle-class-poor wage-slaves for generations. 
-		Hasn't created true knowledge, enlightenment and gentleness in these people. Funny thing is that the green chilli 
-		used in this Indian superstition is not even from India but was brought by the Portuguese 
-		colonizers and settlers centuries ago and very possible that the Portuguese themselves didn't indulge in this superstition.
+	    people creating a small garland of green chillis along with lemons and stringing them onto house doors  
+	    and vehicles. "To bring luck, prosperity and continued life" they say. But this hasn't stopped their vehicles 
+	    from being in mishaps and killing or seriously injuring the occupants and others around. 
+	    Hasn't stopped the people from remaining middle-class-poor wage-slaves for generations. 
+	    Hasn't created true knowledge, enlightenment and gentleness. Funny thing is that the green chilli 
+	    used in this Indian superstition is not even from India but was brought by the Portuguese colonizers and 
+	    settlers centuries ago and very possible that the Portuguese themselves didn't indulge in this superstition.
 	  </p>
 
 	  <p>
 	    An example of the uselessness of this superstition came in June of 2025. The RCB cricket team 
-		has its base in Bangalore city in South India and most middle class people in this city are sports mad, 
-		especially cricket mad, instead of being intellectual, productive and empathetic and gentle. 
-		They wanted their fave RCB team to win in a soon-coming match and did the usual superstitious stuffs 
-		like the below-linked person stringing a lemon and chilli garland on his personal vehicle and 
-		attaching a placard declaring "This time the cup is ours". Yes, the magic happened and this fan's 
-		fave RCB team won the cup but when their darling RCB team came to Bangalore to get felicitated and admired 
-		there were a few hundred thousand cricket fans gathered at two points to receive them. 
-		Stampede happened and eleven of these fans were killed and 56 injured, some with broken legs 
-		and some fainted. So, was the "for luck and prosperity" lemon-and-chilli garland on that cricket fan's 
-		personal vehicle responsible for this tragedy ? If so this practise must be discontinued. 
-		This is the article to that fan's vehicle 
-		[ https://www.hindustantimes.com/trending/bengaluru-fan-wraps-car-in-nimbu-mirchi-to-ward-off-nazar-ahead-of-rcb-s-final-ipl-clash-with-pbks-101748953522418.html ].
+	    has its base in Bangalore city in South India and most middle class people in this city are sports mad, 
+	    especially cricket mad, instead of being intellectual, empathetic, gentle and productive. 
+	    They wanted their fave RCB team to win in a soon-coming match and did the usual superstitious stuffs 
+	    like the below-linked person stringing lemon and chilli garlands on his personal vehicle and 
+	    attaching a placard in the local Kannada language declaring "This time the cup is ours" :
+	    [ https://www.hindustantimes.com/trending/bengaluru-fan-wraps-car-in-nimbu-mirchi-to-ward-off-nazar-ahead-of-rcb-s-final-ipl-clash-with-pbks-101748953522418.html ].
 	  </p>
 
 	  <p>
-	    Cooking oil is another aspect deciding personal and societal growth or non-growth. 
-		Best oil to use is olive oil and perhaps argan oil though both not excessively.
+	    Yes, the magic happened and this fan's fave RCB team won the cup and when his darling victorious RCB team came to Bangalore 
+	    to get felicitated and admired there were a few hundred thousand cricket fans gathered at two points to receive them. 
+	    The RCB team came into Bangalore like maharajas in luxury buses whose windows were made such that the team members could see the outside 
+	    but the cheering fans lining the roads could not see the inside.
+	  </p>
+
+	  <p>
+	    Stampede happened at the two venues and eleven of these fans were killed and 56 injured, some with broken legs and some fainted. 
+	    So, were the "for luck and prosperity" lemon-and-chilli garlands on that cricket fan's personal vehicle responsible for this tragedy ? 
+	    If so this practice must be discontinued.
+	  </p>
+
+	  <p>
+	    And look at the wastage of food materials like lemon and green chilli in these superstitions and this wastage going down the agricultural process 
+	    to the point of their seeds or stems being planted... all those natural resources and labor wasted by superstitions.
+	  </p>
+
+	  <p>
+	    Cooking oil is another aspect deciding personal and societal growth or non-growth. Best oil to use is olive oil and perhaps argan oil 
+	    though both not excessively.
 	  </p>
 
       <p>[ To be done ] </p>
@@ -3596,7 +4181,8 @@ modalText.innerHTML = `
 
            <p>
              We credit the following people who are not part of our organization but have helped us either in person 
-             or by their ideas and works we found in paper or on the internet :
+             or by their ideas and works we found in paper or on the internet. From our income we will contribute money and other help to these people 
+	     or their descendents or their movements :
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -3605,11 +4191,22 @@ modalText.innerHTML = `
 
            <p><span>&gt;&gt;</span> 
              Apoorva JR for presenting to us an Instagram page in 2023 which contained reports on eco-friendly ways 
-             of generating electricity and which led to our discovery of the "sand battery" which we use in our design of the Faradn generator. 
+             of generating electricity and which led to our discovery of the "sand battery". 
              Apoorva's LInkedIn page [ https://www.linkedin.com/in/apoorvajr ]. Sadly we forgot the Insta page's name but we are thankful to that page's 
-	     maintainer. That Insta page spoke of the company Polar Night Energy which applied the sand battery in a real life setting despite there being no prior 
-	     industry use of this method and we are thankful to this company.
+	     maintainer and also to Instagram. That Insta page spoke of the company Polar Night Energy which applied the sand battery in a real life setting 
+	     despite there being no prior industry use of this method and we are thankful to this company. 
+	     The sand battery we use in our design of the Faradn generator.
            </p>
+
+           <p><span>&gt;&gt;</span> 
+	     NIMS and Nagoya University, both of Japan, for researching how to enhance the thermo-electricity method called Nernst Effect in 
+	     soft magnet materials, and the website [ phys.org ] for carrying this research in this article [ https://phys.org/news/2024-05-common-soft-magnets-generation-thermoelectric.html ]. 
+	     This we use in our design of the Faradn generator.
+           </p>
+
+           <p><span>&gt;&gt;</span> 
+             YouTube in general.
+	   </p>  
 
            <p><span>&gt;&gt;</span> 
              Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, 
@@ -3629,12 +4226,12 @@ modalText.innerHTML = `
 
            <p><span>&gt;&gt;</span> 
              RMIT University, Australia, for the idea that sound can be used to make electrolysis better and make use of cheaper electrode material. 
-	     The article saying this is here [ https://www.power-eng.com/hydrogen/sound-waves-boost-green-hydrogen-production/# ].
+	     The article saying this is here [ https://www.power-eng.com/hydrogen/sound-waves-boost-green-hydrogen-production/# ] so 
+	     we also thank the website [ power-eng.com ].
            </p>
 
            <p><span>&gt;&gt;</span>
-             Planetary Science Division of NASA for the idea of creating an artificial magnetosphere
-             for Red One.
+             Planetary Science Division of NASA for the idea of creating an artificial magnetosphere for Red One.
            </p>
 
            <p><span>&gt;&gt;</span>
@@ -3654,16 +4251,17 @@ modalText.innerHTML = `
            <p><span>&gt;&gt;</span>
              Ashok on the "Nationalizer" account on [ medium.com ] for his essay about the Indian Socialist Brajeshwar Prasad 
              who spoke in favour of Socialism during the design years of the Indian constitution. The essay can be read here 
-             [ https://nationalizer.medium.com/socialist-and-secular-but-not-sovereign-brajeshwar-prasad-s-amendment-to-preamble-1bb8a1e8142e ].
+             [ https://nationalizer.medium.com/socialist-and-secular-but-not-sovereign-brajeshwar-prasad-s-amendment-to-preamble-1bb8a1e8142e ] 
+	     so we also thank the website [ medium.com ].
            </p>
          
            <p><span>&gt;&gt;</span>
-             Rabindranath Tagore for his essay that speaks against Nationalism. The essay can be
-             read here [ https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf ].
+             Rabindranath Tagore for his essay that speaks against Nationalism. 
+	     The essay can be read here [ https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf ] so we also thank Queen's University of Canada.
            </p>
 
            <p><span>&gt;&gt;</span> 
-	     BR Ambedkar among other things, also for saying clearly in 1953 that the so-called Democratic Process of five-yearly elections participated 
+	     BR Ambedkar among other things, for saying clearly in 1953 that the so-called Democratic Process of five-yearly elections participated 
 	     by multiple political parties and producing a stream of pompously titled bureaucrats, is not actual democracy and will never produce a society 
 	     which brings proper food and other reasonable material needs to the masses and will never change society from feudalism to true democracy 
 	     but that change can be brought by Socialism. This rejection of the fake-democratic process of elections and stuff has been stated later by 
@@ -3674,6 +4272,14 @@ modalText.innerHTML = `
            <p><span>&gt;&gt;</span> 
              Che Guevara for his 1964 speech in the United Nations General Assembly, from which we take our mention of Mammon, and the YouTube channel of 
 	     United Nations which carries this speech on this page [ https://www.youtube.com/watch?v=bufHojkoGtw ].
+           </p>
+
+           <p><span>&gt;&gt;</span> 
+	     The media agency "The Atlantic" for this article about Yuri Gagarin's flight around Earth [ https://www.theatlantic.com/technology/archive/2011/04/yuri-gagarins-first-speech-about-his-flight-into-space/237134/ ].
+           </p>
+
+           <p><span>&gt;&gt;</span> 
+             The website "Go Physics" for this collection of Yuri Gagarin's quotes [ https://thegophysics.com/yuri-gagarin-quotes/ ]
            </p>
 
            <p><span>&gt;&gt;</span>
@@ -3770,29 +4376,42 @@ modalText.innerHTML = `
            <h2> 05. Our simple business model </h2>
 
            <p>
-	     Our direct clients will be the space departments of national governments who will purchase the designs of our products 
+	     We are a non-profit organization and our direct clients will be the space departments of national governments who will purchase the designs of our products 
 	     for a reasonably cheap license fee ( one million dollars ) and build our systems in their societies as many as possible and make them available 
 	     to their citizens without tax.
            </p>
 
-           <p>
-	     Our license fee of one million dollars is for an entire space program / kosmos program which can take kosmonauts throughout the Solar System. 
-	     This money is a very small fraction of what a single rich individual pays now for a single ticket to visit and stay, not the Moon even which is 
-	     380,000 kilometers away, but just the International Space Station which is orbiting only 400 kilometers above our heads.
+	   <p>
+	     Our presently in-design systems will enable a cheap, simple, safer and democratic manned space program for potentially every Earthen society by which 
+	     any of your society's citizens can become kosmonauts who can travel to the Moon by 2033 and travel throughout the Solar System by 2035. 
+	     And they will bring back experiences and materials from there to your societies in a pan-human, democratic way so that your societies are 
+	     intellectually enriched, materially enriched and contribute to humanity within the bounds of respect for Nature and a pan-human 
+	     "Liberty, Equality, Fraternity, Evolution".
+	   </p>
+
+	   <p>
+	     Our million dollar license fee is a very small fraction of what a single rich individual pays now for a single ticket to visit and stay, not on the Moon even 
+	     which is 380,000 kilometers away, but just the International Space Station which is orbiting only 400 kilometers above our heads.
            </p>
 
            <p>
 	     Also in today's terms one million dollars is less than the license fee for a company to acquire the design of a commercial microprocessor 
-	     for use in cell phones. Our clients will pay us one million dollars to acquire design of techno systems which can travel and settle the entire Solar System.
+	     for use in cell phones.
            </p>
 
            <p>
-             Our intention is not profit but to ensure in a non-profit way that the kosmos becomes accessible to potentially any human in a democratic and 
-	     harmonious manner. We choose not to be feudal "space trillionaires" but to be humanists working towards pan-human utopia.
+	     So, for just a million dollars our client national space departments acquire the design of our techno systems for an entire space program by which 
+	     their citizens can travel and settle the entire Solar System and this in a harmonious way.
+           </p>
+
+           <p>
+	     We choose not to be feudal "space trillionaires" but to be humanists working towards the unified human kosmik utopia. Our fee of one million dollars 
+	     is only for maintaining our company, us individually in a reasonable way, for further research, for contributing to good causes and 
+	     for helping those whose ideas we have used as said in the "Credits" topic above.
 	   </p>
 
            <p>
-	     About how our client governments will recoup our one million dollar license fee, it is given in "section (r)" in the "Iskra social system" chapter, 
+	     About how our client governments will recoup our one million dollar license fee, it is given in section (r) in the "Iskra social system" chapter, 
 	     topic "Social organization for kosmonauts".
 	   </p>
 
@@ -3824,7 +4443,7 @@ modalText.innerHTML = `
 	  </p>
 
 	  <p><span>Email :</span> 
-	    hello@kosmossociety.space
+	    [ hello@kosmossociety.space ] and [ kosmos.society.2033@gmail.com ]
 	  </p>
 	  
 	  <p><span>LinkedIn to reach Sameer :</span> 
@@ -3900,7 +4519,5 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
-
-
 
 
