@@ -184,10 +184,10 @@ modalText.innerHTML = `
               <a href="#bothships">&nbsp;&nbsp; 06. About both Alef-A and Alef-F kosmos ships</a>
               <a href="#stillsuit">&nbsp;&nbsp; 07. A kosmos suit called Stillsuit</a>
               <a href="#biology">&nbsp;&nbsp; 08. Biology researches</a>
-	      <a href="#wmachines">&nbsp;&nbsp; 09. Machines for water</a>
-	      <a href="#moggy">&nbsp;&nbsp; 10. Moggy robot cat</a>
-	      <a href="#mehfil">&nbsp;&nbsp; 11. Mehfil tent</a>
-              <a href="#serf">&nbsp;&nbsp; 12. Serf satellite for Earth orbit debris cleaning</a>
+	      <a href="#moggy">&nbsp;&nbsp; 09. Moggy robot cat</a>
+	      <a href="#mehfil">&nbsp;&nbsp; 10. Mehfil tent</a>
+              <a href="#serf">&nbsp;&nbsp; 11. Serf satellite for Earth orbit debris cleaning</a>
+	      <a href="#othermach">&nbsp;&nbsp; 12. Other machines</a>
 	      <a href="#habitat">&nbsp;&nbsp; 13. Habitat construction on other worlds</a>
             </div>
 
@@ -199,27 +199,27 @@ modalText.innerHTML = `
          <h2> 01. Our progressive product design principles</h2> 
 
            <p><span>&gt;&gt;</span>
-             Liberty, Equality, Fraternity, Humanism, Simplicity, Beauty, Gentleness, Realness, 
-             Human safety as much as possible, Respect for Nature including reversing Climate Change on Earth.              
+             Liberty, Equality, Fraternity, Humanism, Simplicity, Beauty, Gentleness, Realness, Intelligent, Robust, 
+	     Like from the Dune stories, Human safety as much as possible, Respect for Nature including reversing Climate Change on Earth. 
            </p>
 
            <p><span>&gt;&gt;</span> 
              We won't do a technology just because there are a hundred other companies doing it 
              or it has been done for a hundred years or just because it has been proposed by some celebrated scientist but 
-             the idea is not sensible, for example the concept called Dyson Sphere aka Dyson Swarm.
+             the idea is not sensible.
            </p>
 
            <p><span>&gt;&gt;</span> 
-             Readiness to explore sensible methods that are from old times or are unusual. In some things, the future is the past. What works, works. 
-	     What is natural, must become the system. We won't wait for "peer review" for five years before using an idea. If an idea is sensible 
-	     as understood by natural intelligence, we use it.
+             Readiness to explore sensible methods that are from old times or are unusual. In some things, the past is the future. And we won't wait for 
+	     "peer review" for one year before using an idea and we will not discard an idea just because it contradicts some 497th Law of Thermodynamics. 
+	     If an idea is sensible as understood by natural intelligence, we use it. What works, works. What is natural, must become the system.
            </p>
 
            <p><span>&gt;&gt;</span> 
              Employ the concept of Circular Economy which also relates to :
            </p>
                                   
-           <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> Much simplified technology.</p>
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> Simplified technology.</p>
 
            <p style='margin-left:2em;margin-bottom:10px;'><span>(b).</span> 
              Decentralization and ease of production and usage which includes electricity generation.
@@ -261,32 +261,36 @@ modalText.innerHTML = `
 
            <p><span>&gt;&gt;</span> 
              Our technologies will align around our draft for a democratic, pan-human and Nature-respecting social system for the kosmos, 
-	     presented in the "Iskra social system" chapter on this website.
+	     presented in the "Our Iskra social system" chapter on this website.
            </p>
 
            <p><span>&gt;&gt;</span> 
              As examples of the above points :
            </p>
 
-	   <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> 
-	     A "Gentleness" example is renaming of the planet Mars to "Red One" as the former is the Roman god of war while the latter is a gentle name.
-	   </p>	 
-
-	   <p style='margin-left:2em;margin-bottom:10px;'><span>(b).</span> 
-	     A "Human safety" example is not following the silliness of nuclear fission 
-	     or fusion as the means to generate electricity or propel kosmos ships.
-	   </p> 
-
-	   <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> 
-	     A "Simplicity" example is not using semiconductor transistors. So no VLSI stuff.
+	   <p style='margin-left:2em;margin-bottom:10px;'><span>&gt;&gt;</span> 
+	     Gentleness : Renaming of the planet Mars to "Red One" as the former is the Roman god of war while the latter is a gentle name.
 	   </p>
 
-	   <p style='margin-left:2em;margin-bottom:10px;'><span>(d).</span> 
-	     A "Realness" example is the wearable computer in the following wonderful sci-fi short film on YouTube called 
-	     "ICE - A Thousand Suns / Episode 1" and is at this link [ https://www.youtube.com/watch?v=RXaVgAxtYFI ]. This wearable computer and 
-	     our wearable computer "Dune Buk" ( described in a below topic ) will look something natural, real, dignified, robust, intelligent, democratic... 
-	     as against the bland, gimmicky, non-robust and social-class-system-imbued cell phones of now. The machines in the Dune story books 
-	     also are imaginable to be real and natural, and the machines in the Dune films and the TV series also look good.
+	   <p style='margin-left:2em;margin-bottom:10px;'><span>&gt;&gt;</span> 
+	     Non-sensible ideas from celebrated scientists which we won't use : Dyson Sphere aka Dyson Swarm.
+	   </p>  
+
+	   <p style='margin-left:2em;margin-bottom:10px;'><span>&gt;&gt;</span> 
+	     Human safety : Not following the silliness of nuclear fission or fusion as the means to generate electricity or propel kosmos ships.
+	   </p>
+
+	   <p style='margin-left:2em;margin-bottom:10px;'><span>&gt;&gt;</span> 
+	     Simplicity : Not using semiconductor material. So no transistors and no VLSI stuff.
+	   </p>
+
+	   <p style='margin-left:2em;margin-bottom:10px;'><span>&gt;&gt;</span> 
+	     Realness : The wearable computer in the following wonderful sci-fi short film on YouTube called 
+	     "ICE - A Thousand Suns / Episode 1" and is at this link [ https://www.youtube.com/watch?v=RXaVgAxtYFI ].
+	   </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'><span>&gt;&gt;</span> 
+	     Humanism : Not using the Capitalist and profiteering word "Payload" to describe what simply can be called "Cargo".
 	   </p>
 
            </div>
@@ -312,8 +316,8 @@ modalText.innerHTML = `
            </p>
 
            <p>
-	     And then once through this centralized electricity delivery system the electricity comes to a building, 
-	     it is distributed within the building through a complicated and fire-hazard wiring system and ultimately is 
+	     And then once through any of these centralized electricity production systems and delivery systems the electricity comes to a building, 
+	     it is distributed within the building by a complicated and fire-hazard within-wall wiring system and ultimately is 
 	     to be collected by the users from wall sockets. There, either the larger electricity-needing machines use cables 
 	     that are plugged into the sockets to directly use the electricity, or there is a charger which uses cable to plug into 
 	     the socket and the charger reduces the electricity strength to be used as output to portable machines like cell phones 
@@ -327,7 +331,7 @@ modalText.innerHTML = `
 
            <p>
              Actual advancement in electricity generation is to make generators simple, compact, 
-             self-sustaining, safe and decentralized, where the generator sits within the small and large machines 
+             self-sustaining, safe, decentralized and cheap, where the generator sits within the small and large machines 
              needing electricity or just outside them. Making generators compact will also enable 
              redundancy, easy replacement and easy placement in any place which needs electricity 
              instead of centralized single points of failure. Within-machine compact generators also contribute 
@@ -344,18 +348,19 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             We are presently experimenting this generator's simple design. The Nernst Effect in thermo-electric materials will be used 
-	     to produce the initial low current. This current will be amplified, smoothened and outputted as 24 volts DC. Heat will be retained in the system 
-	     in a "sand battery" to enable a closed loop generation system.
+             We are presently ideating on this generator's simple idea : Two squeezable bottles of air, automatically squeezed and refilled with air in 
+	     alternating pulses like a human heart, releasing two alternating pressurized air flows which turn small, lightweight turbines which are connected to 
+	     small dynamos which in turn produce low current. This low current will be amplified, smoothened and outputted as 24 volts DC. This will be done in 
+	     a closed loop to enable a self-sustaining electricity generation system.
            </p>
 
            <p>
-             For high voltage requirements we can create larger, external versions of this generator... or use other amplifying systems like 
-	     a motor-generator or a Van de Graff Generator.
+             For high voltage requirements we can create larger, external versions of this generator or use other amplifying systems like a motor-generator or 
+	     this generator can power a Van de Graff Generator.
            </p>
 
            <p>
-             Please check the "Credits" topic in the "Company info" chapter on this website to see where we derive most of our ideas for the generator.
+             Please check the "Thanks" topic in the "Our company info" chapter on this website to see where we derive most of our ideas for the generator.
            </p>
 
            <p>
@@ -444,7 +449,7 @@ modalText.innerHTML = `
 
            <li style="margin-left:1em; margin-bottom:10px;">
              <span> >> </span> 
-             Communication types will be live voice, video, text, forms, still pics and other data, and all these different kinds of data will be 
+             Communication types will be live voice, video, text, forms and other data, and all these different kinds of data will be 
              played in the same type of window. Text will be displayed like paper book pages.
            </li>
 
@@ -556,7 +561,8 @@ modalText.innerHTML = `
 	   </li>
 
            <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
-             The airship-type kosmos ship will also be a single-stage-to-orbit craft ( SSTO ) unlike the at least two stages of the Tall Rocket.
+             Talk of how many "stages to orbit" does not apply here because the airship-type kosmos ship will be a single, undivided machine unlike the 
+	     at least two stages of the Tall Rocket. The "stages to orbit" is a terminology from the POV of Tall Rocket technology.
 	   </li>
 
            </ul>
@@ -605,8 +611,7 @@ modalText.innerHTML = `
 	   </p>
 
            <p>
-	     The facilities will include proper water-using baths and toilets with the toilets having disinfectant-having water jet for hygienic and satisfying 
-             cleaning after defecation. No yucky toilet paper. The ferry will also have sufficient growing facilities for food crop, 
+	     The facilities will include proper water-using baths and toilets. The ferry will also have sufficient growing facilities for food crop, 
              fuel crop ( for the coal via biocoal ), other crops, a clinic, mini mills for tailoring, woodwork, 
              metalwork, bio-engineering, electricals and computers, research facility, mineral processing, 
              water storage, telescopes and a small swimming pool that is time-segregated for men and women. 
@@ -683,6 +688,11 @@ modalText.innerHTML = `
 	     </li>
 
            </ul>
+
+           <p>
+             Facilities on both ships will include proper water-using baths and toilets, with the toilets having disinfectant-having water jet for hygienic and satisfying 
+             cleaning after defecation. No yucky toilet paper.
+           </p>
 
            <p>
              It may be possible to form these two kosmik ships to have artificial gravity generation
@@ -872,10 +882,10 @@ modalText.innerHTML = `
                       
            <p>
              <span> >> </span> 
-	     Intelligent computation using a combination of human brain cells and our Dune Buk
+	     Artificial Intelligence system using a combination of human brain cells and our Dune Buk
              wearable computer. This will allow autonomous, compact-sized intelligent computation to be
              carried out within machines or without the complete need of humans like in places where humans cannot 
-             go or are too far away.
+             go or are too far away. The only artificial intelligence system we will trust is the one we will design.
            </p>
 
            <p>
@@ -906,31 +916,10 @@ modalText.innerHTML = `
              massively-muscled enhanced beings of some Hollywood films who do not seem "human".
            </p>
 
-	   </div>
-           
-           <div id="wmachines" class="section">
-           <h2> 09. Machines for water</h2>
-
-             <p>
-               <span> >> </span> Portable extractors of water from ice, open water, soil and air.
-             </p>
-
-             <p>
-               <span> >> </span> Water purifiers.
-             </p>
-
-             <p>
-               <span> >> </span> Electrolysis machines.
-             </p>
-
-	     <p>
-               <span> >> </span> Others.
-             </p>
-
-           </div>
+	   </div>        
 
            <div id="moggy" class="section">
-           <h2> 10. Moggy robot cat</h2>
+           <h2> 09. Moggy robot cat</h2>
 
 	     <p>
                Moggy robot will be a large cat-like robot which can travel on the surface of ground, on the surface of water and in the air of any world having atmosphere
@@ -990,8 +979,8 @@ modalText.innerHTML = `
 	     <p>
 	       This robot cat as a human transport mechanism for single humans is for the initial exploration of other worlds. When more humans begin to live, 
 	       say on the Moon, our Ra surface vehicle will be used to transport 20 humans at once in the vehicle's kosmos-use version. This vehicle is
-	       described in the "City redesign on Earth" topic in the "Iskra social system" chapter. In its kosmos-use version it will be built on a world like the Moon and 
-	       will never leave that world.
+	       described in the "City redesign on Earth" topic in the "Our Iskra social system" chapter. In its kosmos-use version it will be built on a world like 
+	       the Moon and will never leave that world.
 	     </p>
 
 	     <p>
@@ -1010,12 +999,12 @@ modalText.innerHTML = `
 	   </div>	   
 
            <div id="mehfil" class="section">           
-           <h2> 11. Mehfil tent</h2>
+           <h2> 10. Mehfil tent</h2>
 
            <p>
-	     Mehfil tent will be an armored, inflatable and multi-level tent which will have breathable air inside the inner-most level where will be space for 
-	     four kosmonauts plus some more space for equipment. When the Mehfil tent is fully inflated it will become shaped like an igloo and there will be an airlock 
-	     inside the entrance tunnel.
+	     Mehfil tent will be an armored, inflatable, multi-layer tent which will have breathable air and heated atmosphere inside the inner-most layer where will be 
+	     space for four kosmonauts plus some more space for equipment. When the Mehfil tent is fully inflated it will become shaped like an igloo and 
+	     there will be an airlock inside the entrance tunnel.
            </p>
 
            <p>
@@ -1027,7 +1016,7 @@ modalText.innerHTML = `
            </p>
 
            <p>
-	     This tent will have a portable, heated-water toilet and wash basin which will be carried on one of the Moggy robot cats.
+	     This tent will have a foldable heated-water toilet and wash basin.
            </p>
 
            <p>
@@ -1065,7 +1054,7 @@ modalText.innerHTML = `
 	   </div>
 
            <div id="serf" class="section">           
-           <h2> 12. Serf satellite for Earth orbit debris cleaning</h2>
+           <h2> 11. Serf satellite for Earth orbit debris cleaning</h2>
 
            <p>
              There are an estimated 100 million human-made pieces of various sizes in Earth orbit, made
@@ -1161,6 +1150,28 @@ modalText.innerHTML = `
              accounts of the feudals but the serfs will never hear these coins clink in their own pockets.
             The serf toils to survive in an artificially created wrong situation.
            </p>
+
+           </div>
+
+           <div id="othermach" class="section">
+           <h2> 12. Other machines</h2>
+
+             <p>
+               <span> >> </span> Machines for water like pumps; portable extractors of water from ice, open water, soil and air; water purifiers; 
+	       electrolysis machines.
+             </p>
+
+             <p>
+               <span> >> </span> 3D Printers.
+             </p>
+
+             <p>
+               <span> >> </span> Interactive 3D display and sound system using lightweight beads levitated by sound. But do humans need this really ?
+             </p>
+
+	     <p>
+               <span> >> </span> Other machines.
+             </p>
 
            </div>
 
@@ -1290,7 +1301,7 @@ modalText.innerHTML = `
 	     Imagine coming upon such an architectured city on Deimos, one of the two moons of Red One, or such a city on some rocky world beyond Pluto, 
 	     or in a deep crater on Mercury where the crater's bottom is shielded from the Sun... 
 	     of course in all three cases the city's features made relevant to the environment of those kosmik places. Our first built example 
-	     of such a city will be the Mirkeen-01 city on the Moon whose details you will find in the "Mirkeen-01..." topic in the "Iskra social system" chapter 
+	     of such a city will be the Mirkeen-01 city on the Moon whose details you will find in the "Mirkeen-01..." topic in the "Our Iskra social system" chapter 
 	     on this website.
            </p>
 
@@ -1512,7 +1523,7 @@ modalText.innerHTML = `
               <a href="#intro">&nbsp;&nbsp; 01. Introduction to this chapter </a>
               <a href="#nations">&nbsp;&nbsp; 02. Kosmos and the human nations on Earth </a>
               <a href="#equality">&nbsp;&nbsp; 03. Natural equality to be a kosmonaut </a>
-              <a href="#organization">&nbsp;&nbsp; 04. Social organization for kosmonauts </a>
+              <a href="#organization">&nbsp;&nbsp; 04. Social organization of kosmonauts </a>
               <a href="#tea">&nbsp;&nbsp; 05. Tea and Kosmos</a>
               <a href="#language">&nbsp;&nbsp; 06. Personality of the kosmonauts </a>
               <a href="#sports">&nbsp;&nbsp; 07. Sports and recreation in the kosmos </a>
@@ -2016,7 +2027,7 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";>
-	     A 60-year-old person who has been "adult" for 42 years can be very easily immature, can be easily misled, can be violent, cruel, apathetic, competitive, 
+	     A 60-year-old person who has been "adult" for 43 years can be very easily immature, can be easily misled, can be violent, cruel, apathetic, competitive, 
 	     create chaos, cause genocide, be a voluntary slave until death and look disgusting. If every 80-year-old was automatically a genius just because he or she 
 	     was 80 of age, the world would not have seen feudalism, wars, oppressions, superstitions, competition, crimes, suicides, cruelty, apathy, 
 	     Climate Change and disharmony. All of Earth would have been utopia 300,000 years ago when Homo Sapiens supposedly began.
@@ -2273,7 +2284,7 @@ modalText.innerHTML = `
           </div>
 
            <div id="organization" class="section">
-           <h2> 04. Social organization for kosmonauts</h2>
+           <h2> 04. Social organization of kosmonauts</h2>
 
            <p>
              The primary reasons for the exploration in the kosmos include :
@@ -2296,7 +2307,35 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             So the organization of work groups in the kosmos should be democratic and that is easily done by 
+	     And when thinking of how "work" should be without feudalism, we realize that the worker is a human with rights as an individual and 
+	     also that a human is a social animal who makes up the components of "society" therefore not only a human has individual rights 
+	     but also has a duty towards society and wider humanity.
+           </p>
+
+           <p>
+	     A kosmonaut's day hours thus can be broadly divided as below :
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";><span>(a).</span> Good sleep of about seven hours.</p>
+
+           <p style="margin-left:1em; margin-bottom:10px";><span>(b).</span> Getting ready for work. </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";><span>(c).</span> Work in a work group as per need or as decided by a roster. </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";><span>(d).</span> Maybe a sleep of two hours in the middle of working hours. </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";><span>(e).</span> Resumption of work until end of work day. </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";><span>(f).</span> Tea, discussion, ideation and experimenting time. </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";><span>(g).</span> Dinner. </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";><span>(h).</span> Internet / music listening time. </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";><span>(i).</span> Sleep. </p>
+
+           <p>
+             Now to the topic of work groups. The organization of work groups in the kosmos should be democratic and that is easily done by 
              organizing them as Workers Cooperatives. The idea of Workers Cooperative has association 
              with the older ideas of liberty, equality and fraternity, and enables true democracy where every human present 
 	     in the organzation participates in the continuance of that organization equally and benefits from it equal 
@@ -2830,17 +2869,17 @@ modalText.innerHTML = `
            <p>
              These academics went about lectures and conferences chanting "Big Bang Theory" for almost a hundred years 
              when until recently someone proposed a second Big Bang which "created Dark Matter". Dark Matter is 
-             again another nonsensical maths-basis idea which has been around for many decades but 
+             another nonsensical maths-basis idea which has been around for many decades but 
              has never been observed in Nature, let alone measured. These academics don't know how big the 
              kosmos is, they have never stepped into the kosmos, yet they confidently declare its birthday to the microsecond, LOL.
            </p>
 
            <p>
-             So to understand the kosmos we must reject the current dominance of mathematics in 
-             astronomy and be humble, gentle, sensitive, receptive and natural to the knowledge of 
+             So to understand the kosmos we must reject the current dominance of mathematics in astronomy and 
+	     expel the professional mathematicians and instead be humble, gentle, sensitive, receptive and natural to the knowledge of 
              the kosmos by actually going into the kosmos and narrating our every experience to the rest of humanity.
            </p>
-           
+
            <p>
              We must also accept the very simple idea that the kosmos is timeless and infinite and 
              we don't know what all kinds of objects are in the kosmos and what kinds of life types are in 
@@ -3023,7 +3062,7 @@ modalText.innerHTML = `
              should be managed by a collective human committee. We of Kosmos Society will keep this 
              as a necessary element when designing our Frema kosmos-capable internet system. We will 
              also design systems that contribute to clearing up the current satellite and rocket debris around Earth. 
-             Please read the topic about Serf satellite in the "Techno systems" chapter on this website.
+             Please read the topic about Serf satellite in the "Our techno systems" chapter on this website.
            </p>
 
            </div>
@@ -3258,7 +3297,7 @@ modalText.innerHTML = `
            <p>
              This effort will consist of designing small cities on Earth which will hold resident populations of max 30,000 plus a few thousand guests. 
 	     These cities will combine aesthetic form with function and will be scientifically-built, horizontally spread, citizen-managed through the citizens 
-	     directly participating using the natural and progressive concept of Workers Cooperatives ( described in the "Social organization for kosmonauts" 
+	     directly participating using the natural and progressive concept of Workers Cooperatives ( described in the "Social organization of kosmonauts" 
 	     topic above ), humanist, easy to maintain, not create pollution, largely food-wise self-sufficient, largely employment-wise self-sufficient, gentle, 
 	     collaborative, humanist, inherent with fraternity, inherent with Circular Economy and construction features which calm the citizens, 
 	     delight their senses and inspire.
@@ -3366,13 +3405,13 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";> 
-	     Dogs are the opposite... aggressive, noisy, bring chaos, are mob-oriented, are ugly, are mindless killers, violently compete with other dogs, 
-	     have disgusting habits and carry harmful microbes.
+	     Dogs are the opposite... aggressive, noisy having an irritating and headache-bringing sound, bring chaos, are mob-oriented, are ugly, are mindless killers, 
+	     violently compete with other dogs, have disgusting habits and carry harmful microbes.
 	   </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";> 
              There are old descriptions : "Wise cat" and "Dog-eat-dog society". It is clear then... do we want a human society to adore cats and thus have gentleness,
-	     intelligence, sensitiveness, empathy, beauty, loyalty and contribution to humanity or do we want a society to adore dogs and thus have chaos, 
+	     intelligence, sensitiveness, empathy, beauty, loyalty and contribution to humanity or do we want a society to adore dogs and thus have chaos, noise, 
 	     competition, apathy, cruelty, filth, violence, disgustingness and mindlessness ?
 	   </p>
 
@@ -3390,7 +3429,7 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";> 
 	     For passive and active environment control, the features must include windcatchers, qanats, salsabils, aromatic wetted mat curtains for entrances and 
-	     balconies ( like the Indian "khass" / "khus" grass mats ), fountains and gardens which have at least one tree.
+	     balconies ( like the Indian "qass" / "khus" grass mats ), fountains and gardens which have at least one tree.
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -3468,7 +3507,7 @@ modalText.innerHTML = `
 	     South Asia in particular will benefit from this self-cleaning and self-maintenance idea because in this region the culture enforces another 
 	     multi-generation caste system among many where the middle class in particular has a cruel attitude with regards to area cleanliness : 
 	     the middle class won't clean the defecation and the urine they themselves created in their bodies but instead assign this work to 
-	     a "low class" people aka "kamzaat log" aka "kamjaat log" who have done this dangerous work for a hundred generations and die in the drains of 
+	     a "low class people" aka "kamzaat log" aka "kamjaat log" who have done this dangerous work for a hundred generations and die in the drains of 
 	     the middle class neighborhoods because of being suffocated by methane gas, by lack of oxygen, by drowning in sewage and by getting bitten by snakes 
 	     and scorpians.
 	   </p>
@@ -3741,7 +3780,7 @@ modalText.innerHTML = `
 
 	  <p>
 	    The simple solution for hunger is not only social enlightenment but also a technological combination of bio-engineered plant-based foods and 
-	    the nutritious originally animal products like given in the "Biology researches" topic in the "Techno systems" chapter. These techno-social 
+	    the nutritious originally animal products like given in the "Biology researches" topic in the "Our techno systems" chapter. These techno-social 
 	    food productions must be done in decentralized, neighborhood-level indoor farms which have localized water generation as much as possible 
 	    as well as take water from scientifically built canals and the workers do collaborative and collectivist farming. 
 	    There is no need for anyone to die of hunger now in 2025 AD.
@@ -4076,7 +4115,7 @@ modalText.innerHTML = `
             <button id="topics-toggle">Company info - Show topics</button>
             <div id="topics-links">
 	      <a href="#founders">&nbsp;&nbsp; 01. Our founders </a>
-	      <a href="#credits">&nbsp;&nbsp; 02. Credits </a>
+	      <a href="#thanks">&nbsp;&nbsp; 02. Thanks </a>
 	      <a href="#joinus">&nbsp;&nbsp; 03. You can join us if... </a>
 	      <a href="#weoffer">&nbsp;&nbsp; 04. We offer you as a worker what no other company offers </a>
 	      <a href="#bmodel">&nbsp;&nbsp; 05. Our simple business model </a>
@@ -4137,16 +4176,22 @@ modalText.innerHTML = `
 	   at this page [ opencores.org/projects/taar ]. Presently, he has been an advisor in a system-level way.
          </p>
 
-         <p class=name> Afzal - Advisor </p>
+         <p class=name> Afzal Sha Maqsood - Advisor </p>
 
-	 <p>
+         <div>
+           <img src="assets/Afzal photo.jpeg" 
+            alt="Afzal Sha" 
+            class="profile-image">
+         </div>
+
+	 <p style="margin-bottom:4px;"> 
            Afzal is a practical person but also philosophical. He has been a patient 
            supporter of the organization from the time it was thought up in early 2023 but also his discussions 
 	   with Sameer about kosmik travel going back to 2007. He contributes presently to our electricity generator project, 
 	   our kosmos ship projects, our robot cat project and our hovercraft-wheelcraft project.
          </p>
 
-         <p class=name> Mahmoud Hosny - Regional Coordinator, Africa and West Asia </p>
+         <p class=name> Mahmoud Hosny - Regional Coordinator, Africa </p>
 
 	 <div>
            <img src="assets/Mahmoud photo.png" 
@@ -4156,7 +4201,7 @@ modalText.innerHTML = `
 
            <p style="margin-bottom:4px;"> 
              Mahmoud is based in Cairo and will manage liaison to the administrations and 
-             the masses in the vast regions that are Africa and West Asia. He is a straight-talking person 
+             the masses in the vast region that is Africa. He is a straight-talking person 
              and patient including the time it took for the organization to come to this level.
            </p>         
 
@@ -4176,17 +4221,18 @@ modalText.innerHTML = `
 
            </div>
 
-           <div id="credits" class="section">
-           <h2>02. Credits</h2>
+           <div id="thanks" class="section">
+           <h2>02. Thanks</h2>
 
            <p>
-             We credit the following people who are not part of our organization but have helped us either in person 
-             or by their ideas and works we found in paper or on the internet. From our income we will contribute money and other help to these people 
+             We thank the following people who are not part of our organization but have helped us either in person 
+             or by their ideas and works we found on paper or on the internet. From our income we will contribute money and other help to these people 
 	     or their descendents or their movements :
            </p>
 
            <p><span>&gt;&gt;</span> 
-             Vikram for the logo, the website design and for provoking the thought in us to have this Credits topic.
+             Vikram for the logo, for the website design, for provoking the thought in us to have this Thanks topic and for reminding about water powered turbine 
+	     in a discussion which hours later led to the idea of turbines powered by compressed air.
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -4194,14 +4240,7 @@ modalText.innerHTML = `
              of generating electricity and which led to our discovery of the "sand battery". 
              Apoorva's LInkedIn page [ https://www.linkedin.com/in/apoorvajr ]. Sadly we forgot the Insta page's name but we are thankful to that page's 
 	     maintainer and also to Instagram. That Insta page spoke of the company Polar Night Energy which applied the sand battery in a real life setting 
-	     despite there being no prior industry use of this method and we are thankful to this company. 
-	     The sand battery we use in our design of the Faradn generator.
-           </p>
-
-           <p><span>&gt;&gt;</span> 
-	     NIMS and Nagoya University, both of Japan, for researching how to enhance the thermo-electricity method called Nernst Effect in 
-	     soft magnet materials, and the website [ phys.org ] for carrying this research in this article [ https://phys.org/news/2024-05-common-soft-magnets-generation-thermoelectric.html ]. 
-	     This we use in our design of the Faradn generator.
+	     despite there being no prior industry use of this method and we are thankful to this company.
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -4212,11 +4251,6 @@ modalText.innerHTML = `
              Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, 
 	     made using an electro-magnetic relay. This vid called "1026 The easiest inverter you will ever make" is on this page 
 	     [ https://www.youtube.com/watch?v=L-vC9SvU2Lo ]. This we use in our design of the Faradn generator.
-           </p>
-
-           <p><span>&gt;&gt;</span> 
-             The YouTube channel "The Action Lab" for the idea about using heat to run a self-sustained piston engine. 
-             This vid called "This engine runs on sound waves" is on this page [ https://www.youtube.com/watch?v=xCnxsoXtlmY ].
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -4305,7 +4339,7 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p><p><span>&gt;&gt;</span> 
-	     If you respect the natural laws.
+	     If you respect the natural laws including the ones we present in the "Our techno systems" chapter and "Our Iskra social system" chapter.
 	   </p>
 
 	   <p><p><span>&gt;&gt;</span> 
@@ -4313,7 +4347,7 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p><p><span>&gt;&gt;</span> 
-	     If you have no love for feudalism and consider money as a temporary necessity for the now.
+	     If you have no love for feudalism and consider money as a temporary necessity for the now but which must be eventually abolished.
 	   </p>
 
 	   <p><p><span>&gt;&gt;</span> 
@@ -4333,42 +4367,49 @@ modalText.innerHTML = `
 	     Not aggressive but gentle and genuine.
 	   </p>
 
-          </div>
+           </div>
 
            <div id="weoffer" class="section">
            <h2> 04. We offer you as a worker what no other company offers </h2>
 
-        <p><p><span>&gt;&gt;</span> 
-	  We won't demand from you "high education percentiles", college degrees or "50 years of experience in the corporate world". 
-	  If you can work on our projects using natural intelligence and perhaps experience in the subject, 
-	  or if you can help us maintain our company in other ways like security work, you join us.
-	</p>
+	   <p><p><span>&gt;&gt;</span> 
+	     You will be at the front of progressive evolution of humanity, both social and technological.
+	   </p>
 
-	<p><p><span>&gt;&gt;</span> 
-	  Our company is structured as a Workers Cooperative where you will be an equal co-owner and 
-	  not a subordinate to some feudal boss. Please read the "Social organization for kosmonauts" topic in the "Iskra social system" chapter and 
-	  return to this point. That topic describes the Workers Cooperative concept.
-	</p>
+           <p><p><span>&gt;&gt;</span> 
+	     We won't demand from you "high education percentiles", college degrees and "20 years of experience in the corporate world". 
+	     If you can work on our projects using natural intelligence and perhaps experience in the subject, 
+	     or if you can help us maintain our company in other ways like security work, you join us. But this depends on your acceptance of our 
+	     democratic and natural ways.
+	   </p>
 
-	<p><p><span>&gt;&gt;</span> 
-	  You will have the same equal salary as everyone else in the company and this salary 
-	  will be comfortable but not an obscene amount which is waved in the face of poor people. 
-	  We want you to have decency, empathy and pan-human fraternity.
-	</p>	
+	   <p><p><span>&gt;&gt;</span> 
+	     Our company is structured as a Workers Cooperative where you will be an equal co-owner of the company and 
+	     not an oppressed subordinate to some feudal boss. Please read the "Social organization of kosmonauts" topic in the "Our Iskra social system" chapter and 
+	     return to this point. That topic describes the Workers Cooperative concept.
+	   </p>
 
-	<p><p><span>&gt;&gt;</span> 
-	  The kosmos industry is a permanent one so with us you will be in permanent employment.
-	</p>
+	   <p><p><span>&gt;&gt;</span> 
+	     You will have the same equal salary as everyone else in the company and this salary 
+	     will be comfortable but not an obscene amount which is waved in the face of poor people. 
+	     We want you to have decency, empathy and pan-human fraternity.
+	   </p>
 
-	<p><p><span>&gt;&gt;</span> 
-	  For any company formation rules about equity, our company's equity will be divided into three parts : 
-	  one for the founders, the second for the investors and the third for new co-workers where the founders will dilute 
-	  their equity equally so that all new and old workers have equal equity.
-	</p>
+	   <p><p><span>&gt;&gt;</span> 
+	     For any company formation rules about equity, our company's equity will be divided into three parts : 
+	     one for the founders, the second for the investors and the third for new co-workers where the founders will dilute 
+	     their equity equally so that all new and old workers have equal equity.
+	   </p>
 
-	<p><p><span>&gt;&gt;</span> 
-	  You will be at the front of progressive evolution of humanity, both social and technological.
-	</p>
+	   <p><p><span>&gt;&gt;</span> 
+	     For the money required to maintain the company, all workers will put an equal share from their salary into the company maintenance money pool.
+	   </p>
+
+	   <p><p><span>&gt;&gt;</span> 
+	     The kosmos industry is a permanent one so with us you will be in permanent employment. We don't do fashionable and nonsense tech like 
+	     quantum computing, edtech, fintech, humanoid robots and Tall Rockets with legs. We don't know what is market cap and we don't want to be 
+	     a unicorn company. We are simple people and are designing real and useful technologies and social systems.
+	   </p>
 
            </div>
 
@@ -4376,8 +4417,8 @@ modalText.innerHTML = `
            <h2> 05. Our simple business model </h2>
 
            <p>
-	     We are a non-profit organization and our direct clients will be the space departments of national governments who will purchase the designs of our products 
-	     for a reasonably cheap license fee ( one million dollars ) and build our systems in their societies as many as possible and make them available 
+	     We are a non-profit design organization and our direct clients will be the space departments of national governments who will purchase the designs of 
+	     our products for a reasonably cheap license fee ( one million dollars ) and build our systems in their societies as many as possible and make them available 
 	     to their citizens without tax.
            </p>
 
@@ -4390,13 +4431,14 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p>
-	     Our million dollar license fee is a very small fraction of what a single rich individual pays now for a single ticket to visit and stay, not on the Moon even 
-	     which is 380,000 kilometers away, but just the International Space Station which is orbiting only 400 kilometers above our heads.
+	     Our one million dollar license fee is a very small fraction of what a single rich individual pays now for a single ticket to visit and stay, not on the Moon even 
+	     which is 380,000 kilometers away, but just the International Space Station which is orbiting only 400 kilometers above our heads. 
+	     The single person tickets presently cost at least 50 million dollars... and ours is one million dollars for an entire space program.
            </p>
 
            <p>
-	     Also in today's terms one million dollars is less than the license fee for a company to acquire the design of a commercial microprocessor 
-	     for use in cell phones.
+	     Also in today's terms, one million dollars is less than the license fee for a company to acquire the design of 
+	     a commercial microprocessor for use in cell phones.
            </p>
 
            <p>
@@ -4405,14 +4447,14 @@ modalText.innerHTML = `
            </p>
 
            <p>
-	     We choose not to be feudal "space trillionaires" but to be humanists working towards the unified human kosmik utopia. Our fee of one million dollars 
+	     We choose not to be feudal "space trillionaires" but to be humanists working towards the unified human kosmik utopia. Our license fee of one million dollars 
 	     is only for maintaining our company, us individually in a reasonable way, for further research, for contributing to good causes and 
-	     for helping those whose ideas we have used as said in the "Credits" topic above.
+	     for helping those whose ideas we have used as said in the "Thanks" topic above.
 	   </p>
 
            <p>
-	     About how our client governments will recoup our one million dollar license fee, it is given in section (r) in the "Iskra social system" chapter, 
-	     topic "Social organization for kosmonauts".
+	     About how our client governments will recoup our one million dollar license fee, it is given in the "Our Iskra social system" chapter, 
+	     topic "Social organization of kosmonauts", section (r).
 	   </p>
 
            </div>
@@ -4446,10 +4488,6 @@ modalText.innerHTML = `
 	    [ hello@kosmossociety.space ] and [ kosmos.society.2033@gmail.com ]
 	  </p>
 	  
-	  <p><span>LinkedIn to reach Sameer :</span> 
-	    https://linkedin.com/in/sameer-kosmos-society
-	  </p>
-
           <p><span>Physical address :</span> 
 	    Presently most of us are based in Bangalore city, India, but we will base our HQ in Calcutta city ( now called Kolkata ) 
 	    which is in the east side of India. This move because Calcutta is the only true city in India though it can be lot more improved.
@@ -4519,5 +4557,3 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
-
-
