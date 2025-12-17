@@ -200,7 +200,7 @@ modalText.innerHTML = `
 
            <p><span>&gt;&gt;</span>
              Liberty, Equality, Fraternity, Humanism, Simplicity, Beauty, Gentleness, Realness, Intelligent, Robust, 
-	     Like from the Dune stories, Human safety as much as possible, Respect for Nature including reversing Climate Change on Earth. 
+	     Seeming from the Dune stories, Human safety as much as possible, Respect for Nature including reversing Climate Change on Earth. 
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -268,28 +268,28 @@ modalText.innerHTML = `
              As examples of the above points :
            </p>
 
-	   <p style='margin-left:2em;margin-bottom:10px;'><span>&gt;&gt;</span> 
+	   <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> 
 	     Gentleness : Renaming of the planet Mars to "Red One" as the former is the Roman god of war while the latter is a gentle name.
 	   </p>
 
-	   <p style='margin-left:2em;margin-bottom:10px;'><span>&gt;&gt;</span> 
+	   <p style='margin-left:2em;margin-bottom:10px;'><span>(b).</span> 
 	     Non-sensible ideas from celebrated scientists which we won't use : Dyson Sphere aka Dyson Swarm.
 	   </p>  
 
-	   <p style='margin-left:2em;margin-bottom:10px;'><span>&gt;&gt;</span> 
+	   <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> 
 	     Human safety : Not following the silliness of nuclear fission or fusion as the means to generate electricity or propel kosmos ships.
 	   </p>
 
-	   <p style='margin-left:2em;margin-bottom:10px;'><span>&gt;&gt;</span> 
+	   <p style='margin-left:2em;margin-bottom:10px;'><span>(d).</span> 
 	     Simplicity : Not using semiconductor material. So no transistors and no VLSI stuff.
 	   </p>
 
-	   <p style='margin-left:2em;margin-bottom:10px;'><span>&gt;&gt;</span> 
+	   <p style='margin-left:2em;margin-bottom:10px;'><span>(e).</span> 
 	     Realness : The wearable computer in the following wonderful sci-fi short film on YouTube called 
 	     "ICE - A Thousand Suns / Episode 1" and is at this link [ https://www.youtube.com/watch?v=RXaVgAxtYFI ].
 	   </p>
 
-           <p style='margin-left:2em;margin-bottom:10px;'><span>&gt;&gt;</span> 
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(f).</span> 
 	     Humanism : Not using the Capitalist and profiteering word "Payload" to describe what simply can be called "Cargo".
 	   </p>
 
@@ -690,7 +690,7 @@ modalText.innerHTML = `
            </ul>
 
            <p>
-             Facilities on both ships will include proper water-using baths and toilets, with the toilets having disinfectant-having water jet for hygienic and satisfying 
+             Facilities on both ships will include proper water-using baths and toilets, with the toilets having disinfectant-having water jet for hygenic and satisfying 
              cleaning after defecation. No yucky toilet paper.
            </p>
 
@@ -922,9 +922,29 @@ modalText.innerHTML = `
            <h2> 09. Moggy robot cat</h2>
 
 	     <p>
-               Moggy robot will be a large cat-like robot which can travel on the surface of ground, on the surface of water and in the air of any world having atmosphere
-	       or no atmosphere as the case may be, including Earth, and able to carry either a single kosmonaut or 80 kgs load. Its walk and other movements will be
-	       as graceful, silent, quick and strong as a cat and this will involve replicating the muscles and bone structure of cats.
+	       We will neither build robot dogs nor humanoid robots. The former because we don't want any association with dogs, and no humanoid robots 
+	       because of three simple reasons :
+	     </p>
+
+	     <p style="margin-left:1em; margin-bottom:10px";> 
+	       <span>(a). </span> This will be needless idolatry which is also related to the question : How can one interact by talk and gestures with a humanoid thing
+	       knowing fully well that it is a machine. Though if human forms have to be recreated then build statues of great lovers like Romeo-Juliet and Laila-Majnu.
+	     </p>
+
+	     <p style="margin-left:1em; margin-bottom:10px";> 
+	       <span>(b). </span> Via presence of humanoid robots the real humans will internalize another type of feudalism by turning into slave owners 
+	       where the humanoid robot will be the slave who is programmed to behave in a servile way.
+	     </p>
+
+	     <p style="margin-left:1em; margin-bottom:10px";> 
+	       <span>(c). </span> Humans will disconnect from other real humans when instead there should be empathy and fraternity for other real humans.
+	     </p>
+
+	     <p>
+               So we will design the Moggy robot cat which will be a large cat-like robot which can travel on the surface of ground, on the surface of water and 
+	       in the air of any world having atmosphere or no atmosphere as the case may be, including Earth, and able to carry either a single kosmonaut or 
+	       80 kgs load. Its walk and other movements will be as graceful, silent, quick and strong as a cat and this will involve replicating the muscles and 
+	       bone structure of cats.
 	     </p>
 
 	     <p>
@@ -1060,8 +1080,11 @@ modalText.innerHTML = `
              There are an estimated 100 million human-made pieces of various sizes in Earth orbit, made
              of metal and other material, which are debris from parts of non-functioning satellites and
              parts from other discarded kosmik vehicles. These pieces size from tiny to large and travel
-             around Earth at very high speeds ( 20,000+ kmph ). As human-carrying kosmos ships rise into
-             Earth orbit at various altitudes they have chance of getting hit by these high-speed pieces
+             around Earth at very high speeds ( 20,000+ kmph ).
+           </p>
+
+           <p>
+             As human-carrying kosmos ships rise into Earth orbit at various altitudes they have chance of getting hit by these high-speed pieces
              and getting destroyed along with their human cargo or getting very damaged in context of
              current kosmosship-building methods. The two current kosmos stations in Earth orbit also can
              get this risk. This debris was unfortunately ignored in the previous decades but now is
@@ -1166,7 +1189,7 @@ modalText.innerHTML = `
              </p>
 
              <p>
-               <span> >> </span> Interactive 3D display and sound system using lightweight beads levitated by sound. But do humans need this really ?
+               <span> >> </span> Interactive 3D display and sound system using lightweight beads levitated by sound. But do humans really need this ?
              </p>
 
 	     <p>
@@ -1885,7 +1908,7 @@ modalText.innerHTML = `
 
        <p>
          Jumping back to the modern age, in India between the 1850s and 1930s lived the general researcher Jagadish Chandra Bose... 
-	 a man interested in many sciences including humane social conduct. He was the first to investigate microwave radiofrequency and made great discoveries
+	 a man interested in many sciences including humane social conduct. He was the first to investigate microwave radio-frequency and made great discoveries
          in botany and among his researches living now is our modern telecom including the everywhere-present
          cell phone. He treated other humans in an equal manner, whether they be of "lower caste" or of other religions, and he was against the patent system
          so in today's terms he can be called part of the earlier Open Source Knowledge movement
@@ -1926,7 +1949,7 @@ modalText.innerHTML = `
 
            <p>
              The current human-transport kosmos industry / space industry is feudal where aspiring kosmonauts 
-             have to fit the below irrational categories to qualify for travel to the kosmonaut :
+             have to fit the below irrational categories to qualify for travel to the kosmos :
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -1937,7 +1960,7 @@ modalText.innerHTML = `
                have lots of money. These organizations have created an anti-democratic monopoly. Add to this the blatant ignoring 
 	       of the non-safety of the Tall Rockets... essentially huge vertical bombs. These government and private organizations know 
 	       the explosiveness of their Tall Rockets hence they launch them from isolated places but the few travellers on these Tall Rockets 
-	       know the danger yet they go.
+	       know the danger yet they go, instead of demanding safer alternatives.
             </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -1971,12 +1994,12 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";>
 	     <span> (g). </span>
-               If an aspiring kosmonaut is a woman then she is excluded if she doesn't meet with the irrational low-weight, "she should be fit" 
+               If an aspiring kosmonaut is a woman then she is excluded if she doesn't meet with the irrational low body-weight, "she should be fit" 
 	       requirement for woman kosmonauts. Women naturally tend towards being chubby, voluptuous and they look better that way 
 	       but there is a background and also overt system especially in the West to exclude such women from the kosmos industry as well as make them 
 	       non-persons via language, cinema and mainstream media. This excluding is due to the West having influential position for male homosexuals 
-	       ( including priests ), the "fitness and wellness" profiteering industry and misogyny among women who all have their own interests in keeping women thin 
-	       or muscular.
+	       ( including among priests ), the "fitness and wellness" profiteering industry and misogyny among women who all have their own interests in 
+	       keeping women thin or muscular.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -1997,8 +2020,9 @@ modalText.innerHTML = `
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-	     And until a person becomes 18 age he or she must have "guardians" in form of "family elders", essentially older persons in the family who are 
-	     income-bringing and supposedly wise enough to guide the younger person's life to perfection.
+	     And this irrational age demand of above 18 also has the situation that until a person becomes 18 age he or she must have "guardians" in form of 
+	     "family elders", essentially older persons in the family who are income-bringing and supposedly wise enough to guide the younger person's life 
+	     to perfection.
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 	     
@@ -2006,12 +2030,13 @@ modalText.innerHTML = `
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-	     Most age-18 people and age-40 people will never be free from the diktats, feudalism and daily cruelty of their family elders. They will never have the right to
-	     choose the opposite gender person they like, the right to pursue the occupation they like, the right to help other humans, the right to take food to 
-	     their hungry neighbors, the right to give 20 dollars to a blind person begging on their road, the right to say that they don't want to engage in 
-	     their family's multi-generation life-long wage slavery under feudals, the right to not have their intestines removed by a gang of dogs 
-	     on the chaos-filled road outside their house gate or the intestines removed in a mindless socio-economic quarrel, the right not to die of mindless overwork 
-	     just to earn ten dollars, and instead want their society and humanity to evolve from dog-eat-dog situation to utopia.
+	     Most age-18 people and age-40 people will never be free from the diktats, feudalism and daily cruelty of their family elders. They will never have
+	     the right to choose the opposite gender person they like, the right to pursue the occupations they like, the right to help other humans, 
+	     the right to take as much reasonable amount of food they like, the right to take food to their hungry neighbors, the right to give 20 dollars to a blind person
+	     begging on their road, the right to say that they don't want to engage in their family's multi-generation life-long wage slavery under feudals, 
+	     the right to not have their intestines removed by a gang of dogs on the chaos-filled road outside their house gate or the intestines removed in a mindless
+	     socio-economic quarrel, the right not to die of mindless overwork just to earn ten just-surviving dollars, and the right to instead want their society and 
+	     humanity to evolve from dog-eat-dog situation to utopia.
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -2308,7 +2333,7 @@ modalText.innerHTML = `
 
            <p>
 	     And when thinking of how "work" should be without feudalism, we realize that the worker is a human with rights as an individual and 
-	     also that a human is a social animal who makes up the components of "society" therefore not only a human has individual rights 
+	     also that a human is a social animal who makes up the components of "society", therefore not only a human has individual rights 
 	     but also has a duty towards society and wider humanity.
            </p>
 
@@ -4176,16 +4201,16 @@ modalText.innerHTML = `
 	   at this page [ opencores.org/projects/taar ]. Presently, he has been an advisor in a system-level way.
          </p>
 
-         <p class=name> Afzal Sha Maqsood - Advisor </p>
+         <p class=name> Syed - Advisor </p>
 
          <div>
-           <img src="assets/Afzal photo.jpeg" 
-            alt="Afzal Sha" 
+           <img src="assets/Syed photo.jpeg" 
+            alt="Syed" 
             class="profile-image">
          </div>
 
 	 <p style="margin-bottom:4px;"> 
-           Afzal is a practical person but also philosophical. He has been a patient 
+           Syed is a practical person but also philosophical. He has been a patient 
            supporter of the organization from the time it was thought up in early 2023 but also his discussions 
 	   with Sameer about kosmik travel going back to 2007. He contributes presently to our electricity generator project, 
 	   our kosmos ship projects, our robot cat project and our hovercraft-wheelcraft project.
@@ -4295,7 +4320,7 @@ modalText.innerHTML = `
            </p>
 
            <p><span>&gt;&gt;</span> 
-	     BR Ambedkar among other things, for saying clearly in 1953 that the so-called Democratic Process of five-yearly elections participated 
+	     BR Ambedkar among other things, for saying in a 1953 BBC TV interview that the so-called Democratic Process of five-yearly elections participated 
 	     by multiple political parties and producing a stream of pompously titled bureaucrats, is not actual democracy and will never produce a society 
 	     which brings proper food and other reasonable material needs to the masses and will never change society from feudalism to true democracy 
 	     but that change can be brought by Socialism. This rejection of the fake-democratic process of elections and stuff has been stated later by 
