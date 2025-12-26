@@ -2177,7 +2177,7 @@ modalText.innerHTML = `
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-	     Another example for us to adopt naturality regarding age is of the Mughal emperor of India, Akbar. Five hundred years ago the Mughal prince 
+	     Another example for us to re-adopt naturality regarding age is of the Mughal emperor of India, Akbar. Five hundred years ago the Mughal prince 
 	     Jalaaluddeen Muhammad, who later became called Akbar ( "The Great One" ), became emperor of India at age 13 and he became a good administrator 
 	     in time because he was a sensible person inherently despite being from a feudal family, very unlike most other feudals in history. He did progressive things
 	     at younger ages that most other feudals never had the idea of doing at their 80 of age.
@@ -4727,4 +4727,5 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
 
