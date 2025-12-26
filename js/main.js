@@ -2108,37 +2108,8 @@ modalText.innerHTML = `
 	     humanity to evolve from dog-eat-dog situation to utopia.
 	   </p>
 
-           <p style="margin-left:1em; margin-bottom:10px";> 
-	     But utopia is the opposite of dystopia... check out this dystopian vid from December 2025 of a village elder in a district in Rajasthan state in India 
-	     reading out a "community" diktat in the Hindi language where the diktat largely bans use of smartphones by the women of that district... 
-	     the "daughters and daughters-in-law". This is the diktat [ https://www.youtube.com/shorts/Jc-Sw7oQcyg ]. 
-	     The old man in the vid also says that girls can use mobile phones within their houses only for "school studies" purposes and are prohibited from 
-	     taking the phone outside.
-	   </p>
-
-           <p style="margin-left:1em; margin-bottom:10px";> 
-	     Obviously, the kind of "studies" and "education" he speaks of does not include liberation of humans from the irrational and anti-human beliefs of 
-	     their family and society but these "studies" and "education" when for males are only for propagation of enslavement to feudals, capitalists, 
-	     profiteers and priests... and when the "studies" and "education" are for women they are only for making the women obedient wives knowing maths, 
-	     English and computer programming to tutor these to their male children who will in time engage in wage slavery in some mediocre coding work 
-	     in some IT company or in some accounting company or fintech or edtech or in some fashionable and idiotic bubble industry like Quantum Computing and 
-	     Tall Rockets.
-	   </p>
-
-           <p style="margin-left:1em; margin-bottom:10px";> 
-	     Thankfully, the above ban by the "community elders" provoked outrage and it has now been cancelled. This ban was not only against the Indian constitution
-	     but also against women and against humanity, and this happened towards the end of year 2025. Glory be to the sensible who outraged here, 
-	     unlike many who outrage about their middle class locality's "community doggos" not having their fourth meal of the day.
-	   </p>
-
-           <p style="margin-left:1em; margin-bottom:10px";> 
-	     The above "community elders" in taking back their ban, said "they have been misunderstood" and spoke something about cyber fraud dangers and 
-	     that smartphones were corrupting the "eyes and minds" of school students. Does this mean those not the "daughters and daughters-in-law" in 
-	     that district, which means all the males there, are Superman and thus immune to cyber fraud and this "eyes and minds corruption" by smartphone ???
-	   </p>
-
-           <p style="margin-left:1em; margin-bottom:10px";> 
-	     The above "community elders" diktat was against women of all ages. So, the "age 18 is adulthood" theme is largely found in feudal societies 
+      <p style="margin-left:1em; margin-bottom:10px";> 
+	     The "age 18 is adulthood" theme is largely found in feudal societies 
 	     with toppings of democracy. In these societies especially women if they are below age 18, say "17 years, 11 months, 29 days, 23 hours, 59 seconds",
 	     they are denied their nature-given freedom in every reasonable thing including their natural right to be with a man by choice or to even 
 	     step out of their neighborhood... but even when they cross "adult age 18" and are say 30-years-old their family will still deny them their 
@@ -4756,3 +4727,4 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
