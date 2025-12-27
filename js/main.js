@@ -211,8 +211,14 @@ modalText.innerHTML = `
 
            <p><span>&gt;&gt;</span> 
              Readiness to explore sensible methods that are from old times or are unusual. In some things, the past is the future. And we won't wait for 
-	     "peer review" for one year before using an idea and we will not discard an idea just because it contradicts some 497th Law of Thermodynamics. 
+	     "peer review" for one year before using an idea and we will not discard an idea just because it contradicts the 492nd Law of Thermodynamics. 
 	     If an idea is sensible as understood by natural intelligence, we use it. What works, works. What is natural, must become the system.
+           </p>
+
+           <p><span>&gt;&gt;</span> 
+	     Our electrical machines support the idea that most electrical devices can run on DC current and should run on DC current and that too lower voltage DC and 
+	     there are few machines which require high DC current and still fewer devices that operate with AC. Example of these fewer AC devices is 
+	     a step-up transformer which produces AC which must be converted to DC i.e. "rectified".
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -261,7 +267,7 @@ modalText.innerHTML = `
 
            <p><span>&gt;&gt;</span> 
              Our technologies will align around our draft for a democratic, pan-human and Nature-respecting social system for the kosmos, 
-	     presented in the "Our Iskra social system" chapter on this website.
+	     presented in the "Our social system - Iskra" chapter on this website.
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -348,14 +354,14 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             We are presently ideating on this generator's simple idea : Two squeezable bottles of air, automatically squeezed and refilled with air in 
-	     alternating pulses like a human heart, releasing two alternating pressurized air flows which turn small, lightweight turbines which are connected to 
-	     small dynamos which in turn produce low current. This low current will be amplified, smoothened and outputted as 24 volts DC. This will be done in 
-	     a closed loop to enable a self-sustaining electricity generation system.
+             We are presently ideating on this generator's simple idea : Two simple bellows filled with normal air, automatically squeezed and 
+	     then refilled with air in alternating pulses like a human heart, releasing two pressurized air flows which turn small, lightweight turbines which
+	     are connected to small dynamos which in turn produce low current. This low current will be amplified, smoothened and outputted as 24 volts DC. 
+	     This will be done in a closed loop to enable a self-sustaining electricity generation system.
            </p>
 
            <p>
-             For high voltage requirements we can create larger, external versions of this generator or use other amplifying systems like a motor-generator or 
+             For high voltage requirements we can create larger versions of this generator or use other amplifying systems like a motor-generator or 
 	     this generator can power a Van de Graff Generator.
            </p>
 
@@ -369,9 +375,11 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             Bio-batteries based on plant materials can be used to provide the starting electricity in many situations, 
-	     like the Faradn generator production workshop in a kosmos ship. Using bio-material battery allows safety, eco-friendliness, social harmony, 
-	     sustainability, local material production and decentralization in terms of its electrolyte materials, electrodes, packaging, carryability, use and manufacture.
+             Bio-batteries based on botanical plants and plant materials can be used to provide the starting electricity or indoors electricity in some situations, 
+	     like production or repair workshop in a kosmos ship or an Earthern neighborhood including to produce or refurbish our Faradn generator. 
+	     Also possible is some emergency situation where Faradn generator isn't somehow available or has failed. Such bio-batteries allows 
+	     ease, bio safety, eco-friendliness, social harmony, sustainability, local material production and decentralization in terms of its electrolyte materials,
+	     electrodes, packaging, carryability, use and manufacture.
            </p>
 
            </div>
@@ -922,13 +930,13 @@ modalText.innerHTML = `
            <h2> 09. Moggy robot cat</h2>
 
 	     <p>
-	       We will neither build robot dogs nor humanoid robots. The former because we don't want any association with dogs, and no humanoid robots 
+	       We will neither build robot dogs nor humanoid robots. The former because we don't want association with dogs, and no humanoid robots 
 	       because of three simple reasons :
 	     </p>
 
 	     <p style="margin-left:1em; margin-bottom:10px";> 
 	       <span>(a). </span> This will be needless idolatry which is also related to the question : How can one interact by talk and gestures with a humanoid thing
-	       knowing fully well that it is a machine. Though if human forms have to be recreated then build statues of great lovers like Romeo-Juliet and Laila-Majnu.
+	       knowing fully that it is a machine. Though if human forms have to be recreated then build statues of great lovers like Romeo-Juliet and Laila-Majnu.
 	     </p>
 
 	     <p style="margin-left:1em; margin-bottom:10px";> 
@@ -999,7 +1007,7 @@ modalText.innerHTML = `
 	     <p>
 	       This robot cat as a human transport mechanism for single humans is for the initial exploration of other worlds. When more humans begin to live, 
 	       say on the Moon, our Ra surface vehicle will be used to transport 20 humans at once in the vehicle's kosmos-use version. This vehicle is
-	       described in the "City redesign on Earth" topic in the "Our Iskra social system" chapter. In its kosmos-use version it will be built on a world like 
+	       described in the "City redesign on Earth" topic in the "Our social system - Iskra" chapter. In its kosmos-use version it will be built on a world like 
 	       the Moon and will never leave that world.
 	     </p>
 
@@ -1271,7 +1279,7 @@ modalText.innerHTML = `
              <span>(l).</span> All this construction has to be aesthetic. No need to discard aesthetics just because we are in the kosmos. 	     
 	     Form and function, both are important. The architecture should be harmonious, gentle, impose no oppressiveness, must inspire thinking 
 	     and must be a delight to the senses. The architecture must be a mix of the most beautiful and environment-sensitive architectures on Earth : 
-	     Rajasthani, Andalusian, Mughal, African, Russian and West Asian.
+	     Andalusian, Rajasthani, Mughal, African, Russian and West Asian.
            </p>
 
            <p>
@@ -1324,7 +1332,7 @@ modalText.innerHTML = `
 	     Imagine coming upon such an architectured city on Deimos, one of the two moons of Red One, or such a city on some rocky world beyond Pluto, 
 	     or in a deep crater on Mercury where the crater's bottom is shielded from the Sun... 
 	     of course in all three cases the city's features made relevant to the environment of those kosmik places. Our first built example 
-	     of such a city will be the Mirkeen-01 city on the Moon whose details you will find in the "Mirkeen-01..." topic in the "Our Iskra social system" chapter 
+	     of such a city will be the Mirkeen-01 city on the Moon whose details you will find in the "Mirkeen-01..." topic in the "Our social system - Iskra" chapter 
 	     on this website.
            </p>
 
@@ -1508,6 +1516,17 @@ modalText.innerHTML = `
                z-index: 1000;
             }
 
+	    .viddisp
+	   {
+              font-size: 18px;
+              color: #000;
+              font-weight: bold;
+              text-align: center;
+              margin-top: 20px;
+              margin-bottom: 10px;
+	      color: rgba(128,128,128,1);
+           }
+	    
 	    h2
 	    {
                font-family: 'Poppins', sans-serif;
@@ -1555,6 +1574,7 @@ modalText.innerHTML = `
               <a href="#mirkeen">&nbsp;&nbsp; 10. Mirkeen-01 city on the Moon</a>
               <a href="#aliens">&nbsp;&nbsp; 11. Meetings or sightings of aliens </a>
 	      <a href="#city">&nbsp;&nbsp; 12. City redesign on Earth</a>
+              <a href="#finalnotes">&nbsp;&nbsp; 13. Final notes on free market, money and profit</a>
             </div>
 
          </div>
@@ -1619,26 +1639,77 @@ modalText.innerHTML = `
              it is used in other progressive thought streams. Newly independent India in the late 1940s presents 
 	     a wonderful such example. The Indian Constitution's main archictect was the great liberator, BR Ambedkar, 
 	     and he produced a wonderfully progressive system for India and this included "Liberty, Equality, Fraternity" 
-	     being placed in the preamble ( short introduction ) to this constitution.
+	     being placed in the preamble ( introduction ) to this constitution.
            </p>
 
            <p>
-		 This constitution was mainly drafted during the late 1940s and before adoption at country level it was discussed in the in-development parliament 
-		 by progressives like Hasrat Mohani and Brajeshwar Prasad. These two chaps wanted India to be a progressive, humanist society.
+	     This constitution was mainly drafted during the late 1940s and before adoption at country level its content was discussed within the early parliament 
+	     building by both the progressives like Ambedkar, Hasrat Mohani and Brajeshwar Prasad and also by the anti-human type leaders who had been allowed into 
+	     this gathering by the non-thinking among the Indian masses, mainly the middle class.
+           </p>
+
+           <p>
+             The middle class called itself educated so the middle classees should have been the first to speak against the feudals, the profiteers, the usury peepz and 
+	     the peddlers of superstition so prevalent in their society... the middle classees should have spoken for their own socio-economic emancipation 
+	     ( the middle classees themselves lived in multi-generational poverty ) and they should have spoken for the emancipation of those poorer than themselves
+	     and they should have spoken for erasing class structure... and all these speakings and erasings would have made every Indian citizen equal 
+	     in some aspects of society.
+           </p>
+
+           <p>
+             But sadly this middle class was largely content with being apathetic wage slaves and ritualists in a religious sense and thus they didn't ever bother 
+	     to reject the feudalism, oppression, irrationalism and superstition in their society but they instead ardently participated in those including by 
+	     just standing by in a crowd and staring in a zombie manner at a road mishap victim who was blooded and struggling to live and trembling and could have
+	     been saved by being taken to safety in a vehicle but this staring crowd just watched the victim suffering so openly on that public road... and he died.
+           </p>
+
+           <p>
+	     What leaders then would have these apathetic people selected ? Certainly not philosophers like Bhagat Singh, Ambedkar and Shaukat Usmani. 
+           </p>
+
+           <p>
+	     So this early discussion in Delhi about the formation of the constitution had a mixed set of people : the progressives, the apathetics and the cruel.
+	   </p>
+
+           <p>
+	     If the progressives like Ambedkar were to have prevailed they would have concluded the Parliament where they sat to discuss, 
+	     this Parliament system itself is an illusion of democracy, as is the Party System including Multi-party System with its five-yearly elections and its resulting 
+	     chaotic drama resulting in a needlessly complicated structure of pompously named bureucrats who are there for power, for wealth, for demagoguery, 
+             for continuance of feudalism, capitalism, profiteering and priesthood and not for democracy, evolution and utopia for the masses.
+           </p>
+
+           <p>
+             In rejecting the Parliament system the natural alternative which the discussers would have applied would have been Socialism with its true implemention 
+	     including decentralized governance directly done by the masses ( aka Participatory Democracy aka Direct Democracy ) from neighborhood level to 
+	     country level. When the masses directly govern themselves through people's congresses and people's committees there is simply no need of parties, 
+	     traditional parliaments, elections and the complicated and pompous bureaucracy. A simple system, a simple life for all.
+	   </p>
+
+           <p>
+	     Any person who wants welfare of the masses, wants a rational way to about things and wants gentleness, serenity and harmony for himself or herself, 
+	     and for the rest of society and humanity, this person would have agreed to the above idea even if he or she was initially in favor of Party system and
+	     Election system.
+           </p>
+
+           <p>
+	     Please check the "Thanks" topic in the "Our company info" chapter from the homepage to watch a vid of Ambedkar saying some of the above 
+	     in a video interview with a BBC reporter in 1953.
+           </p>
+
+	   <p>
+	     Among the progressives who discussed in India's in-development constitution discussion gathering in the parliament building, 
+	     there were Hasrat Mohani and Brajeshwar Prasad who wanted India to be a progressive, humanist, Socialist society.
 	   </p>
 
 	   <p>
-	     Hasrat Mohani proposed to name India as UISR - Union of Indian Socialistic Republics, which derived from the name USSR, 
-	     the first modern Socialist society.
+             Hasrat proposed to name India as UISR - Union of Indian Socialistic Republics, which derived from the name USSR, the first modern Socialist society.
 	   </p>
 
 	   <p>
-	     Brajeshwar Prasad proposed the word "Socialist" to be included into 
-	     the preamble of the constitution to describe what the newly independent India must be. 
-	     He also said that "Liberty" and "Equality" do not go together unless that society becomes a class-less society. 
+	     Brajeshwar proposed the word "Socialist" to be included into the preamble of the constitution to describe what the newly independent India 
+	     must be. He also said that "Liberty" and "Equality" do not go together unless that society becomes a class-less society. 
 	     He also said that India, and by extension other countries, should not use "Sovereign" to describe themselves 
-	     because that word implies war and imperialism and these are of course against pan-human fraternity, 
-	     the third word in "Liberty, Equality, Fraternity".
+	     because that word implies war and imperialism and these are of course against pan-human fraternity, the third idea word in "Liberty, Equality, Fraternity".
 	   </p>
 
 	   <p>  
@@ -2030,8 +2101,8 @@ modalText.innerHTML = `
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-	     Most age-18 people and age-40 people will never be free from the diktats, feudalism and daily cruelty of their family elders. They will never have
-	     the right to choose the opposite gender person they like, the right to pursue the occupations they like, the right to help other humans, 
+	     Most age-18 people and age-40 people will never be free from the diktats, feudalism and daily cruelty of their family elders and the village elders. 
+	     They will never have the right to choose the opposite gender person they like, the right to pursue the occupations they like, the right to help other humans, 
 	     the right to take as much reasonable amount of food they like, the right to take food to their hungry neighbors, the right to give 20 dollars to a blind person
 	     begging on their road, the right to say that they don't want to engage in their family's multi-generation life-long wage slavery under feudals, 
 	     the right to not have their intestines removed by a gang of dogs on the chaos-filled road outside their house gate or the intestines removed in a mindless
@@ -2039,12 +2110,39 @@ modalText.innerHTML = `
 	     humanity to evolve from dog-eat-dog situation to utopia.
 	   </p>
 
+      <p style="margin-left:1em; margin-bottom:10px";> 
+	     The "age 18 is adulthood" theme is largely found in feudal societies 
+	     with toppings of democracy. In these societies especially women if they are below age 18, say "17 years, 11 months, 29 days, 23 hours, 59 seconds",
+	     they are denied their nature-given freedom in every reasonable thing including their natural right to be with a man by choice or to even 
+	     step out of their neighborhood... but even when they cross "adult age 18" and are say 30-years-old their family will still deny them their 
+	     nature-given rights and freedoms, and in some societies the "adult" woman will be murdered by her own family, sometimes with the assistance of 
+	     many of her village people with whom she may have spokenly nicely before. 
+	     Example of such barbarism [ https://www.bbc.com/news/world-south-asia-13294863 ].
+	   </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";> 
+	     Such societies also participate in the yearly genocide of youth who suicide because of the exam system in the so-called Education System. 
+	     So many youths are internally tortured every second because they are forced to write exams and be in schooling courses where they do not wish to and 
+	     they have great talents in other things and they do not wish to enslave themselves in life-long wage slavery like their parents did and they just want to 
+	     enjoy life. However, their idiotic and money-worshiping parents force them to suicide. The suiciding students will be below "adult age 18" and above, 
+	     and they suicide nonetheless, with no freedom from these impositions by becoming "age 18 adult".
+	   </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";> 
+	      However, if below-age-18 citizens engage from morning to night in religious ritualism, in competing against friends in school exams, 
+	      in not caring for other humans, in being thugs going about in mobs, in taking advise from astrologers on how to get 100 marks out of 100 in exams, 
+	      in doing stunts on scooters on busy roads, in feeding dogs in their neighborhood where the dogs then create noise, chaos, spread disgustingness and 
+	      tear apart humans and cats right on the roads where they the dogs are fed... and so on with other stupid stuff... these below-age-18 citizens will be 
+	      adored, will be the apple of their parents' eyes.
+	   </p>
+
            <p style="margin-left:1em; margin-bottom:10px";> 
-	     The age-18-and-beyond citizens will never have these rights in the so-called Democracies of now so this "Adult age 18" thing is nonsense.
+	     But in reasonable things, most age-18-and-above citizens in the so-called Democracies of now don't have true rights within their families, 
+	     let alone in wider society, so this "Adult age 18" thing is unnatural and nonsense.
 	   </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";>  
-	     Nature has no such hard "adult age" separation where a person aged "17 years, 11 months, 29 days, 23 hours, 59 seconds" is immature, 
+	     However, Nature has no such hard "adult age" separation where a person aged "17 years, 11 months, 29 days, 23 hours, 59 seconds" is immature, 
 	     does not have a sense of freedom, can be easily misled and cannot be trusted to know good of himself or herself, of their neighborhood, nation and 
 	     humanity, but when the clock moves forward just one second and the person turns 18, suddenly this person supposedly experiences an explosion 
 	     of genius and finally attains a sense of freedom, cannot be misled and can be trusted to know good of himself or herself, of the neighborhood, nation and 
@@ -2059,10 +2157,11 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";>
-	     This "Adult age 18" is an unnatural, nonsense invention by the feudals ruling Western countries... the age 18 chosen randomly to define "Voting age" 
-	     to give the masses of these societies a celebratory moment within the multi-generation illusion that they live in democracy because they can vote
-	     in elections, own personal cars and purchase houses but in truth their ideas and voices don't matter to the parties they have voted to power and
-	     they continue to live in wage slavery and other slavery that their previous ten generations at least had lived in their feudal setup.
+	     This "Adult age 18" concept is an unnatural, nonsense invention by the feudals ruling Western countries... the age 18 chosen randomly to define 
+	     "Voting age" to give the masses of these societies a celebratory moment within the multi-generation illusion that they live in democracy because 
+	     they can vote in elections, own personal cars and purchase houses but in truth their ideas and voices don't matter to the parties they have 
+	     voted to power and they continue to live in wage slavery and other slavery that their previous ten generations at least had lived in their feudal setup and 
+	     their house can become owned by some bank and they thrown out from where they lived for 30 years.
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -2080,7 +2179,7 @@ modalText.innerHTML = `
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-	     Another example for us to adopt naturality regarding age is of the Mughal emperor of India, Akbar. Five hundred years ago the Mughal prince 
+	     Another example for us to re-adopt naturality regarding age is of the Mughal emperor of India, Akbar. Five hundred years ago the Mughal prince 
 	     Jalaaluddeen Muhammad, who later became called Akbar ( "The Great One" ), became emperor of India at age 13 and he became a good administrator 
 	     in time because he was a sensible person inherently despite being from a feudal family, very unlike most other feudals in history. He did progressive things
 	     at younger ages that most other feudals never had the idea of doing at their 80 of age.
@@ -2332,32 +2431,47 @@ modalText.innerHTML = `
            </p>
 
            <p>
-	     And when thinking of how "work" should be without feudalism, we realize that the worker is a human with rights as an individual and 
-	     also that a human is a social animal who makes up the components of "society", therefore not only a human has individual rights 
-	     but also has a duty towards society and wider humanity.
+	     And when thinking of how "work" should be without feudalism, we realize that the worker is a human with rights as an individual 
+	     who must be given time and ease in doing any reasonable thing he or she wishes during the day, and also that a human is a social animal 
+	     who makes up the components of society. Therefore not only a human has individual rights but also has a duty towards society and wider humanity.
            </p>
 
            <p>
-	     A kosmonaut's day hours thus can be broadly divided as below :
+	     When a human lives in a liberating system where every reasonable material need, every reasonable occasional indulgence and every intellectual thing, 
+	     comes to a human without the compulsion to earn money to just survive day to day and month to month and still never be able to achieve 
+	     his or her reasonable wishes and reasonable material needs, this liberating system will take that human towards his or her potential and 
+	     play great part in taking his or her society and wider humanity towards utopia. This can simply be called part of Socialism.
            </p>
 
-           <p style="margin-left:1em; margin-bottom:10px";><span>(a).</span> Good sleep of about seven hours.</p>
+           <p>
+	     When discussing such liberated life for a kosmonaut including for his or her "work" we realize that a kosmonaut's day hours can be broadly divided 
+	     as below. Here "day" doesn't mean only the sunlight hours but the entire duration of a "day" on a specific world 
+	     ( like 24 hours on Earth ) or a locally decided day in the open kosmos ( can be 13 hours ) :
+           </p>
 
-           <p style="margin-left:1em; margin-bottom:10px";><span>(b).</span> Getting ready for work. </p>
+           <p style="margin-left:1em; margin-bottom:10px";><span>(a).</span> Good sleep of about six to seven hours as per location situation. </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";><span>(b).</span> Food and getting ready for work. </p>
 
            <p style="margin-left:1em; margin-bottom:10px";><span>(c).</span> Work in a work group as per need or as decided by a roster. </p>
 
-           <p style="margin-left:1em; margin-bottom:10px";><span>(d).</span> Maybe a sleep of two hours in the middle of working hours. </p>
+           <p style="margin-left:1em; margin-bottom:10px";><span>(d).</span> Food. </p>
 
-           <p style="margin-left:1em; margin-bottom:10px";><span>(e).</span> Resumption of work until end of work day. </p>
+           <p style="margin-left:1em; margin-bottom:10px";><span>(e).</span> Maybe a sleep of two hours in the middle of working hours. </p>
 
-           <p style="margin-left:1em; margin-bottom:10px";><span>(f).</span> Tea, discussion, ideation and experimenting time. </p>
+           <p style="margin-left:1em; margin-bottom:10px";><span>(f).</span> Resumption of work until end of work day. </p>
 
-           <p style="margin-left:1em; margin-bottom:10px";><span>(g).</span> Dinner. </p>
+           <p style="margin-left:1em; margin-bottom:10px";><span>(g).</span> Having tea in between whenever needed. </p>
+	   
+           <p style="margin-left:1em; margin-bottom:10px";><span>(h).</span> End of work day. </p>
 
-           <p style="margin-left:1em; margin-bottom:10px";><span>(h).</span> Internet / music listening time. </p>
+           <p style="margin-left:1em; margin-bottom:10px";><span>(i).</span> Tea, Me Time ( like shopping ), discussion, ideation and experimenting time. </p>
 
-           <p style="margin-left:1em; margin-bottom:10px";><span>(i).</span> Sleep. </p>
+           <p style="margin-left:1em; margin-bottom:10px";><span>(j).</span> Dinner including by own cooking. </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";><span>(k).</span> Internet / music listening time, Me Time. </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";><span>(l).</span> Sleep. </p>
 
            <p>
              Now to the topic of work groups. The organization of work groups in the kosmos should be democratic and that is easily done by 
@@ -2614,8 +2728,8 @@ modalText.innerHTML = `
            <p>
              The only ethnic wear for men which looks good is the cloak, head dress and face cover of men from the Imohag people of the Sahara desert, 
 	     aka the Tuareg people... this dress probably being the inspiration for the desert dress of the Fremen people in the Dune stories. 
-	     "Imohag" means "Free men" in the Tamasheq language of the Imohag people and maybe the Fremen people having "blue within blue" eyes 
-	     from intake of "spice" comes from two things :
+	     "Imohag" means "Free men" in the Tamasheq language of the Imohag people... same as "Fremen" in Dune and maybe the Fremen people having 
+	     "blue within blue" eyes from intake of "spice" comes from two things :
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -2701,6 +2815,10 @@ modalText.innerHTML = `
 	     <span> >> </span> Piercings though okay for nose and ears.
            </p>
 
+	   <p style="margin-left:1em; margin-bottom:10px";>
+	     <span> >> </span> Long nails including given shape by filing.
+           </p>
+
            <p> [ To be done ] </p>
 
            </div>           
@@ -2771,10 +2889,14 @@ modalText.innerHTML = `
 	     Four hundred audience members around the boxing ring... who have paid the ticket to be there, whose amount will be a substantial amount from 
 	     their monthly wage slavery salary... they sit in the boxing arena waiting eagerly for the barbarity called boxing to start, wear t-shirts and carry banners 
 	     of their artificially-made-favorite boxer... and cheer with mindless bloodlust for the two humans in the boxing ring beating each other to blooding, 
-	     exhaustion, injury, collapse, fainting and possible death. The boxer may carry permanent serious health degradation like with Muhammad Ali 
-	     who developed Parkinson's. Contradiction of this boxer carrying the name Muhammad, one of humankind's great philosophers and reformers who 
-	     would have found boxing to be obscene, to have all the reasons for existence as the barbaric Roman gladiator games 800 years before him and 
-	     who would have been saddened for what became of the boxer carrying his name.
+	     exhaustion, injury, collapse, fainting and possible death.
+           </p>
+
+           <p>
+             The boxer may carry permanent serious health degradation like with Muhammad Ali who developed Parkinson's. Contradiction of this boxer
+	     carrying the name Muhammad, one of humankind's great philosophers and reformers who would have found boxing to be obscene, 
+	     to have all the reasons for existence as the barbaric Roman gladiator games 800 years before him and who would have been saddened for what became 
+	     of the boxer carrying his name.
            </p>
 
            <p>
@@ -3430,8 +3552,8 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";> 
-	     Dogs are the opposite... aggressive, noisy having an irritating and headache-bringing sound, bring chaos, are mob-oriented, are ugly, are mindless killers, 
-	     violently compete with other dogs, have disgusting habits and carry harmful microbes.
+	     Dogs are the opposite... aggressive, noisy having the most irritating and headache-bringing sound, bring chaos, are mob-oriented, are ugly, 
+	     are mindless killers, violently compete with other dogs, have disgusting habits and carry harmful microbes.
 	   </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";> 
@@ -3449,7 +3571,7 @@ modalText.innerHTML = `
            <p style="margin-left:1em; margin-bottom:10px";>
              <span>(c).</span>
 	     The architecture of buildings, infrastructure and features must be a mix of the most beautiful and environment-sensitive architectures on Earth : 
-	     Rajasthani, Andalusian, Mughal, African, Russian and West Asian.
+	     Andalusian, Rajasthani, Mughal, African, Russian and West Asian.
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -3866,7 +3988,27 @@ modalText.innerHTML = `
 
       <p>[ To be done ] </p>
 
-      </div>   
+      </div>
+
+	   <div id="finalnotes" class="section">
+           <h2> 13. Final notes on free market, money and profit</h2>
+
+	   <p>
+	     This topic is started today, Christmas, the birthday of Isa ( Jesus / Yesu ), in the December of 2025 and the subjects of this topic are what 
+	     Isa thought against, spoke against and acted against two thousand twenty five years ago, yet we are having to write this topic because 
+	     those three evil things in the topic still prevail two thousand twenty five years later.
+	   </p>
+
+	   <p>
+	     "Free market" by its very name defines immorality, apathy, cruelty and the worship of Mammon i.e. money and wealth. "Anything goes, 
+	     even stupidity, genocide and destruction of our ecosystem, as long as profit comes" describes this irrational concept in simple words. 
+	     Please watch the Che Guevara speech vid linked in the "Thanks" topic in the "Our company info" chapter. This speech is from 1964, 
+	     done in the UN General Assembly where he includes this subject.
+	   </p>
+   
+           <p>[ To be done ] </p>
+
+           </div>
 
        </div>
 
@@ -3892,7 +4034,7 @@ modal.style.display = 'flex';
           navLinks.forEach(function(link) {
             link.addEventListener('click', function(e) {
               linksDiv.style.display = 'none';
-              toggleBtn.innerHTML = 'Iskra Social system - Show topics';
+              toggleBtn.innerHTML = 'Iskra social system - Show topics';
               // Prevent default anchor behavior
               e.preventDefault();
               // Get the target section
@@ -4080,7 +4222,7 @@ modalText.innerHTML = `
            margin-top: 20px;
            margin-bottom: 10px;
 	   color: rgba(128,128,128,1);
-       }
+        }
 
        @media (max-width: 768px) 
        {
@@ -4257,7 +4399,8 @@ modalText.innerHTML = `
 
            <p><span>&gt;&gt;</span> 
              Vikram for the logo, for the website design, for provoking the thought in us to have this Thanks topic and for reminding about water powered turbine 
-	     in a discussion which hours later led to the idea of turbines powered by compressed air.
+	     in a discussion which hours later led to the idea of turbines powered by compressed air. Thanks to him also for provoking the idea for 
+	     the topic against free market, money and profit which is in the "Our social system - Iskra" chapter.
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -4269,13 +4412,17 @@ modalText.innerHTML = `
            </p>
 
            <p><span>&gt;&gt;</span> 
-             YouTube in general.
+             YouTube and Wikipedia in general.
 	   </p>  
 
            <p><span>&gt;&gt;</span> 
              Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, 
 	     made using an electro-magnetic relay. This vid called "1026 The easiest inverter you will ever make" is on this page 
 	     [ https://www.youtube.com/watch?v=L-vC9SvU2Lo ]. This we use in our design of the Faradn generator.
+           </p>
+
+           <p><span>&gt;&gt;</span> 
+             https://en.wikipedia.org/wiki/Bellows
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -4320,7 +4467,7 @@ modalText.innerHTML = `
            </p>
 
            <p><span>&gt;&gt;</span> 
-	     BR Ambedkar among other things, for saying in a 1953 BBC TV interview that the so-called Democratic Process of five-yearly elections participated 
+	     BR Ambedkar among other things, for saying in a 1953 BBC vid interview that the so-called Democratic Process of five-yearly elections participated 
 	     by multiple political parties and producing a stream of pompously titled bureaucrats, is not actual democracy and will never produce a society 
 	     which brings proper food and other reasonable material needs to the masses and will never change society from feudalism to true democracy 
 	     but that change can be brought by Socialism. This rejection of the fake-democratic process of elections and stuff has been stated later by 
@@ -4364,7 +4511,7 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p><p><span>&gt;&gt;</span> 
-	     If you respect the natural laws including the ones we present in the "Our techno systems" chapter and "Our Iskra social system" chapter.
+	     If you respect the natural laws including the ones we present in the "Our techno systems" chapter and "Our social system - Iskra" chapter.
 	   </p>
 
 	   <p><p><span>&gt;&gt;</span> 
@@ -4410,7 +4557,7 @@ modalText.innerHTML = `
 
 	   <p><p><span>&gt;&gt;</span> 
 	     Our company is structured as a Workers Cooperative where you will be an equal co-owner of the company and 
-	     not an oppressed subordinate to some feudal boss. Please read the "Social organization of kosmonauts" topic in the "Our Iskra social system" chapter and 
+	     not an oppressed subordinate to some feudal boss. Please read the "Social organization of kosmonauts" topic in the "Our social system - Iskra" chapter and 
 	     return to this point. That topic describes the Workers Cooperative concept.
 	   </p>
 
@@ -4478,7 +4625,7 @@ modalText.innerHTML = `
 	   </p>
 
            <p>
-	     About how our client governments will recoup our one million dollar license fee, it is given in the "Our Iskra social system" chapter, 
+	     About how our client governments will recoup our one million dollar license fee, it is given in the "Our social system - Iskra" chapter, 
 	     topic "Social organization of kosmonauts", section (r).
 	   </p>
 
@@ -4582,3 +4729,5 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
+
