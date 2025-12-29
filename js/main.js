@@ -2405,6 +2405,8 @@ modalText.innerHTML = `
 	     This question is addressed in the next topic in the second last point there.
 	   </p>
 
+           <p> [ To be done ] </p>
+
           </div>
 
            <div id="organization" class="section">
@@ -4001,12 +4003,121 @@ modalText.innerHTML = `
 
 	   <p>
 	     "Free market" by its very name defines immorality, apathy, cruelty and the worship of Mammon i.e. money and wealth. "Anything goes, 
-	     even stupidity, genocide and destruction of our ecosystem, as long as profit comes" describes this irrational concept in simple words. 
+	     even stupidity, genocide and destruction of our environment, as long as profit comes" describes this irrational concept in simple words. 
 	     Please watch the Che Guevara speech vid linked in the "Thanks" topic in the "Our company info" chapter. This speech is from 1964, 
 	     done in the UN General Assembly where he includes this subject.
 	   </p>
-   
-           <p>[ To be done ] </p>
+
+	   <p>
+	     About money, it is usally owned by the evil and the voluntary slaves... the evil owning most money and keeping the voluntary slaves on 
+	     a bare survival wage. The remainder of the masses are the poor and oppressed. In feudal societies the language itself is a means of attacking the poor and 
+	     the oppressed. Example, in India the Hindi words "Abay bhikaari, chal phutth" meaning "You bloody beggar, get lost" have been normalized including in 
+	     TV comedy programs and is used casually even by the middle classees who themselves are poor and they use it not just for those lower class than them 
+	     but also among their own middle classees as insult to friends or by middle class parents against a son who is not earning money and is asking his parents
+	     ten rupees to drink a glass of tea outside because he wasn't given food in his house and didn't have the money to purchase food outside 
+	     so is dizzy with hunger.
+	   </p>
+
+	   <p>
+	     Such cruel parents are inherently racist and they themselves may be of dark skin but they will use racist slurs to demean someone poor, 
+	     including their non-money-earning son. Taunts like "A domestic servant will be fair skinned than this useless beggar". Other taunts by mothers like 
+	     "If we strip him of his clothes and beat him, we won't find a single rupee".
+	   </p>
+
+	   <p>
+	     In societies with mothers like these, parents like these, humans with humanity are hard to come by, because the poor and the oppressed 
+	     are dying silently in some drain somewhere, having been thrown there by their families... or the poor are dying of hunger on the very visible footpaths 
+	     with middle classees passing by in their cars and their urgent walks to their wage slavery employment places owned by feudals.
+	   </p>
+
+	   <p>
+	     Some of these societies will have wonderful constitution books written by gentle, humanist, progressive people who themselves were long oppressed 
+	     or had empathy to be aware of oppression of others. But such societies will be most far away from their own wonderful constitution book and its writers.
+	   </p>
+
+	   <p>
+	     The traditions of such a society allows cruel parents to throw out their poor children out of the house onto the roads and just shut the door and 
+	     forget they ever had this child. And this child will wander for two days, three days, on the roads, hungry and his chaotic society will enable
+	     some mishap to happen to him and he is killed and forgotten.
+	   </p>
+
+	   <p>
+	     A house is a basic human right of every human with nobody else controlling his or her access and right to the house, and this may be ordained 
+	     in the constitution book but such societies traditionally make house to be feudally owned by the family elders including if these elders are the ones 
+	     to do wage slavery and bring money to the house. The children become slaves of these family elders and if a child does not himself earn money 
+	     or drops out of school or college, where these places in these societies are not for education but to create generations of wage slaves in service 
+	     of the feudals, these cruel family elders can casually oppress such non-money-earning children and they are anti-democratically called "Head of family"
+	     who can form a mob with the money-respecting and slave'ish family members and murder their non-earning child inside the house and 
+	     then go about their business and sadly a large part of the society will adore them more.
+	   </p>
+
+	   <p>
+	     A poor, hungry person may be walking disoriented in tattered clothes on the roads in search of a fallen piece of bread and a glass of water, in a city 
+	     of a million people, and he will be set upon by a mob of filled-stomach middle classees who will accuse him of being a thief and they will shout at him 
+	     "thief, thief, thief" from all sides despite his semi-conscious hunger state and if he tries to escape, the middle classee mob will chase him and lynch him.
+	     The road dogs fed grandly by these middle classees will also participate in the poor man's lynching by removing his intestines and tearing his face.
+	   </p>
+
+	   <p>
+             The mob lynchers will first use their mobile phones to take selfies with the poor, hungry person and then start lynching him. 
+	     Some cases like this from Kerala state in India, not from one thousand years ago but about nine years ago 
+	     [ https://www.thenewsminute.com/voices/madhu-s-death-has-shaken-kerala-it-s-also-warning-not-take-stairway-hell-77048 ].
+	   </p>
+
+	   <p>
+	     The profiteers will celebrate such tragedies, atrocities and zombie behavior because they will get to sell to the large group of mob lynchers 
+	     the mobile phones to selfie the victim before he is lynched, the rods to beat up victim, the knifes to cut him up, the ropes to hang him and 
+	     other such stuff.
+	   </p>
+
+	   <p>
+	     Such societies will be the most fakely pious and religious societies in human history, with the middle classees especially doing prayers and rituals all day 
+	     to earn divine points and earn their place in heaven years later... but their daily anti-human nature and casual cruelty, deepened by love for money and 
+	     a zombie hate for the poor and the oppressed, these people create hell in their societies in the now. They construct grand prayer houses for the god 
+	     they cannot see, but they ignore the poor, oppressed, hungry and homeless whom they can see clearly on the footpaths around the prayer houses 
+	     but they choose to walk away quickly, in irritation, with fingers holding their nose to prevent the stench of the poor and the hungry from 
+	     reaching their "clean" nose which has just been purified within the prayer house... with maybe two or three of these "pious" dropping a few coins 
+	     into the hungry people's begging plate, but from a safe distance to not be contaminated by the "dirty poor".
+	   </p>
+
+	   <p>
+	     Required here are some sayings by the Socialist hero, Fidel Castro, who did more for humanity in a few years than a thousand typical IT CEOs 
+	     from Bangalore, Boston and Beijing did collectively in their entire "education" and corporate life of 70 years. These are Fidel's words :
+	   </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";>
+	     "Capitalism has no moral and ethical values : all sold. It is impossible in such circumstances to properly educate the people 
+	     who become selfish and sometimes even bandits."
+	   </p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";>
+	     "Capitalism has been unable to create a rational society. It creates a society full of contradictions and absurdities, 
+	     full of paradoxes. It has created a society which depletes everything, natural resources but especially human resources, 
+	     a society that alienates everything."
+	   <p>
+
+	   <p style="margin-left:1em; margin-bottom:10px";>
+	     "The reality of the world, it seems, was intended to sow selfishness, individualism and dehumanization of man."
+	   </p>
+
+	   <p>
+	     But, Nature always turns to become the gentle side, the good side... the wrong humans will cease to be zombies and they will rediscover humanity and 
+	     the meek will inherit the Earth and the Kosmos.
+	   </p>
+
+	   <p>
+             Appropriate here is the Hindi song "Woh subah kabhi toh aagyegi" ( "That free dawn will come one day" ) from the 1958 Hindi film Phir Subha Hogi. 
+	     The 1930s, 40s, 50s and 60s were the greatest era of Hindi cinema with their social reality themes and thus were admired in the USSR. 
+	     The songs for this film, Phir Subha Hogi, were written by Sahir Ludhianvi, pen name of Abdul Hayee who was a Socialist from India. 
+	     This is link to the song "Woh subah kabhi toh aayegi" [ https://www.youtube.com/watch?v=F5DlwZZuNQY ].
+	   </p>
+
+           <p>
+	     Our company's logo has a cat in front of a planet. The cat is an animal which is cheerful, playful, gentle, free, loving, loyalest, 
+	     sensitive, curious, of extreme intelligence, "happy go lucky" type, brings good vibes to any place he or she is safe in and the cat is so many other
+	     good things. We in Kosmos Society are also like cats and we want all humans to become like cats throughout the kosmos. Fremen / FreeMen as written 
+	     in the Dune story. Woh subah kabhi toh aayegi.
+	   </p>
 
            </div>
 
@@ -4486,6 +4597,14 @@ modalText.innerHTML = `
 
            <p><span>&gt;&gt;</span> 
              The website "Go Physics" for this collection of Yuri Gagarin's quotes [ https://thegophysics.com/yuri-gagarin-quotes/ ]
+           </p>
+
+           <p><span>&gt;&gt;</span>
+             The website [ https://en.4lit.net ] for sayings by Fidel Castro at this page [ https://en.4lit.net/citaty/people/1088/fidel_castro?page=2 ].
+           </p>
+
+           <p><span>&gt;&gt;</span>
+             The website [ https://www.idcommunism.com ] for sayings by Fidel Castro at this page [ https://www.idcommunism.com/2018/08/remembering-fidel-castro-ruz-quotes-on-capitalism.html ].
            </p>
 
            <p><span>&gt;&gt;</span>
