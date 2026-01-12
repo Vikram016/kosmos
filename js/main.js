@@ -216,9 +216,9 @@ modalText.innerHTML = `
            </p>
 
            <p><span>&gt;&gt;</span> 
-	     Our electrical machines support the idea that most electrical devices can run on DC current and should run on DC current and that too lower voltage DC and 
-	     there are few machines which require high DC current and still fewer devices that operate with AC. Example of these fewer AC devices is 
-	     a step-up transformer which produces AC which must be converted to DC i.e. "rectified".
+	     Our electrical machines support the idea that most electrical machines can run on DC current and should run on DC current and that too 
+	     lower voltage DC and there are few machines which require high DC current and still fewer devices that operate with AC. Example of these 
+	     fewer AC devices is a step-up transformer which produces AC which must be converted to DC i.e. "rectified".
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -296,7 +296,7 @@ modalText.innerHTML = `
 	   </p>
 
            <p style='margin-left:2em;margin-bottom:10px;'><span>(f).</span> 
-	     Humanism : Not using the Capitalist and profiteering word "Payload" to describe what simply can be called "Cargo".
+	     Humanism : Not using the Capitalist and profiteering word "Payload" to describe what can be simply called "Cargo".
 	   </p>
 
            </div>
@@ -355,9 +355,10 @@ modalText.innerHTML = `
 
            <p>
              We are presently ideating on this generator's simple idea : Two simple bellows filled with normal air, automatically squeezed and 
-	     then refilled with air in alternating pulses like a human heart, releasing two pressurized air flows which turn small, lightweight turbines which
-	     are connected to small dynamos which in turn produce low current. This low current will be amplified, smoothened and outputted as 24 volts DC. 
-	     This will be done in a closed loop to enable a self-sustaining electricity generation system.
+	     then refilled with air in alternating pulses like a human heart, releasing two pressurized air flows which are combined in a single outlet nozzle, 
+	     from where the air turns a small, lightweight turbine which is connected to two small dynamos which in turn produce a low current. 
+	     This low current will be amplified, smoothened and outputted as 24 volts DC. This will be done in a closed loop to enable a self-sustaining 
+	     electricity generation system.
            </p>
 
            <p>
@@ -376,7 +377,7 @@ modalText.innerHTML = `
 
            <p>
              Bio-batteries based on botanical plants and plant materials can be used to provide the starting electricity or indoors electricity in some situations, 
-	     like production or repair workshop in a kosmos ship or an Earthern neighborhood including to produce or refurbish our Faradn generator. 
+	     like production or repair workshop in a kosmos ship or in a Earthern neighborhood including to produce or refurbish our Faradn generator. 
 	     Also possible is some emergency situation where Faradn generator isn't somehow available or has failed. Such bio-batteries allows 
 	     ease, bio safety, eco-friendliness, social harmony, sustainability, local material production and decentralization in terms of its electrolyte materials,
 	     electrodes, packaging, carryability, use and manufacture.
@@ -894,6 +895,10 @@ modalText.innerHTML = `
              wearable computer. This will allow autonomous, compact-sized intelligent computation to be
              carried out within machines or without the complete need of humans like in places where humans cannot 
              go or are too far away. The only artificial intelligence system we will trust is the one we will design.
+           </p>
+
+	   <p>
+             <span> >> </span> Human composting.
            </p>
 
            <p>
@@ -1610,6 +1615,10 @@ modalText.innerHTML = `
            </p>
 
            <p>
+	     The techno-social evolution of humanity requires simplification, serenity and harmony and we present the ways to bring these.
+           </p>
+
+           <p>
              This draft social system is substantial and we will further it by discussions in progressive forums like World Social Forum and 
              join it with others' drafts for this purpose. Some points below are "To be done".
            </p>
@@ -1622,7 +1631,7 @@ modalText.innerHTML = `
            <p>
              The Kosmos / Universe has existed forever, much before some modern human scientists and academics foolishly
              affixed an age to it on the basis of needless mathematics i.e. the Big Bang Theory and now
-             there are two Big Bang theories. Kosmos has existed before human nations existed on Earth,
+             there are two Big Bang theories. Kosmos has existed before human nations existed on Earth... 
              before Earth itself existed.
 	   </p>
 
@@ -1719,7 +1728,7 @@ modalText.innerHTML = `
            <p>
              But this slogan of "Liberty, Equality, Fraternity" was produced much earlier in the struggle of the French masses in the late 1700s 
              against the feudal dominance of the French kings and queens where the kings considered themselves
-             appointed to eternal kinghood by God, by the God of Jesus Christ they claimed, but this is contradiction as Jesus / Isa was one of the 
+             appointed to eternal kinghood by God, by the God of Jesus Christ they claimed, but this is contradiction as Jesus / Esa was one of the 
              greatest rebels, liberators and social reformers of history whose idea of God was not the oppressor which these kings of France were.
 	   </p>
 
@@ -1775,9 +1784,9 @@ modalText.innerHTML = `
 	     As is usual with priests, the French priests declared that to be poor automatically meant the person is bad and he or she was condemned by God 
 	     to remain poor because of their inherent "badness" and that the French king was massively rich to easily afford multiple diamond necklaces because 
 	     God ordained the king to be rich because the king was without blame. This promoted belief was ridiculously contradictory to the realizations and 
-             teachings of Isa / Christ but his ideas had been hijacked by priests who did oppression in his name.
+             teachings of Esa / Jesus but his ideas had been hijacked by priests who did oppression in his name.
            </p>
-            
+
            <p>
              So it became that these anti-Nature and anti-human social inequalities and oppressions in Royal France were discussed by the intellectuals and 
              the other passionate of France and they discussed the overturning of their inherited social situation.
@@ -1827,7 +1836,7 @@ modalText.innerHTML = `
            <p>
              But the humanist concept of Republic from revolutionary France became distorted 
              in the next two centuries and the pan-humanist evocative song "The Internationale" sadly was 
-             made forgotten so now in 2025 the ideas of "Natural liberty, equality and fraternity among all humans"
+             made forgotten so now in 2026 the ideas of "Natural liberty, equality and fraternity among all humans"
              has largely and sadly been replaced with "Unnatural class divisions and border divisions among humans 
              who are divided into kingdom-like nations and the hatreds between nations enforced by needless, forever wars".
            </p>
@@ -1889,7 +1898,7 @@ modalText.innerHTML = `
            <p>
              Rabindranath Tagore further says in that 1917 essay that societies try to unite their citizens into one idea 
              but he says that unless their internal oppressive contradictions and oppressive social customs are addressed and resolved, 
-             the societies will not unite and humanity in general will not unite. Tagore spoke of this in 1917 yet now in 2025, 
+             the societies will not unite and humanity in general will not unite. Tagore spoke of this in 1917 yet now in 2026, 
              more than a century after his essay, most societies on Earth continue go counter to Tagore's 
              appeal to reason and to pan-human liberty, equality and fraternity.
            </p>
@@ -2187,10 +2196,10 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";> 
 	     For example at age 20 he married a Hindu Rajput princess now popularly called Jodha Bai. And Jodha Bai after becoming Akbar's wife, 
-	     was renamed as "Mariyam uz Zamaani" which meant "Mary of Our Times"... Mary / Mariyam being the mother of Isa / Jesus. 
+	     was renamed as "Mariyam uz Zamaani" which meant "Mary of Our Times"... Mary / Mariyam being the mother of Jesus / Esa. 
 	     Akbar, through this marriage alliance, brought some harmony to the constant wars situation within then India by creating family bond between 
 	     the Muslim-dominated empire of Akbar and the Hindu Rajput kingdoms dominating much of the north of India. And also through the name 
-	     "Mariyam uz Zamaani" a nod to the non-tribalist teachings of Isa / Jesus to bridge India more culturally to the rest of the known world. 
+	     "Mariyam uz Zamaani" a nod to the non-tribalist teachings of Esa / Jesus to bridge India more culturally to the rest of the known world. 
 	     How many feudals in the world who were 80 of age could think of such an alliance ?
 	   </p>
 
@@ -2352,7 +2361,7 @@ modalText.innerHTML = `
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-	     Isa spoke against this 2025 years ago, so now in 2025 AD any person who claims to believe in Democracy should not demand tax and those who do 
+	     Esa spoke against this 2026 years ago, so now in 2026 AD any person who claims to believe in Democracy should not demand tax and those who do 
 	     must reflect. Let us not take tax and other forms of feudalism to the kosmos and bring disharmony there. Can the tax-loving person convince the 
 	     mighty Sun to allow tax system in the Solar System ?
            </p>
@@ -2728,7 +2737,7 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             The only ethnic wear for men which looks good is the cloak, head dress and face cover of men from the Imohag people of the Sahara desert, 
+             The only ethnic wear for men which as a whole looks good is the cloak, head dress and face cover of men from the Imohag people of the Sahara desert, 
 	     aka the Tuareg people... this dress probably being the inspiration for the desert dress of the Fremen people in the Dune stories. 
 	     "Imohag" means "Free men" in the Tamasheq language of the Imohag people... same as "Fremen" in Dune and maybe the Fremen people having 
 	     "blue within blue" eyes from intake of "spice" comes from two things :
@@ -2793,7 +2802,7 @@ modalText.innerHTML = `
            </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";>
-	     <span> >> </span> Heel shoes.
+	     <span> >> </span> Heel shoes. Who decided that the cringey walk in heels is desirable ???
            </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";>
@@ -2823,7 +2832,7 @@ modalText.innerHTML = `
 
            <p> [ To be done ] </p>
 
-           </div>           
+           </div>
 
            <div id="sports" class="section">
            <h2> 07. Sports and recreation in the kosmos</h2>
@@ -2838,8 +2847,8 @@ modalText.innerHTML = `
 
            <p>
 	     For two millenia at least, some sports have been presented as "Manly" but are anything but manly. Examples are boxing, wrestling and 
-	     the gladiator sports of the Roman empire of 2000 years ago. The gladiator sports continued until the gentleness, rationality and empathy of Isa 
-	     removed this barbarity from Rome, but unfortunately the Roman interpretation of Isa's teachings replaced gladiator games with priests and 
+	     the gladiator sports of the Roman empire of 2000 years ago. The gladiator sports continued until the gentleness, rationality and empathy of Esa 
+	     removed this barbarity from Rome, but unfortunately the Roman interpretation of Esa's teachings replaced gladiator games with priests and 
 	     profiteers but this is another story whose similar nature in France we discussed in the second topic in this chapter.
            </p>
 
@@ -3104,13 +3113,13 @@ modalText.innerHTML = `
 
            <p>
              What college degree system Fatima started more than 1100 years ago in Africa has now led to multi-generation misery and 
-             oppressions in most places across Earth now in 2025 for billions of people.
+             oppressions in most places across Earth now in 2026 for billions of people.
 	   </p>
 
            <p>
 	     This act of Fatima is the single wrong thing in the more than thousand year period of the Islamic Golden Age which 
 	     was a period which not only created great philosophies and technologies but also forwarded past brilliant knowledges from the Greeks, 
-	     the Egyptians, the West Asians, Buddha, Isa and the Chinese, and forwarded the good things by its contemporary Indians. 
+	     the Egyptians, the West Asians, Buddha, Esa and the Chinese, and forwarded the good things by its contemporary Indians. 
 	     This period of great creativity was the direct influence on the establishment of the Enlightenment period in Europe and its consequent 
 	     Industrial Revolution whose benefits we use now. But that single act of Fatima of adding competition to education more than a thousand years ago 
 	     has created such tragedies now.
@@ -3761,7 +3770,7 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";> 
              <span>(j).</span> 
-	     Gentleness in cities also from removing public prayer houses. Belief in God is a personal aspect in the believers and the public veneration 
+	     Gentleness in cities also from not having public prayer houses. Belief in God is a personal aspect in the believers and the public veneration 
 	     of God especially in public places has only led to avoidable conflict, oppression, imposition, noise, superstition and disharmony. If anyone chooses to 
 	     believe in God and make prayer, he or she must do this in the personal space of their houses and that too in a silent manner and without imposing 
 	     his or her personal belief on any other human.
@@ -3932,7 +3941,7 @@ modalText.innerHTML = `
 	    the nutritious originally animal products like given in the "Biology researches" topic in the "Our techno systems" chapter. These techno-social 
 	    food productions must be done in decentralized, neighborhood-level indoor farms which have localized water generation as much as possible 
 	    as well as take water from scientifically built canals and the workers do collaborative and collectivist farming. 
-	    There is no need for anyone to die of hunger now in 2025 AD.
+	    There is no need for anyone to die of hunger now in 2026 AD.
           </p>
 
 	  <p>
@@ -3996,9 +4005,9 @@ modalText.innerHTML = `
            <h2> 13. Final notes on free market, money and profit</h2>
 
 	   <p>
-	     This topic is started today, Christmas, the birthday of Isa ( Jesus / Yesu ), in the December of 2025 and the subjects of this topic are what 
-	     Isa thought against, spoke against and acted against two thousand twenty five years ago, yet we are having to write this topic because 
-	     those three evil things in the topic still prevail two thousand twenty five years later.
+	     This topic is started today, Christmas, the birthday of Esa ( Jesus ), in the December of 2025 and the subjects of this topic are what 
+	     Esa thought against, spoke against and acted against two thousand twenty five years ago, yet we are having to write this topic because 
+	     such evil things still prevail two thousand twenty five years later.
 	   </p>
 
 	   <p>
@@ -4010,12 +4019,15 @@ modalText.innerHTML = `
 
 	   <p>
 	     About money, it is usally owned by the evil and the voluntary slaves... the evil owning most money and keeping the voluntary slaves on 
-	     a bare survival wage. The remainder of the masses are the poor and oppressed. In feudal societies the language itself is a means of attacking the poor and 
-	     the oppressed. Example, in India the Hindi words "Abay bhikaari, chal phutth" meaning "You bloody beggar, get lost" have been normalized including in 
-	     TV comedy programs and is used casually even by the middle classees who themselves are poor and they use it not just for those lower class than them 
-	     but also among their own middle classees as insult to friends or by middle class parents against a son who is not earning money and is asking his parents
-	     ten rupees to drink a glass of tea outside because he wasn't given food in his house and didn't have the money to purchase food outside 
-	     so is dizzy with hunger.
+	     a bare survival wage. The remainder of the masses are the poor and oppressed.
+	   </p>
+
+	   <p>
+	     In feudal societies the language itself is a means of attacking the poor and the oppressed. Example, in India the Hindi words "Abay bhikaari, chal phutth"
+	     meaning "You bloody beggar, get lost" have been normalized including in TV comedy programs and is used casually even by the middle classees 
+	     who themselves are poor but they use it not just for those lower class than them but also among their own middle classees as insult to friends or 
+	     by middle class parents against a son who is not earning money and is asking his parents ten rupees to drink a glass of tea outside because 
+	     he wasn't given food in his house and didn't have the money to purchase food outside so is dizzy with hunger.
 	   </p>
 
 	   <p>
@@ -4044,11 +4056,21 @@ modalText.innerHTML = `
 	   <p>
 	     A house is a basic human right of every human with nobody else controlling his or her access and right to the house, and this may be ordained 
 	     in the constitution book but such societies traditionally make house to be feudally owned by the family elders including if these elders are the ones 
-	     to do wage slavery and bring money to the house. The children become slaves of these family elders and if a child does not himself earn money 
-	     or drops out of school or college, where these places in these societies are not for education but to create generations of wage slaves in service 
-	     of the feudals, these cruel family elders can casually oppress such non-money-earning children and they are anti-democratically called "Head of family"
+	     to do wage slavery and bring money to the house.
+	   </p>
+
+	   <p>
+             The children are made to become slaves of these family elders and if a child does not himself earn money or drops out of school or college, 
+	     where these places in these societies are not for education but to create generations of wage slaves in service of the feudals, 
+	     these cruel family elders can casually oppress such non-money-earning children and they are anti-democratically called "Head of family"
 	     who can form a mob with the money-respecting and slave'ish family members and murder their non-earning child inside the house and 
 	     then go about their business and sadly a large part of the society will adore them more.
+	   </p>
+
+	   <p>
+	     In such societies the children are expected to fall at the feet of their cruel, oppressive family elders every morning who may one hour later 
+	     just decide to murder their child, and perhaps the culture expects the being-murdered child to shout adoration for these family elders 
+	     one last time before the elders finally kill him. LOL.
 	   </p>
 
 	   <p>
@@ -4059,30 +4081,36 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p>
-             The mob lynchers will first use their mobile phones to take selfies with the poor, hungry person and then start lynching him. 
-	     Some cases like this from Kerala state in India, not from one thousand years ago but about nine years ago 
-	     [ https://www.thenewsminute.com/voices/madhu-s-death-has-shaken-kerala-it-s-also-warning-not-take-stairway-hell-77048 ].
+             The mob lynchers will first use their mobile phones to take selfies with the poor, hungry person and then start lynching him.
 	   </p>
 
 	   <p>
 	     The profiteers will celebrate such tragedies, atrocities and zombie behavior because they will get to sell to the large group of mob lynchers 
-	     the mobile phones to selfie the victim before he is lynched, the rods to beat up victim, the knifes to cut him up, the ropes to hang him and 
-	     other such stuff.
+	     the mobile phones to take selfies with the victim before he is lynched, and the profiteers will sell the rods to beat up the victim, the knifes to cut him up,
+	     the ropes to hang him and other such stuff.
 	   </p>
 
 	   <p>
 	     Such societies will be the most fakely pious and religious societies in human history, with the middle classees especially doing prayers and rituals all day 
 	     to earn divine points and earn their place in heaven years later... but their daily anti-human nature and casual cruelty, deepened by love for money and 
-	     a zombie hate for the poor and the oppressed, these people create hell in their societies in the now. They construct grand prayer houses for the god 
-	     they cannot see, but they ignore the poor, oppressed, hungry and homeless whom they can see clearly on the footpaths around the prayer houses 
-	     but they choose to walk away quickly, in irritation, with fingers holding their nose to prevent the stench of the poor and the hungry from 
-	     reaching their "clean" nose which has just been purified within the prayer house... with maybe two or three of these "pious" dropping a few coins 
-	     into the hungry people's begging plate, but from a safe distance to not be contaminated by the "dirty poor".
+	     an unreasonable zombie hate for the poor and the oppressed, these people create hell in their societies in the now.
+	   </p>
+
+	   <p>
+	     They construct grand prayer houses for the god they hope to see and hear one day, but they ignore the poor, oppressed, hungry and homeless humans 
+	     whom they can see and hear clearly on the footpaths around the prayer houses but they choose to walk away quickly, in irritation, 
+	     with fingers holding their nose to prevent the stench of the poor and the hungry from reaching their "clean" nose which has just been purified within 
+	     the prayer house... with maybe two or three of these "pious" people dropping a few coins into the hungry people's begging plate, 
+	     but from a safe height to not be contaminated by the "dirty poor".
+	   </p>
+
+	   <p>
+	     How do these pious believers reconcile their casual cruelty with their claims of superior morality ???
 	   </p>
 
 	   <p>
 	     Required here are some sayings by the Socialist hero, Fidel Castro, who did more for humanity in a few years than a thousand typical IT CEOs 
-	     from Bangalore, Boston and Beijing did collectively in their entire "education" and corporate life of 70 years. These are Fidel's words :
+	     from Boston, Bangalore and Beijing did collectively in their entire "education" and corporate life of 70 years. These are Fidel's words :
 	   </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";>
@@ -4114,9 +4142,9 @@ modalText.innerHTML = `
 
            <p>
 	     Our company's logo has a cat in front of a planet. The cat is an animal which is cheerful, playful, gentle, free, loving, loyalest, 
-	     sensitive, curious, of extreme intelligence, "happy go lucky" type, brings good vibes to any place he or she is safe in and the cat is so many other
-	     good things. We in Kosmos Society are also like cats and we want all humans to become like cats throughout the kosmos. Fremen / FreeMen as written 
-	     in the Dune story. Woh subah kabhi toh aayegi.
+	     sensitive, curious, of extreme intelligence, of natural behavior, of "happy go lucky" type, brings good vibes to any place he or she is safe in and 
+	     the cat is so many other good things. We in Kosmos Society are also like cats and we want all humans to become like cats throughout the kosmos. 
+	     Fremen / FreeMen as written in the Dune story. Woh subah kabhi toh aayegi.
 	   </p>
 
            </div>
@@ -4397,9 +4425,10 @@ modalText.innerHTML = `
 	      <a href="#joinus">&nbsp;&nbsp; 03. You can join us if... </a>
 	      <a href="#weoffer">&nbsp;&nbsp; 04. We offer you as a worker what no other company offers </a>
 	      <a href="#bmodel">&nbsp;&nbsp; 05. Our simple business model </a>
-       	      <a href="#demo">&nbsp;&nbsp; 06. First demo of our Alef-A kosmos ship </a>
-              <a href="#news">&nbsp;&nbsp; 07. News </a>
-	      <a href="#contact">&nbsp;&nbsp; 08. Contact info </a>
+	      <a href="#socifund">&nbsp;&nbsp; 06. Our social fund </a>
+       	      <a href="#demo">&nbsp;&nbsp; 07. First demo of our Alef-A kosmos ship </a>
+              <a href="#news">&nbsp;&nbsp; 08. News </a>
+	      <a href="#contact">&nbsp;&nbsp; 09. Contact info </a>
             </div>
 
          </div>
@@ -4419,8 +4448,8 @@ modalText.innerHTML = `
 
        <p style="margin-bottom:4px;">
          Sameer started with computer science but he now is a general researcher with interests ranging from 
-         generation of electricity to organization of society, like those general researchers of old like Hasan Ibn al-Haytham, Leonardo da Vinci and 
-         Jagadish Chandra Bose.
+         generation of electricity to organization of society, like those general researchers of old like Hasan Ibn al-Haytham ( known as Alhazen to Europe ), 
+	 Leonardo da Vinci and Jagadish Chandra Bose.
        </p>    
 
        <p class=name> Prof. Dr. Gajendran Chandran - Chief Advisor </p>
@@ -4608,6 +4637,10 @@ modalText.innerHTML = `
            </p>
 
            <p><span>&gt;&gt;</span>
+	     Jamal Abdul Nasser for the idea about having a social fund within our company.
+           </p>
+
+           <p><span>&gt;&gt;</span>
              Background picture for the website is from the DeviantArt website's DreamUp AI picture generation facility.
            </p>
 
@@ -4664,7 +4697,7 @@ modalText.innerHTML = `
            <h2> 04. We offer you as a worker what no other company offers </h2>
 
 	   <p><p><span>&gt;&gt;</span> 
-	     You will be at the front of progressive evolution of humanity, both social and technological.
+	     You will be at the front of progressive evolution of humanity, both social evolution and technological.
 	   </p>
 
            <p><p><span>&gt;&gt;</span> 
@@ -4750,8 +4783,31 @@ modalText.innerHTML = `
 
            </div>
 
+           <div id="socifund" class="section">
+           <h2> 06. Our social fund </h2>
+
+           <p>
+	     This fund will be for emergency social situations in money-based societies where a person is not able to arrange money from the usual sources. 
+	     An example is funeral expenses.
+	   </p>
+
+           <p>
+	     We call this as "Social fund" and not CSR ( Corporate Social Responsibility ) because CSR is hypocrisy. Some big IT company will have millions of dollars 
+	     owned by the feudal owner and the millions of dollars were made on the back of exploitative labor done by the workers and some of these workers 
+	     may have suicided because of oppressive, unjust situation within the company but the feudal owner will set up a CSR department which will 
+	     "adopt" a village school in Kenya or India or Brazil and provide ten students with free school books, uniform and footwear and declare that 
+	     they are "Dil dariya" ( Urdu words for "Heart as wide as the sea" ) while the very previous day one of their workers suicided because of overwork and 
+	     the feudal owner didn't even attend the funeral.
+           </p>
+
+           <p>
+             Hence our social fund and we are a non-profit internally-democratic organization.
+           </p>
+
+           </div>
+
            <div id="demo" class="section">
-           <h2> 06. First demo of our Alef-A kosmos ship </h2>
+           <h2> 07. First demo of our Alef-A kosmos ship </h2>
 
            <p>
 	     The first manned flight of our Alef-A airship-type kosmos ship will be in 2030 and will take three people to Low Earth Orbit.
@@ -4760,7 +4816,7 @@ modalText.innerHTML = `
            </div>
 
            <div id="news" class="section">
-           <h2> 07. News </h2>
+           <h2> 08. News </h2>
 
           <p><span>YouTube :</span> 
 	    https://youtube.com/@KosmosSociety
@@ -4769,7 +4825,7 @@ modalText.innerHTML = `
            </div>
 
            <div id="contact" class="section">
-           <h2> 08. Contact info </h2>
+           <h2> 09. Contact info </h2>
 
 	   <p><span> Phone :</span> 
 	     Coming soon.
@@ -4848,5 +4904,3 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
-
-
