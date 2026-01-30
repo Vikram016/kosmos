@@ -283,7 +283,7 @@ modalText.innerHTML = `
 	   </p>  
 
 	   <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> 
-	     Human safety : Not following the silliness of nuclear fission or fusion as the means to generate electricity or propel kosmos ships.
+	     Human safety : Not following the idiocy of nuclear fission or fusion as the means to generate electricity or propel kosmos ships.
 	   </p>
 
 	   <p style='margin-left:2em;margin-bottom:10px;'><span>(d).</span> 
@@ -291,11 +291,17 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p style='margin-left:2em;margin-bottom:10px;'><span>(e).</span> 
+	     Intelligence : Not basing our ideas on mathematical equations but on natural intelligence, sensory observation, reflection, empathy, discussion and 
+	     experiment. For us, mathematics is one of the processes and not a science by tself. We reject professional mathematicians... 
+	     we will live and travel in the real kosmos and mathematicians can live and travel in the non-real 14th Space-Time Dimension possible in their equations.
+	   </p>
+
+	   <p style='margin-left:2em;margin-bottom:10px;'><span>(f).</span> 
 	     Realness : The wearable computer in the following wonderful sci-fi short film on YouTube called 
 	     "ICE - A Thousand Suns / Episode 1" and is at this link [ https://www.youtube.com/watch?v=RXaVgAxtYFI ].
 	   </p>
 
-           <p style='margin-left:2em;margin-bottom:10px;'><span>(f).</span> 
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(g).</span> 
 	     Humanism : Not using the Capitalist and profiteering word "Payload" to describe what can be simply called "Cargo".
 	   </p>
 
@@ -424,8 +430,7 @@ modalText.innerHTML = `
            <p>
              The display will be a projected display system showing GUI on a screen pullable to the front
              of the user, parallel to the standing surface. Screen input will be performed using a special
-             pen for regular input as well as on-screen virtual keyboard for extended typing. The display system 
-             will also use sound.
+             pen for regular input as well as on-screen virtual keyboard for extended typing.
            </p>
 
            <p>
@@ -439,7 +444,7 @@ modalText.innerHTML = `
 
            <p>
 	     There will be no separate still picture format like JPEG. Videos can be recorded with a minimum duration of one second and 
-	     on the Dune Buk they will be viewed as continuous frame vids or they will be viewed frame by frame. And the one second duration vids 
+	     on the Dune Buk they will be either viewed as continuous frame vids or they will be viewed frame by frame. And the one second duration vids 
 	     will be printable on paper as hologram so that the entire one second vid is viewed on paper documents.
            </p>
 
@@ -888,13 +893,12 @@ modalText.innerHTML = `
              <span> >> </span> 
 	     Plant-based materials like leather and for clothing, packaging etc.
            </p>
-                      
+
            <p>
              <span> >> </span> 
-	     Artificial Intelligence system using a combination of human brain cells and our Dune Buk
-             wearable computer. This will allow autonomous, compact-sized intelligent computation to be
-             carried out within machines or without the complete need of humans like in places where humans cannot 
-             go or are too far away. The only artificial intelligence system we will trust is the one we will design.
+	     Artificial Intelligence system using a combination of our Dune Buk wearable computer and plant biology. This will allow simple, autonomous, 
+	     scalable and self-replicating intelligent computation to be carried out within machines or without the complete need of humans like in places where 
+	     humans cannot go or are too far away. The only artificial intelligence system we will trust is the one we will design.
            </p>
 
 	   <p>
@@ -950,13 +954,14 @@ modalText.innerHTML = `
 	     </p>
 
 	     <p style="margin-left:1em; margin-bottom:10px";> 
-	       <span>(c). </span> Humans will disconnect from other real humans when instead there should be empathy and fraternity for other real humans.
+	       <span>(c). </span> Humans will disconnect from other real humans when instead there should be increased empathy and fraternity for 
+	       other real humans.
 	     </p>
 
 	     <p>
                So we will design the Moggy robot cat which will be a large cat-like robot which can travel on the surface of ground, on the surface of water and 
 	       in the air of any world having atmosphere or no atmosphere as the case may be, including Earth, and able to carry either a single kosmonaut or 
-	       80 kgs load. Its walk and other movements will be as graceful, silent, quick and strong as a cat and this will involve replicating the muscles and 
+	       90 kgs load. Its walk and other movements will be as graceful, silent, quick and strong as a cat and this will involve replicating the muscles and 
 	       bone structure of cats.
 	     </p>
 
@@ -965,7 +970,7 @@ modalText.innerHTML = `
 	     </p>
 
 	     <p>
-               The non-human load of 80 kgs will be carried in a container on its back. The container's cover will double up as a seat so that 
+               The non-human load of 90 kgs will be carried in a container on its back. The container's cover will double up as a seat so that 
 	       instead of a load inside the container, a kosmonaut wearing our Stillsuit kosmos suit can ride on this robot like people ride horses, donkeys and camels. 
 	       The kosmonaut rider will also fly when seated on this seat. There will be a handle and straps to secure the rider.
 	     </p>
@@ -2905,7 +2910,7 @@ modalText.innerHTML = `
 
            <p>
              The boxer may carry permanent serious health degradation like with Muhammad Ali who developed Parkinson's. Contradiction of this boxer
-	     carrying the name Muhammad, one of humankind's great philosophers and reformers who would have found boxing to be obscene, 
+	     carrying the name Muhammad, one of humankind's great philosophers and reformers who would have found sports boxing to be obscene, 
 	     to have all the reasons for existence as the barbaric Roman gladiator games 800 years before him and who would have been saddened for what became 
 	     of the boxer carrying his name.
            </p>
@@ -3351,7 +3356,7 @@ modalText.innerHTML = `
 	     It is year 2035. You have a whim to go to the Moon, to its pan-human city Mirkeen-01. This young city is built in architecture 
 	     which is a mix of Andalusian, Rajasthani and other fine architectures. Particularly in this city you wish to experience the tea house 
 	     called Chai Guevara which is famed as the gathering place for easy-going philosophers who replicate the "adda" culture of the tea houses 
-	     of Calcutta city in present India.
+	     of Calcutta city ( Kolkata city ) in present India.
 	   </p>
 
 	   <p>
@@ -3678,7 +3683,7 @@ modalText.innerHTML = `
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-	     About domestic servants, again in South Asia, in most cases dogs and snakes are more respected than them. In so many middle class and upper class 
+	     About domestic servants, again in South Asia, in most cases they are lot less respected than dogs and snakes. In so many middle class and upper class 
 	     gated communities the domestic servants who clean and cook in the flats of the middle and upper class people, they are forced by the gated community
 	     diktats to not use the regular lifts which the owners of the flats use. The domestic servants must use either the service lifts or even staircases. 
 	     These owners of the flats eat the food cooked by the domestic servants, sit on the sofas cleaned by the domestic servants, but in the public situation 
@@ -3694,21 +3699,21 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";> 
 	     Similar is the behavior towards delivery people who bring food and other parcels. Instead of the flat owners getting down to come to the gate of the 
-	     gated community, the flat owners expect delivery to their door including by the delivery person having to use the stairs 20 storeys up 
-	     even if the lifts are not working because of power cut.
+	     gated community, the flat owners expect delivery to their door including by the delivery person even having to use the stairs 14 storeys up 
+	     if the lifts are not working because of power cut.
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-	     The middle class of India especially acts most entitled just because they have a few thousand rupees more salary than the domestic servants, 
+	     A lot of the middle class in India especially act most entitled just because they have a few thousand rupees more salary than the domestic servants, 
 	     delivery people, mall security staff etc because of the IT / fintech / edtech / Quantum Computing etc needless kinds of industries. 
-	     The middle class will take their pampered "doggos" ( dogs ) in the lifts but not allow their domestic servants, delivery people and other poorer people 
+	     The middle classees will take their pampered "doggos" ( dogs ) in the lifts but not allow their domestic servants, delivery people and other poorer people 
 	     into their lifts. Their doggos may attack the others standing in the lift but in most cases the middle class are not bothered... 
-	     not aware that they are being zombies.
+	     not aware that they are being zombies rather than thinking humans.
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-	     The middle class itself is a slave class for the rich yet the middle class neither liberate themselves and liberate the remainder of their society nor 
-	     they empathize with those poorer than them but instead impose cruelty upon the poorer like sanitation workers. Most of the middle class people are 
+	     The middle class itself is a slave class for the rich yet most middle classees neither liberate themselves and liberate the remainder of their society nor 
+	     they empathize with those poorer than them but instead impose cruelty upon the poorer peepz like sanitation workers. Most middle classees are 
 	     just enforcers of the feudals... of the millenia-long feudal system, despite the middle class claiming to be educated people. 
 	     Therefore in the classless cities we of Kosmos Society will design, the former middle class peepz of South Asia will learn to become human.
 	   </p>
@@ -3725,13 +3730,21 @@ modalText.innerHTML = `
 	     When we know the many harms of personal vehicles there is no point retaining them. The feudalist and profiteer Henry Ford is most responsible for 
 	     bringing these harms to us by being the first to mass-produce personal vehicles. When he had his own hungry, oppressed and 
 	     protesting factory workers shot ( "Ford Hunger March of 1932" ) just so that he can retain his wealth, profits, mansions and anti-human social privileges, 
-	     do you think he will care if most of you who are middle class or poorer, you get smashed by another personal vehicle or your city's temperature 
-	     increases to 40 celsius ?
+	     do you think he would have cared if most of you who are middle class or poorer, you get smashed by another personal vehicle or your city's temperature 
+	     increases to 40 celsius because of personal vehicles ?
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-	     Therefore to replace personal vehicles with a nice transport mechanism for people on city roads we present a new kind of vehicle - 
+	     Therefore to replace personal vehicles with a nice transport mechanism for people on longer-distance city roads we present a new kind of vehicle - 
 	     our Ra hybrid vehicle described in below sections in this topic.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+	     For very short distance transport in cities for people who have difficulty walking, like within a neighborhood or between adjacent neighborhoods, 
+	     the citizens can use our Moggy robot cats by riding on them like on horses. The Moggy robot cats are a topic in the "Our techno systems" chapter 
+	     on this website and are primarily for use in kosmik environments but they can also be used for such limited purposes in Earthen environments 
+	     like very short-distance transport for city citizens. These Moggy robot cats will be owned by the citizens collectively and 
+	     managed by the transport committees of city neighborhoods.
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -4055,8 +4068,8 @@ modalText.innerHTML = `
 
 	   <p>
 	     A house is a basic human right of every human with nobody else controlling his or her access and right to the house, and this may be ordained 
-	     in the constitution book but such societies traditionally make house to be feudally owned by the family elders including if these elders are the ones 
-	     to do wage slavery and bring money to the house.
+	     in a society's humanist constitution book but many societies traditionally make house to be feudally owned by the family elders including 
+	     if these elders are the ones to do wage slavery and bring money to the house.
 	   </p>
 
 	   <p>
@@ -4091,6 +4104,20 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p>
+	     South Asia is the most feudal region on Earth because of most of its middle classees who have been voluntary slaves for multiple generations. 
+	     It is common tradition in many middle class families here for the "family elders" to consider themselves sensible to advise the younger members of 
+	     the family in life choices even when the elders have been life-long slaves in service of feudals and have never produced technology and 
+	     humanist social ideas.
+	   </p>
+
+	   <p>
+	     The younger family members may be financially oppressed by the family elders and when the younger members protest, or like Oliver Twist "ask for more", 
+	     the family elders will snarkily advise the younger members to "Mehnat karo, matthhi utthaao, patthar utthaao" which are Hindi words for 
+	     "Do hard work, lift soil, lift rocks" meaning some physical labor, even when the family elders have never themselves done hard physical labor as 
+	     employment in their life and it is possible that the only rocks they have lifted were in participating in lynch mobs.
+	   </p>
+
+	   <p>
 	     Such societies will be the most fakely pious and religious societies in human history, with the middle classees especially doing prayers and rituals all day 
 	     to earn divine points and earn their place in heaven years later... but their daily anti-human nature and casual cruelty, deepened by love for money and 
 	     an unreasonable zombie hate for the poor and the oppressed, these people create hell in their societies in the now.
@@ -4099,9 +4126,9 @@ modalText.innerHTML = `
 	   <p>
 	     They construct grand prayer houses for the god they hope to see and hear one day, but they ignore the poor, oppressed, hungry and homeless humans 
 	     whom they can see and hear clearly on the footpaths around the prayer houses but they choose to walk away quickly, in irritation, 
-	     with fingers holding their nose to prevent the stench of the poor and the hungry from reaching their "clean" nose which has just been purified within 
-	     the prayer house... with maybe two or three of these "pious" people dropping a few coins into the hungry people's begging plate, 
-	     but from a safe height to not be contaminated by the "dirty poor".
+	     with one hand holding prayer beads and the fingers of the other hand holding the nose to prevent the stench of the poor and the hungry from 
+	     reaching their "clean" nose which has just been purified within the prayer house... with maybe two or three of these "pious" people dropping a few coins
+	     into the hungry people's begging plate, but from a safe height to not be contaminated by the "dirty poor".
 	   </p>
 
 	   <p>
@@ -4109,23 +4136,23 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p>
-	     Required here are some sayings by the Socialist hero, Fidel Castro, who did more for humanity in a few years than a thousand typical IT CEOs 
+	     Required here are some sayings by the Socialist hero, Fidel Castro, who did more for humanity in a few years than a thousand typical IT industry CEOs 
 	     from Boston, Bangalore and Beijing did collectively in their entire "education" and corporate life of 70 years. These are Fidel's words :
 	   </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";>
-	     "Capitalism has no moral and ethical values : all sold. It is impossible in such circumstances to properly educate the people 
-	     who become selfish and sometimes even bandits."
+	     Capitalism has no moral and ethical values : all sold. It is impossible in such circumstances to properly educate the people 
+	     who become selfish and sometimes even bandits.
 	   </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";>
-	     "Capitalism has been unable to create a rational society. It creates a society full of contradictions and absurdities, 
+	     Capitalism has been unable to create a rational society. It creates a society full of contradictions and absurdities, 
 	     full of paradoxes. It has created a society which depletes everything, natural resources but especially human resources, 
-	     a society that alienates everything."
+	     a society that alienates everything.
 	   <p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";>
-	     "The reality of the world, it seems, was intended to sow selfishness, individualism and dehumanization of man."
+	     The reality of the world, it seems, was intended to sow selfishness, individualism and dehumanization of man.
 	   </p>
 
 	   <p>
@@ -4538,7 +4565,7 @@ modalText.innerHTML = `
            </p>
 
            <p><span>&gt;&gt;</span> 
-             Vikram for the logo, for the website design, for provoking the thought in us to have this Thanks topic and for reminding about water powered turbine 
+             Vikram for the logo, for the website design, for provoking the thought in us to have this Thanks topic and for reminding about water-powered turbine 
 	     in a discussion which hours later led to the idea of turbines powered by compressed air. Thanks to him also for provoking the idea for 
 	     the topic against free market, money and profit which is in the "Our social system - Iskra" chapter.
            </p>
@@ -4558,7 +4585,8 @@ modalText.innerHTML = `
            <p><span>&gt;&gt;</span> 
              Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, 
 	     made using an electro-magnetic relay. This vid called "1026 The easiest inverter you will ever make" is on this page 
-	     [ https://www.youtube.com/watch?v=L-vC9SvU2Lo ]. This we use in our design of the Faradn generator.
+	     [ https://www.youtube.com/watch?v=L-vC9SvU2Lo ]. This we use in our design of the Faradn generator. 
+	     We also thank him for the idea of "Local social empowerment" which he presents through his channel.
            </p>
 
            <p><span>&gt;&gt;</span> 
