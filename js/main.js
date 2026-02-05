@@ -361,31 +361,15 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
         <div id="principles" class="section">
          <h2> 01. Our progressive product design principles</h2> 
 
-           <p><span>&gt;&gt;</span>
-             Liberty, Equality, Fraternity, Humanism, Simplicity, Beauty, Gentleness, Realness, Intelligent, Robust, 
-	     Seeming from the Dune stories, Human safety as much as possible, Respect for Nature including reversing Climate Change on Earth. 
+           <p><span>&gt;&gt;</span> 
+             Broadly our principles are Liberty, Equality, Fraternity, Humanism, Simplicity, Beauty, Gentleness, Realness, Intelligence, Robust, Independent thinking,
+	     Boldness, Rejection of non-sensible ideas from celebrated scientists, Dominance of DC current, Seeming from the Dune stories, 
+	     Human safety as much as possible, Circular Economy, Alignment with our Iskra social system, Respect for Nature including 
+	     reversing Climate Change on Earth.
            </p>
 
            <p><span>&gt;&gt;</span> 
-             We won't do a technology just because there are a hundred other companies doing it 
-             or it has been done for a hundred years or just because it has been proposed by some celebrated scientist but 
-             the idea is not sensible.
-           </p>
-
-           <p><span>&gt;&gt;</span> 
-             Readiness to explore sensible methods that are from old times or are unusual. In some things, the past is the future. And we won't wait for 
-	     "peer review" for one year before using an idea and we will not discard an idea just because it contradicts the 492nd Law of Thermodynamics. 
-	     If an idea is sensible as understood by natural intelligence, we use it. What works, works. What is natural, must become the system.
-           </p>
-
-           <p><span>&gt;&gt;</span> 
-	     Our electrical machines support the idea that most electrical machines can run on DC current and should run on DC current and that too 
-	     lower voltage DC and there are few machines which require high DC current and still fewer devices that operate with AC. Example of these 
-	     fewer AC devices is a step-up transformer which produces AC which must be converted to DC i.e. "rectified".
-           </p>
-
-           <p><span>&gt;&gt;</span> 
-             Employ the concept of Circular Economy which also relates to :
+             Circular Economy relates to :
            </p>
                                   
            <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> Simplified technology.</p>
@@ -402,7 +386,8 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
            </p>
 
            <p style='margin-left:2em;margin-bottom:10px;'><span>(d).</span> 
-             Bio-mimicry and Engineered Biology wherever applicable.
+             Bio-mimicry and Engineered Biology wherever applicable. One use is to take humanity to become a Post-scarcity Civilization by 
+	     largely doing manufacturing using bacterial biology.
            </p>
 
            <p style='margin-left:2em;margin-bottom:10px;'><span>(e).</span> 
@@ -424,17 +409,7 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
            </p>
 
            <p><span>&gt;&gt;</span> 
-	     Take humanity to become a Post-scarcity Civilization by largely doing manufacturing using bacterial biology and 
-	     this done within Circular Economy.
-	   </p>
-
-           <p><span>&gt;&gt;</span> 
-             Our technologies will align around our draft for a democratic, pan-human and Nature-respecting social system for the kosmos, 
-	     presented in the "Our social system - Iskra" chapter on this website.
-           </p>
-
-           <p><span>&gt;&gt;</span> 
-             As examples of the above points :
+             As examples of the other above points :
            </p>
 
 	   <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> 
@@ -442,7 +417,7 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 	   </p>
 
 	   <p style='margin-left:2em;margin-bottom:10px;'><span>(b).</span> 
-	     Non-sensible ideas from celebrated scientists which we won't use : Dyson Sphere aka Dyson Swarm.
+	     Rejection of non-sensible ideas from celebrated scientists : Dyson Sphere aka Dyson Swarm.
 	   </p>  
 
 	   <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> 
@@ -454,17 +429,36 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 	   </p>
 
 	   <p style='margin-left:2em;margin-bottom:10px;'><span>(e).</span> 
-	     Intelligence : Not basing our ideas on mathematical equations but on natural intelligence, sensory observation, reflection, empathy, discussion and 
-	     experiment. For us, mathematics is one of the processes and not a science by tself. We reject professional mathematicians... 
-	     we will live and travel in the real kosmos and mathematicians can live and travel in the non-real 14th Space-Time Dimension possible in their equations.
+	     Intelligence : The root of our ideas won't be based on mathematical equations but on natural intelligence, sensory observation, reflection,
+	     empathy, discussion, experiment, simplification and improvement. For us, mathematics is one of the processes and not a science by tself. 
+	     We reject professional mathematicians... we will live and travel in the real kosmos and mathematicians can live and travel in the non-real 
+	     14th Space-Time Dimension possible in their equations.
 	   </p>
 
 	   <p style='margin-left:2em;margin-bottom:10px;'><span>(f).</span> 
+             Independent thinking : We won't do a technology just because there are a hundred other companies doing it 
+             or it has been done for a hundred years or just because it has been proposed by some celebrated scientist but 
+             the idea is not sensible.
+           </p>
+
+	   <p style='margin-left:2em;margin-bottom:10px;'><span>(g).</span> 
+             Boldness : Readiness to explore sensible methods that are from old times or are unusual. In some things, the past is the future. And we won't wait for 
+	     "peer review" for one year before using an idea and we will not discard an idea just because it contradicts the 492nd Law of Thermodynamics. 
+	     If an idea is sensible as understood by natural intelligence, we use it. What works, works. What is natural, must become the system.
+           </p>
+
+	   <p style='margin-left:2em;margin-bottom:10px;'><span>(h).</span> 
+	     Dominance of DC current : Our electrical machines support the idea that most electrical machines can run on DC current and should run on DC current and
+	     that too lower voltage DC and there are few machines which require high DC current and still fewer devices that operate with AC. Example of these 
+	     fewer AC devices is a step-up transformer which produces AC which must be converted to DC i.e. "rectified".
+           </p>
+
+	   <p style='margin-left:2em;margin-bottom:10px;'><span>(i).</span> 
 	     Realness : The wearable computer in the following wonderful sci-fi short film on YouTube called 
 	     "ICE - A Thousand Suns / Episode 1" and is at this link [ https://www.youtube.com/watch?v=RXaVgAxtYFI ].
 	   </p>
 
-           <p style='margin-left:2em;margin-bottom:10px;'><span>(g).</span> 
+           <p style='margin-left:2em;margin-bottom:10px;'><span>(j).</span> 
 	     Humanism : Not using the Capitalist and profiteering word "Payload" to describe what can be simply called "Cargo".
 	   </p>
 
@@ -904,8 +898,31 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
            </p>
 
            <p>
-             The helmet will include a simple, mechanical system to scratch the face, the eyelids and dab
-             the face of sweat and tears.
+             The helmet will include six simple mechanical systems for convenience :
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span>(a).</span> To spray warm or cool water on the whole of the face including the mouth, forehead, the eyelids and the eyes.
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span>(b).</span> To dab the face including the nose, mouth, forehead and the eyelids.
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span>(c).</span> To scratch the face, the four sides of the nose, forehead and eyelids.
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span>(d).</span> To hold the nose and remove nose phlegm.
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span>(e).</span> To enable spitting phlegm.
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span>(f).</span> To wipe the inside glass.
            </p>
 
            <p>
@@ -1108,7 +1125,8 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 
 	     <p style="margin-left:1em; margin-bottom:10px";> 
 	       <span>(a). </span> This will be needless idolatry which is also related to the question : How can one interact by talk and gestures with a humanoid thing
-	       knowing fully that it is a machine. Though if human forms have to be recreated then build statues of great lovers like Romeo-Juliet and Laila-Majnu.
+	       knowing fully that it is a machine. Though if human forms have to be recreated then build statues of great lovers like Romeo-Juliet and Laila-Majnu 
+	       to provide one stream for humans to discard needless hates.
 	     </p>
 
 	     <p style="margin-left:1em; margin-bottom:10px";> 
@@ -1122,10 +1140,10 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 	     </p>
 
 	     <p>
-               So we will design the Moggy robot cat which will be a large cat-like robot which can travel on the surface of ground, on the surface of water and 
-	       in the air of any world having atmosphere or no atmosphere as the case may be, including Earth, and able to carry either a single kosmonaut or 
-	       90 kgs load. Its walk and other movements will be as graceful, silent, quick and strong as a cat and this will involve replicating the muscles and 
-	       bone structure of cats.
+               So we will design the Moggy robot cat which will be a large cat-like robot which can travel on the surface of ground, on the surface of water, 
+	       within water and in the air of any world having atmosphere or no atmosphere as the case may be, including Earth, and 
+	       able to carry either a single kosmonaut or up to 90 kgs load. Its walk, swim and other movements will be as graceful, silent, quick and strong as a cat and 
+	       this will involve replicating the bone structure, sensors and muscles of cats.
 	     </p>
 
 	     <p>
@@ -2338,16 +2356,19 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 	 instead of carrying the needless artificial hates and divides on Earth.
        </p>
 
-       <p>
-	 This also leads to the point of mining in the kosmos. The timelessly existent and borderless kosmos and kosmik objects 
-	 should not be divided up by humans by way of selective ownerships by Earthen national governments and private corporations and 
-	 and these entities should not introduce militarization to defend those selective ownerships against other humans. We should not allow the tragedies 
-         on Earth based on nationalism and profiteering to be carried over into the kosmos. The kosmos should be the peaceful exploration medium, 
-	 mining place and settlement place of a collective humanity under a truly democratic framework. 
-	 National boundaries are artificial but human fraternity is natural.
-       </p>
+           <p>
+	     This also leads to the point of mining in the kosmos. The timelessly existent and borderless kosmos and kosmik objects 
+	     should not be divided up by humans by way of selective ownerships by Earthen national governments and private corporations and 
+	     and these entities should not introduce militarization to defend those selective ownerships against other humans. We should not allow the tragedies 
+             on Earth based on nationalism and profiteering to be carried over into the kosmos.
+           </p>
 
-            <p>
+           <p>
+             The kosmos should be the peaceful exploration medium, mining place and settlement place of a collective humanity under a truly democratic framework. 
+	     National boundaries are artificial but human fraternity is natural.
+           </p>
+
+           <p>
 	     Such is also the agreement undertaken at UNOOSA ( United Nations Office for Outer Space Affairs ) which is a department of the UN. 
 	     Though the UN has failed to prevent invasions, needless conflicts, genocides and subversions since its inception in 1945 and 
 	     has served only as a decoration, very much not uniting nations despite its name, its UNOOSA department at least makes sense.
@@ -2441,7 +2462,10 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-	     Most age-18 people and age-40 people will never be free from the diktats, feudalism and daily cruelty of their family elders and the village elders. 
+	     Most age-18 people and age-40 people will never be free from the diktats, feudalism and daily cruelty of their family elders and the village elders.
+	  </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
 	     They will never have the right to choose the opposite gender person they like, the right to pursue the occupations they like, the right to help other humans, 
 	     the right to take as much reasonable amount of food they like, the right to take food to their hungry neighbors, the right to give 20 dollars to a blind person
 	     begging on their road, the right to say that they don't want to engage in their family's multi-generation life-long wage slavery under feudals, 
@@ -2450,21 +2474,30 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 	     humanity to evolve from dog-eat-dog situation to utopia.
 	   </p>
 
-      <p style="margin-left:1em; margin-bottom:10px";> 
-	     The "age 18 is adulthood" theme is largely found in feudal societies 
-	     with toppings of democracy. In these societies especially women if they are below age 18, say "17 years, 11 months, 29 days, 23 hours, 59 seconds",
-	     they are denied their nature-given freedom in every reasonable thing including their natural right to be with a man by choice or to even 
-	     step out of their neighborhood... but even when they cross "adult age 18" and are say 30-years-old their family will still deny them their 
-	     nature-given rights and freedoms, and in some societies the "adult" woman will be murdered by her own family, sometimes with the assistance of 
-	     many of her village people with whom she may have spokenly nicely before. 
-	     Example of such barbarism [ https://www.bbc.com/news/world-south-asia-13294863 ].
+          <p style="margin-left:1em; margin-bottom:10px";> 
+	     The "age 18 is adulthood" theme is largely found in feudal societies with toppings of democracy. In these societies especially women if they are 
+	     below age 18, say "17 years, 11 months, 29 days, 23 hours, 59 seconds", they are denied their nature-given freedom in every reasonable thing 
+	     including their natural right to be with a man by choice or to even step out of their neighborhood.
+	  </p>
+
+          <p style="margin-left:1em; margin-bottom:10px";> 
+             But even when the women cross "adult age 18" and are say 30-years-old their family will still deny them their nature-given rights and freedoms, 
+	     and in some societies the "adult" woman will be murdered by her own family, sometimes with the assistance of many of her village people 
+	     with whom she may have spokenly nicely before. Example of such barbarism [ https://www.bbc.com/news/world-south-asia-13294863 ].
 	   </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";> 
-	     Such societies also participate in the yearly genocide of youth who suicide because of the exam system in the so-called Education System. 
+	     Such societies also participate in the yearly genocide of youth who suicide because of the exam system in the so-called Education System.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
 	     So many youths are internally tortured every second because they are forced to write exams and be in schooling courses where they do not wish to and 
 	     they have great talents in other things and they do not wish to enslave themselves in life-long wage slavery like their parents did and they just want to 
-	     enjoy life. However, their idiotic and money-worshiping parents force them to suicide. The suiciding students will be below "adult age 18" and above, 
+	     enjoy life.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             However, their idiotic and money-worshiping parents force them to suicide. The suiciding students will be below "adult age 18" and above, 
 	     and they suicide nonetheless, with no freedom from these impositions by becoming "age 18 adult".
 	   </p>
 
@@ -2491,27 +2524,38 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 
 	   <p style="margin-left:1em; margin-bottom:10px";>
 	     A 60-year-old person who has been "adult" for 43 years can be very easily immature, can be easily misled, can be violent, cruel, apathetic, competitive, 
-	     create chaos, cause genocide, be a voluntary slave until death and look disgusting. If every 80-year-old was automatically a genius just because he or she 
-	     was 80 of age, the world would not have seen feudalism, wars, oppressions, superstitions, competition, crimes, suicides, cruelty, apathy, 
-	     Climate Change and disharmony. All of Earth would have been utopia 300,000 years ago when Homo Sapiens supposedly began.
+	     create chaos, cause genocide, be a voluntary slave until death and look disgusting.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             If every 80-year-old was automatically a genius just because he or she was 80 of age, the world would not have seen feudalism, wars, oppressions,
+	     superstitions, competition, crimes, suicides, cruelty, apathy, Climate Change and disharmony. All of Earth would have been utopia 300,000 years ago 
+	     when Homo Sapiens supposedly began.
 	   </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";>
 	     This "Adult age 18" concept is an unnatural, nonsense invention by the feudals ruling Western countries... the age 18 chosen randomly to define 
 	     "Voting age" to give the masses of these societies a celebratory moment within the multi-generation illusion that they live in democracy because 
-	     they can vote in elections, own personal cars and purchase houses but in truth their ideas and voices don't matter to the parties they have 
-	     voted to power and they continue to live in wage slavery and other slavery that their previous ten generations at least had lived in their feudal setup and 
-	     their house can become owned by some bank and they thrown out from where they lived for 30 years.
+	     they can vote in elections, own personal cars and purchase houses.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             But in truth their ideas and voices don't matter to the parties they have voted to power and they continue to live in wage slavery and 
+	     other slavery that their previous ten generations at least had lived in their feudal setup and their house can become owned by some bank and 
+	     they thrown out from where they lived for 30 years.
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
 	     It's not like an 18-age voter and his 60-age voter father in London can together drive their personal car to the gate of the mansion of 
 	     the politician they voted for, who is also a feudal running a needless software services empire, and this son and father will be welcomed in 
-	     the feudal-politician's mansion with tea and biscuits just because the 18-age son has newly become a voter, and they will be allowed 
-	     to sit in the feudal-politician's garden and describe their good ideas for their society and humanity and they will be listened by 
-	     this election-winning feudal-politician and he will arrange for them to become made advisors to the nation by sitting in the House of Commons and 
-	     this feudal-politician will get them made advisors in the United Nations General Assembly. This of course won't happen despite 
-	     the "Magical adult age 18" of the son and father.
+	     the feudal-politician's mansion with tea and biscuits just because the 18-age son has newly become a voter...
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             ...and they will be allowed to sit in the feudal-politician's garden and describe their good ideas for their society and humanity and 
+	     they will be listened by this election-winning feudal-politician and he will arrange for them to become made advisors to the nation by sitting in 
+	     the House of Commons and this feudal-politician will get them made advisors in the United Nations General Assembly. 
+	     This of course won't happen despite the "Magical adult age 18" of the son and father.
 	   </p>  
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -2529,9 +2573,16 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 	     For example at age 20 he married a Hindu Rajput princess now popularly called Jodha Bai. And Jodha Bai after becoming Akbar's wife, 
 	     was renamed as "Mariyam uz Zamaani" which meant "Mary of Our Times"... Mary / Mariyam being the mother of Jesus / Esa. 
 	     Akbar, through this marriage alliance, brought some harmony to the constant wars situation within then India by creating family bond between 
-	     the Muslim-dominated empire of Akbar and the Hindu Rajput kingdoms dominating much of the north of India. And also through the name 
-	     "Mariyam uz Zamaani" a nod to the non-tribalist teachings of Esa / Jesus to bridge India more culturally to the rest of the known world. 
-	     How many feudals in the world who were 80 of age could think of such an alliance ?
+	     the Muslim-dominated empire of Akbar and the Hindu Rajput kingdoms dominating much of the north of India.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             And also through the renaming of his wife to "Mariyam uz Zamaani" a nod to the non-tribalist teachings of Esa / Jesus to bridge India 
+	     more culturally to the rest of the known world.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             How many feudals in the world who were 80 of age could think of such an alliance ?
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -2685,10 +2736,13 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
            <p style="margin-left:1em; margin-bottom:10px";>
              The concept of tax is a feudalist idea which existed during the times of kings and colonizers ( like the British colonials in India ) who had officials called 
 	     Collectors to collect tax even from  a peasant who earned 100 dollars per year after hard labor in the open, while the feudal earned 100,000 dollars 
-	     every month just sitting comfy in his mansion, and only misery was the sole free thing in the life of the peasant while the feudal earned his 100,000 dollars
-	     every month by profiting off the misery of the peasant including by doing usury to the peasant who in turn burdened every month by usury and 
-	     by the artificial unobtainability of the necessities of life, much less desire for the finer things of life, hanged himself or herself from a tree in the village or 
-	     jumped into the village lake.
+	     every month just sitting comfy in his mansion.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+             Misery was the sole free thing in the life of the peasant while the feudal earned his 100,000 dollars every month by profiting off the misery of 
+	     the peasant including by doing usury to the peasant who in turn burdened every month by usury and by the artificial unobtainability of 
+	     the necessities of life, much less desire for the finer things of life, hanged himself or herself from a tree in the village or jumped into the village lake.
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -2700,8 +2754,12 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
            <p>
              For us, Kosmos Society, the simple answer is to enable a cheaper, simpler and safer kosmos industry which also propagates true progressive pan-human 
              liberty, equality and fraternity, and we will do this by designing kosmos machinery which are simplified, reliable, aesthetic and universal in usage 
-             and can be built for cheap, operated for cheap and repaired for cheap. And these systems will be built and deployed by Earthen governments to benefit 
-             their citizens and all citizens of humanity, on Earth and in the kosmos, and these governments should not collect tax for :
+             and can be built for cheap, operated for cheap and repaired for cheap.
+           </p>
+
+           <p>
+             And these evolved systems of our design will be built and deployed by Earthen governments to benefit their citizens and all citizens of humanity, 
+	     on Earth and in the kosmos, and these governments should not collect tax for :
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -2766,10 +2824,12 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
              and this must be done it in a thoughtful, gentle and kind way where all work participants are 
              equal in respect, effort and benefit, with no feudal boss lording over them and unjustly grabbing most 
              of the benefits of the work that had the effort of all. The purpose of the group must also be 
-             achieved harmoniously. The kosmos is for all to benefit from, including just the simple act of 
-             seeing the sights, and to acknowledge that every human is a speck in the kosmos, one no 
-             more privileged than another in that infinite and timeless vastness. Feudalism is bad enough 
-             on Earth to be carried over into the kosmos.
+             achieved harmoniously.
+           </p>
+
+           <p>
+             The kosmos is for all to benefit from, including just the simple act of seeing the sights, and to acknowledge that every human is a speck in the kosmos, 
+	     one no more privileged than another in that infinite and timeless vastness. Feudalism is bad enough on Earth to be carried over into the kosmos.
            </p>
 
            <p>
@@ -2930,21 +2990,30 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
            <p style="margin-left:1em; margin-bottom:10px";>
              <span>(n).</span> So, all work participants on one kosmos ship or an independent group on one planetary 
              research station or an independent group on one mining station etc are collectively called a 
-             Workers Cooperative. Work will be distributed as per skill, interest, requirement and in rotation. 
-             The first two things are not written in stone that they can't be acquired as time progresses. The tasks 
-             will be rotated to prevent a worker from being slotted into a relatively unpleasant task for a long time, 
-	     thus preventing conscious or unconscious establishment of class system. The tasks within a Workers Cooperative can be 
-	     water management, food, communication, engines, waste management, caring for 
-             the tourists, understanding possible Moon landing sites, understanding an asteroid etc. 
-             There will be one or more members for each task as per requirement and total group size.
+             Workers Cooperative.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+              Work will be distributed as per skill, interest, requirement and in rotation. The first two things are not written in stone that they can't be acquired 
+	      as time progresses. The tasks will be rotated to prevent a worker from being slotted into a relatively unpleasant task for a long time, 
+	      thus preventing conscious or unconscious establishment of class system.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+	      The tasks within a Workers Cooperative can be water management, food, communication, engines, waste management, caring for 
+              the tourists, understanding possible Moon landing sites, understanding an asteroid etc. 
+              There will be one or more members for each task as per requirement and total group size.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
              <span>(o).</span> There has to be one person who has to be the interface between the internal Workers 
              Cooperative members and also the interface of that Workers Cooperative to the outside and 
              that person will be the Coordinator. The Coordinator is a time-bound position decided by democratic discussion and consensus 
-             within that cooperative and in accordance with Natural laws. All the workers including the Coordinator 
-             can be of any naturally reasonable responsible age, whether 13 or 30 or 90... anyone as long as they make sense 
+             within that cooperative and in accordance with Natural laws.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+             All the workers including the Coordinator can be of any naturally reasonable responsible age, whether 13 or 30 or 90... anyone as long as they make sense 
              and are willing and able to put physical or intellectual effort including being a good leader. And this responsibility of 
              "Coordinator" can rotate between the cooperative's members as per requirement or consensus.
            </p>
@@ -2953,7 +3022,10 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
              <span>(p).</span> Further, a tourist in the kosmos a few hundred thousand kilometers from Earth ( the Moon ) or a 
              few hundred million kilometers from Earth ( the Asteroid Belt ) will naturally feel deprived from Earthen settings 
 	     including the social aspect and the simple personal fact of feeling the Sun's heat on the open face and 
-	     this deprivation will depress a person for a moment or more, despite that tourist's purpose of tourism. 
+	     this deprivation will depress a person for a moment or more, despite that tourist's purpose of tourism.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
 	     But if every person in the kosmik efforts, including the tourist, participates in the tasks by being part of the kosmik Workers Cooperatives 
 	     it will keep him or her engaged and away from depression, enable fraternity and contribute to two more hands in the tasks.
            </p>
@@ -2970,11 +3042,13 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
              <span>(r).</span> Though humans in the kosmos will be arranged as a large set of Workers Cooperatives 
 	     who cooperate with each other and with individual humans without a thought of receiving 
 	     tax for their voluntary help, the Workers Cooperatives will also hold allegiance to their Earthen nation, 
-	     and to the space department of their national government they will send back 
-	     all the unprocessed raw material from the kosmos and any kosmos-produced products too, which they produced 
-	     by their labor, and these materials these space departments will trade with the space departments of other countries 
-	     and the trade will be done in some agreed Earthen currency. However, none of this trade 
-	     need affect the comfortable presence in the kosmos of the citizens of those nations. 
+	     and to the space department of their national government they will send back all the unprocessed raw material from the kosmos and 
+	     any kosmos-produced products too, which they produced by their labor.
+	   </p>  
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+             And these materials these space departments will trade with the space departments of other countries and the trade will be done in some 
+	     agreed Earthen currency. However, none of this trade need affect the comfortable presence in the kosmos of the citizens of those nations. 
 	     And this trading will exist until the natural idea of a borderless Earth is not adopted. Borderless Earth in a Borderless Kosmos.
 	   </p>
 
@@ -2992,8 +3066,11 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
            <p>
              Intoxicating substances like alcohol should not be used in the inherently risks-filled 
              environment of the kosmos, including the social mistakes people will make by such consumption 
-             and lead to disaster there. Celebrations can be done with rounds of tea and biscuits. Tea 
-             has been such a great multi-purpose discovery... the drink of philosophers, revolutionaries, 
+             and lead to disaster there. Celebrations can be done with rounds of tea and biscuits.
+           </p>
+
+           <p>
+	     Tea has been such a great multi-purpose discovery... the drink of philosophers, revolutionaries, 
              inventors, discussers, intellectual and physical laborers, lovers of taste and refinement, 
              providing energy and relief in heat, cold and rain, in the heat of the deserts and the cold of the 
              same deserts at night, in the cold of snows and the heights of the high mountains, the 
@@ -3056,7 +3133,10 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 
            <p>
 	     Men should not dress in the sloppy t-shirt and shorts as their outer dress. Men's legs should not be seen in shorts in the public unless 
-	     there is a health reason and then too in long shorts extending below the knee. T-shirts are to be only used as under-shirts. 
+	     there is a health reason and then too in long shorts extending below the knee. T-shirts are to be only used as under-shirts.
+           </p>
+
+           <p>
 	     Social wear for men should normally be pants and full sleeve shirts with no garish design. Jackets as per situation, season and not seeming 
 	     "Manager in MNC" type. Ties are a no... the tie being an idiotic invention whose only function is adding color to the dress. 
 	     There are good neckwear in form of scarves and cravats which are to be worn if the man can carry them.
@@ -3195,9 +3275,13 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 	     of the feudals including the Roman emperor ( the caesar / kaisar ). A necessary element of the gladiator games was their bloodiness and pain imposed 
 	     on the unwilling participants in the arena. The thousands of unthinking audience members had their bloodlust called upon and they cheered 
 	     the absolutely stupid scenes of pain, maiming and death of the slave gladiators and the starved and slaved beasts the gladiators fought, 
-	     and they cheered the idea of slavery of human by human. Idea was that these audience members waited eagerly for the gladiator games and 
-	     spent their passions there instead of gathering for discussions about how to overthrow the feudals and material poverty they had been imposed upon 
-	     for generations. The feudals thus tamed their slave citizens.
+	     and they cheered the idea of slavery of human by human.
+           </p>
+
+           <p>
+	     Idea was that these audience members waited eagerly for the gladiator games and spent their passions there instead of gathering for discussions about
+	     how to overthrow the feudals and material poverty they had been imposed upon for generations. The feudals thus tamed their citizens and 
+	     turned them into slaves.
            </p>
 
            <p>
@@ -3244,10 +3328,13 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
            <p>
              Another largely barbaric sport is hunting. What is the point of hunting cats, whales, elephants, deer, zebra, rhinos, giraffes, dodos, ostriches etc 
 	     except to demonstrate cowardliness, feudal power, profiteering and non-appreciation of beauty and intelligence by shooting at them with arrows or guns or
-	     harpoons at 20 meters distance ? Anyone who wants to kill a cat is being stupid and thus should stop. Any society which celebrates such killing 
-	     including by fixing a cat's head to the most prominent wall of his house or the hunter holding the killed cat in a photo, 
-	     such society is in need of enlightenment. But permissible is removal of wolf, hyena and all other dogs and also snakes, crocodiles, sharks and orcas 
-	     as these animals are dangerous pests.
+	     harpoons at 20 meters distance.
+           </p>
+
+           <p>
+             Anyone who wants to kill a cat is being stupid and thus should stop. Any society which celebrates such killing including by fixing a cat's head to 
+	     the most prominent wall of his house or the hunter holding the killed cat in a photo, such society is in need of enlightenment. But permissible is 
+	     removal of wolf, hyena and all other dogs and also snakes, crocodiles, sharks and orcas as these animals are dangerous pests.
            </p>
 
            <p>
@@ -3416,7 +3503,11 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
            <p>
              Knowledge is bettered when it is shared freely with all, without being taxed in various forms 
              like the receiver must only be of certain artificial social classes including having two college degrees 
-             compulsorily. There are some societies which have more college degree graduates presently 
+             compulsorily.
+           </p>
+
+           <p>
+             There are some societies which have more college degree graduates presently 
              than the entire human populations of some other societies. However, the former societies 
              generally are not considered among the contributors of science and technology nor of better 
              human systems despite these societies considering a college degree as being the mark of 
@@ -3436,7 +3527,11 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 	     However, Fatima as the founder decided to start the system of degrees which in her mind was to limit the student intake 
 	     which was big because of the university's popularity and also probably because she thought degrees will 
 	     give her passing students prestige and probably give her university more renown than the legendary libraries of 
-	     Alexandria and Baghdad. But she didn't consider that instead of creating this needless competition 
+	     Alexandria and Baghdad.
+           </p>
+
+           <p>
+             But she didn't consider that instead of creating this needless competition 
 	     for intake of students ( entrance exams ) and competition for "respectable" exits ( final exams ) 
 	     she could simply have established more branches of her university across Africa and beyond and 
 	     thus any number of students could have benefited from her original good intention.
@@ -3450,12 +3545,15 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
            <p>
 	     This act of Fatima is the single wrong thing in the more than thousand year period of the Islamic Golden Age which 
 	     was a period which not only created great philosophies and technologies but also forwarded past brilliant knowledges from the Greeks, 
-	     the Egyptians, the West Asians, Buddha, Esa and the Chinese, and forwarded the good things by its contemporary Indians. 
-	     This period of great creativity was the direct influence on the establishment of the Enlightenment period in Europe and its consequent 
-	     Industrial Revolution whose benefits we use now. But that single act of Fatima of adding competition to education more than a thousand years ago 
-	     has created such tragedies now.
+	     the Egyptians, the West Asians, Buddha, Esa and the Chinese, and forwarded the good things by its contemporary Indians.
            </p>
-    
+
+           <p>
+	     This period of great creativity called Islamic Golden Age was the direct influence on the establishment of the Enlightenment period in Europe and 
+	     its consequent Industrial Revolution whose benefits we use now. But that single act of Fatima of adding competition to education 
+	     more than a thousand years ago has created tragedies now.
+           </p>
+
            <p>
              In the modern world if the college degree is one form of tax to get respect, to get the college degree itself 
              requires other taxes like money and high exams marks in the preceeding school years but how is this rational ? 
@@ -3722,11 +3820,16 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
            <p>
              It is not known what kinds of alien life we will encounter, whether on Red One or on Europa 
              or beyond the Solar System, whether in the form of bacteria or as plants or as more 
-             intelligent animals or something else. It is not known if they have been communicating with 
-             us or with any other lifeforms in the infinite kosmos. Some humans say we must actively 
-             find them, some say it is dangerous to try communicating with other lifeforms because they 
-             may seek us out to wipe us out. But advancement is of course seeking them and we must be open 
-             to the types of life we may find and the different ecological situations on their worlds,
+             intelligent animals or something else.
+           </p>
+
+           <p>
+             It is not known if aliens have been communicating with us or with any other lifeforms in the infinite kosmos. Some humans say we must actively 
+             find them, some say it is dangerous to try communicating with other lifeforms because they may seek us out to wipe us out.
+           </p>
+
+           <p>
+             But advancement is of course seeking them and we must be open to the types of life we may find and the different ecological situations on their worlds,
              not limiting our understanding of kosmik lifes to the ecological situations on Earth.
            </p>
 
@@ -3752,9 +3855,16 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
              building of the first human settlements in the kosmos in terms of technologies and social systems 
              including pan-human development, decentralized governance, the first human baby born in 
              the kosmos, an artificial intelligence included with empathy and learning from unprogrammed kosmik events,
-             and a very different kind of alien encounter. This story prepares us to look for intelligent lifeforms by being open-minded as 
-             to their type and their reaction to us and our reaction to them. This is the link to the story 
-	     [  https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-feeney-676nf ].
+             and a very different kind of alien encounter.
+           </p>
+
+           <p>
+             Michael's story prepares us to look for intelligent lifeforms by being open-minded as to their type and their reaction to us and 
+	     our reaction to them.
+           </p>
+
+           <p>
+             This is the link to the story [  https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-feeney-676nf ].
            </p>
 
            <p>
@@ -3768,9 +3878,12 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
              It is said that kosmos-origined lifes were carried through the kosmos in various forms like spores, 
              viruses, eggs etc and seeded various worlds including ours to various levels and then 
              evolutionary steps took over in many of those worlds depending on the conditions of those 
-             worlds. This idea is called Panspermia. For example, it is said that the octopus and squid in 
-             Earth's seas are not from Earth but from the kosmos, their eggs carried within ice rocks and then 
-             released on Earth when the ice rocks fell into the seas here. This is a good read about this 
+             worlds. This idea is called Panspermia.
+           </p>
+
+           <p>
+             Example, it is said that the octopus and squid in Earth's seas are not from Earth but from the kosmos, their eggs carried within ice rocks and
+	     then released on Earth when the ice rocks fell into the seas here. This is a good read about this 
              topic [ https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/ ]. 
            </p>           
           
@@ -4122,13 +4235,16 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 	     they will compete against each other all the year for marks in exams.
 	   </p>
 
-           <p style="margin-left:1em; margin-bottom:10px";> 	     
+           <p style="margin-left:1em; margin-bottom:10px";> 
 	     This competition in some societies leads regularly to the suicide of a student yet his bench-mate, supposedly his great friend, will not get outraged 
 	     over his friend's suicide, will not march on the roads to call for the end of exam-competition and instead will continue to do 
 	     mindless memorization-based so-called learning so that he gets as high exam marks as possible, not only for him to feel happy in this stupid way 
-	     but also to provide his non-sensible parents with fake pride which they can tom-tom to neighbors, relatives and work colleagues. It is such parents 
-	     of his bench-mate suicided "friend" who caused the suicide by imposing competition on their own child when he wanted to simply pursue his interests and 
-	     talents.
+	     but also to provide his non-sensible parents with fake pride which they can tom-tom to neighbors, relatives and work colleagues.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
+             It is such parents of his bench-mate suicided "friend" who caused the suicide by imposing competition on their own child when instead he wanted to 
+	     simply pursue his interests, talents, potential and leisure.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
@@ -4178,7 +4294,10 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 	     then he doing wage slavery is not directly his fault but the fault of his ancestors who in their youth instead of rejecting their given social situation and 
 	     joining progressive movements and ending the feudalism they lived with and therefore ending tax system including money, 
 	     they instead joined some college to engage in competition with their class mates so that they top the exams and earn a college degree 
-	     whose only purpose in so-called Democratic Societies is to produce another slave to fit in the machine of rule by feudals. 
+	     whose only purpose in so-called Democratic Societies is to produce another slave to fit in the machine of rule by feudals.
+	   </p>  
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
 	     When they produced children and pushed the same system onto their children they condemned their children into life-long competition and slavery.
 	   </p>
 
@@ -4239,9 +4358,12 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 	   <p>
              The Ra vehicle and the Alef-A airship craft are our solutions for reversal of Climate Change in the transportation sector. Climate Change cannot be reversed
 	     by stupid things like "Carbon Credits", lithium batteries, nuclear reactors and huge wind farms. The regular Climate Change discussion conference called 
-	     COP Conferences are a waste of time and are optics and a wine-and-dine gathering. The activist Greta Thunberg said of the 2021 COP conference 
-	     conducted in Glasgow city that "It is a greenwash" and that many of the attending national government leaders actually benefit from 
-	     the profiteering companies which cause human misery and the pollutions which caused Climate Change.
+	     COP Conferences are a waste of time and are optics and a wine-and-dine gathering.
+           </p>
+
+           <p> 
+             The activist Greta Thunberg said of the 2021 COP conference conducted in Glasgow city that "It is a greenwash" and that many of the attending 
+	     national government leaders actually benefit from the profiteering companies which cause human misery and the pollutions which caused Climate Change.
 	   </p>
 
 	   <p>
@@ -4277,17 +4399,23 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 
 	  <p>
 	    The simple solution for hunger is not only social enlightenment but also a technological combination of bio-engineered plant-based foods and 
-	    the nutritious originally animal products like given in the "Biology researches" topic in the "Our techno systems" chapter. These techno-social 
-	    food productions must be done in decentralized, neighborhood-level indoor farms which have localized water generation as much as possible 
-	    as well as take water from scientifically built canals and the workers do collaborative and collectivist farming. 
+	    the nutritious originally animal products like given in the "Biology researches" topic in the "Our techno systems" chapter.
+	  </p>
+
+	  <p>
+            These techno-social food productions must be done in decentralized, neighborhood-level indoor farms which have localized water generation 
+	    as much as possible as well as take water from scientifically built canals and the workers do collaborative and collectivist farming. 
 	    There is no need for anyone to die of hunger now in 2026 AD.
           </p>
 
 	  <p>
 	    Commentary must be made about the idiocy of eating more than a bit of chilli, whether green or red or others. 
 	    There seems to be an idiotic thought in many people's minds that they must eat chillis just to show off 
-	    to others that they can eat chilli, whether this is in Mexico or some Indian village. 
-	    All that results in these chilli eaters is gas, running to the toilet, heat, an anti-calm angry state of mind,  
+	    to others that they can eat chilli, whether this is in Mexico or some Indian village.
+	  </p>
+
+	  <p>
+	    All that results in these chilli eaters is gas, running to the toilet, heat, an anti-calm angry state of mind, 
 	    long-term degradation of health, social misconduct ( gas released in public settings ) and cultural wrongs and anti-progress. 
 	    So, use only a bit of chilli in food for four people or five... like a very small cut of green chilli.
 	  </p>
@@ -4295,18 +4423,27 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 	  <p>
 	    In some cultures like India, green chilli also has become part of the cultural presence of superstition... 
 	    people creating a small garland of green chillis along with lemons and stringing them onto house doors  
-	    and vehicles. "To bring luck, prosperity and continued life" they say. But this hasn't stopped their vehicles 
-	    from being in mishaps and killing or seriously injuring the occupants and others around. 
+	    and vehicles. "To bring luck, prosperity and continued life" they say.
+	  </p>
+
+	  <p>
+	    But this hasn't stopped their vehicles from being in mishaps and killing or seriously injuring the occupants and others around. 
 	    Hasn't stopped the people from remaining middle-class-poor wage-slaves for generations. 
-	    Hasn't created true knowledge, enlightenment and gentleness. Funny thing is that the green chilli 
-	    used in this Indian superstition is not even from India but was brought by the Portuguese colonizers and 
+	    Hasn't created true knowledge, enlightenment and gentleness.
+	  </p>
+
+	  <p>
+	    Funny thing is that the green chilli used in this Indian superstition is not even from India but was brought by the Portuguese colonizers and 
 	    settlers centuries ago and very possible that the Portuguese themselves didn't indulge in this superstition.
 	  </p>
 
 	  <p>
 	    An example of the uselessness of this superstition came in June of 2025. The RCB cricket team 
 	    has its base in Bangalore city in South India and most middle class people in this city are sports mad, 
-	    especially cricket mad, instead of being intellectual, empathetic, gentle and productive. 
+	    especially cricket mad, instead of being intellectual, empathetic, gentle and productive.
+	  </p>
+
+	  <p>
 	    They wanted their fave RCB team to win in a soon-coming match and did the usual superstitious stuffs 
 	    like the below-linked person stringing lemon and chilli garlands on his personal vehicle and 
 	    attaching a placard in the local Kannada language declaring "This time the cup is ours" :
@@ -4401,9 +4538,12 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 	   <p>
              The children are made to become slaves of these family elders and if a child does not himself earn money or drops out of school or college, 
 	     where these places in these societies are not for education but to create generations of wage slaves in service of the feudals, 
-	     these cruel family elders can casually oppress such non-money-earning children and they are anti-democratically called "Head of family"
-	     who can form a mob with the money-respecting and slave'ish family members and murder their non-earning child inside the house and 
-	     then go about their business and sadly a large part of the society will adore them more.
+	     these cruel family elders can casually oppress such non-money-earning children.
+	   </p>
+
+	   <p>
+             The cruel elders are even anti-democratically called "Head of family" who can form a mob with the money-respecting and slave'ish family members and
+	     murder their non-earning child inside the house and then go about their business and sadly a large part of the society will adore them more.
 	   </p>
 
 	   <p>
@@ -4999,7 +5139,8 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
            <p><span>&gt;&gt;</span> 
              Vikram for the logo, for the website design, for provoking the thought in us to have this Thanks topic and for reminding about water-powered turbine 
 	     in a discussion which hours later led to the idea of turbines powered by compressed air. Thanks to him also for provoking the idea for 
-	     the topic against free market, money and profit which is in the "Our social system - Iskra" chapter.
+	     the topic against free market, money and profit which is in the "Our social system - Iskra" chapter. Thanks to him also for mentioning the need for 
+	     vehicle-based short distance transportation for humans.
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -5011,8 +5152,12 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
            </p>
 
            <p><span>&gt;&gt;</span> 
+             The 2009 Hindi film "Rocket Singh : Salesman of the Year" for being one of the inspirations about the idea of Workers Cooperative.
+	   </p>
+
+           <p><span>&gt;&gt;</span> 
              YouTube and Wikipedia in general.
-	   </p>  
+	   </p>
 
            <p><span>&gt;&gt;</span> 
              Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, 
@@ -5170,7 +5315,7 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 	   <p><p><span>&gt;&gt;</span> 
 	     Our company is structured as a Workers Cooperative where you will be an equal co-owner of the company and 
 	     not an oppressed subordinate to some feudal boss. Please read the "Social organization of kosmonauts" topic in the "Our social system - Iskra" chapter and 
-	     return to this point. That topic describes the Workers Cooperative concept.
+	     return to this point. That topic describes the Workers Cooperative concept through which the workers will own the means of production.
 	   </p>
 
 	   <p><p><span>&gt;&gt;</span> 
@@ -5254,14 +5399,17 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
            <p>
 	     We call this as "Social fund" and not CSR ( Corporate Social Responsibility ) because CSR is hypocrisy. Some big IT company will have millions of dollars 
 	     owned by the feudal owner and the millions of dollars were made on the back of exploitative labor done by the workers and some of these workers 
-	     may have suicided because of oppressive, unjust situation within the company but the feudal owner will set up a CSR department which will 
-	     "adopt" a village school in Kenya or India or Brazil and provide ten students with free school books, uniform and footwear and declare that 
-	     they are "Dil dariya" ( Urdu words for "Heart as wide as the sea" ) while the very previous day one of their workers suicided because of overwork and 
-	     the feudal owner didn't even attend the funeral.
+	     may have suicided because of oppressive, unjust situation within the company.
            </p>
 
            <p>
-             Hence our social fund and we are a non-profit internally-democratic organization.
+             But the feudal owner will set up a CSR department which will "adopt" a village school in Kenya or India or Brazil and 
+	     provide ten students with free school books, uniform and footwear and declare that they are "Dil dariya" ( Urdu words for "Heart as wide as the sea" )
+	     while the very previous day one of their workers suicided because of overwork and the feudal owner didn't even attend the funeral.
+           </p>
+
+           <p>
+             Hence our social fund and this is a natural association for us because we are a non-profit internally-democratic organization.
            </p>
 
            </div>
