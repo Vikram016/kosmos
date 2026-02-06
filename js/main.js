@@ -2,319 +2,40 @@
 let projectsScrollListenerAdded = false;
 
 // Modal logic for chapter cards
-const modal = document.getElementById("chapterModal");
-const modalText = document.getElementById("modalText");
-const closeModal = document.getElementById("closeModal");
+const modal = document.getElementById('chapterModal');
+const modalText = document.getElementById('modalText');
+const closeModal = document.getElementById('closeModal');
 
-document.querySelectorAll(".chapter-card").forEach((card) => {
-  card.addEventListener("click", function () {
-    const chapter = card.getAttribute("data-chapter");
+document.querySelectorAll('.chapter-card').forEach(card => {
+card.addEventListener('click', function() {
+const chapter = card.getAttribute('data-chapter');
 
-    // Show modal
-    modal.style.display = "flex";
+// Always ensure modalText has scrollbars and max-height
+      modalText.style.overflow = 'auto';
+      modalText.style.maxHeight = '90vh';
+      modal.style.display = 'flex';
+      // Always scroll modal to top when opened
+      setTimeout(function() {
+        var modalTextDiv = document.getElementById('modalText');
+        if (modalTextDiv) {
+          modalTextDiv.scrollTop = 0;
+        }
+        // Also scroll any scrollable child div to top
+        var scrollContent = modalTextDiv ? modalTextDiv.querySelector('.scroll-content') : null;
+        if (scrollContent) {
+          scrollContent.scrollTop = 0;
+        }
+      }, 0);
+      // Remove the hash from the URL without reloading whenever modal is opened
+      if (window.location.hash) {
+        history.replaceState(null, '', window.location.pathname + window.location.search);
+      }       
 
-    // Always scroll modal to top when opened
-    setTimeout(function () {
-      var modalTextDiv = document.getElementById("modalText");
-      if (modalTextDiv) {
-        modalTextDiv.scrollTop = 0;
-      }
-    }, 0);
-
-    // Remove the hash from the URL without reloading whenever modal is opened
-    if (window.location.hash) {
-      history.replaceState(
-        null,
-        "",
-        window.location.pathname + window.location.search,
-      );
-    }
-
-    // Techno systems
-    if (chapter === "technosystems") {
-      modalText.innerHTML = `
-       <div style="display:flex;flex-direction:column;width:100%;height:100%;">
+// Techno systems
+if (chapter === 'technosystems'){
+modalText.innerHTML = `
+       <div style="position:relative;padding:0;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:600px;overflow:hidden;">
           <style>
-            /* Ensure no nested scrollbars - modalText handles all scrolling */
-            #modalText > div {
-              overflow: visible !important;
-              max-height: none !important;
-              height: auto !important;
-            }
-            
-            /* Navigation links */
-            .nav-links {
-               position: sticky;
-               top: 0;
-               background: #fff;
-               padding: 20px 20px 16px 20px;
-               border-bottom: 1px solid rgba(0,0,0,0.08);
-               margin: 0;
-               z-index: 1000;
-               display: flex;
-               flex-direction: column;
-               align-items: flex-start;
-               box-sizing: border-box;
-               flex-shrink: 0;
-               box-shadow: 0 2px 8px rgba(0,0,0,0.06);
-               width: 100%;
-            }
-            
-            .nav-links h2 {
-              font-size: clamp(1.3rem, 3vw, 1.6rem);
-              color: #222;
-              margin: 0 0 16px 0;
-              text-align: left;
-              width: 100%;
-            }
-	    
-            /* Topics toggle button */
-            #topics-toggle {
-              margin: 0;
-              font-family: 'Poppins', sans-serif;
-              font-weight: 600;
-              letter-spacing: 0.5px;
-              padding: 14px 24px;
-              font-size: clamp(0.95rem, 2.5vw, 1.1rem);
-              background: #000;
-              color: #fff;
-              border: none;
-              border-radius: 28px;
-              cursor: pointer;
-              transition: all 0.2s ease;
-              width: auto;
-              box-sizing: border-box;
-              text-align: center;
-              flex-shrink: 0;
-              align-self: flex-start;
-              white-space: nowrap;
-            }
-	    
-            #topics-toggle:hover {
-               background: #222;
-               transform: scale(1.02);
-            }
-	    
-            /* Topics links - full screen overlay */
-            #topics-links {
-              position: fixed;
-              top: 0;
-              left: 0;
-              right: 0;
-              bottom: 0;
-              width: 100vw;
-              height: 100vh;
-              display: none;
-              flex-direction: column;
-              align-items: stretch;
-              gap: 0;
-              margin: 0;
-              padding: 80px 20px 20px 20px;
-              box-sizing: border-box;
-              background: rgba(255, 255, 255, 0.98);
-              backdrop-filter: blur(8px);
-              z-index: 10002;
-              overflow-y: auto;
-              overflow-x: hidden;
-            }
-            
-            #topics-links::-webkit-scrollbar {
-              display: none;
-            }
-            
-            #topics-links {
-              scrollbar-width: none;
-              -ms-overflow-style: none;
-            }
-	    
-            #topics-links a {
-               color: #000;
-               text-decoration: none;
-               font-size: clamp(1rem, 2.2vw, 1.1rem);
-               margin: 0;
-               padding: 16px 20px;
-               transition: all 0.2s ease;
-               word-wrap: break-word;
-               overflow-wrap: break-word;
-               display: block;
-               border-bottom: 1px solid rgba(0,0,0,0.06);
-               width: 100%;
-               box-sizing: border-box;
-            }
-	    
-            #topics-links a:hover {
-               color: #0066cc;
-               background: rgba(0,102,204,0.08);
-               padding-left: 28px;
-            }
-
-            /* Scroll content */
-            .scroll-content {	    
-               flex: 1;
-               overflow: visible;
-               padding: 30px 24px 40px 24px;
-               box-sizing: border-box;
-               width: 100%;
-               max-width: 100%;
-            }
-            
-            .scroll-content::-webkit-scrollbar {
-              display: none;
-            }
-            
-            .scroll-content {
-              scrollbar-width: none;
-              -ms-overflow-style: none;
-            }
-
-            /* Section spacing */
-            .section {
-               margin: 0 0 40px 0;
-               max-width: 100%;
-            }
-            
-            .section:last-child {
-               margin-bottom: 0;
-            }
-
-            /* Typography */
-            h2 {
-               font-family: 'Poppins', sans-serif;
-               color: #333;
-               font-weight: 600;
-               margin: 0 0 16px 0;
-               padding: 0;
-               font-size: clamp(1.4rem, 3.5vw, 1.8rem);
-               line-height: 1.3;
-               text-align: left;
-            }
-
-            p {
-               font-family: 'Roboto', sans-serif;
-               color: #555;
-               margin: 0 0 16px 0;
-               padding: 0;
-               font-size: clamp(1rem, 2.8vw, 1.1rem);
-               line-height: 1.7;
-               word-wrap: break-word;
-               max-width: 100%;
-            }
-
-            ul {
-               margin: 0 0 16px 0;
-               padding: 0 0 0 24px;
-               list-style: disc;
-            }
-
-            li {
-               font-family: 'Roboto', sans-serif;
-               color: rgba(0,0,0,0.8);
-               margin: 0 0 10px 0;
-               padding: 0;
-               font-size: clamp(1rem, 2.8vw, 1.1rem);
-               line-height: 1.6;
-            }
-
-            /* Responsive adjustments */
-            @media (min-width: 1024px) {
-              .nav-links {
-                padding: 28px 40px 20px 40px;
-              }
-              
-              .scroll-content {
-                padding: 40px 40px 60px 40px;
-              }
-              
-              #topics-toggle {
-                padding: 16px 32px;
-                font-size: 1.1rem;
-              }
-              
-              #topics-links {
-                padding: 100px 40px 40px 40px;
-              }
-              
-              #topics-links a {
-                font-size: 1.15rem;
-                padding: 18px 24px;
-              }
-            }
-            
-            @media (min-width: 768px) and (max-width: 1023px) {
-              .nav-links {
-                padding: 24px 28px 18px 28px;
-              }
-              
-              .scroll-content {
-                padding: 32px 28px 50px 28px;
-              }
-              
-              #topics-toggle {
-                padding: 15px 28px;
-              }
-              
-              #topics-links {
-                padding: 90px 28px 32px 28px;
-              }
-              
-              #topics-links a {
-                font-size: 1.08rem;
-                padding: 16px 22px;
-              }
-            }
-            
-            @media (max-width: 767px) {
-              .nav-links {
-                padding: 16px 16px 14px 16px;
-              }
-              
-              .scroll-content {
-                padding: 20px 16px 32px 16px;
-              }
-              
-              #topics-toggle {
-                padding: 12px 20px;
-                font-size: 0.95rem;
-              }
-              
-              #topics-links {
-                padding: 70px 16px 24px 16px;
-              }
-              
-              #topics-links a {
-                font-size: 1rem;
-                padding: 14px 18px;
-              }
-            }
-            
-            @media (max-width: 480px) {
-              .nav-links {
-                padding: 14px 14px 12px 14px;
-              }
-              
-              .scroll-content {
-                padding: 16px 14px 28px 14px;
-              }
-              
-              #topics-toggle {
-                padding: 11px 18px;
-                font-size: 0.9rem;
-              }
-              
-              #topics-links {
-                padding: 60px 14px 20px 14px;
-              }
-              
-              #topics-links a {
-                font-size: 0.95rem;
-                padding: 13px 16px;
-              }
-              
-              .section {
-                margin-bottom: 32px;
-              }
-            }
-
             #modalText > div::-webkit-scrollbar {
               width: 10px;
               height: 10px;
@@ -332,33 +53,149 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
             #modalText > div {
               scrollbar-width: thin;
               scrollbar-color: #fff #222;
+            }	    
+            
+            .nav-links
+	    {
+               position: sticky;
+               top: 0;
+               background: #fff;
+               padding: 10px 0 0 0;
+               border-bottom: 1px solid #ddd;
+               margin-bottom: 20px;
+               z-index: 1000;
+               display: flex;
+               flex-direction: column;
+               align-items: left;
             }
+	    
+            #topics-toggle
+	    {
+              margin-bottom: 10px;
+              font-family: 'Poppins', sans-serif;
+              font-weight: 600;
+              letter-spacing: 0.5px;
+              padding: 10px 30px;
+              font-size: 1.1em;
+              background: #000;
+              color: #fff;
+              border: none;
+              border-radius: 25px;
+              cursor: pointer;
+              transition: background 0.2s, color 0.2s;
+            }
+	    
+            #topics-toggle:hover 
+	    {
+               background: #222;
+               color: #fff;
+            }
+	    
+            #topics-links 
+	    {
+               display: none;
+               flex-direction: column;
+               align-items: left;
+               gap: 1px;
+               margin-bottom: 10px;
+            }
+	    
+            #topics-links a 
+	    {
+               color: #000;
+               text-decoration: none;
+               font-size: 1em;
+               margin: 0;
+               padding: 6px 0;
+               transition: color 0.2s;
+            }
+	    
+            #topics-links a:hover
+	    {
+               color: #0066cc;
+            }
+
+            .scroll-content
+	    {	    
+               max-height: 500px;
+               overflow-y: auto;
+               padding: 0 2em 1em 2em;
+            }
+
+            .section
+	    {
+               margin-bottom: 30px;
+            }	    
+
+	    .back-to-top
+	    {
+               position: fixed;
+               bottom: 20px;
+               right: 20px;
+               background: #000;
+               color: #fff;
+               padding: 10px;
+               border-radius: 50%;
+               cursor: pointer;
+               display: none;
+               z-index: 1000;
+            }
+
+	    h2
+	    {
+               font-family: 'Poppins', sans-serif;
+               color: #000;
+               text-align: center;
+               margin-top: 20px;
+               margin-bottom: 10px;
+               color: rgba(128,128,128,1);
+            }
+
+            .section p 
+	    {
+               font-family: 'Roboto', sans-serif;
+               color: rgba(128,128,128,1);
+	       line-height: 1.6;
+            }
+
+	    ul
+	    {
+               font-family: 'Roboto', sans-serif;
+               color: rgba(128,128,128,1);               
+   	       line-height: 1.6;
+            }
+
+            span
+	    {
+              color: rgba(128,128,128,1);
+	      font-weight: bold;
+            }
+
           </style>
 
           <div class="nav-links">
-            <h2>Kosmos Society - Company Info</h2>
-            <button id="topics-toggle">Our techno systems - Show topics</button>
+            <button id="topics-toggle">Techno systems - Show topics</button>
             <div id="topics-links">
               <a href="#principles">&nbsp;&nbsp; 01. Our progressive product design principles</a>
               <a href="#faradn">&nbsp;&nbsp; 02. Faradn self-sustaining electricity generator</a>
               <a href="#dunebuk">&nbsp;&nbsp; 03. Dune Buk wearable computer</a>
-	            <a href="#alefa">&nbsp;&nbsp; 04. Alef-A airship-type kosmos ship</a>
+	      <a href="#alefa">&nbsp;&nbsp; 04. Alef-A airship-type kosmos ship</a>
               <a href="#aleff">&nbsp;&nbsp; 05. Alef-F kosmos ferry</a>
               <a href="#bothships">&nbsp;&nbsp; 06. About both Alef-A and Alef-F kosmos ships</a>
               <a href="#stillsuit">&nbsp;&nbsp; 07. A kosmos suit called Stillsuit</a>
               <a href="#biology">&nbsp;&nbsp; 08. Biology researches</a>
-	            <a href="#moggy">&nbsp;&nbsp; 09. Moggy robot cat</a>
-	            <a href="#mehfil">&nbsp;&nbsp; 10. Mehfil tent</a>
+	      <a href="#moggy">&nbsp;&nbsp; 09. Moggy robot cat</a>
+	      <a href="#mehfil">&nbsp;&nbsp; 10. Mehfil tent</a>
               <a href="#serf">&nbsp;&nbsp; 11. Serf satellite for Earth orbit debris cleaning</a>
-	            <a href="#othermach">&nbsp;&nbsp; 12. Other machines</a>
-	            <a href="#habitat">&nbsp;&nbsp; 13. Habitat construction on other worlds</a>
+	      <a href="#othermach">&nbsp;&nbsp; 12. Other machines</a>
+	      <a href="#habitat">&nbsp;&nbsp; 13. Habitat construction on other worlds</a>
             </div>
+
           </div>
          
          <div class="scroll-content">
                 
-         <div class="section" id="about">
-        <div id="principles" class="section">
+         <div id="principles" class="section">
          <h2> 01. Our progressive product design principles</h2> 
 
            <p><span>&gt;&gt;</span> 
@@ -1536,384 +1373,221 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
              coverage.
            </p>
 
+           </div>
 
-       </div>
-       </div>
+         </div>
      `;
-
-      // Topics toggle event listener
-      setTimeout(function () {
-        var toggleBtn = document.getElementById("topics-toggle");
-        var linksDiv = document.getElementById("topics-links");
-
+modal.style.display = 'flex';
+// Attach Topics toggle event after DOM update
+      setTimeout(function() {
+        var toggleBtn = document.getElementById('topics-toggle');
+        var linksDiv = document.getElementById('topics-links');
         if (toggleBtn && linksDiv) {
-          toggleBtn.addEventListener("click", function () {
-            if (
-              linksDiv.style.display === "none" ||
-              linksDiv.style.display === ""
-            ) {
-              linksDiv.style.display = "flex";
-              toggleBtn.innerHTML = "Techno systems - Hide topics";
+          toggleBtn.addEventListener('click', function() {
+            if (linksDiv.style.display === 'none' || linksDiv.style.display === '') {
+              linksDiv.style.display = 'flex';
+              toggleBtn.innerHTML = 'Techno systems - Hide topics';
             } else {
-              linksDiv.style.display = "none";
-              toggleBtn.innerHTML = "Techno systems - Show topics";
+              linksDiv.style.display = 'none';
+              toggleBtn.innerHTML = 'Techno systems - Show topics';
             }
           });
-
-          // Add event listeners to links
-          var navLinks = linksDiv.querySelectorAll("a");
-          navLinks.forEach(function (link) {
-            link.addEventListener("click", function (e) {
+          // Add event listeners to links to close topics box on click
+          var navLinks = linksDiv.querySelectorAll('a');
+          navLinks.forEach(function(link) {
+            link.addEventListener('click', function(e) {
+              linksDiv.style.display = 'none';
+              toggleBtn.innerHTML = 'Techno systems - Show topics';
+              // Prevent default anchor behavior
               e.preventDefault();
-
-              // Close the topics overlay and update toggle text
-              linksDiv.style.display = "none";
-              toggleBtn.innerHTML = "Techno systems - Show topics";
-
               // Get the target section
-              var targetId = link.getAttribute("href").replace("#", "");
+              var targetId = link.getAttribute('href').replace('#', '');
               var targetElem = document.getElementById(targetId);
-
-              // Remove the hash from the URL
+              // Remove the hash from the URL without reloading
               if (window.location.hash) {
-                history.replaceState(
-                  null,
-                  "",
-                  window.location.pathname + window.location.search,
-                );
+                history.replaceState(null, '', window.location.pathname + window.location.search);
               }
-
-              // Smooth-scroll to the target section within modalText
+              // Scroll to the section after closing Topics box
               if (targetElem) {
-                var modalTextDiv = document.getElementById("modalText");
-                var navLinks = document.querySelector(".nav-links");
-
-                if (modalTextDiv && navLinks) {
-                  // Get the height of the sticky nav header
-                  var navHeight = navLinks.offsetHeight;
-
-                  // Calculate target position with offset
-                  var targetPosition = targetElem.offsetTop - navHeight - 20; // Extra 20px spacing
-
-                  modalTextDiv.scrollTo({
-                    top: targetPosition,
-                    behavior: "smooth",
-                  });
-                }
+                setTimeout(function() {
+                  targetElem.scrollIntoView({behavior: 'smooth'});
+                }, 200);
               }
             });
           });
         }
       }, 0);
-    }
+      // End of modalText.innerHTML assignment
+      modal.style.display = 'flex';
+      setTimeout(function() {
+var closeBtn = document.getElementById('modalCloseBtn');
+if (closeBtn) {
+closeBtn.onclick = function() {
+modal.style.display = 'none';
+};
+}
+}, 0);
 
-    // Social system (Iskra)
-    if (chapter === "socialsystem") {
-      modalText.innerHTML = `
-       <div style="display:flex;flex-direction:column;width:100%;height:100%;">
-           <style>
-            /* Ensure no nested scrollbars - modalText handles all scrolling */
-            #modalText > div {
-              overflow: visible !important;
-              max-height: none !important;
-              height: auto !important;
+// Social system
+}  else if (chapter === 'socialsystem') {
+modalText.innerHTML = `
+       <div style="position:relative;padding:0;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:600px;overflow:hidden;">
+          <style>
+            #modalText > div::-webkit-scrollbar
+ 	   {
+               width: 10px;
+               height: 10px;
+               background: #fff;
             }
+	    
+            #modalText > div::-webkit-scrollbar-thumb {
+               background: #fff;
+               border-radius: 10px;
+               border: 2px solid #222;
+            }
+	    
+            #modalText > div::-webkit-scrollbar-track
+	    {
+               background: #222;
+               border-radius: 10px;
+            }
+	    
+            #modalText > div
+	    {
+               scrollbar-width: thin;
+               scrollbar-color: #fff #222;
+            }	    
             
-            /* Navigation links */
-            .nav-links {
+            .nav-links
+	    {
                position: sticky;
                top: 0;
                background: #fff;
-               padding: 20px 20px 16px 20px;
-               border-bottom: 1px solid rgba(0,0,0,0.08);
-               margin: 0;
+               padding: 10px 0 0 0;
+               border-bottom: 1px solid #ddd;
+               margin-bottom: 20px;
                z-index: 1000;
                display: flex;
                flex-direction: column;
-               align-items: flex-start;
-               box-sizing: border-box;
-               flex-shrink: 0;
-               box-shadow: 0 2px 8px rgba(0,0,0,0.06);
-               width: 100%;
-            }
-            
-            .nav-links h2 {
-              font-size: clamp(1.3rem, 3vw, 1.6rem);
-              color: #222;
-              margin: 0 0 16px 0;
-              text-align: left;
-              width: 100%;
+               align-items: left;
             }
 	    
-            /* Topics toggle button */
-            #topics-toggle {
-              margin: 0;
+            #topics-toggle
+	    {
+               margin-bottom: 10px;
               font-family: 'Poppins', sans-serif;
               font-weight: 600;
               letter-spacing: 0.5px;
-              padding: 14px 24px;
-              font-size: clamp(0.95rem, 2.5vw, 1.1rem);
+              padding: 10px 30px;
+              font-size: 1.1em;
               background: #000;
               color: #fff;
               border: none;
-              border-radius: 28px;
+              border-radius: 25px;
               cursor: pointer;
-              transition: all 0.2s ease;
-              width: auto;
-              box-sizing: border-box;
-              text-align: center;
-              flex-shrink: 0;
-              align-self: flex-start;
-              white-space: nowrap;
+              transition: background 0.2s, color 0.2s;
             }
 	    
-            #topics-toggle:hover {
+            #topics-toggle:hover
+	    {
                background: #222;
-               transform: scale(1.02);
+               color: #fff;
             }
 	    
-            /* Topics links - full screen overlay */
-            #topics-links {
-              position: fixed;
-              top: 0;
-              left: 0;
-              right: 0;
-              bottom: 0;
-              width: 100vw;
-              height: 100vh;
-              display: none;
-              flex-direction: column;
-              align-items: stretch;
-              gap: 0;
-              margin: 0;
-              padding: 80px 20px 20px 20px;
-              box-sizing: border-box;
-              background: rgba(255, 255, 255, 0.98);
-              backdrop-filter: blur(8px);
-              z-index: 10002;
-              overflow-y: auto;
-              overflow-x: hidden;
-            }
-            
-            #topics-links::-webkit-scrollbar {
-              display: none;
-            }
-            
-            #topics-links {
-              scrollbar-width: none;
-              -ms-overflow-style: none;
+            #topics-links
+	    {
+               display: none;
+               flex-direction: column;
+               align-items: left;
+               gap: 1px;
+               margin-bottom: 10px;
             }
 	    
-            #topics-links a {
+            #topics-links a
+	    {
                color: #000;
                text-decoration: none;
-               font-size: clamp(1rem, 2.2vw, 1.1rem);
+               font-size: 1em;
                margin: 0;
-               padding: 16px 20px;
-               transition: all 0.2s ease;
-               word-wrap: break-word;
-               overflow-wrap: break-word;
-               display: block;
-               border-bottom: 1px solid rgba(0,0,0,0.06);
-               width: 100%;
-               box-sizing: border-box;
+               padding: 6px 0;
+               transition: color 0.2s;
             }
 	    
-            #topics-links a:hover {
+            #topics-links a:hover
+	    {
                color: #0066cc;
-               background: rgba(0,102,204,0.08);
-               padding-left: 28px;
+            }
+	    
+            .scroll-content
+	    {
+               max-height: 500px;
+               overflow-y: auto;
+               padding: 0 2em 1em 2em;
+            }
+	    
+            .section
+	    {
+               margin-bottom: 30px;
+            }            
+            
+            .back-to-top
+	    {
+               position: fixed;
+               bottom: 20px;
+               right: 20px;
+               background: #000;
+               color: #fff;
+               padding: 10px;
+               border-radius: 50%;
+               cursor: pointer;
+               display: none;
+               z-index: 1000;
             }
 
-            /* Scroll content */
-            .scroll-content {	    
-               flex: 1;
-               overflow: visible;
-               padding: 30px 24px 40px 24px;
-               box-sizing: border-box;
-               width: 100%;
-               max-width: 100%;
-            }
-            
-            .scroll-content::-webkit-scrollbar {
-              display: none;
-            }
-            
-            .scroll-content {
-              scrollbar-width: none;
-              -ms-overflow-style: none;
-            }
-
-            /* Section spacing */
-            .section {
-               margin: 0 0 40px 0;
-               max-width: 100%;
-            }
-            
-            .section:last-child {
-               margin-bottom: 0;
-            }
-
-            /* Typography */
-            h2 {
+	    .viddisp
+	   {
+              font-size: 18px;
+              color: #000;
+              font-weight: bold;
+              text-align: center;
+              margin-top: 20px;
+              margin-bottom: 10px;
+	      color: rgba(128,128,128,1);
+           }
+	    
+	    h2
+	    {
                font-family: 'Poppins', sans-serif;
-               color: #333;
-               font-weight: 600;
-               margin: 0 0 16px 0;
-               padding: 0;
-               font-size: clamp(1.4rem, 3.5vw, 1.8rem);
-               line-height: 1.3;
-               text-align: left;
+               color: #000;
+               text-align: center;
+               margin-top: 20px;
+               margin-bottom: 10px;
+               color: rgba(128,128,128,1);
             }
 
-            p {
+            .section p 
+	    {
                font-family: 'Roboto', sans-serif;
-               color: #555;
-               margin: 0 0 16px 0;
-               padding: 0;
-               font-size: clamp(1rem, 2.8vw, 1.1rem);
-               line-height: 1.7;
-               word-wrap: break-word;
-               max-width: 100%;
+               color: rgba(128,128,128,1);
+	       line-height: 1.6;
             }
 
-            ul {
-               margin: 0 0 16px 0;
-               padding: 0 0 0 24px;
-               list-style: disc;
-            }
-
-            li {
+	    ul
+	    {
                font-family: 'Roboto', sans-serif;
-               color: rgba(0,0,0,0.8);
-               margin: 0 0 10px 0;
-               padding: 0;
-               font-size: clamp(1rem, 2.8vw, 1.1rem);
-               line-height: 1.6;
+               color: rgba(128,128,128,1);               
+   	       line-height: 1.6;
             }
 
-            /* Responsive adjustments */
-            @media (min-width: 1024px) {
-              .nav-links {
-                padding: 28px 40px 20px 40px;
-              }
-              
-              .scroll-content {
-                padding: 40px 40px 60px 40px;
-              }
-              
-              #topics-toggle {
-                padding: 16px 32px;
-                font-size: 1.1rem;
-              }
-              
-              #topics-links {
-                padding: 100px 40px 40px 40px;
-              }
-              
-              #topics-links a {
-                font-size: 1.15rem;
-                padding: 18px 24px;
-              }
-            }
-            
-            @media (min-width: 768px) and (max-width: 1023px) {
-              .nav-links {
-                padding: 24px 28px 18px 28px;
-              }
-              
-              .scroll-content {
-                padding: 32px 28px 50px 28px;
-              }
-              
-              #topics-toggle {
-                padding: 15px 28px;
-              }
-              
-              #topics-links {
-                padding: 90px 28px 32px 28px;
-              }
-              
-              #topics-links a {
-                font-size: 1.08rem;
-                padding: 16px 22px;
-              }
-            }
-            
-            @media (max-width: 767px) {
-              .nav-links {
-                padding: 16px 16px 14px 16px;
-              }
-              
-              .scroll-content {
-                padding: 20px 16px 32px 16px;
-              }
-              
-              #topics-toggle {
-                padding: 12px 20px;
-                font-size: 0.95rem;
-              }
-              
-              #topics-links {
-                padding: 70px 16px 24px 16px;
-              }
-              
-              #topics-links a {
-                font-size: 1rem;
-                padding: 14px 18px;
-              }
-            }
-            
-            @media (max-width: 480px) {
-              .nav-links {
-                padding: 14px 14px 12px 14px;
-              }
-              
-              .scroll-content {
-                padding: 16px 14px 28px 14px;
-              }
-              
-              #topics-toggle {
-                padding: 11px 18px;
-                font-size: 0.9rem;
-              }
-              
-              #topics-links {
-                padding: 60px 14px 20px 14px;
-              }
-              
-              #topics-links a {
-                font-size: 0.95rem;
-                padding: 13px 16px;
-              }
-              
-              .section {
-                margin-bottom: 32px;
-              }
-            }
+            span
+	    {
+              color: rgba(128,128,128,1);
+	      font-weight: bold;
+            }	    
 
-            #modalText > div::-webkit-scrollbar {
-              width: 10px;
-              height: 10px;
-              background: #fff;
-            }
-            #modalText > div::-webkit-scrollbar-thumb {
-              background: #fff;
-              border-radius: 10px;
-              border: 2px solid #222;
-            }
-            #modalText > div::-webkit-scrollbar-track {
-              background: #222;
-              border-radius: 10px;
-            }
-            #modalText > div {
-              scrollbar-width: thin;
-              scrollbar-color: #fff #222;
-            }
-          </style>
+         </style>
 
-          <div class="nav-links">
-          <h2> Our Social System - Iskra </h2>
+         <div class="nav-links">
             <button id="topics-toggle">Iskra social system - Show topics</button>
             <div id="topics-links">
               <a href="#intro">&nbsp;&nbsp; 01. Introduction to this chapter </a>
@@ -4641,396 +4315,290 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 	   </p>
 
            </div>
+
+       </div>
+
        </div>
      `;
-      modal.style.display = "flex";
-
-      // Topics toggle event listener
-      setTimeout(function () {
-        var toggleBtn = document.getElementById("topics-toggle");
-        var linksDiv = document.getElementById("topics-links");
-
+modal.style.display = 'flex';
+// Attach Topics toggle event after DOM update
+      setTimeout(function() {
+        var toggleBtn = document.getElementById('topics-toggle');
+        var linksDiv = document.getElementById('topics-links');
         if (toggleBtn && linksDiv) {
-          toggleBtn.addEventListener("click", function () {
-            if (
-              linksDiv.style.display === "none" ||
-              linksDiv.style.display === ""
-            ) {
-              linksDiv.style.display = "flex";
-              toggleBtn.innerHTML = "Techno systems - Hide topics";
+          toggleBtn.addEventListener('click', function() {
+            if (linksDiv.style.display === 'none' || linksDiv.style.display === '') {
+              linksDiv.style.display = 'flex';
+              toggleBtn.innerHTML = 'Iskra social system - Hide topics';
             } else {
-              linksDiv.style.display = "none";
-              toggleBtn.innerHTML = "Techno systems - Show topics";
+              linksDiv.style.display = 'none';
+              toggleBtn.innerHTML = 'Iskra social system - Show topics';
             }
           });
-
-          // Add event listeners to links
-          var navLinks = linksDiv.querySelectorAll("a");
-          navLinks.forEach(function (link) {
-            link.addEventListener("click", function (e) {
+          // Add event listeners to links to close topics box on click
+          var navLinks = linksDiv.querySelectorAll('a');
+          navLinks.forEach(function(link) {
+            link.addEventListener('click', function(e) {
+              linksDiv.style.display = 'none';
+              toggleBtn.innerHTML = 'Iskra social system - Show topics';
+              // Prevent default anchor behavior
               e.preventDefault();
-
-              // Close the topics overlay and update toggle text
-              linksDiv.style.display = "none";
-              toggleBtn.innerHTML = "Techno systems - Show topics";
-
               // Get the target section
-              var targetId = link.getAttribute("href").replace("#", "");
+              var targetId = link.getAttribute('href').replace('#', '');
               var targetElem = document.getElementById(targetId);
-
-              // Remove the hash from the URL
+              // Remove the hash from the URL without reloading
               if (window.location.hash) {
-                history.replaceState(
-                  null,
-                  "",
-                  window.location.pathname + window.location.search,
-                );
+                history.replaceState(null, '', window.location.pathname + window.location.search);
               }
-
-              // Smooth-scroll to the target section within modalText
+              // Scroll to the section after closing Topics box
               if (targetElem) {
-                var modalTextDiv = document.getElementById("modalText");
-                var navLinks = document.querySelector(".nav-links");
-
-                if (modalTextDiv && navLinks) {
-                  // Get the height of the sticky nav header
-                  var navHeight = navLinks.offsetHeight;
-
-                  // Calculate target position with offset
-                  var targetPosition = targetElem.offsetTop - navHeight - 20; // Extra 20px spacing
-
-                  modalTextDiv.scrollTo({
-                    top: targetPosition,
-                    behavior: "smooth",
-                  });
-                }
+                setTimeout(function() {
+                  targetElem.scrollIntoView({behavior: 'smooth'});
+                }, 200);
               }
             });
           });
         }
       }, 0);
-    }
+      // End of modalText.innerHTML assignment
+      modal.style.display = 'flex';
 
-    // Company info
-    if (chapter === "company") {
-      modalText.innerHTML = `
-       <div style="display:flex;flex-direction:column;width:100%;height:100%;">
- <style>
-            /* Ensure no nested scrollbars - modalText handles all scrolling */
-            #modalText > div {
-              overflow: visible !important;
-              max-height: none !important;
-              height: auto !important;
+
+}  else if (chapter === 'company') {
+modalText.innerHTML = `
+       <div style="position:relative;padding:0;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:600px;overflow:hidden;">
+          <style>
+            #modalText > div::-webkit-scrollbar
+ 	   {
+               width: 10px;
+               height: 10px;
+               background: #fff;
             }
+	    
+            #modalText > div::-webkit-scrollbar-thumb {
+               background: #fff;
+               border-radius: 10px;
+               border: 2px solid #222;
+            }
+	    
+            #modalText > div::-webkit-scrollbar-track
+	    {
+               background: #222;
+               border-radius: 10px;
+            }
+	    
+            #modalText > div
+	    {
+               scrollbar-width: thin;
+               scrollbar-color: #fff #222;
+            }	    
             
-            /* Navigation links */
-            .nav-links {
+            .nav-links
+	    {
                position: sticky;
                top: 0;
                background: #fff;
-               padding: 20px 20px 16px 20px;
-               border-bottom: 1px solid rgba(0,0,0,0.08);
-               margin: 0;
+               padding: 10px 0 0 0;
+               border-bottom: 1px solid #ddd;
+               margin-bottom: 20px;
                z-index: 1000;
                display: flex;
                flex-direction: column;
-               align-items: flex-start;
-               box-sizing: border-box;
-               flex-shrink: 0;
-               box-shadow: 0 2px 8px rgba(0,0,0,0.06);
-               width: 100%;
-            }
-            
-            .nav-links h2 {
-              font-size: clamp(1.3rem, 3vw, 1.6rem);
-              color: #222;
-              margin: 0 0 16px 0;
-              text-align: left;
-              width: 100%;
+               align-items: left;
             }
 	    
-            /* Topics toggle button */
-            #topics-toggle {
-              margin: 0;
+            #topics-toggle
+	    {
+               margin-bottom: 10px;
               font-family: 'Poppins', sans-serif;
               font-weight: 600;
               letter-spacing: 0.5px;
-              padding: 14px 24px;
-              font-size: clamp(0.95rem, 2.5vw, 1.1rem);
+              padding: 10px 30px;
+              font-size: 1.1em;
               background: #000;
               color: #fff;
               border: none;
-              border-radius: 28px;
+              border-radius: 25px;
               cursor: pointer;
-              transition: all 0.2s ease;
-              width: auto;
-              box-sizing: border-box;
-              text-align: center;
-              flex-shrink: 0;
-              align-self: flex-start;
-              white-space: nowrap;
+              transition: background 0.2s, color 0.2s;
             }
 	    
-            #topics-toggle:hover {
+            #topics-toggle:hover
+	    {
                background: #222;
-               transform: scale(1.02);
+               color: #fff;
             }
 	    
-            /* Topics links - full screen overlay */
-            #topics-links {
-              position: fixed;
-              top: 0;
-              left: 0;
-              right: 0;
-              bottom: 0;
-              width: 100vw;
-              height: 100vh;
-              display: none;
-              flex-direction: column;
-              align-items: stretch;
-              gap: 0;
-              margin: 0;
-              padding: 80px 20px 20px 20px;
-              box-sizing: border-box;
-              background: rgba(255, 255, 255, 0.98);
-              backdrop-filter: blur(8px);
-              z-index: 10002;
-              overflow-y: auto;
-              overflow-x: hidden;
-            }
-            
-            #topics-links::-webkit-scrollbar {
-              display: none;
-            }
-            
-            #topics-links {
-              scrollbar-width: none;
-              -ms-overflow-style: none;
+            #topics-links
+	    {
+               display: none;
+               flex-direction: column;
+               align-items: left;
+               gap: 1px;
+               margin-bottom: 10px;
             }
 	    
-            #topics-links a {
+            #topics-links a
+	    {
                color: #000;
                text-decoration: none;
-               font-size: clamp(1rem, 2.2vw, 1.1rem);
+               font-size: 1em;
                margin: 0;
-               padding: 16px 20px;
-               transition: all 0.2s ease;
-               word-wrap: break-word;
-               overflow-wrap: break-word;
-               display: block;
-               border-bottom: 1px solid rgba(0,0,0,0.06);
-               width: 100%;
-               box-sizing: border-box;
+               padding: 6px 0;
+               transition: color 0.2s;
             }
 	    
-            #topics-links a:hover {
+            #topics-links a:hover
+	    {
                color: #0066cc;
-               background: rgba(0,102,204,0.08);
-               padding-left: 28px;
+            }
+	    
+            .scroll-content
+	    {
+               max-height: 500px;
+               overflow-y: auto;
+               padding: 0 2em 1em 2em;
+            }
+	    
+            .section
+	    {
+               margin-bottom: 30px;
+            }            
+            
+            .back-to-top
+	    {
+               position: fixed;
+               bottom: 20px;
+               right: 20px;
+               background: #000;
+               color: #fff;
+               padding: 10px;
+               border-radius: 50%;
+               cursor: pointer;
+               display: none;
+               z-index: 1000;
             }
 
-            /* Scroll content */
-            .scroll-content {	    
-               flex: 1;
-               overflow: visible;
-               padding: 30px 24px 40px 24px;
-               box-sizing: border-box;
-               width: 100%;
-               max-width: 100%;
-            }
-            
-            .scroll-content::-webkit-scrollbar {
-              display: none;
-            }
-            
-            .scroll-content {
-              scrollbar-width: none;
-              -ms-overflow-style: none;
-            }
-
-            /* Section spacing */
-            .section {
-               margin: 0 0 40px 0;
-               max-width: 100%;
-            }
-            
-            .section:last-child {
-               margin-bottom: 0;
-            }
-
-            /* Typography */
-            h2 {
+	    h2
+	    {
                font-family: 'Poppins', sans-serif;
-               color: #333;
-               font-weight: 600;
-               margin: 0 0 16px 0;
-               padding: 0;
-               font-size: clamp(1.4rem, 3.5vw, 1.8rem);
-               line-height: 1.3;
-               text-align: left;
+               color: #000;
+               text-align: center;
+               margin-top: 20px;
+               margin-bottom: 10px;
+               color: rgba(128,128,128,1);
             }
 
-            p {
+            .section p 
+	    {
                font-family: 'Roboto', sans-serif;
-               color: #555;
-               margin: 0 0 16px 0;
-               padding: 0;
-               font-size: clamp(1rem, 2.8vw, 1.1rem);
-               line-height: 1.7;
-               word-wrap: break-word;
-               max-width: 100%;
+               color: rgba(128,128,128,1);
+	       line-height: 1.6;
             }
 
-            ul {
-               margin: 0 0 16px 0;
-               padding: 0 0 0 24px;
-               list-style: disc;
-            }
-
-            li {
+	    ul
+	    {
                font-family: 'Roboto', sans-serif;
-               color: rgba(0,0,0,0.8);
-               margin: 0 0 10px 0;
-               padding: 0;
-               font-size: clamp(1rem, 2.8vw, 1.1rem);
-               line-height: 1.6;
+               color: rgba(128,128,128,1);               
+   	       line-height: 1.6;
             }
 
-            /* Responsive adjustments */
-            @media (min-width: 1024px) {
-              .nav-links {
-                padding: 28px 40px 20px 40px;
-              }
-              
-              .scroll-content {
-                padding: 40px 40px 60px 40px;
-              }
-              
-              #topics-toggle {
-                padding: 16px 32px;
-                font-size: 1.1rem;
-              }
-              
-              #topics-links {
-                padding: 100px 40px 40px 40px;
-              }
-              
-              #topics-links a {
-                font-size: 1.15rem;
-                padding: 18px 24px;
-              }
+            span
+	    {
+              color: rgba(128,128,128,1);
+	      font-weight: bold;
             }
-            
-            @media (min-width: 768px) and (max-width: 1023px) {
-              .nav-links {
-                padding: 24px 28px 18px 28px;
-              }
-              
-              .scroll-content {
-                padding: 32px 28px 50px 28px;
-              }
-              
-              #topics-toggle {
-                padding: 15px 28px;
-              }
-              
-              #topics-links {
-                padding: 90px 28px 32px 28px;
-              }
-              
-              #topics-links a {
-                font-size: 1.08rem;
-                padding: 16px 22px;
-              }
-            }
-            
-            @media (max-width: 767px) {
-              .nav-links {
-                padding: 16px 16px 14px 16px;
-              }
-              
-              .scroll-content {
-                padding: 20px 16px 32px 16px;
-              }
-              
-              #topics-toggle {
-                padding: 12px 20px;
-                font-size: 0.95rem;
-              }
-              
-              #topics-links {
-                padding: 70px 16px 24px 16px;
-              }
-              
-              #topics-links a {
-                font-size: 1rem;
-                padding: 14px 18px;
-              }
-            }
-            
-            @media (max-width: 480px) {
-              .nav-links {
-                padding: 14px 14px 12px 14px;
-              }
-              
-              .scroll-content {
-                padding: 16px 14px 28px 14px;
-              }
-              
-              #topics-toggle {
-                padding: 11px 18px;
-                font-size: 0.9rem;
-              }
-              
-              #topics-links {
-                padding: 60px 14px 20px 14px;
-              }
-              
-              #topics-links a {
-                font-size: 0.95rem;
-                padding: 13px 16px;
-              }
-              
-              .section {
-                margin-bottom: 32px;
-              }
-            }
-
-            #modalText > div::-webkit-scrollbar {
-              width: 10px;
-              height: 10px;
-              background: #fff;
-            }
-            #modalText > div::-webkit-scrollbar-thumb {
-              background: #fff;
+	    
+          .profile-image
+	   {
+              width: 100%;
+              max-width: 200px;
+              height: auto;
               border-radius: 10px;
-              border: 2px solid #222;
-            }
-            #modalText > div::-webkit-scrollbar-track {
-              background: #222;
-              border-radius: 10px;
-            }
-            #modalText > div {
-              scrollbar-width: thin;
-              scrollbar-color: #fff #222;
-            }
-          </style>
+              display: block;
+              margin: 0 auto 20px;
+           }          
 
-          <div class="nav-links">
-          <h2> Kosmos Society - Company Info </h2>
+       .name 
+	{
+           font-size: 18px;
+           color: #000;
+           font-weight: bold;
+           text-align: center;
+           margin-top: 20px;
+           margin-bottom: 10px;
+	   color: rgba(128,128,128,1);
+        }
+
+       @media (max-width: 768px) 
+       {
+           .profile-image 
+	   {
+               max-width: 150px;
+           }
+           
+           .name 
+	   {
+               font-size: 16px;
+               color: rgba(128,128,128,1);
+           }
+       }
+               
+       @media (max-width: 480px) 
+       {
+           .profile-image 
+	   {
+               max-width: 120px;
+           }
+           
+           .name 
+	   {
+               font-size: 14px;
+               color: rgba(128,128,128,1);
+           }
+       }
+
+       /* Alternative button styles */
+       .minimal-tag 
+       {
+           display: inline-flex;
+           align-items: center;
+           gap: 8px;
+           padding: 8px 16px;
+           background: white;
+           color: #0077b5;
+           text-decoration: none;
+           border-radius: 50px;
+           font-weight: 500;
+           font-size: 14px;
+           border: 2px solid #0077b5;
+           transition: all 0.3s ease;
+           margin: 10px 10px;
+       }
+
+       .minimal-tag:hover 
+       {
+           background: #0077b5;
+           color: white;
+       }	    
+
+         </style>
+
+         <div class="nav-links">
             <button id="topics-toggle">Company info - Show topics</button>
             <div id="topics-links">
-          <a href="#founders">&nbsp;&nbsp; 01. Our founders </a>
-          <a href="#thanks">&nbsp;&nbsp; 02. Thanks </a>
-          <a href="#joinus">&nbsp;&nbsp; 03. You can join us if... </a>
-          <a href="#weoffer">&nbsp;&nbsp; 04. We offer you as a worker what no other company offers </a>
-          <a href="#bmodel">&nbsp;&nbsp; 05. Our simple business model </a>
-          <a href="#socifund">&nbsp;&nbsp; 06. Our social fund </a>
+	      <a href="#founders">&nbsp;&nbsp; 01. Our founders </a>
+	      <a href="#thanks">&nbsp;&nbsp; 02. Thanks </a>
+	      <a href="#joinus">&nbsp;&nbsp; 03. You can join us if... </a>
+	      <a href="#weoffer">&nbsp;&nbsp; 04. We offer you as a worker what no other company offers </a>
+	      <a href="#bmodel">&nbsp;&nbsp; 05. Our simple business model </a>
+	      <a href="#socifund">&nbsp;&nbsp; 06. Our social fund </a>
        	      <a href="#demo">&nbsp;&nbsp; 07. First demo of our Alef-A kosmos ship </a>
               <a href="#news">&nbsp;&nbsp; 08. News </a>
 	      <a href="#contact">&nbsp;&nbsp; 09. Contact info </a>
             </div>
-            </div>
+
+         </div>
 
          <div class="scroll-content">
                   
@@ -5453,96 +5021,62 @@ document.querySelectorAll(".chapter-card").forEach((card) => {
 
        </div>
 
-
        </div>
      `;
-      modal.style.display = "flex";
-      // Topics toggle event listener
-      setTimeout(function () {
-        var toggleBtn = document.getElementById("topics-toggle");
-        var linksDiv = document.getElementById("topics-links");
-
+modal.style.display = 'flex';
+// Attach Topics toggle event after DOM update
+      setTimeout(function() {
+        var toggleBtn = document.getElementById('topics-toggle');
+        var linksDiv = document.getElementById('topics-links');
         if (toggleBtn && linksDiv) {
-          toggleBtn.addEventListener("click", function () {
-            if (
-              linksDiv.style.display === "none" ||
-              linksDiv.style.display === ""
-            ) {
-              linksDiv.style.display = "flex";
-              toggleBtn.innerHTML = "Techno systems - Hide topics";
+          toggleBtn.addEventListener('click', function() {
+            if (linksDiv.style.display === 'none' || linksDiv.style.display === '') {
+              linksDiv.style.display = 'flex';
+              toggleBtn.innerHTML = 'Company info - Hide topics';
             } else {
-              linksDiv.style.display = "none";
-              toggleBtn.innerHTML = "Techno systems - Show topics";
+              linksDiv.style.display = 'none';
+              toggleBtn.innerHTML = 'Company info - Show topics';
             }
           });
-
-          // Add event listeners to links
-          var navLinks = linksDiv.querySelectorAll("a");
-          navLinks.forEach(function (link) {
-            link.addEventListener("click", function (e) {
+          // Add event listeners to links to close topics box on click
+          var navLinks = linksDiv.querySelectorAll('a');
+          navLinks.forEach(function(link) {
+            link.addEventListener('click', function(e) {
+              linksDiv.style.display = 'none';
+              toggleBtn.innerHTML = 'Company info - Show topics';
+              // Prevent default anchor behavior
               e.preventDefault();
-
-              // Close the topics overlay and update toggle text
-              linksDiv.style.display = "none";
-              toggleBtn.innerHTML = "Techno systems - Show topics";
-
               // Get the target section
-              var targetId = link.getAttribute("href").replace("#", "");
+              var targetId = link.getAttribute('href').replace('#', '');
               var targetElem = document.getElementById(targetId);
-
-              // Remove the hash from the URL
+              // Remove the hash from the URL without reloading
               if (window.location.hash) {
-                history.replaceState(
-                  null,
-                  "",
-                  window.location.pathname + window.location.search,
-                );
+                history.replaceState(null, '', window.location.pathname + window.location.search);
               }
-
-              // Smooth-scroll to the target section within modalText
+              // Scroll to the section after closing Topics box
               if (targetElem) {
-                var modalTextDiv = document.getElementById("modalText");
-                var navLinks = document.querySelector(".nav-links");
-
-                if (modalTextDiv && navLinks) {
-                  // Get the height of the sticky nav header
-                  var navHeight = navLinks.offsetHeight;
-
-                  // Calculate target position with offset
-                  var targetPosition = targetElem.offsetTop - navHeight - 20; // Extra 20px spacing
-
-                  modalTextDiv.scrollTo({
-                    top: targetPosition,
-                    behavior: "smooth",
-                  });
-                }
+                setTimeout(function() {
+                  targetElem.scrollIntoView({behavior: 'smooth'});
+                }, 200);
               }
             });
           });
         }
       }, 0);
-    }
-  });
+      // End of modalText.innerHTML assignment
+      modal.style.display = 'flex';
+       
+}
 
-  closeModal.onclick = function () {
-    modal.style.display = "none";
-
-    // Close topics dropdown if open
-    var linksDiv = document.getElementById("topics-links");
-    if (linksDiv) {
-      linksDiv.style.display = "none";
-    }
-  };
-
-  window.onclick = function (event) {
-    if (event.target === modal) {
-      modal.style.display = "none";
-
-      // Close topics dropdown if open
-      var linksDiv = document.getElementById("topics-links");
-      if (linksDiv) {
-        linksDiv.style.display = "none";
-      }
-    }
-  };
 });
+});
+
+closeModal.onclick = function() {
+modal.style.display = 'none';
+}
+
+window.onclick = function(event) {
+if (event.target === modal) {
+modal.style.display = 'none';
+}
+}
