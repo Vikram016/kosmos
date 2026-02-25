@@ -266,10 +266,12 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p style='margin-left:2em;margin-bottom:10px;'><span>(e).</span> 
-	     Intelligence : The root of our ideas won't be based on mathematical equations but on natural intelligence, sensory observation, reflection,
-	     empathy, discussion, experiment, simplification and improvement. For us, mathematics is one of the processes and not a science by tself. 
-	     We reject professional mathematicians... we will live and travel in the real kosmos and mathematicians can live and travel in the non-real 
-	     14th Space-Time Dimension possible in their equations.
+	     Intelligence : The roots of our ideas won't be based on mathematical equations but on natural intelligence, sensory observation, reflection,
+	     empathy, discussion, experiment, simplification and improvement. For us, mathematics is one of the processes and not a science by itself. 
+	     We reject professional mathematicians. We will live and travel in the real kosmos and mathematicians can live and travel within the non-real 
+	     14th Multi-verse Space-Time Dimension possible in their mathematical equations written on a white board in some international conference 
+	     presided by some so-called genius mathematician chess grandmaster. Our company forwards simple, honest and intelligent thinking... 
+	     not deification of fake so-called sciences.
 	   </p>
 
 	   <p style='margin-left:2em;margin-bottom:10px;'><span>(f).</span> 
@@ -291,12 +293,12 @@ modalText.innerHTML = `
            </p>
 
 	   <p style='margin-left:2em;margin-bottom:10px;'><span>(i).</span> 
-	     Realness : The wearable computer in the following wonderful sci-fi short film on YouTube called 
+	     Realness : Like the wearable computer in the following visually wonderful sci-fi short film on YouTube called 
 	     "ICE - A Thousand Suns / Episode 1" and is at this link [ https://www.youtube.com/watch?v=RXaVgAxtYFI ].
 	   </p>
 
            <p style='margin-left:2em;margin-bottom:10px;'><span>(j).</span> 
-	     Humanism : Not using the Capitalist and profiteering word "Payload" to describe what can be simply called "Cargo".
+	     Humanism : Like not using the Capitalist and profiteering word "Payload" to describe what can be simply called "Cargo".
 	   </p>
 
            </div>
@@ -349,8 +351,8 @@ modalText.innerHTML = `
              Our Faradn generator system will be such a generator which will power all our non-micro-sized products 
              by sitting within them or just outside them. It will produce 24 volts DC which is enough for most purposes, 
              neither too low a current nor dangerously high. Once started, this generator will continuously produce current 
-	     of 24 volts DC for at least a month... this is the self-sustained part. After a month the generator 
-	     can be easily refurbished at any small repair shop in any Earthen neighborhood or in a kosmos ship or on another world.
+	     of 24 volts DC for at least a month... this is the self-sustained part. After a month the generator can be easily refurbished at 
+	     any small repair shop in any Earthen neighborhood or in a kosmos ship or a city on another world.
            </p>
 
            <p>
@@ -509,7 +511,7 @@ modalText.innerHTML = `
 
            <li style="margin-left:1em; margin-bottom:10px;">
              <span> >> </span> 
-             Sound is also easier and cheaper to produce, receive and use in computation and storage than light ( optical computing and storage ).
+             Sound is also easier and cheaper to produce, receive and use in computation than light ( optical computing ).
            </li>
 
 	   </ul>
@@ -570,7 +572,7 @@ modalText.innerHTML = `
 
            <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
              Talk of how many "stages to orbit" does not apply here because the airship-type kosmos ship will be a single, undivided machine unlike the 
-	     at least two stages of the Tall Rocket. The "stages to orbit" is a terminology from the POV of Tall Rocket technology.
+	     at least two stages of the Tall Rocket. The "stages to orbit" is a terminology from the POV of Tall Rocket technology, useless for us.
 	   </li>
 
            </ul>
@@ -602,8 +604,13 @@ modalText.innerHTML = `
              Coal combustion will also be used for effects like braking and positioning near destinations and then for descent on some world.
            </p>
 
-	   <p>  
+	   <p>
              The Alef-A will also allow for short-distance kosmos travel like from Earth to Moon's surface.
+           </p>
+	   
+	   <p>
+             This Alef-A airship-type flying vehicle will also be usable on Earth and on other worlds for emergency situations like rescue, dousing of forest fire and 
+	     other uses. One general-purpose vehicle for multiple uses.
            </p>
 
            </div>
@@ -661,11 +668,11 @@ modalText.innerHTML = `
              Alif ( "The first" ), meaning these kosmos ships are just the first types of kosmos ships from our organization. Further will be more types. 
 	     </li>
            </ul>
-           
+
            <p>
              Both the Alef-A and the Alef-F will be primarily propelled in the kosmos by water steam jets and this is advantageous because :
 	   </p>
-           
+
            <ul>
 
              <li style="margin-left:1em; margin-bottom:10px;">
@@ -677,7 +684,7 @@ modalText.innerHTML = `
 	     </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
-	       <span>&gt;&gt;</span> Water doesn't explode normally unlike rocket fuel like liquid hydrogen.
+	       <span>&gt;&gt;</span> Water doesn't explode normally unlike traditional rocket fuel like liquid hydrogen.
 	     </li>
 
              <li style="margin-left:1em; margin-bottom:10px;">
@@ -980,7 +987,7 @@ modalText.innerHTML = `
                So we will design the Moggy robot cat which will be a large cat-like robot which can travel on the surface of ground, on the surface of water, 
 	       within water and in the air of any world having atmosphere or no atmosphere as the case may be, including Earth, and 
 	       able to carry either a single kosmonaut or up to 90 kgs load. Its walk, swim and other movements will be as graceful, silent, quick and strong as a cat and 
-	       this will involve replicating the bone structure, sensors and muscles of cats.
+	       this will involve replicating the bone structure, sensors, muscles and computations of cats.
 	     </p>
 
 	     <p>
@@ -1035,12 +1042,12 @@ modalText.innerHTML = `
 	     <p>
 	       This robot cat as a human transport mechanism for single humans is for the initial exploration of other worlds. When more humans begin to live, 
 	       say on the Moon, our Ra surface vehicle will be used to transport 20 humans at once in the vehicle's kosmos-use version. This vehicle is
-	       described in the "City redesign on Earth" topic in the "Our social system - Iskra" chapter. In its kosmos-use version it will be built on a world like 
-	       the Moon and will never leave that world.
+	       described in the "City redesign on Earth" topic in the "Our social system - Iskra" chapter. In the Ra vehicle's kosmos-use version 
+	       it will be built on a world like the Moon and will never leave that world.
 	     </p>
 
 	     <p>
-	       There will be a baby version of this robot cat to enter small tunnels.
+	       There will be a baby version of the Moggy robot cat to enter small tunnels.
 	     </p>
 
              <p>
@@ -1048,8 +1055,7 @@ modalText.innerHTML = `
              </p>
 
 	     <p>
-	       "Moggy" is the British name for the common city cat... a typical cat without "pedigree". A democratic name. By nature, any cat is a cat is a cat and 
-	       normally only the largest cats don't intermingle most times.
+	       "Moggy" is the British name for the common city cat... a typical cat without "pedigree". A democratic name. By nature, any cat is a cat is a cat.
 	     </p>
 
 	   </div>	   
@@ -1113,7 +1119,7 @@ modalText.innerHTML = `
            <h2> 11. Serf satellite for Earth orbit debris cleaning</h2>
 
            <p>
-             There are an estimated 100 million human-made pieces of various sizes in Earth orbit, made
+             There are said to be millions of human-made pieces of various sizes in Earth orbit, made
              of metal and other material, which are debris from parts of non-functioning satellites and
              parts from other discarded kosmik vehicles. These pieces size from tiny to large and travel
              around Earth at very high speeds ( 20,000+ kmph ).
@@ -1614,8 +1620,13 @@ modalText.innerHTML = `
 
            <p> 
              We present the draft of a social system for all humans in the kosmos, including on Earth. This social system is simple, progressive, rational, gentle, 
-	     collaborative, pan-humanist, harmonious and Nature-ordained. This draft social system seeks to remove all the artificial and needless unpleasantnesses, 
-	     tragedies and anti-natural beliefs that humans do or endure presently on Earth.
+	     collaborative, pan-humanist, harmonious and Nature-ordained.
+           </p> 
+
+           <p> 
+             This draft social system seeks to remove all the artificial and needless unpleasantnesses, tragedies and anti-natural beliefs that humans do or 
+	     endure presently on Earth. Life should be made as simple, honest, empathetic, gentle, rational, Nature-ordained and intelligent as possible... 
+	     anything preventing this is not needed.
            </p>
 
            <p>
@@ -3571,22 +3582,26 @@ modalText.innerHTML = `
            <h2> 12. City redesign on Earth</h2>
 
            <p>
-             This effort will consist of designing small cities on Earth which will hold resident populations of max 30,000 plus a few thousand guests. 
+             This effort will be towards radically re-looking at city design on Earth by building small cities on Earth which will hold resident populations of 
+	     max 30,000 plus a few thousand guests.
+           </p>
+
+           <p>
 	     These cities will combine aesthetic form with function and will be scientifically-built, horizontally spread, citizen-managed through the citizens 
 	     directly participating using the natural and progressive concept of Workers Cooperatives ( described in the "Social organization of kosmonauts" 
-	     topic above ), humanist, easy to maintain, not create pollution, largely food-wise self-sufficient, largely employment-wise self-sufficient, gentle, 
-	     collaborative, humanist, inherent with fraternity, inherent with Circular Economy and construction features which calm the citizens, 
-	     delight their senses and inspire.
+	     topic above ), having collectivized labor, being humanist, easy to maintain, not create pollution, public transportation without personal vehicles, 
+	     largely food-wise self-sufficient, largely employment-wise self-sufficient, gentle, collaborative, inherent with fraternity, inherent with Circular Economy and
+	     inherent with construction features which calm the citizens, delight their senses and inspire.
            </p>
 
            <p>
 	     These new cities will take the pressure off current chaotic and soul-less cities, infuse humanity into those humans who live in current cities and also bring 
 	     reasonable city culture to rural people because ideally great ideas, discussions and developments happen in the cities and rural areas in many parts 
-	     of the world are rife with feudalism, non-safety and pollution.
+	     of the world are rife with feudalism, non-safety, apathy, cruelty and pollution.
            </p>
 
            <p>
-             The ideas for these cities mingle with our ideas for human exploration of the kosmos and from human exploration of the kosmos.
+             The ideas for our new cities mingle with our ideas for human exploration of the kosmos and from human exploration of the kosmos.
 	   </p>
 
            <p>
@@ -3947,9 +3962,9 @@ modalText.innerHTML = `
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";> 
-             There is also the fact that a few of such exam-based, other-competitions-based societies will socio-economic boycott a family not seen as money-having and 
-	     not seen getting through the actually horizontal ladder of "career" life which starts with the child getting "good marks" in schooling, then jobs, 
-	     then marriage, then children, they getting into schooling and cycle repeating.
+             There is also the fact that a few of such exam-based, other-competitions-based societies will socio-economically boycott a family not seen as 
+	     money-having and not seen getting through the actually horizontal ladder of "career" life which starts with the child getting "good marks" in schooling,
+	     then jobs, then marriage, then children, they getting into schooling and cycle repeating.
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>  
@@ -4659,9 +4674,9 @@ modalText.innerHTML = `
          </div>
 
 	 <p style="margin-bottom:4px;"> 
-           Syed is a practical person but also philosophical. He has been a patient 
-           supporter of the organization from the time it was thought up in early 2023 but also his discussions 
-	   with Sameer about kosmik travel going back to 2007. He contributes presently to our electricity generator project, 
+           Syed is a practical person but also philosophical. He has been a patient supporter of the organization 
+	   from the time it was thought up in early 2023 but his discussions with Sameer about kosmik travel go back to 2007, 
+	   with the initial discussion done on a terrace. Syed contributes presently to our electricity generator project, 
 	   our kosmos ship projects, our robot cat project and our hovercraft-wheelcraft project.
          </p>
 
@@ -4675,23 +4690,9 @@ modalText.innerHTML = `
 
            <p style="margin-bottom:4px;"> 
              Mahmoud is based in Cairo and will manage liaison to the administrations and 
-             the masses in the vast region that is Africa. He is a straight-talking person 
+             the masses in the vast region that is Africa. He is a decent, straight-talking person 
              and patient including the time it took for the organization to come to this level.
-           </p>         
-
-         <p class=name> Syed Athiq Jeelani - Advisor </p>
-	 
-	 <div>
-           <img src="assets/Athiq photo.jpeg" 
-              alt="Syed Athiq Jeelani " 
-              class="profile-image">
-         </div>
-
-           <p style="margin-bottom:4px;"> 
-             Athiq dabbles in various fields like power adapter design, ready-to-cook foods 
-             and management of a school. Athiq is inquisitive, patient and provides a practical side to 
-             things. He is our electrical expert.
-           </p> 
+           </p>
 
            </div>
 
@@ -4706,7 +4707,7 @@ modalText.innerHTML = `
 
            <p><span>&gt;&gt;</span> 
              Vikram for the logo, for the website design, for provoking the thought in us to have this Thanks topic and for reminding about water-powered turbine 
-	     in a discussion which hours later led to the idea of turbines powered by compressed air. Thanks to him also for provoking the idea for 
+	     in a discussion which hours later led to the idea of turbines powered by compressed air. Thanks to him also for provoking the idea in us for 
 	     the topic against free market, money and profit which is in the "Our social system - Iskra" chapter. Thanks to him also for mentioning the need for 
 	     vehicle-based short distance transportation for humans.
            </p>
@@ -4728,10 +4729,10 @@ modalText.innerHTML = `
 	   </p>
 
            <p><span>&gt;&gt;</span> 
-             Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, 
-	     made using an electro-magnetic relay. This vid called "1026 The easiest inverter you will ever make" is on this page 
+             Robert Murray-Smith on his YouTube channel "ThinkingandTinkering" for the idea about using a simple electro-mechanical vibrator for 
+	     amplification of electricity, made using an electro-magnetic relay. This vid called "1026 The easiest inverter you will ever make" is on this page 
 	     [ https://www.youtube.com/watch?v=L-vC9SvU2Lo ]. This we use in our design of the Faradn generator. 
-	     We also thank him for the idea of "Local social empowerment" which he presents through his channel.
+	     We also thank him for the idea of "Local social empowerment" which he presents through the projects on his channel.
            </p>
 
            <p><span>&gt;&gt;</span> 
@@ -4810,7 +4811,7 @@ modalText.innerHTML = `
            </p>
 
            <p><span>&gt;&gt;</span>
-	     Jamal Abdul Nasser for the idea about having a social fund within our company.
+	     Jamal Abdul Nasser of Bangalore for the idea about having a social fund within our company.
            </p>
 
            <p><span>&gt;&gt;</span>
@@ -4856,7 +4857,7 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p><p><span>&gt;&gt;</span> 
-	     If you consider tea as one of the main human gifts giveable to alien cultures, ha ha.	
+	     If you consider tea as one of the main human gifts giveable to alien cultures in the kosmos, ha ha.	
 	   </p>
 
 	   <p><p><span>&gt;&gt;</span> 
@@ -4869,40 +4870,40 @@ modalText.innerHTML = `
            <div id="weoffer" class="section">
            <h2> 04. We offer you as a worker what no other company offers </h2>
 
-	   <p><p><span>&gt;&gt;</span> 
-	     You will be at the front of progressive evolution of humanity, both social evolution and technological.
+	   <p><span>&gt;&gt;</span> 
+	     You will be at the front of techno-social progressive evolution of humanity. No other single organization can say this to you.
 	   </p>
 
-           <p><p><span>&gt;&gt;</span> 
-	     We won't demand from you "high education percentiles", college degrees and "20 years of experience in the corporate world". 
-	     If you can work on our projects using natural intelligence and perhaps experience in the subject, 
+           <p><span>&gt;&gt;</span> 
+	     We won't demand from you useless, obsolete things such as "high education percentiles", college degrees and 
+	     "20 years of experience in the corporate world". If you can work on our projects using natural intelligence and perhaps experience in the subject, 
 	     or if you can help us maintain our company in other ways like security work, you join us. But this depends on your acceptance of our 
 	     democratic and natural ways.
 	   </p>
 
-	   <p><p><span>&gt;&gt;</span> 
+	   <p><span>&gt;&gt;</span> 
 	     Our company is structured as a Workers Cooperative where you will be an equal co-owner of the company and 
 	     not an oppressed subordinate to some feudal boss. Please read the "Social organization of kosmonauts" topic in the "Our social system - Iskra" chapter and 
 	     return to this point. That topic describes the Workers Cooperative concept through which the workers will own the means of production.
 	   </p>
 
-	   <p><p><span>&gt;&gt;</span> 
+	   <p><span>&gt;&gt;</span> 
 	     You will have the same equal salary as everyone else in the company and this salary 
 	     will be comfortable but not an obscene amount which is waved in the face of poor people. 
 	     We want you to have decency, empathy and pan-human fraternity.
 	   </p>
 
-	   <p><p><span>&gt;&gt;</span> 
+	   <p><span>&gt;&gt;</span> 
 	     For any company formation rules about equity, our company's equity will be divided into three parts : 
 	     one for the founders, the second for the investors and the third for new co-workers where the founders will dilute 
 	     their equity equally so that all new and old workers have equal equity.
 	   </p>
 
-	   <p><p><span>&gt;&gt;</span> 
+	   <p><span>&gt;&gt;</span> 
 	     For the money required to maintain the company, all workers will put an equal share from their salary into the company maintenance money pool.
 	   </p>
 
-	   <p><p><span>&gt;&gt;</span> 
+	   <p><span>&gt;&gt;</span> 
 	     The kosmos industry is a permanent one so with us you will be in permanent employment. We don't do fashionable and nonsense tech like 
 	     quantum computing, edtech, fintech, humanoid robots and Tall Rockets with legs. We don't know what is market cap and we don't want to be 
 	     a unicorn company. We are simple people and are designing real and useful technologies and social systems.
@@ -4965,19 +4966,21 @@ modalText.innerHTML = `
 	   </p>
 
            <p>
-	     We call this as "Social fund" and not CSR ( Corporate Social Responsibility ) because CSR is hypocrisy. Some big IT company will have millions of dollars 
-	     owned by the feudal owner and the millions of dollars were made on the back of exploitative labor done by the workers and some of these workers 
-	     may have suicided because of oppressive, unjust situation within the company.
+	     We call this as "Social fund" and not CSR ( Corporate Social Responsibility ) because CSR is hypocrisy. Some big IT company in Bangalore or Boston 
+	     will have millions of dollars owned by the feudal owner and the millions of dollars were made on the back of exploitative labor done by the workers and 
+	     some of these workers may have suicided because of oppressive, unjust situation within the company.
            </p>
 
            <p>
-             But the feudal owner will set up a CSR department which will "adopt" a village school in Kenya or India or Brazil and 
+             But the rich feudal owner will set up a CSR department which will "adopt" a village school in India or Kenya and 
 	     provide ten students with free school books, uniform and footwear and declare that they are "Dil dariya" ( Urdu words for "Heart as wide as the sea" )
-	     while the very previous day one of their workers suicided because of overwork and the feudal owner didn't even attend the funeral.
+	     while the very previous day one of their workers suicided because of needless overwork and the feudal owner didn't even attend the funeral. 
+	     Tragi-comedy.
            </p>
 
            <p>
-             Hence our social fund and this is a natural association for us because we are a non-profit internally-democratic organization.
+             Hence our company's social fund and this is a natural association for us because we are a non-profit, 
+	     internally-democratic organization... something every organization should be.
            </p>
 
            </div>
@@ -4986,7 +4989,7 @@ modalText.innerHTML = `
            <h2> 07. First demo of our Alef-A kosmos ship </h2>
 
            <p>
-	     The first manned flight of our Alef-A airship-type kosmos ship will be in 2030 and will take three people to Low Earth Orbit.
+	     The first crewed flight of our Alef-A airship-type kosmos ship will be in 2030 and will take three people to Low Earth Orbit.
 	   </p>
 
            </div>
@@ -5010,14 +5013,15 @@ modalText.innerHTML = `
 	  <p><span>Email :</span> 
 	    [ hello@kosmossociety.space ] and [ kosmos.society.2033@gmail.com ]
 	  </p>
-	  
+
           <p><span>Physical address :</span> 
 	    Presently most of us are based in Bangalore city, India, but we will base our HQ in Calcutta city ( now called Kolkata ) 
-	    which is in the east side of India. This move because Calcutta is the only true city in India though it can be lot more improved.
+	    which is in the east side of India. This move because Calcutta is the only true city in India with much progressivism as built culture 
+	    including Socialist intellectualism, though Calcutta can be lot more improved.
 	  </p>
 
-	  <p><span>Talk to us in person over tea.</span> 
-	  </p>	  
+	  <p><span>Talk to us in person over tea.</span>
+	  </p>
 
        </div>
 
@@ -5080,3 +5084,4 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
