@@ -3920,9 +3920,13 @@ modalText.innerHTML = `
 
            <p>
              However, South Asian society generally is not considered among the contributors of science and technology nor of better human social systems 
-	     despite this region considering a college degree as being the primary mark of knowledge. Indeed, most of this society is a mere user of machines and 
-	     knowledges that other societies and individual people of different thinking, natural thinking, a few within South Asia too, created over thousands of years 
-	     without consideration of college degrees, getting royalties or other kinds of artificial social separations and taxes.
+	     despite this region considering a college degree the primary mark of knowledge.
+           </p>
+
+           <p>
+             Indeed, most South Asian society is a mere user of machines and knowledges that other societies and individual people of different thinking...
+	     natural thinking... a few such peepz within South Asia too... created over thousands of years without consideration of college degrees, getting royalties or
+	     other kinds of artificial social separations and taxes.
            </p>
 
            <p>
@@ -3944,9 +3948,18 @@ modalText.innerHTML = `
            </p>
 
            <p>
-	     Then there is the needless nonsense about the system of Scholarships. A feudal social system deliberately constructs few educational institutions and 
-	     most of these buildings are given away to Capitalists who want to profit from something that should be available to everyone without the learners 
-	     giving money to the institutions or having to give other taxes like having a minimum of 85 percent in a previous exam.
+	     Are these yearly murders of youth by their own zombie parents the demonstrations of the great morality of this culture which many South Asians trumpet 
+	     to people of other cultures, especially the supposed immoral people of the West ?
+           </p>
+
+           <p>
+	     Then in this so-called Education System there is the nonsense of Scholarship System :
+           </p>
+
+           <p>
+             A feudal social system deliberately constructs few educational institutions and most of these buildings are given away to Capitalists who want to profit 
+	     from something that should be available to everyone without the learners giving money to the institutions or having to give other taxes like 
+	     having a minimum of 85 percent marks in a previous exam.
            </p>
 
            <p>
@@ -3961,32 +3974,38 @@ modalText.innerHTML = `
            </p>
 
            <p>
-	     But just so that these leaders don't overtly seem cruel, they create the system of Scholarship where aspiring learners are told that 
-	     they must have very high exam rank to be consider qualified to obtain the rare seat in some "prestigious educational institute". 
-	     This becomes another glorification of competition.
+	     But just so that these profiteering leaders don't overtly seem cruel, they create the system of Scholarship where aspiring learners 
+	     who are poor, they are told that they must have very high exam rank to be consider qualified to obtain the rare "free" seat in some 
+	     "prestigious educational institute". This becomes another glorification of competition.
            </p>
 
-           <p>  
-             The students who become considered worthy of getting that rare seat, they are told that they got Scholarship and in many cases these students 
-	     don't have to pay the tuition fee for one year or three years in that institute. And those aspiring learners who didn't get selected for that rare "seat" 
-             in that "prestigious institute", these learners either have to settle for taking a loan and paying fee in another institute or they are advised to 
-	     try for "scholarship" in the same "prestigious institute" the next year.
+           <p>
+             The students who become considered worthy of getting that rare "free" seat, they are told that they got Scholarship and must be grateful for this and 
+	     they have to follow the feudalist and capitalist culture of this society and become a cog in the wheel of servitude to some feudal.
+           </p>
+
+           <p>
+             And those aspiring learners who didn't get selected for that rare "free seat" in that "prestigious institute", these learners either 
+	     have to settle for taking a loan and paying fee in that institute or another institute, or they are advised to try for "scholarship" in the same 
+	     "prestigious institute" the next year.
            </p>
 
            <p>
 	     But why this hurry-burry and stress imposed on the students ? If a society can build a huge number of grand prayer houses, the same society can build 
 	     more number of educational institutes which take no tax from the aspiring learners, whether in form of money or high number of marks in 
-	     previous exams.
+	     previous exams, and thus no artificial scarcity of "seats" in the college and no competition in education and no competition otherwise too.
            </p>
 
            <p>
-	     Such social systems are pressure cooker societies where many students either suicide every year, or they reconcile to passing the exams and 
-	     becoming wage slaves for the rest of their lives, ignoring any talent and potential they have.
+	     But social systems such as in South Asia are pressure cooker societies where many students either suicide every year, or they reconcile to 
+	     passing the exams and becoming wage slaves for the rest of their lives, ignoring any talent and potential they have. Other students who cannot bear this 
+	     and do not rebel, they suicide.
            </p>
 
            <p>
-	     There is no rational thinking in sacrificing dozens or hundreds of human students every year at the altar of these fake gods called Competition, Exam and
-	     Degree. They must be abolished like we must abolish any irrational and anti-human system like tax including money.
+	     There is no rational thinking in sacrificing dozens or hundreds of human student youth every year at the altar of these fake gods called Competition, 
+	     Exam and Degree. What has South Asia achieved after five to eight decades of these sacrifices ? This irrational and anti-human system must be abolished
+	     like we must abolish any irrational and anti-human system like tax including money.
            </p>
 
            <p>
