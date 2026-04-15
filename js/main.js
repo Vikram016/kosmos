@@ -283,10 +283,16 @@ modalText.innerHTML = `
 
              <p>
                Bio-batteries based on botanical plants and plant materials can be used to provide the starting electricity or indoors electricity in some situations, 
-	       like production or repair workshop in a kosmos ship or in a Earthern neighborhood including to produce or refurbish our Faradn generator. 
-	       Also possible is some emergency situation where Faradn generator isn't somehow available or has failed. Such bio-batteries allows 
-	       ease, bio safety, eco-friendliness, social harmony, sustainability, local material production and decentralization in terms of its electrolyte materials,
-	       electrodes, packaging, carryability, use and manufacture.
+	       like production or repair workshop in a kosmos ship or in a Earthern neighborhood including to produce or refurbish our Faradn generator.
+             </p>
+
+             <p>
+	       Bio-batteries are also useful in emergency situations where Faradn generator isn't somehow available or has failed.
+             </p>
+
+             <p>
+               Bio-batteries allows ease, bio safety, eco-friendliness, social harmony, sustainability, local material production and decentralization in terms of 
+	       its electrolyte materials, electrodes, packaging, carryability, use and manufacture.
              </p>
 
            </div>
@@ -302,35 +308,75 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             Since we are going away radically from traditional electronic computing, this "away" will include new data formats in all aspects of our wearable computer. 
-	     Our new data formats used for sensors, computation, storage, wireless transmission and display will neither be based on 
-	     the traditional binary format ( "bits" made of 0 and 1 ) nor the also old but not usually used ternary format ( "trits" made of -1, 0, 1 ). 
-	     We will form data formats that are for our system and simple.
+	     Also, in situations when the Dune Buk's user is not wearing the Dune Buk, it can stand balanced on any surface with its screen stiff too.
+           </p>
+
+           <p>
+             About formation of the basic unit of data ( like a single bit in present electronic computers ), since we are going away radically from 
+	     traditional electronic computing, this "away" will include new data forms in all aspects of our wearable computer. 
+	     Our new data forms will be used for sensors, computation, storage, wireless transmission and display, 
+	     and will neither be based on the traditional binary format ( "bits" made of 0 and 1 ) nor the also old but not usually used ternary format 
+	     ( "trits" made of -1, 0, 1 ). We will create new data forms that are for our system and simple.
 	   </p>
 
            <p>
-             The Dune Buk's processor will be called Meow and will use sound for the computations. "Meow" usually
-             is the sweetest of sounds. Some of the processor's design will derive from our previous
-             processor+OS project, Kosmos, which was an open source project that remains documented
-             on the OpenCores website on this page [ opencores.org/projects/taar ]. The Meow processor
-             will have two computation parts which both use sound - a digital part for regular
+             The Dune Buk's processor will be called Meow and will use sound for the computations.
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             <span> (a). </span> "Meow" usually is the sweetest of sounds.
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             <span> (b). </span> Some of the processor's design will derive from our previous processor+OS project, Kosmos, 
+	     which was an open-source project where the processor was electronic. This project remains documented on the OpenCores website on this page 
+	     [ opencores.org/projects/taar ].
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             <span> (c). </span> The Meow processor will have two computation parts which both use sound - a digital part for regular
              computations and an analog part for more complex computations like image recognition.
            </p>
 
            <p>
-             This computer will use novel methods for data storage in form of faster visuals-based
-             temporary memory and fast micromechanical switches for slower permanent memory.
+             This computer will use novel methods for data storage in three forms :
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             <span> (a). </span> Faster visuals-based temporary memory within the wearable computer.
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             <span> (b). </span> Fast micromechanical switches for slower, permanent, intermediate memory within the wearable computer.
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             <span> (c). </span> Biological storage within humans and plants for very large memory. Please read the "Biology researches" topic below in this chapter. 
+	     This allows decentralized, person-level or plant-level data storage of large amounts of data instead of in the huge, centralized data centers of now.
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span> (ca). </span> Imagine a rose plant in your bedroom being your personal data center... or yourself being your data center... 
+	     and this type of bio-based, personal, micro data center will operate with massively less resources than the present centralized data centers. 
+	     What is the resource cost of maintaining a plant or yourself ?
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span> (cb). </span> And this bio data-center is portable... goes wherever you can take that rose plant or wherever you take yourself.
            </p>
 
            <p>
-             We are discussing a simple and universal way of sensing the electromagnetic spectrum using
-             sound. The electromagnetic spectrum includes light in all its variations.
+             The display will be a projected display system showing GUI on a screen pullable to the front of the user, parallel to the user's standing surface. 
+	     Screen input will be performed in two ways :
            </p>
 
-           <p>
-             The display will be a projected display system showing GUI on a screen pullable to the front
-             of the user, parallel to the standing surface. Screen input will be performed using a special
-             pen for regular input as well as on-screen virtual keyboard for extended typing.
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span> (a). </span> Using a special pen to touch the screen for regular input like selecting from menus, drawing, short-duration writing etc.
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span> (b). </span> On-screen virtual keyboard for extended typing because using pen to create long documents is tiring and 
+	     will cause calluses on the fingers.
            </p>
 
            <p>
@@ -338,8 +384,7 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             There will be a note-taking application which can record drawing, handwriting, typed writing,
-             voice and video.
+             There will be a note-taking application which can record drawing, handwriting, typed writing, voice and video.
            </p>
 
            <p>
@@ -349,76 +394,84 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             Frema is our own in-design wireless internet system for the kosmos and Earth which will be used
-             by our Dune Buk wearable computer. The system will be based on peer-to-peer architecture which among other
-             things will remove the need for base stations. The below factors apply :
+             About the internet system our Dune Buk will use, Frema is our own in-design wireless internet system for the kosmos and Earth. The below factors apply :
 	   </p>
 
-	   <ul>
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             <span> (a). </span> 
+	     The system will be based on peer-to-peer architecture which among other things will remove the need for base stations. 
+	   </p>
 
-           <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> 
-	     For signalling the system will use radio-frequency or light or magnetic pulses or infrasound as per situation.
-	   </li>
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             <span> (b). </span>
+	     Data will be sent as packets for reliability, ease in broadcasting and ease in forwarding from one intermediate Dune Buk comp to another Dune Buk. 
+	   </p>
 
-           <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> 
-             Communication types will be live voice, video, text, forms and other data, and all these different kinds of data will be 
-             played in the same type of window. Text will be displayed like paper book pages.
-           </li>
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             <span> (c). </span> 
+	     For signal transmission, the system will use radio-frequency or light or magnetic pulses or infrasound as per situation.
+	   </p>
 
-           <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> 
-	     The played data can be locally stored or can come from another Dune Buk comp and in case of the latter, if there are multiple participants in a chat 
-	     the data will be forwarded to all the participants' comps in a peer-to-peer forwarding way.
-           </li>
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             <span> (d). </span> 
+             For sensing the electromagnetic spectrum to receive data signals from other Dune Buk computers, we are discussing a simple and universal way 
+	     of doing that sensing by using sound. The electromagnetic spectrum includes light in all its variations.
+           </p>
 
-           <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> 
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             <span> (e). </span> 
+             Communication types will be live video, stored video, live text, stored text, forms and other data, and all these different kinds of data will be 
+             played in the same type of window where the data will be displayed like paper book pages. And there can be different such books.
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             <span> (f). </span> 
+	     The played data can be locally stored ( on the comp, or within the human host or plant host ) or can come from another Dune Buk comp. 
+	     And in case of another Dune Buk comp, if there are multiple participants in a chat the data will be forwarded to all the participants' comps 
+	     in a peer-to-peer forwarding way.
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             <span> (g). </span> 
              For long-distance communication in the kosmos and horizontally on some world the Dune Buk wearable computer will connect from the ground to 
-	     low-orbiting or hovering Alef-A crafts which enable relay of communcations.
-           </li>
+	     a hovering Moggy-S robot cat in case that world has air, or the connection via go via Mulsa satellites orbiting above the world. Both these machines
+	     are described in later topics in this chapter.
+           </p>
 
-           <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> 
-	     Specifically about kosmik communication the signaling system and the communication protocol will factor-in 
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             <span> (h). </span> 
+	     Specifically about kosmik communication, the signaling system and the communication protocol will factor-in 
 	     the delay-included conditions of long-distance communication in the kosmos which can range from milliseconds to many hours to lot more.
-	   </li>
+	   </p>
 
-           <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> 
-	     The wearable will be connectable to the current internet using bridge computers.
-	   </li>
-
-	   </ul>
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             <span> (i). </span> 
+	     The wearable will be connectable to the current internet on Earth using bridge computers.
+	   </p>
 
            <p>
              The use of 24 volts DC and sound in the Dune Buk computer is for these reasons :
            </p>
 
-           <ul>
-
-           <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> 
-             24 volts DC is higher voltage than in most current semiconductor-based electronics space systems as such higher voltage will be less affected 
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             <span> (a). </span> 
+             24 volts DC is higher voltage than in most current semiconductor-based electronics space systems, as such higher voltage will be less affected 
 	     by kosmik radiation.
-           </li>
+           </p>
 
-           <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> 
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             <span> (b). </span> 
              The computations and the other systems use sound also because sound is lot lot less affected by kosmik radiation and temperature than 
 	     semiconductor electronics, unless the radiation is so high that the sound producing elements, the sound transmitting channels, 
 	     the sound computation chambers, sound receiving elements and other sound elements are physically deformed by the radiation. 
 	     But of course, such high radiation will kill our wearable computer's wearer first despite every humanly possible protection, 
-	     and the only use of such a computer then is recording such an event.
-           </li>
+	     and the only use of such a computer then is recording such an event if the wearable computer survives.
+           </p>
 
-           <li style="margin-left:1em; margin-bottom:10px;">
-             <span> >> </span> 
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             <span> (c). </span> 
              Sound is also easier and cheaper to produce, receive and use in computation than light ( optical computing ).
-           </li>
-
-	   </ul>
+           </p>
 
            <p>
              There will be an associated home cinema system with a wall screen and multi-channel speakers.
@@ -442,44 +495,54 @@ modalText.innerHTML = `
            <p>
              We use the airship type of craft to ascend to orbital kosmos from any atmosphere-having world 
              or non-atmosphere world because especially in an atmosphere world this craft has the advantage of operating 
-	     on the balloon principle i.e. when the airship's gas bags are filled with a lifting gas or combination of lifting gases 
+	     on the balloon principle.
+           </p>
+
+           <p>
+             This means when the airship's gas bags are filled with a lifting gas or combination of lifting gases 
 	     which are lighter than the surrounding air, the whole structure of the airship automatically lifts into the air without any or much fuel expenditure 
-             until it reaches to a height where the airship's lifting gas or gases find equilibrium 
-             with the lesser atmospheric air at that height. From that atmospheric height for lift of the airship into the kosmik void  
-             there will be other upwards push / propulsion methods required.
+             until it reaches to a height where the airship's lifting gas or gases find equilibrium with the lesser atmospheric air at that height.
+           </p>
+
+           <p>
+             From that atmospheric height for lift of the airship into the kosmik void there will be other upwards push / propulsion methods required.
            </p>
 
            <p>
              The airship type of kosmos ship is much better than the Tall Rocket because :
 	   </p>
 
-           <ul>
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span> (a). </span> 
+             The Tall Rocket requires lot of fuel just to lift itself one centimeter off the launch pad and keep going, whereas the airship-type kosmos ship's lift 
+	     when in an atmosphere world happens largely automatically through its lift gases and unless its lift gases completely escape at that height 
+	     the craft won't crash to ground.
+	   </p>
 
-           <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
-             The Tall Rocket requires lot of fuel just to lift itself one centimeter off the launch pad whereas the airship-type kosmos ship's lift when in 
-	     an atmosphere world happens largely automatically through its lift gases.
-	   </li>
-
-           <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span> (b). </span> 
              Much less push-into-orbit fuel in the airship-type kosmos ship makes the airship-type kosmos ship much more safer in terms of explosion than 
-	     the Tall Rocket whose majority of mass is the very explosive fuel. Therefore an airship-type kosmos ship can lift to the kosmos from any neighborhood's 
-	     large ground, and descend similarly, unlike the Tall Rocket which is always launched from isolated places like near sea or remote mountain 
-	     or isolated forest or remote flat land.
-	   </li>
+	     the Tall Rocket whose majority of mass is the very explosive fuel.
+	   </p>
 
-           <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             Therefore an airship-type kosmos ship can lift to the kosmos from any neighborhood's large ground, and descend similarly, 
+	     unlike the Tall Rocket which is always launched from isolated places like near sea or remote mountain or isolated forest or remote flat land.
+	   </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span> (c). </span> 
              The airship-type kosmos ship can easily be made horizontally larger instead of the vertically huge of the Tall Rocket. 
 	     This horizontal largening will make the craft aesthetically pleasing as well as not requiring a huge infrastructure to hold it before launch and 
-	     will keep it from toppling when it is sitting on some world... all unlike the Tall Rocket including with the fashionable legs or bottom fins which 
-	     every rocket company is building.
-	   </li>
+	     will keep it from toppling when it is sitting on some world... all unlike the ugly Tall Rocket including with the fashionable legs or bottom fins which 
+	     every rocket company is building or wants to build in ten years.
+	   </p>
 
-           <li style="margin-left:1em; margin-bottom:10px;"><span> >> </span> 
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span> (d). </span> 
              Talk of how many "stages to orbit" does not apply here because the airship-type kosmos ship will be a single, undivided machine unlike the 
 	     at least two stages of the Tall Rocket. The "stages to orbit" is a terminology from the POV of Tall Rocket technology, useless for us.
-	   </li>
-
-           </ul>
+	   </p>
 
            <p>
              Our airship-type kosmos ship is the Alef-A which will be shaped like an upside-down teacup without the handle,
@@ -488,9 +551,13 @@ modalText.innerHTML = `
            </p>
 
            <p>
-	     The Alef-A's horizontal travel or lift into higher atmosphere and then into the kosmik void will be assisted by rotors, 
-	     coal combustion and water steam jets. Of course the gas lift and rotors are usable only if that world has air / atmosphere. The coal propulsion and 
-	     steam jets can be used to ascend or descend on any world even without atmosphere.
+	     The Alef-A's horizontal travel or lift into higher atmosphere and then into the kosmik void will be assisted by gas lift, rotors, 
+	     coal combustion and water steam jets.
+           </p>
+
+           <p>
+            Of course the gas lift and rotors are usable only if that world has air / atmosphere. The coal propulsion and steam jets can be used to ascend or descend 
+	    on any world even without atmosphere.
            </p>
 
            <p>
@@ -525,8 +592,11 @@ modalText.innerHTML = `
            <p>
              The Alef-F will be a kosmos-bound ferry large enough to carry five Alef-A crafts, a hundred
              humans, ten Moggy-S robot cats ( described in a below topic ), facilities for those in-ferry kosmonauts and 
-	     a hundred tons of other cargo and the craft will be primarily propelled by water steam
-             jets but will include coal propulsion for momentary high-thrust-requiring situations.
+	     a hundred tons of other cargo.
+           </p>
+
+           <p>
+             The Alef-F craft will be primarily propelled by water steam jets but will include coal propulsion for momentary high-thrust-requiring situations.
 	   </p>
 
            <p>
@@ -546,7 +616,7 @@ modalText.innerHTML = `
 
 	   <p>
 	     The Alef-F ferry craft is better than not only the current and proposed kosmos stations around Earth and the Moon, 
-	     but also better than any deep-kosmos travel crafts proposed by others which will be needlessly complicated, unsafe, 
+	     but also better than any deep-kosmos travel crafts proposed by others which are needlessly complicated, unsafe, 
 	     will carry less people and will have very less facilities and will be propelled either chemically or nuclear or plasma. 
 	     Our Alef-F ferry can also be called a colony ship.
            </p>
@@ -563,50 +633,46 @@ modalText.innerHTML = `
            
            <p>The name "Alef" is a joined word with the below meaning :</p>
 
-           <ul>
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> The "lef" comes from the slogan 
-             "Liberty, Equality, Fraternity" which is a slogan in multiple progressive thought streams 
-             including the Preamble ( short introduction ) to the Indian Constitution. </li>
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span> (a). </span> The "lef" comes from the slogan "Liberty, Equality, Fraternity" which is a slogan in multiple progressive thought streams 
+             including the Preamble ( short introduction ) to the Indian Constitution.
+           </p>
 
-             <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> The "A" stands for 
-             Alif ( "The first" ), meaning these kosmos ships are just the first types of kosmos ships from our organization. Further will be more types. 
-	     </li>
-           </ul>
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span> (b). </span> The "A" stands for Alif ( "The first" ), meaning these kosmos ships are just the first types of kosmos ships from our organization.
+	     Further will be more types. 
+	   </p>
 
            <p>
              Both the Alef-A and the Alef-F will be primarily propelled in the kosmos by water steam jets and this is advantageous because :
 	   </p>
 
-           <ul>
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span> (a). </span> Steam is made from water which is found in many places in the Solar System and beyond.
+	   </p>
 
-             <li style="margin-left:1em; margin-bottom:10px;">
-	       <span>&gt;&gt;</span> Steam is made from water which is found in many places in the Solar System and beyond.
-	     </li>
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span> (b). </span> Water in itself is safe to handle by humans and is not a pollutant.
+	   </p>
 
-             <li style="margin-left:1em; margin-bottom:10px;">
-	       <span>&gt;&gt;</span> Water in itself is safe to handle by humans.
-	     </li>
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span> (c). </span> Water doesn't explode normally unlike traditional rocket fuel like liquid hydrogen.
+	   </p>
 
-             <li style="margin-left:1em; margin-bottom:10px;">
-	       <span>&gt;&gt;</span> Water doesn't explode normally unlike traditional rocket fuel like liquid hydrogen.
-	     </li>
-
-             <li style="margin-left:1em; margin-bottom:10px;">
-	       <span>&gt;&gt;</span> Water doesn't need to be stored at cryogenic conditions unlike with some current popular kosmos ship fuels 
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             <span> (d). </span> Water doesn't need to be stored at cryogenic conditions unlike with some current popular kosmos ship fuels 
 	       like liquid hydrogen and liquid methane. Water can be just kept a warm liquid using electrical heating.
-	     </li>
+	   </p>
 
-             <li style="margin-left:1em; margin-bottom:10px;">
-	       <span>&gt;&gt;</span> When in the kosmik void, most of the jetted steam is recoverable to liquid water which can be 
-	       fed back to the propulsion system to allow for continuous thrust, faster travel and longer travel.
-	     </li>
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span> (e). </span> When in the kosmik void, most of the jetted steam is recoverable to liquid water which can be fed back to the propulsion system 
+	     to allow for continuous thrust, faster travel and longer travel.
+	   </p>
 
-             <li style="margin-left:1em; margin-bottom:10px;">
-	       <span>&gt;&gt;</span> Our steam-based propulsion uses a simple heating mechanism to turn water to steam 
-	       instead of having other complex and unsafe propulsion mechanisms like plasma or nuclear power.
-	     </li>
-
-           </ul>
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     <span> (f). </span> Our steam-based propulsion uses a simple heating mechanism to turn water to steam instead of having other complex and 
+	     unsafe propulsion mechanisms like plasma or nuclear power.
+	   </p>
 
            <p>
              Facilities on both ships will include proper water-using baths and toilets, with the toilets having disinfectant-having water jet for hygenic and satisfying 
@@ -696,22 +762,22 @@ modalText.innerHTML = `
              </p>
 
              <p style='margin-left:2em;margin-bottom:10px;'>
-	       <span> >> </span> 
+	       <span> (a). </span> 
                Lifting heavy-weight and bulky materials which normally a human cannot lift.
 	     </p>
 
              <p style='margin-left:2em;margin-bottom:10px;'>
-	       <span> >> </span> 
+	       <span> (b). </span> 
                Digging the ground.
              </p>
            
              <p style='margin-left:2em;margin-bottom:10px;'>
-	       <span> >> </span> 
+	       <span> (c). </span> 
                Climbing.
              </p>
            
              <p style='margin-left:2em;margin-bottom:10px;'>
-	       <span> >> </span>
+	       <span> (d). </span>
                When a person is partly incapacitated because of injury of limbs, back, neck etc and the
                exoskeleton will help the person not only in movement just after injury but also in healing.
              </p>
@@ -726,73 +792,113 @@ modalText.innerHTML = `
            <h2> 07. Biology researches</h2>
 
              <p>
-               <span> >> </span> Computer data storage inside human body by inserting the data into the DNA of food materials which can be drunk or eaten and 
-	       then the data can be extracted hours later or months later maybe from saliva or sweat.
+               <span> (a). </span> Computer data storage inside the human body and inside plants by inserting the data within natural molecules 
+	       which travel within the host organisms ( humans and plants ) and are useful to the host organisms. Molecules like sugar.
              </p>
 
              <p>
-               <span> >> </span> The ideal plants to derive biocoal for the coal needed to propel the Alef kosmos ships. 
+               For the human body, the data is inserted into these sugar molecules and then these sugar molecules are mixed with food which can be drunk or eaten, 
+	       and then the data can be extracted by a special mechanism within the Dune Buk wearable computer, seconds later, hours later, days later, 
+	       months later or years later... maybe from saliva or sweat.
+             </p>
+
+             <p>
+               Similar case for storage within plants.
+             </p>
+
+             <p>
+               Since these molecules are very small, multiple copies of the data can be inserted into the molecules as multiple backups.
+             </p>
+
+             <p>
+	       So, the human body and plants arranged this way will act as a pen drive, where this molecules-stored data is protected from 
+	       heat, cold, humidity, vacuum, mechanical vibration, data corruption, kosmik radiation etc as long as the molecules are within 
+	       the human or plant... maybe even when the human or plant is no longer alive but the remains remain.
+             </p>
+
+             <p>
+               <span> (b). </span> Artificial Intelligence system using a combination of our Dune Buk wearable computer and plant biology. 
+	       This use of the abilities of plants about simplicity, naturality, autonomous behavior, scalability and self-replication will allow computation that 
+	       uses less resources, is compact, intelligent, self-replicating and has Socialism as basis including respect for Nature.
+             </p>
+
+             <p>
+	       Add to this plant-based computation our plant-based data storage.
+             </p>
+
+             <p>
+	       And this bio plant-based computation can be carried out within houses, within kosmik crafts, within automated machines and 
+	       without the complete need of humans like in places where humans cannot go or are too far away.
+             </p>
+
+             <p>
+               The only artificial intelligence system we will trust is the one we will design.
+             </p>
+
+             <p>
+               <span> (c). </span> The ideal plants to derive biocoal for the coal needed to propel the Alef kosmos ships. 
 	       These plants should be growable in the kosmos.
              </p>
 
              <p>
-               <span> >> </span> Strengthened and fire-proof wood for structures in the kosmos ships, kosmos suits, 
+               <span> (d). </span> Strengthened and fire-proof wood for structures in the kosmos ships, kosmos suits, 
                kosmos habitations, the Dune Buk wearable computer and so on. Such wood is preferable to metal in many cases. 
 	       The trees for the wood should be growable in the kosmos.
              </p>
 
              <p>
-               <span> >> </span> Transparent wood to replace glass in some applications. The trees for the wood should 
+               <span> (e). </span> Transparent wood to replace glass in some applications. The trees for the wood should 
                be growable in the kosmos.
              </p>
 
              <p> 
-               <span> >> </span> Structures of the kosmos ships, kosmos suits and kosmos habitations to be bio-mimicking and also made of biological elements 
-	       for radiation shielding, self-repair and a sense of more naturality. For example, there is interest in the fungus Cladosporium Sphaerospermum 
+               <span> (f). </span> Structures of the kosmos ships, kosmos suits and kosmos habitations to be bio-mimicking and also made of biological elements 
+	       for radiation shielding, self-repair and a sense of more naturality. Example, there is interest in the fungus Cladosporium Sphaerospermum 
 	       which was first identified around the Chernobyl reactor's remains and converts the area's radiation into energy for itself, 
 	       a process called radiosynthesis which is comparable to plants converting light to energy through photosynthesis. This fungus eats the radiation.
              </p>
 
              <p>
-               <span> >> </span> Engineered bacteria can be used to do mining and will remove the need for a lot of mechano-chemical 
+               <span> (g). </span> Engineered bacteria can be used to do mining and will remove the need for a lot of mechano-chemical 
                mineral extraction and processing factories and their attendant pollution and human physical labor.
 	     </p>
 
 	     <p>
-               <span> >> </span> Engineered bacteria can be used to perhaps even construct useful matter from other existent
+               <span> (h). </span> Engineered bacteria can be used to perhaps even construct useful matter from other existent
                matter like asteroid rock. This is the concept of bio-transmutation and will remove the need for a lot of mechano-chemical 
                mineral processing and production factories and their attendant ore scarcity, pollution and human physical labor. 
 	       Other examples of use :
              </p>
 
              <p style='margin-left:2em;margin-bottom:10px;'>
-	       <span>(a).</span> 
+	       <span> (ha).</span> 
 	       To get the helium gas which our Alef-A airships require as their lift gas.
              </p>
 
              <p style='margin-left:2em;margin-bottom:10px;'>
-	       <span>(b).</span> 
+	       <span>(hb).</span> 
 	       To get the nitrogen gas for adding to oxygen in the correct mixture so that humans can breath their Earth-normal air mixture of nitrogen-oxygen.
              </p>
 
              <p style='margin-left:2em;margin-bottom:10px;'>
-	       <span>(c).</span> 
+	       <span>(hc).</span> 
 	       To obtain nutrients for plants.
              </p>
 
              <p style='margin-left:2em;margin-bottom:10px;'>
-	       <span>(d).</span> 
+	       <span>(hd).</span> 
 	       To extract water or even construct water.
              </p>
 
              <p> 
-               <span> >> </span> 
+               <span> (i). </span> 
 	       The previously described phenomenon of radiosynthesis has an interesting application for the kosmos which uses the idea 
                similar to the Astrophage bio-organism in Andy Weir's sci-fi book of 2021 called Project Hail Mary. This application is propulsion of 
 	       kosmos ships :
 	     </p>
 
              <p style="margin-left:1em; margin-bottom:10px";>
+	       <span> (ia).</span> 
                This will make use of self-replicating bacteria which absorb / eat the different radiations in the kosmos, store those radiation energies internally 
 	       like an electrical capacitor and can be made to release / discharge those energies in a single burst at extremely high energy levels just like 
 	       a high-voltage electrical capacitor discharge, and this high energy discharge by these bio-organisms can propel kosmos ships 
@@ -800,72 +906,80 @@ modalText.innerHTML = `
 	     </p>
 
 	     <p style="margin-left:1em; margin-bottom:10px";> 
+	       <span> (ib).</span> 
 	       This bio-propulsion can be used in association with our regular steam propulsion where the bacteria give initial extremely high speed pushes to 
 	       the kosmos ships and then are not used and then the steam engines with their recoverable water mechanism are turned on to give 
 	       continuous propulsion so that higher speeds are reached.
 	     </p>
 
              <p style="margin-left:1em; margin-bottom:10px";> 
+	       <span> (ic).</span> 
 	       Before water collection points in the kosmos, the bacteria propulsion on the front of the kosmos ship is turned on to brake the ship and 
-	       use its steam propulsion to do precise adjustments. Maybe our coal propulsion can be used here or it may not need to be used. Water is collected and 
-	       the propulsion process repeated. At the destination, again the combination of bacteria braking and steam-based positioning is used and 
-	       maybe to descend on a world the bacteria propulsion can be used in addition to the coal and steam propulsion.
+	       use its steam propulsion to do precise adjustments.
 	     </p>
 
              <p style="margin-left:1em; margin-bottom:10px";> 
+	       <span> (id).</span> 
+               Maybe our coal propulsion can be used here or it may not need to be used.
+	     </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";> 
+	       <span> (ie).</span> 
+               Water is collected and the propulsion process repeated. At the destination, again the combination of bacteria braking and steam-based positioning 
+	       is used and maybe to descend on a world the bacteria propulsion can be used in addition to the coal and steam propulsion.
+	     </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";> 
+	       <span> (if).</span> 
 	       This system may allow us lot faster and shorter-duration travel within the Solar System and to the stars in a sustainable way using 
 	       bacteria-stored energy.
              </p>
 
              <p>
-               <span> >> </span> 
+               <span> (j). </span> 
 	       Engineered-for-kosmos food production.
              </p>
 
              <p>
-               <span> >> </span> 
-	       Plant-based materials like leather and for clothing, packaging etc.
+               <span> (k). </span> 
+	       Plant-based materials for leather, for clothing, packaging etc, and for dyes and colors.
              </p>
 
              <p>
-               <span> >> </span> 
+               <span> (l). </span> 
 	       Bacteria-based construction of products and structures, from small size to very large, including within the human body like for repairing the heart. 
 	       These bacteria will be self-replicating and programmable for different tasks.
              </p>
 
              <p style='margin-left:2em;margin-bottom:10px;'>
+	       <span> (la).</span> 
                These special bacteria can derive nutrition from sprays of water filled with nutrients, during the process of the construction. 
                And since they are programmable, they can be told to stop at the completion of the construction.
              </p>
 
              <p style='margin-left:2em;margin-bottom:10px;'>
+	       <span> (lb).</span> 
                Example, construction of our Alef-A airship-kosmosship.
              </p>
 
              <p style='margin-left:2em;margin-bottom:10px;'>
+	       <span> (lc).</span> 
                This method will make obsolete the present 3D Printing techniques and most factory production and contribute to bringing decentralized, 
 	       humanly empowering, Post-scarcity Human Civilization the biology way.
              </p>
 
-             <p>
-               <span> >> </span> 
-	       Artificial Intelligence system using a combination of our Dune Buk wearable computer and plant biology. This will allow simple, autonomous, 
-	       scalable and self-replicating intelligent computation to be carried out within machines or without the complete need of humans like in places where 
-	       humans cannot go or are too far away. The only artificial intelligence system we will trust is the one we will design.
-             </p>
-
 	     <p>
-               <span> >> </span> Human composting.
+               <span> (m). </span> Human composting.
              </p>
 
              <p>
-               <span> >> </span> 
+               <span> (n). </span> 
 	       Bio-engineered production of not only plant-based foods but also 
                nutritious originally animal products like sheep milk, chicken egg and honey.
              </p>
 
              <p>
-               <span> >> </span> 
+               <span> (o). </span> 
 	       Bio-engineered animal products growing also leads to another interesting thing : 
                synthetic wombs for growing human organs and cat organs and entire living humans and this is important not
                only for solving diseases like blindness and kidney failure but also for populating the kosmos with
@@ -873,18 +987,20 @@ modalText.innerHTML = `
              </p>
 
              <p>
-               <span> >> </span> 
+               <span> (p). </span> 
 	       Creating within humans the abilities for self-repair, kosmos-tolerance and enhanced strength. To get these abilities may require biological elements 
 	       acting with non-bio nanomachines within the body. It should be possible to thus increase continuous human life span to 2000 years at least.
              </p>
 
              <p style='margin-left:2em;margin-bottom:10px;'>
+	       <span> (pa).</span> 
                However, in enabling biology-based super-enhancement and synthetic wombs for humans, 
                care will be taken that such acquired abilities do not transform humans from their human form into something else 
                i.e. the extreme imagined forms of Transhumanism.
              </p>
 
              <p style='margin-left:2em;margin-bottom:10px;'>
+	       <span> (pb).</span> 
                So, for example a cat should recognize an enhanced human as a human, a human with gentleness, wisdom, sensitiveness and
 	       empathy who a cat can trust... certainly not the robotic massively-muscled enhanced beings of some Hollywood films who do not seem "human".
              </p>
@@ -1173,25 +1289,21 @@ modalText.innerHTML = `
 	       in any peace-bringing and life-simplifying efforts. Therefore the UN-involved allowed :
              </p>
 
-	     <ul>
+             <p style='margin-left:2em;margin-bottom:10px;'>
+               <span>(a).</span> A race of national governments to individually have their own Earth observation satellites in Earth orbit for purposes of 
+	       observing Earth's natural environments, pollution observation, climate observation, human habitations observation, 
+	       infrastructure observation and of course military purposes including spying.
+	     </p>
 
-               <li style="margin-left:1em; margin-bottom:10px;">
-                 <span>(a).</span> A race of national governments to individually have their own Earth observation satellites in Earth orbit for purposes of 
-		 observing Earth's natural environments, pollution observation, climate observation, human habitations observation, 
-		 infrastructure observation and of course military purposes including spying.
-	       </li>
+             <p style='margin-left:2em;margin-bottom:10px;'>
+               <span>(b).</span> Commerce where commercial satellites were sent by profiteering corporations to provide phone communication, 
+		internet communication and TV relaying to people around the world but largely for fees.
+	     </p>
 
-	       <li style="margin-left:1em; margin-bottom:10px;">	          
-                 <span>(b).</span> Commerce where commercial satellites were sent by profiteering corporations to provide phone communication, 
-		 internet communication and TV relaying to people around the world but largely for fees.
-	       </li>
-
-     	       <li style="margin-left:1em; margin-bottom:10px;">	          
-                 <span>(c).</span> Not making compulsory on the nations the duty to recover their own defunct satellites and rocket stages 
-		 floating through Earth orbits.
-	       </li>
-
-             </ul>
+             <p style='margin-left:2em;margin-bottom:10px;'>
+               <span>(c).</span> Not making compulsory on the nations the duty to recover their own defunct satellites and rocket stages 
+		floating through Earth orbits.
+	     </p>
 
              <p style="margin-left:1em; margin-bottom:10px";>
                The result was these debris fields with millions of parts and particles, and we of Kosmos Society are joining the effort of various individuals and 
@@ -1401,9 +1513,8 @@ modalText.innerHTML = `
              </p>
 
              <p style="margin-left:1em; margin-bottom:10px";>
-               <span>(l).</span> All this construction has to be aesthetic. No need to discard aesthetics just because we are in the kosmos. 	     
-	       Form and function, both are important. The architecture should be harmonious, gentle, impose no oppressiveness, must inspire thinking 
-	       and must be a delight to the senses.
+               <span>(l).</span> All this construction has to be aesthetic, natural, be a delight to the senses, inspire, not give oppressive feeling, be harmonious with 
+	       the local environment and not be polluting. No need to discard all this just because we are in the kosmos. Form and function, both are important.
              </p>
 
              <p style="margin-left:1em; margin-bottom:10px";>
@@ -1459,10 +1570,13 @@ modalText.innerHTML = `
 
              <p>
 	       Imagine coming upon such an architectured city on Deimos, one of the two moons of Red One, or such a city on some rocky world beyond Pluto, 
-	       or in a deep crater on Mercury where the crater's bottom is shielded from the Sun... 
-	       of course in all three cases the city's features made relevant to the environment of those kosmik places. Our first built example 
-	       of such a city will be the Mirkeen-01 city on the Moon whose details you will find in the "Mirkeen-01..." topic in the "Our social system - Iskra" chapter 
-	       on this website.
+	       or in a deep crater on Mercury where the crater's bottom is shielded from the Sun... of course in all three cases the city's features made relevant to 
+	       the environment of those kosmik places.
+             </p>
+
+             <p>
+               Our first built example of such a city will be the Mirkeen-01 city on the Moon whose details you will find in the "Mirkeen-01..." topic in 
+	       the "Our social system - Iskra" chapter on this website.
              </p>
 
 	     <p>
@@ -1473,7 +1587,8 @@ modalText.innerHTML = `
 
              <p>
 	       Finally, since we have chosen to rename the violencely-named planet Mars to Red One, we should also rename its two moons Phobos and Deimos, 
-	       where Phobos means Fear and Deimos means Dread... not nice names at all. We will do this renaming when we can think of nice names.
+	       where Phobos means Fear and Deimos means Dread... not nice names at all. We will do this renaming when we can think of nice names... 
+	       and for all other wrongly named worlds or wrongly named spots upon worlds.
              </p>
 
            </div>
@@ -1842,7 +1957,7 @@ modalText.innerHTML = `
 	   <p style='margin-left:2em;margin-bottom:10px;'>
 	     <span>(c).</span> 
 	     Rejection of nonsense ideas from celebrated scientists : Dyson Sphere aka Dyson Swarm.
-	   </p>  
+	   </p>
 
 	   <p style='margin-left:2em;margin-bottom:10px;'>
 	     <span>(d).</span> 
@@ -1851,7 +1966,8 @@ modalText.innerHTML = `
 
 	   <p style='margin-left:2em;margin-bottom:10px;'>
 	     <span>(e).</span> 
-	     Simplicity : Not using semiconductor material. So no transistors, no VLSI stuff and no "electronics".
+	     Simplicity : Not using semiconductor material. So no transistors, no VLSI stuff and no "electronics". Electrical systems yes but no electronics 
+	     which use transistors and all.
 	   </p>
 
 	   <p style='margin-left:2em;margin-bottom:10px;'>
@@ -1909,7 +2025,7 @@ modalText.innerHTML = `
            </p>
 
 	   <p style='margin-left:2em;margin-bottom:10px;'>
-	     <span> >> </span> 	   
+	     <span> (ja). </span> 	   
              As much as possible, use made of structural materials and fuels that are available cheaply, available in many places, 
 	     can be produced anywhere or growable anywhere.
 	   </p>
@@ -1924,7 +2040,7 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p style='margin-left:2em;margin-bottom:10px;'>
-	     <span> >> </span> 	   
+	     <span> (jb). </span> 	   
              Circular Economy's inherent sharing of materials between different decentralized production facilities means 
 	     making obsolete the concept of large, centralized storage facilities. Sharing materials is also caring for others which increases and keeps alive 
 	     the concept of social harmony. Also simplifies logistics.
@@ -1945,7 +2061,7 @@ modalText.innerHTML = `
 
            <p style='margin-left:2em;margin-bottom:10px;'>
 	     <span>(m).</span> 
-	     Humanism : Not using the Capitalist and profiteering word "Payload" to describe what can be simply called "Cargo".
+	     Humanism : Not using the capitalist and profiteering word "Payload" to describe what can be simply called "Cargo".
 	   </p>
 
            <p style='margin-left:2em;margin-bottom:10px;'>
@@ -2008,7 +2124,10 @@ modalText.innerHTML = `
 
            <p>
      	     The kosmos has existed before human nations existed on Earth... before Earth itself existed. The concept of Earthen Nations / Nation States does not exist in
-	     Nature / Kosmos and comes on Earth from as recent as the French Revolution of the late 1700s which led to France becoming a Republic. 
+	     Nature / Kosmos and comes on Earth from as recent as the French Revolution of the late 1700s which led to France becoming a Republic.
+           </p>
+
+           <p>
 	     The revolutionary change in France was for the purpose of making France a citizen-governed society with the citizens having natural pan-humanist 
 	     human freedoms as against France previously being a typical kingdom governed by a supreme oppressive feudal lord.
            </p>
@@ -3038,7 +3157,7 @@ modalText.innerHTML = `
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
-             <span>(c).</span> Selflessly providing food, communication, health support and rescue in the kosmos.
+             <span>(c).</span> Providing food, communication, health support and rescue in the kosmos.
            </p> 
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -3103,7 +3222,7 @@ modalText.innerHTML = `
 
              <p>
                The kosmos is for all to benefit from, including just the simple act of seeing the sights, and to acknowledge that every human is a speck in the kosmos, 
-	       one no more privileged than another in that infinite and timeless vastness. Feudalism is bad enough on Earth to be carried over into the kosmos.
+	       one no more privileged than another in that timeless and infinite vastness. Feudalism is bad enough on Earth to be carried over into the kosmos.
              </p>
 
              <p>
@@ -3118,10 +3237,94 @@ modalText.innerHTML = `
              </p>
 
              <p>
-	       When a human lives in a liberating system where every reasonable material need, every reasonable occasional indulgence and every intellectual thing, 
-	       comes to a human without the compulsion to earn money to just survive day to day and month to month and still never be able to achieve 
-	       his or her reasonable wishes and reasonable material needs, this liberating system will take that human towards his or her potential and 
-	       play great part in taking his or her society and wider humanity towards utopia. This can simply be called part of Socialism.
+	       When a human lives in a liberating system where...
+             </p>
+	     
+             <p style="margin-left:1em; margin-bottom:10px";>
+	       ...where every reasonable material need, every reasonable occasional indulgence and every intellectual thing, 
+	       comes to a human very easily, without the compulsion to earn money to just survive day to day and month to month, for fifty years, 
+	       and still never be able to achieve his or her reasonable wishes and reasonable material needs...
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+	       ...when a human is no longer under the feudal control of another human including having to pay tax including money...
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+               ...when humans no longer have to compete with fellow humans...
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+               ...when the singular and complicated Government no longer exists and humans govern themselves directly via simple participatory democracy
+	       where every citizen participates in the governance and daily upkeep of his or her society from neighborhood level to city level to larger level, 
+	       using the means of people's congresses and people's committees, and this being the only true form of democracy...
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+	       ...when there is a clear difference between personal goods like clothing and wearable computers on one side, 
+	       and on the other side are the natural features and resources and the means of production which all have to be in the collective and equal management 
+	       and access by all the citizens instead of being owned and monopolized and accessible by one feudal or a few feudals...
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+	       ...when the laws are simple, just, rational, natural, provide equality and understood and accessible by all citizens, instead of the laws being coded 
+	       in complicated language which only the priests of law can decode, and where justice can be obtained at neighborhood level...
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+	       ...when a human is no longer hated for being black, brown, female, some past culture and any other natural attributes...
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+               ...when charlatans and profiteers no longer exist to make money out of creating fake necessities like the "health and wellness industry", garish jewelry,
+	       luxury items and unwearable ramp-walk clothing...
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+               ...when profiteers no longer exist to make money out of hoarding and adulterating food, water, medicines, energy sources etc...
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+               ...when humans are no longer imposed with expectation of constant, performative religious ritualism and when belief in god becomes private...
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+               ...when peddlers of superstition and irrationality have become reformed, and society has become rational and natural...
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+               ...when humans behave with each other in a gentle, sensitive, empathetic, decent, honest, thoughtful, wise, non-selfish and natural way, 
+	       with the idea of "Do unto others what you want others to do unto you"...
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+               ...when humans strive to make their appearance welcoming and attractive instead of aggressive...
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+               ...when humans are able to realize their full potential individually and collectively, and this in a collaborative and collectivist way...
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+               ...when humans think at pan-human and kosmik levels instead of thinking on petty nationalist and religious lines...
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+               ...when humans strive to make the environment clean, serene, harmonious, without pollution and they respect the supremacy of Nature...
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+               ...when cats are absolutely adored if not deified...
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+               ...when technology becomes real, simplified, cheap and easy to manufacture and repair, uses natural elements largely, is non-polluting and 
+	       is in harmony with Nature...
+             </p>
+
+             <p>
+               ...this liberating system will begin to take humanity towards utopia and the system can simply be called Socialism. We don't now know 
+	       how Utopia will look like but Socialism is the last steps towards Utopia.
              </p>
 
              <p>
@@ -3480,7 +3683,7 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";> 
              <span>(a).</span> To be understood is that man is male and woman is female and there are naturally different personalities
-	     and duties of the two, disregarding any wrong agendas including modern fake-feminism, male homosexuality, Capitalist impositions and 
+	     and duties of the two, disregarding any wrong agendas including modern fake-feminism, male homosexuality, capitalist impositions and 
 	     cultural feudalism.
 	   </p>
 
@@ -4106,7 +4309,7 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             A feudal social system deliberately constructs few educational institutions and most of these buildings are given away to Capitalists who want to profit 
+             A feudal social system deliberately constructs few educational institutions and most of these buildings are given away to capitalists who want to profit 
 	     from something that should be available to everyone without the learners giving money to the institutions or having to give other taxes like 
 	     having a minimum of 85 percent marks in a previous exam.
            </p>
@@ -5180,7 +5383,10 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";> 
 	     Yes, the magic happened and this fan's fave RCB team won the cup and when his darling victorious RCB team came to Bangalore 
-	     to get felicitated and admired, there were a few hundred thousand cricket fans gathered at two points to receive them. 
+	     to get felicitated and admired, there were a few hundred thousand cricket fans gathered at two points to receive them.
+	   </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";> 
 	     The RCB team came into Bangalore like maharajas in luxury buses whose windows were made such that the team members could see the outside 
 	     but the cheering fans lining the roads could not see the inside.
 	   </p>
@@ -5943,8 +6149,8 @@ modalText.innerHTML = `
             <div id="topics-links">
 	      <a href="#founders">&nbsp;&nbsp; 01. Our founders </a>
 	      <a href="#thanks">&nbsp;&nbsp; 02. Thanks </a>
-	      <a href="#joinus">&nbsp;&nbsp; 03. You can join us if... </a>
-	      <a href="#weoffer">&nbsp;&nbsp; 04. We offer you as a worker what no other company offers </a>
+	      <a href="#joinus">&nbsp;&nbsp; 03. You can join us as a co-worker if... </a>
+	      <a href="#weoffer">&nbsp;&nbsp; 04. Why we are the best company for you as a worker  </a>
 	      <a href="#bmodel">&nbsp;&nbsp; 05. Our simple business model </a>
 	      <a href="#socifund">&nbsp;&nbsp; 06. Our social fund </a>
        	      <a href="#demo">&nbsp;&nbsp; 07. First demo of our Alef-A kosmos ship </a>
@@ -6044,171 +6250,258 @@ modalText.innerHTML = `
 	     or their descendents or their movements :
            </p>
 
-           <p><span>&gt;&gt;</span> 
+           <p>
+   	     <span> (a). </span> 
              Vikram for the logo, for the website design, for provoking the thought in us to have this Thanks topic and for reminding about water-powered turbine 
-	     in a discussion which hours later led to us re-thinking about the idea of turbines powered by compressed air. Thanks to him also for provoking the idea 
-	     in us for the topic against free market, money and profit which is in the "Our social system - Iskra" chapter. Thanks to him also for mentioning the need
-	     for vehicle-based short distance transportation for humans.
+	     in a discussion which hours later led to us re-thinking about the idea of turbines powered by compressed air.
            </p>
 
-           <p><span>&gt;&gt;</span> 
+           <p>
+             Thanks to him also for provoking the idea in us for our website's topic against free market, money and profit which is in 
+	     the "Our social system - Iskra" chapter.
+           </p>
+
+           <p>
+	     Thanks to him also for mentioning the need for vehicle-based short distance transportation for humans.
+           </p>
+
+           <p>
+   	     <span> (b). </span> 
              Apoorva JR for presenting to us an Instagram page in 2023 which contained reports on eco-friendly ways 
              of generating electricity and which led to our discovery of the "sand battery". 
-             Apoorva's LinkedIn page [ https://www.linkedin.com/in/apoorvajr ]. Sadly we forgot the Insta page's name but we are thankful to that page's 
-	     maintainer and also to Instagram. That Insta page spoke of the company Polar Night Energy which applied the sand battery in a real life setting 
-	     despite there being no prior industry use of this method and we are thankful to this company.
+             Apoorva's LinkedIn page [ https://www.linkedin.com/in/apoorvajr ].
            </p>
 
-           <p><span>&gt;&gt;</span> 
-             The 2009 Hindi film "Rocket Singh : Salesman of the Year" for being one of the inspirations about the idea of Workers Cooperative. 
+           <p>
+             Sadly we forgot the Insta page's name but we are thankful to that page's maintainer and also to Instagram. That Insta page spoke of the company 
+	     Polar Night Energy which applied the sand battery in a real life setting despite there being no prior industry use of this method and 
+	     we are thankful to this company.
+           </p>
+
+           <p>
+   	     <span> (c). </span> 
+             The 2009 Hindi film "Rocket Singh : Salesman of the Year" for being one of the inspirations about the idea of Workers Cooperative.
+           </p>
+
+           <p>
 	     There is a line in this film said by the main character Harpreet Singh Bedi - "Jo kaam kar sakta hai, woh partner bhi bann sakta hai" 
 	     which in the context of the film translates to "If an employee can do work required in this company, he can and should become partner in 
 	     the company too".
 	   </p>
 
-           <p><span>&gt;&gt;</span> 
+           <p>
+   	     <span> (d). </span> 
              YouTube and Wikipedia in general.
 	   </p>
 
-           <p><span>&gt;&gt;</span> 
+           <p>
+   	     <span> (e). </span> 
              Robert Murray-Smith on his YouTube channel "ThinkingandTinkering" for the idea about using a simple electro-mechanical vibrator for 
-	     amplification of electricity, made using an electro-magnetic relay. This vid called "1026 The easiest inverter you will ever make" is on this page 
-	     [ https://www.youtube.com/watch?v=L-vC9SvU2Lo ]. This we use in our design of the Faradn generator. 
+	     amplification of electricity, made using an electro-magnetic relay.
+           </p>
+
+           <p>
+             This vid called "1026 The easiest inverter you will ever make" is on this page 
+	     [ https://www.youtube.com/watch?v=L-vC9SvU2Lo ]. This we use in our design of the Faradn generator.
+           </p>	     
+
+           <p>
 	     We also thank him for the idea of "Local social empowerment" which he presents through the projects on his channel.
            </p>
 
-           <p><span>&gt;&gt;</span> 
+           <p>
+   	     <span> (f). </span> 
              https://en.wikipedia.org/wiki/Bellows
            </p>
 
-           <p><span>&gt;&gt;</span> 
+           <p>
+   	     <span> (g). </span> 
              Farzad Zangeneh-Nejad and Romain Fleury at the Federal Institute of Technology (
              EPFL ) in Lausanne, Switzerland, for the idea of using sound to do analog computing.
            </p>
 
-           <p><span>&gt;&gt;</span> 
+           <p>
+   	     <span> (h). </span> 
              RMIT University, Australia, for the idea that sound can be used to make electrolysis better and make use of cheaper electrode material. 
 	     The article saying this is here [ https://www.power-eng.com/hydrogen/sound-waves-boost-green-hydrogen-production/# ] so 
 	     we also thank the website [ power-eng.com ].
            </p>
 
-           <p><span>&gt;&gt;</span>
+           <p>
+   	     <span> (i). </span> 
+             NewScientist online magazine for carrying an article about a wonderful research by Jacob Rosenstein and his colleagues at Brown University, Rhode Island. 
+	     This research is about storing computer data into sugar molecules, amino acids and other small molecules.
+           </p>
+
+           <p>
+             This article we found while checking others' researches about storing computer data into sugar molecules which then can be 
+	     ingested by humans and plants.
+           </p>
+
+           <p>
+	     This article is on this link [ https://www.newscientist.com/article/2208439-data-can-now-be-stored-inside-the-molecules-that-power-our-metabolism/ ].
+           </p>
+
+           <p>
+   	     <span> (j). </span> 
              Planetary Science Division of NASA for the idea of creating an artificial magnetosphere for Red One.
            </p>
 
-           <p><span>&gt;&gt;</span>
-             Coke Studio Bangla Season One for presenting the song "Shob Lokey Koy" which is among our inspirations for our social system for the kosmos. 
-             This song is in the Bengali and Hindi languages and is a celebration of two past South Asian humanitarian mystics, 
-             Lalon Fakir and Kabir Das, and calls for unity of humans because they all are the waters from the
-             same well except for some differences in the vessels which then contain the waters. 
+           <p>
+   	     <span> (k). </span> 
+             Coke Studio Bangla Season One for presenting the song "Shob Lokey Koy" which is among our inspirations for our Iskra social system for the kosmos.
+           </p>
+
+           <p>
+             This song is in the Bengali and Hindi languages and is a celebration of two past South Asian humanitarian mystics, Lalon Fakir and Kabir Das, 
+	     and calls for unity of humans because they all are the waters from the same well except for some differences in the vessels which then contain the waters.
+           </p>
+
+           <p>
              The song is available on YouTube on this page [ https://www.youtube.com/watch?v=L-arhlgPiy8 ].
            </p>
 
-           <p><span>&gt;&gt;</span>
-             The website [ constitutionofindia.net ] for the info about the discussions during the early years 
-             of the design of the Indian constitution, in particular the proposals by Socialists Hasrat Mohani 
-             and Brajeshwar Prasad. The proposals can be read here [ https://www.constitutionofindia.net/debates/17-oct-1949/ ].
+           <p>
+   	     <span> (l). </span> 
+             The website [ constitutionofindia.net ] for the info about the discussions during the early years of the design of the Indian constitution, 
+	     in particular the proposals by Socialists Hasrat Mohani and Brajeshwar Prasad.
+           </p>
+
+           <p>
+             Their proposals can be read here [ https://www.constitutionofindia.net/debates/17-oct-1949/ ].
            </p>
            
-           <p><span>&gt;&gt;</span>
+           <p>
+   	     <span> (m). </span> 
              Ashok on the "Nationalizer" account on [ medium.com ] for his essay about the Indian Socialist Brajeshwar Prasad 
-             who spoke in favour of Socialism during the design years of the Indian constitution. The essay can be read here 
+             who spoke in favour of Socialism during the design years of the Indian constitution.
+           </p>
+
+           <p>
+             The essay can be read here 
              [ https://nationalizer.medium.com/socialist-and-secular-but-not-sovereign-brajeshwar-prasad-s-amendment-to-preamble-1bb8a1e8142e ] 
 	     so we also thank the website [ medium.com ].
            </p>
          
-           <p><span>&gt;&gt;</span>
+           <p>
+   	     <span> (n). </span> 
              Rabindranath Tagore for his essay that speaks against Nationalism. 
 	     The essay can be read here [ https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf ] so we also thank Queen's University of Canada.
            </p>
 
-           <p><span>&gt;&gt;</span> 
-	     BR Ambedkar among other things, for saying in a 1953 BBC vid interview that the so-called Democratic Process of five-yearly elections participated 
-	     by multiple political parties and producing a stream of pompously titled bureaucrats, is not actual democracy and will never produce a society 
-	     which brings proper food and other reasonable material needs to the masses and will never change society from feudalism to true democracy 
-	     but that change can be brought by Socialism. This rejection of the fake-democratic process of elections and stuff has been stated later by 
-	     other philosphers too. BBC has carried this interview on this page [ https://www.youtube.com/watch?v=WS7P9TKDZ2k ] so we thank BBC for this rare 
+           <p>
+   	     <span> (o). </span> 
+	     BR Ambedkar among other things, for saying in a 1953 vid interview with BBC that the so-called Democratic Process of five-yearly elections 
+	     participated by multiple political parties and producing a stream of pompously titled bureaucrats, is not actual democracy and 
+	     will never produce a society which brings proper food and other reasonable material needs to the masses and will never change society from feudalism 
+	     to true democracy, but that change can be brought by Socialism.
+           </p>
+
+           <p>
+             This rejection of the fake-democratic process of elections and stuff has been stated later by other philosphers too.
+           </p>
+
+           <p>
+	     BBC has carried this interview with Ambedkar on this page [ https://www.youtube.com/watch?v=WS7P9TKDZ2k ] so we thank BBC for this rare 
 	     vid.
            </p>
 
-           <p><span>&gt;&gt;</span> 
+           <p>
+   	     <span> (p). </span> 
              Che Guevara for his 1964 speech in the United Nations General Assembly, from which we take our mention of Mammon, and the YouTube channel of 
 	     United Nations which carries this speech on this page [ https://www.youtube.com/watch?v=bufHojkoGtw ].
            </p>
 
-           <p><span>&gt;&gt;</span> 
+           <p>
+   	     <span> (q). </span> 
 	     The media agency "The Atlantic" for this article about Yuri Gagarin's flight around Earth [ https://www.theatlantic.com/technology/archive/2011/04/yuri-gagarins-first-speech-about-his-flight-into-space/237134/ ].
            </p>
 
-           <p><span>&gt;&gt;</span> 
+           <p>
+   	     <span> (r). </span> 
              The website "Go Physics" for this collection of Yuri Gagarin's quotes [ https://thegophysics.com/yuri-gagarin-quotes/ ]
            </p>
 
-           <p><span>&gt;&gt;</span>
+           <p>
+   	     <span> (s). </span> 
              The website [ https://en.4lit.net ] for sayings by Fidel Castro at this page [ https://en.4lit.net/citaty/people/1088/fidel_castro?page=2 ].
            </p>
 
-           <p><span>&gt;&gt;</span>
+           <p>
+   	     <span> (t). </span> 
              The website [ https://www.idcommunism.com ] for sayings by Fidel Castro at this page [ https://www.idcommunism.com/2018/08/remembering-fidel-castro-ruz-quotes-on-capitalism.html ].
            </p>
 
-           <p><span>&gt;&gt;</span>
+           <p>
+   	     <span> (u). </span> 
 	     Jamal Abdul Nasser of Bangalore for the idea about having a social fund within our company.
            </p>
 
-           <p><span>&gt;&gt;</span>
+           <p>
+   	     <span> (v). </span> 
              Background picture for the website is from the DeviantArt website's DreamUp AI picture generation facility.
            </p>
 
-           <p><span>&gt;&gt;</span> 
+           <p>
+   	     <span> (w). </span> 
              In general all the good thinkers of the past and present whose thoughts and works we use in our projects.
            </p>
          
            </div>
 
            <div id="joinus" class="section">
-           <h2> 03.  You can join us if... </h2>
+           <h2> 03.  You can join us as a co-worker if... </h2>
 
-	   <p><span>&gt;&gt;</span> 
+	   <p>
+   	     <span> (a). </span> 
 	     If you believe in natural intelligence, ability, dignity and experience as a human. Doesn't matter if you are a fail in school 10th class. 
 	     It will be even better if you deliberately dropped out of college.
 	   </p>
 
-	   <p><span>&gt;&gt;</span> 
+	   <p>
+   	     <span> (b). </span> 
 	     If your knowledge is actually useful to the industry of travelling and living in the kosmos in a democratic and non-profit way. 
 	     So this discounts work types like HR, CSR and MBA-requiring positions.
 	   </p>
 
-	   <p><span>&gt;&gt;</span> 
+	   <p>
+   	     <span> (c). </span> 
 	     If your spoken and written language is simple, gentle, honest, receptive, educated ( in the real sense ) and enlightened. Not language 
 	     full of nonsense corporate and academia buzzwords ( "cutting edge", "Center of Excellence" etc ).
 	   </p>
 
-	   <p><p><span>&gt;&gt;</span> 
+	   <p>
+   	     <span> (d). </span> 
 	     If you respect the natural laws including the ones we present in the "Our techno systems" chapter and "Our social system - Iskra" chapter.
 	   </p>
 
-	   <p><p><span>&gt;&gt;</span> 
+	   <p>
+   	     <span> (e). </span> 
 	     If you do innovative and simplifying thinking even if going against traditions, industry standards and fashions.
 	   </p>
 
-	   <p><p><span>&gt;&gt;</span> 
+	   <p>
+   	     <span> (f). </span> 
 	     If you have no love for feudalism and profit and consider money as a temporary necessity for the now but which must be eventually abolished.
 	   </p>
 
-	   <p><p><span>&gt;&gt;</span> 
+	   <p>
+   	     <span> (g). </span> 
 	     If you desire a largely secular borderless unification of humanity on Earth and in the kosmos.
 	   </p>
 
-	   <p><p><span>&gt;&gt;</span> 
+	   <p>
+   	     <span> (h). </span> 
 	     If you ideally consider the cat as the most perfect animal in the kosmos, ha ha.
 	   </p>
 
-	   <p><p><span>&gt;&gt;</span> 
+	   <p>
+   	     <span> (i). </span> 
 	     If you consider tea as one of the main human gifts giveable to alien cultures in the kosmos, ha ha.	
 	   </p>
 
-	   <p><p><span>&gt;&gt;</span> 
+	   <p>
+   	     <span> (j). </span> 
 	     If you are well-presented in clothing, grooming and talking manner. Not fake but real. 
 	     Not aggressive but gentle and genuine.
 	   </p>
@@ -6216,46 +6509,64 @@ modalText.innerHTML = `
            </div>
 
            <div id="weoffer" class="section">
-           <h2> 04. We offer you as a worker what no other company offers </h2>
+           <h2> 04. Why we are the best company for you as a worker </h2>
 
-	     <p><span>&gt;&gt;</span> 
-	       You will be at the front of techno-social evolution of humanity. No other single organization can say this to you.
+	     <p>
+   	       <span> (a). </span> 
+	       With us, you will be at the front of bringing techno-social evolution of humanity. No other single organization can say this.
 	     </p>
 
-             <p><span>&gt;&gt;</span> 
+             <p>
+   	       <span> (b). </span> 
 	       We won't demand from you useless, obsolete things such as "high education percentiles", college degrees and 
-	       "20 years of experience in the corporate world". If you can work on our projects using natural intelligence and perhaps experience in the subject, 
-	       or if you can help us maintain our company in other ways like security work, you join us. But this depends on your acceptance of our 
-	       democratic and natural ways.
+	       "20 years of experience in the corporate world".
+             </p>
+
+             <p>
+               If you can work on our projects using natural intelligence and perhaps experience in the subject, or if you can help us maintain our company 
+	       in other ways like security work, you join us. But this depends on your acceptance of our democratic and natural ways.
 	     </p>
 
-	     <p><span>&gt;&gt;</span> 
-	       Our company is structured as a Workers Cooperative where you will be an equal co-owner of the company and 
-	       not an oppressed subordinate to some feudal boss. Please read the "Social organization of kosmonauts" topic in the "Our social system - Iskra" chapter 
-               on this website and return to this point. That topic describes the Workers Cooperative concept through which the workers will 
-	       own the means of production.
+	     <p>
+   	       <span> (c). </span> 
+	       Our company is structured as a Workers Cooperative where you will be an equal co-owner of the company and not an oppressed subordinate to 
+	       some feudal boss.
+             </p>
+
+             <p>
+               Please read the "Social organization of kosmonauts" topic in the "Our social system - Iskra" chapter on this website and return to this point. 
+	       That topic describes the Workers Cooperative concept through which the workers will own the means of production.
 	     </p>
 
-	     <p><span>&gt;&gt;</span> 
-	       You will have the same equal salary as everyone else in the company and this salary 
-	       will be comfortable but not an obscene amount which is waved in the face of poor people. 
-	       We want you to have decency, empathy and pan-human fraternity.
+	     <p>
+   	       <span> (d). </span> 
+	       You will have the same equal salary as everyone else in the company and this salary will be comfortable but not an obscene amount 
+	       which is waved in the face of poor people. We want you to have decency, empathy and pan-human fraternity.
 	     </p>
 
-	     <p><span>&gt;&gt;</span> 
+	     <p>
+   	       <span> (e). </span> 
 	       For any company formation rules about equity, our company's equity will be divided into three parts : 
 	       one for the founders, the second for the investors and the third for new co-workers where the founders will dilute 
 	       their equity equally so that all new and old workers have equal equity.
 	     </p>
 
-	     <p><span>&gt;&gt;</span> 
+	     <p>
+   	       <span> (f). </span> 
 	       For the money required to maintain the company, all workers will put an equal share from their salary into the company maintenance money pool.
 	     </p>
 
-	     <p><span>&gt;&gt;</span> 
-	       The kosmos industry is a permanent one so with us you will be in permanent employment. We don't do fashionable and nonsense tech like 
-	       quantum computing, edtech, fintech, humanoid robots and Tall Rockets with legs. We don't know what is market cap and we don't want to be 
-	       a unicorn company. We are simple people and are designing real and useful technologies and social systems for all of humanity and its future.
+	     <p>
+   	       <span> (g). </span> 
+	       The kosmos industry is a permanent one so with us you will be in permanent employment. We don't do fashionable and nonsense tech like      
+	       quantum computing, edtech, fintech, humanoid robots and Tall Rockets with legs... techs which are fashionable today but have no rational basis for 
+	       permanence even in two years from now.
+             </p>
+
+	     <p>
+   	       <span> (h). </span>
+               We in general believe in Socialism to various extents so we don't know what is market cap and we don't want to be a unicorn company. 
+	       We are simple people and are designing real and useful technologies and social systems for all of humanity and its future in the kosmos.
 	     </p>
 
            </div>
@@ -6271,9 +6582,12 @@ modalText.innerHTML = `
 
 	     <p>
 	       Our presently in-design systems will enable a cheap, simple, safer and democratic manned space program for potentially every Earthen society by which 
-	       any of your society's citizens can become kosmonauts who can travel to the Moon by 2033 and travel throughout the Solar System by 2035. 
-	       And they will bring back experiences and materials from there to your societies in a pan-human, democratic way so that your societies are 
-	       intellectually enriched, materially enriched and contribute to humanity within the bounds of respect for Nature and a pan-human 
+	       any of your society's citizens can become kosmonauts who can travel to the Moon by 2033 and travel throughout the Solar System by 2035.
+             </p>
+
+             <p>
+	       And these citizens of yours will bring back experiences and materials from there to your societies in a pan-human, democratic way so that 
+	       your societies are intellectually enriched, materially enriched and contribute to humanity within the bounds of respect for Nature and a pan-human 
 	       "Liberty, Equality, Fraternity, Evolution".
 	     </p>
 
@@ -6290,8 +6604,8 @@ modalText.innerHTML = `
              </p>
 
              <p>
-	       So, for just a million dollars our client national space departments acquire the design of our techno systems for an entire space program by which 
-	       their citizens can travel and settle the entire Solar System and this in a harmonious way.
+	       So, for just a million dollars our client national space departments will acquire the design of our techno systems for an entire space program by which 
+	       their citizens can travel and settle the entire Solar System in the intermediate term and this in a harmonious and pan-human way.
              </p>
 
              <p>
@@ -6310,8 +6624,13 @@ modalText.innerHTML = `
 
              <p>
 	       About how our client governments will recoup our one million dollar license fee, it is given in the "Our social system - Iskra" chapter on this website, 
-	       topic "Social organization of kosmonauts", section (r). But why will any reasonable government want to recoup money when their citizens can freely travel 
-	       and settle the farthest reaches of the Solar System and contribute to the entirety of humanity ?
+	       topic "Social organization of kosmonauts", section (r).
+             </p>
+
+             <p>
+	       But why will any reasonable government want to recoup money when; by using our techno-social systems which are simplified, real, cheaply buildable
+	       anywhere, are natural and instill humanism in their citizens; their citizens can freely travel and settle the farthest reaches of the Solar System and
+	       contribute to the entirety of humanity ? And then their societies join other humans in a unified and harmonious future beyond the Solar System.
 	     </p>
 
            </div>
@@ -6439,8 +6758,12 @@ modalText.innerHTML = `
 
             <p><span>Physical address :</span> 
 	      Presently most of us are based in Bangalore city, India, but we will base our HQ in Calcutta city ( now called Kolkata ) 
-	      which is in the east side of India. This move because Calcutta is the only true city in India with much progressivism as built culture 
-	      including Socialist intellectualism, though Calcutta can be lot more improved.
+	      which is in the east side of India.
+	    </p>
+
+	    <p>
+              This move because Calcutta is the only true city in India with much progressivism as built culture including Socialist intellectualism, 
+	      though Calcutta can be lot more improved.
 	    </p>
 
 	    <p><span>Talk to us in person over tea.</span>
@@ -6507,5 +6830,3 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
-
-
