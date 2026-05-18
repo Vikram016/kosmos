@@ -5908,8 +5908,7 @@ modalText.innerHTML = `
              </p>
 
              <p>
-	       Please watch the Che Guevara speech vid linked in the "Thanks" topic in the "Our company info" chapter. This speech is from 1964, done in 
-	       the UN General Assembly where he includes the subject of Mammon.
+	       The great Socialist philosopher and revolutionary, Che Guevara, mentions the subject of Mammon in this speech in the UN General Assembly in 1964 [ https://www.youtube.com/watch?v=bufHojkoGtw ].
 	     </p>
 
 	     <p>
