@@ -593,13 +593,27 @@ modalText.innerHTML = `
              </p>
 
              <p>
-               <span> (b). </span> Artificial Intelligence system using a combination of our Dune Buk wearable computer and plant biology. 
+               <span> (b). </span> Computer data communication using scents generated and received by plants... say rose.
+	       This communication can be done within rooms or long-distance.
+             </p>
+
+             <p>
+               This communication can be done where air flows which means not on worlds without air... or maybe this can be done... more ideation required here.
+             </p>
+
+             <p>
+               This method is especially useful if other communication means cannot be used, like radio frequency and infrasound... 
+	       though scent-based communication will be not instant like RF, sound and light.
+             </p>
+
+             <p>
+               <span> (c). </span> Artificial Intelligence system using a combination of our Dune Buk wearable computer and plant biology. 
 	       This use of the abilities of plants about simplicity, naturality, autonomous behavior, scalability and self-replication will allow computation that 
 	       uses less resources, is compact, intelligent, self-replicating and has Socialism as basis including respect for Nature.
              </p>
 
              <p>
-	       Add to this plant-based computation our plant-based data storage.
+	       Add to this plant-based computation our plant-based data storage and plant-based data communication using scents.
              </p>
 
              <p>
@@ -612,23 +626,23 @@ modalText.innerHTML = `
              </p>
 
              <p>
-               <span> (c). </span> The ideal plants to derive biocoal for the coal needed to propel our Alef kosmos ships. 
+               <span> (d). </span> The ideal plants to derive biocoal for the coal needed to propel our Alef kosmos ships. 
 	       These plants should be growable in the kosmos.
              </p>
 
              <p>
-               <span> (d). </span> Strengthened and fire-proof wood for structures in the kosmos ships, kosmos suits, 
+               <span> (e). </span> Strengthened and fire-proof wood for structures in the kosmos ships, kosmos suits, 
                kosmos habitations, the Dune Buk wearable computer and so on. Such wood is preferable to metal in many cases. 
 	       The trees for the wood should be growable in the kosmos.
              </p>
 
              <p>
-               <span> (e). </span> Transparent wood to replace glass in some applications. The trees for the wood should 
+               <span> (f). </span> Transparent wood to replace glass in some applications. The trees for the wood should 
                be growable in the kosmos.
              </p>
 
              <p>
-               <span> (f). </span> Structures of the kosmos ships, kosmos suits and kosmos habitations to be bio-mimicking and also made of biological elements 
+               <span> (g). </span> Structures of the kosmos ships, kosmos suits and kosmos habitations to be bio-mimicking and also made of biological elements 
 	       for radiation shielding, self-repair and a sense of more naturality.
              </p>
 
@@ -639,14 +653,14 @@ modalText.innerHTML = `
              </p>
 
              <p>
-               <span> (g). </span> 
+               <span> (h). </span> 
 	       The previously described phenomenon of radiosynthesis has an interesting application for the kosmos which uses the idea 
                similar to the Astrophage bio-organism in Andy Weir's sci-fi book of 2021 called Project Hail Mary. This application is propulsion of 
 	       kosmos ships :
 	     </p>
 
              <p style="margin-left:1em; margin-bottom:10px";>
-	       <span> (ga).</span> 
+	       <span> (ha).</span> 
                This will make use of self-replicating bacteria which absorb / eat the different radiations in the kosmos, store those radiation energies internally 
 	       like an electrical capacitor and can be made to release / discharge those energies in a single burst at extremely high energy levels just like 
 	       a high-voltage electrical capacitor discharge, and this high energy discharge by these bio-organisms can propel kosmos ships 
@@ -654,14 +668,14 @@ modalText.innerHTML = `
 	     </p>
 
 	     <p style="margin-left:1em; margin-bottom:10px";> 
-	       <span> (gb).</span> 
+	       <span> (hb).</span> 
 	       This bio-propulsion can be used in association with the regular steam propulsion used in our Alef kosmos ships, 
 	       where the bacteria give initial extremely high speed pushes to the kosmos ships and then are not used and then the steam engines with 
 	       their recoverable water mechanism are turned on to give continuous propulsion so that higher speeds are reached. The bacteria are also used for braking.
 	     </p>
 
              <p style="margin-left:1em; margin-bottom:10px";> 
-	       <span> (gca).</span> 
+	       <span> (hca).</span> 
                Since this bio-propulsion requires these bacteria to be exposed to the radiations in the kosmos, our Alef-A kosmos ships will ascend to a world's 
 	       higher orbit... say of Earth... above the magnetosphere which shield's the below orbits and the world from kosmik radiations... 
 	       and the Alef-A will carry along the unactivated bio-propulsion bacteria and have it exposed to kosmik radiations and then return the radiation-ate 
@@ -669,89 +683,89 @@ modalText.innerHTML = `
 	     </p>
 
              <p style="margin-left:1em; margin-bottom:10px";> 
-	       <span> (gcb).</span> 
+	       <span> (hcb).</span> 
                Here, the steam propulsion and coal propulsion in our Alef-A ship is used for ascending and descending, and also if this bio-propulsion becomes
 	       somehow unavailable or it may not need to be used.
 	     </p>
 
              <p style="margin-left:1em; margin-bottom:10px";> 
-	       <span> (gd).</span> 
+	       <span> (hd).</span> 
 	       This system will allow us lot faster and shorter-duration travel within the Solar System and to the stars in a sustainable way using 
 	       the bacteria-stored energy. Who knows, the Moon in one day, Red One planet in 30 days and Saturn in 90 days.
              </p>
 
 	     <p>
-               <span> (h). </span> Engineered bacteria can be used to perhaps even construct useful matter from other existent
+               <span> (i). </span> Engineered bacteria can be used to perhaps even construct useful matter from other existent
                matter like asteroid rock. This is the concept of bio-transmutation and will remove the need for a lot of mechano-chemical 
                mineral processing and production factories and their attendant ore scarcity, pollution and human physical labor. 
 	       Other examples of use :
              </p>
 
              <p style='margin-left:2em;margin-bottom:10px;'>
-	       <span> (ha).</span> 
+	       <span> (ia).</span> 
 	       To get the helium gas which our Alef-A airships require as their lift gas.
              </p>
 
              <p style='margin-left:2em;margin-bottom:10px;'>
-	       <span>(hb).</span> 
+	       <span>(ib).</span> 
 	       To get the nitrogen gas for adding to oxygen in the correct mixture so that humans can breath their Earth-normal air mixture of nitrogen-oxygen.
              </p>
 
              <p style='margin-left:2em;margin-bottom:10px;'>
-	       <span>(hc).</span> 
+	       <span>(ic).</span> 
 	       To obtain nutrients for plants.
              </p>
 
              <p style='margin-left:2em;margin-bottom:10px;'>
-	       <span>(hd).</span> 
+	       <span>(id).</span> 
 	       To extract water or even construct water.
              </p>
 
              <p>
-               <span> (i). </span> 
+               <span> (j). </span> 
 	       Engineered-for-kosmos food production.
              </p>
 
              <p>
-               <span> (j). </span> 
+               <span> (k). </span> 
 	       Plant-based materials for leather, clothing, fur, packaging etc, and for dyes and colors.
              </p>
 
              <p>
-               <span> (k). </span> 
+               <span> (l). </span> 
 	       Bacteria-based construction of products and structures, from small size to very large, including within the human body like for repairing the heart. 
 	       These bacteria will be self-replicating and programmable for different tasks.
              </p>
 
              <p style='margin-left:2em;margin-bottom:10px;'>
-	       <span> (ka).</span> 
+	       <span> (la).</span> 
                During the process of the construction these special bacteria can derive nutrition from sprays or other input types of water which is filled with nutrients. 
                And since the bacteria are programmable, they can be told to stop at the completion of the construction.
              </p>
 
              <p style='margin-left:2em;margin-bottom:10px;'>
-	       <span> (kb).</span> 
+	       <span> (lb).</span> 
                Example, construction of our Alef-A airship-kosmosship.
              </p>
 
              <p style='margin-left:2em;margin-bottom:10px;'>
-	       <span> (kc).</span> 
+	       <span> (lc).</span> 
                This method will make obsolete the present 3D Printing techniques and most or all mechanized factory production, 
 	       and contribute to bringing decentralized, humanly empowering, Post-scarcity Human Civilization the biology way.
              </p>
 
 	     <p>
-               <span> (l). </span> Human composting.
+               <span> (m). </span> Human composting.
              </p>
 
              <p>
-               <span> (m). </span> 
+               <span> (n). </span> 
 	       Bio-engineered production of not only plant-based foods but also 
                nutritious originally animal products like sheep milk, chicken egg and honey.
              </p>
 
              <p>
-               <span> (n). </span> 
+               <span> (o). </span> 
 	       Bio-engineered animal products growing also leads to another interesting thing : 
                synthetic wombs for growing human organs and cat organs and entire living humans and this is important not
                only for solving diseases like blindness and kidney failure but also for populating the kosmos with
@@ -759,19 +773,19 @@ modalText.innerHTML = `
              </p>
 
              <p>
-               <span> (o). </span> 
+               <span> (p). </span> 
 	       Creating within humans the abilities for self-repair, kosmos-tolerance and enhanced strength. To get these abilities may require biological elements 
 	       acting with non-bio nanomachines within the body. It should be possible to thus increase continuous human life span to 2000 years at least.
              </p>
 
              <p style='margin-left:2em;margin-bottom:10px;'>
-	       <span> (oa).</span> 
+	       <span> (pa).</span> 
                However, in enabling biology-based super-enhancement and synthetic wombs for humans, 
                care will be taken that such acquired abilities do not transform humans from their human form into the extreme imagined forms of Transhumanism.
              </p>
 
              <p style='margin-left:2em;margin-bottom:10px;'>
-	       <span> (ob).</span> 
+	       <span> (pb).</span> 
                Example, a cat should recognize an enhanced human as a human, a human with gentleness, wisdom, sensitiveness and
 	       empathy who a cat can trust... certainly not the robotic massively-muscled enhanced beings of some Hollywood films who do not seem "human".
              </p>
@@ -2259,9 +2273,13 @@ modalText.innerHTML = `
 
            <p>
              The famous slogan "Liberty, Equality, Fraternity" which our organization uses, it is used in other progressive thought streams. Newly independent India in
-	     the late 1940s presents a wonderful such example. The Indian Constitution's main guide was the great liberator, BR Ambedkar, 
-	     and he mainly discussions based on educatedness and consensus to produce a wonderfully progressive system for India and this included the 
-	     pan-humanist utopian ideals "Liberty, Equality, Fraternity" being placed in the preamble ( introduction ) to this constitution.
+	     the late 1940s presents a wonderful such example.
+           </p>
+
+           <p>
+             The Indian Constitution's main guide was the great liberator, BR Ambedkar, and he led discussions largely based on educatedness and 
+	     consensus to produce a wonderfully progressive system for India and this included the pan-humanist utopian ideals "Liberty, Equality, Fraternity" 
+	     being placed in the preamble ( introduction ) to this constitution.
            </p>
 
            <p>
@@ -4184,7 +4202,7 @@ modalText.innerHTML = `
 
            <p>
 	     Finally, the surviving gladiators who may still remain slaves, but owned by others now, despite promises of liberation from this kind of slavery, 
-	     they were lionized, glorified, heroized and made examples of supposed manlines... something every eight-year-old ordinary boy and every 60-year-old 
+	     they were lionized, glorified, heroized and made examples of supposed manliness... something every eight-year-old ordinary boy and every 60-year-old 
 	     ordinary "man" should celebrate, venerate and look forward to becoming.
            </p>
 
@@ -5908,7 +5926,8 @@ modalText.innerHTML = `
              </p>
 
              <p>
-	       The great Socialist philosopher and revolutionary, Che Guevara, mentions the subject of Mammon in this speech in the UN General Assembly in 1964 [ https://www.youtube.com/watch?v=bufHojkoGtw ].
+	       The great Socialist philosopher and revolutionary, Che Guevara, mentions the subject of Mammon in this speech in the UN General Assembly in 1964 
+	       [ https://www.youtube.com/watch?v=bufHojkoGtw ].
 	     </p>
 
 	     <p>
@@ -7350,11 +7369,16 @@ modalText.innerHTML = `
 
            <p>
    	     <span> (w). </span> 
-             The cover art on our homepage is from the DeviantArt website's DreamUp AI picture generation facility.
+             Rayees Kunnool for the idea about scent-based computer data communication.
            </p>
 
            <p>
    	     <span> (x). </span> 
+             The cover art on our homepage is from the DeviantArt website's DreamUp AI picture generation facility.
+           </p>
+
+           <p>
+   	     <span> (y). </span> 
              In general we thank all the good thinkers of the past and present whose thoughts and works we use in our projects.
            </p>
          
@@ -7372,7 +7396,7 @@ modalText.innerHTML = `
 	    </p>
 
             <p><span>Physical address :</span> 
-	      Presently, most of us are based in Bangalore city.
+	      Presently, most of us are based in Bangalore city, India.
 	    </p>
 
 	    <p><span>Talk to us in person over tea.</span>
