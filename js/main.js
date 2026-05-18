@@ -5912,7 +5912,7 @@ modalText.innerHTML = `
 	     </p>
 
 	     <p>
-	       About money, it is not from Nature but is a creation of humans, in particular those who wanted to do oppression by any means.
+	       Money is not from Nature but is a creation of humans, in particular those who wanted to do oppression by any means.
 	     </p>
 
 	     <p>
