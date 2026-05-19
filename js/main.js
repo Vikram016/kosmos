@@ -1768,10 +1768,20 @@ modalText.innerHTML = `
 
              <p style="margin-left:1em; margin-bottom:10px";>
 	       <span>(f).</span> There will be a staircase from inside the tunnel to an enclosed but unpressurized watch tower located on top of the construction. 
-	       The watch tower will have 360 degree view via hardened windows and also a dome window which will also be hardened. The windows will have 
-	       Rajasthani-style "jaali" window covering aka "jali" on the outside to reduce possible high sunlight as well as dust and also to give aesthetic look. 
-	       A picture example of jaali is linked below. The entry to the staircase from inside the tunnel will have a door as well as 
-	       a door at the entry to the watch tower, and both doors will be made of the materials given in point (d) above.
+	       The watch tower will have 360 degree view via hardened windows and also a dome window which will also be hardened.
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+               The windows will have Rajasthani-style "jaali" window covering aka "jali" on the outside to reduce possible high sunlight as well as dust and 
+	       also to give aesthetic look. A picture example of jaali is linked below.
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+               The entry to the staircase from inside the tunnel will have a door as well as a door at the entry to the watch tower, and both doors will be made of 
+	       the materials given in point (d) above.
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
 	       There will be Dune Buk computers doing video and audio recording in the watch tower and from the watch tower, 
 	       as well as being connected to other sensors.
              </p>
@@ -1835,9 +1845,13 @@ modalText.innerHTML = `
              <p style="margin-left:1em; margin-bottom:10px";>
                From these architectures, the features chosen for passive and active environment control within the habitat and maybe outside the habitat, 
 	       depending on the kosmik world, must include types like jaali, malqaf, qanat, salsabil, normal fountains, aromatic wetted mat curtains for entrances and 
-	       balconies ( like the Indian "khass" / "khus" grass mats ) and small gardens which have trees growable on the inside. 
-	       There can be trees on the outside of the habitations... these trees genetically modified for the soil situation of that particular world 
-	       as well as every tree having a supporting enclosure if needed.
+	       balconies ( like the Indian "khass" / "khus" grass mats ).
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+	       There should be small gardens which have trees growable on the inside of the habitat. There can be trees on the outside of the habitations... 
+	       these trees genetically modified for the soil situation of that particular world as well as every tree having a supporting enclosure if needed.
+	       These gardens and trees are for active environment control as well as aesthetics and for providing naturality.
              </p>
 
              <p style="margin-left:1em; margin-bottom:10px";>
@@ -1873,12 +1887,16 @@ modalText.innerHTML = `
 
              <p style="margin-left:1em; margin-bottom:10px";>
                <span>(r).</span> To protect the habitats against big rocks which may penerate even the hardened underground habitats, 
-	       stationed in orbit will be the Mulsa satellites. In case the incoming kosmik rocks have to be taken away from that habitation world, 
-	       the nearest disposal place in our solar system can be the Sun, Jupiter, Neptune etc depending on which of these places is near to the habitation world.
+	       stationed in orbit will be the Mulsa satellites.
+             </p>
+
+             <p style="margin-left:1em; margin-bottom:10px";>
+               In case the incoming kosmik rocks have to be taken away from that habitation world, the nearest disposal place in our solar system can be the Sun, 
+	       Jupiter, Neptune etc depending on which of these places is near to the habitation world.
              </p>
 
              <p>
-	       Imagine coming upon such an architectured city on Deimos, one of the two moons of Red One, or such a city on some rocky world beyond Pluto, 
+	       Imagine coming upon such a beautifully architectured city on Deimos, one of the two moons of Red One, or such a city on some rocky world beyond Pluto, 
 	       or in a deep crater on Mercury where the crater's bottom is shielded from the Sun... of course in all three cases the city's features made relevant to 
 	       the environment of those kosmik places.
              </p>
