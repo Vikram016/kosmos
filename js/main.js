@@ -798,7 +798,7 @@ modalText.innerHTML = `
            <p>
              Dune Buk will be a general-purpose kosmos-operable wearable computer whose main body will be about
              three feet long and worn on the back of the upper arm using two straps - one around the
-             upper arm and another over the shoulder, and thus can be used with any kind of clothing (
+             upper arm and another over the shoulder, thus can be used with any kind of clothing (
              kosmos suits, office dress, social clothing etc ) and will be aesthetic enough for the stylish person.
            </p>
 
@@ -974,9 +974,16 @@ modalText.innerHTML = `
            <p style='margin-left:2em;margin-bottom:10px;'>
              <span> (b). </span> 
              The computations and the other systems use sound also because sound is lot lot less affected by kosmik radiation and temperature than 
-	     semiconductor electronics, unless the radiation is so high that the sound producing elements, the sound transmitting channels, 
-	     the sound computation chambers, sound receiving elements and other sound elements are physically deformed by the radiation. 
-	     But of course, such high radiation will kill our wearable computer's wearer first despite every humanly possible protection, 
+	     semiconductor electronics...
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+             ...unless the radiation is so high that the sound producing elements, the sound transmitting channels, 
+	     the sound computation chambers, sound receiving elements and other sound elements are physically deformed by the radiation.
+           </p>
+
+           <p style='margin-left:2em;margin-bottom:10px;'>
+	     Of course, such high radiation will kill our wearable computer's wearer first despite every humanly possible protection, 
 	     and the only use of such a computer then is recording such an event if the wearable computer survives.
            </p>
 
@@ -1663,7 +1670,7 @@ modalText.innerHTML = `
              <p style="margin-left:1em; margin-bottom:10px";>
 	       What we can however do is create artificial magnetospheres for those worlds by installing large electromagnetic field generators around 
 	       those worlds. This is one of the purposes of our Mulsa satellites... the EM field generator will be within the Mulsa. These field generators will be powered 
-	       by our Faradn electricity generators. Having multiple Mulsa satellites around a world and thus multiple EM field generators will be useful in terms of
+	       by our Faradn electricity generators. Having multiple Mulsa satellites around a world, thus multiple EM field generators will be useful in terms of
 	       redundancy and multi-level coverage.
 	     </p>
 
@@ -1716,8 +1723,8 @@ modalText.innerHTML = `
 	     </p>
 
 	     <p>
-	       For atmosphere-having worlds whose surface is entirely water or largely water, the Alef-A crafts can be used to travel across these worlds and thus 
-	       the Alef-As will be the habitats.
+	       For atmosphere-having worlds whose surface is entirely water or largely water, the Alef-A crafts can be used to travel across these worlds, 
+	       thus the Alef-As will be the habitats.
 	     </p>
 
 	     <p>
@@ -2320,7 +2327,7 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             But sadly most of the middle classees were largely content with being apathetic wage slaves and ritualists in a religious sense and thus they didn't ever 
+             But sadly most of the middle classees were largely content with being apathetic wage slaves and ritualists in a religious sense, thus they didn't ever 
 	     bother to reject the feudalism, oppression, irrationalism and superstition in their society but they instead ardently participated in those including by 
 	     just standing by in a crowd and staring in a zombie manner at a road mishap victim who was blooded and struggling to live and trembling and could have
 	     been saved by being taken to safety in a vehicle but this staring crowd just watched the victim suffering so openly on that public road... and he died.
@@ -2372,8 +2379,17 @@ modalText.innerHTML = `
            <p style="margin-left:1em; margin-bottom:10px";>
 	     <span> (b). </span> The middle classees declare that politics is "dirty" and not for them. They declare this instead of marching on the roads and 
 	     calling for overturning of feudalism, capitalism, priestism and other wrong isms. The middle classees do this because most of them are traditionally and
-	     generationally apathetic, voluntary wage slaves and cowards. They will rather crowd on the sofa to watch a cricket match on TV for four hours 
-	     instead of taking food to a neighbor who has been hungry the whole day because he doesn't have money.
+	     generationally apathetic, voluntary wage slaves and cowards.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+             The middle classees will rather crowd on the sofa to watch a cricket match on TV for four hours instead of taking food to a neighbor 
+	     who has been hungry the whole day because he doesn't have money.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+	     The middle classees will rather watch live pilgrimage on YouTube for four hours instead of spending four hours in a tea house, 
+	     discussing how to bring enlightenment to their society and all of humanity.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -2390,8 +2406,11 @@ modalText.innerHTML = `
            <p style="margin-left:1em; margin-bottom:10px";>
 	     <span> (e). </span> So, these parties will appeal to the crass thoughts among these middle classees... 
 	     thoughts like love for religious imagery and ritualism, love for competitive sports, love for wage slavery, love for needless hate against other communities 
-	     in their society, love for needless hate against other humans outside their borders, etc. This pandering to the crass thoughts among the masses, 
-	     especially the zombie middle classees, is called Demagoguery.
+	     in their society, love for needless hate against other humans outside their borders, etc.
+           </p>
+
+           <p style="margin-left:1em; margin-bottom:10px";>
+             This pandering to the crass thoughts among the masses, especially the zombie middle classees, is called Demagoguery.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -2449,13 +2468,13 @@ modalText.innerHTML = `
            </p>
 
            <p>
-	     Please check the "Thanks" topic in the "Our company info" chapter from our homepage to watch a vid of Ambedkar saying some of the above in 
-	     a video interview with a BBC reporter in 1953.
+	     This short vid clip is of Ambedkar being interviewed by a BBC reporter in 1953 where Ambedkar says some of the above 
+	     [ https://www.youtube.com/watch?v=WS7P9TKDZ2k ].
            </p>
 
 	   <p>
-	     Among the progressives who discussed in India's constitution discussion gathering, there were Hasrat Mohani and Brajeshwar Prasad 
-	     who wanted India to be a progressive, humanist, Socialist society.
+	     Among the other progressives who discussed in India's constitution discussion gathering, there were Hasrat Mohani and Brajeshwar Prasad 
+	     who wanted India to be a progressive, humanist, Socialist society... what Ambedkar also later wished.
 	   </p>
 
 	   <p>
@@ -2678,10 +2697,18 @@ modalText.innerHTML = `
 
            <p>
              The system of "Cost to Company" is where the worker is two things : just a non-human statistic on the company accountant's spread sheet and 
-	     second, a name in the oppressive manager's memory. And the accountant, the manager and the feudal company owner will collectively 
-	     extract every work from the workers in a manner similar to squeezing the last drop of oil out of an oil seed and then reluctantly toss a few pennies towards
-	     the workers every month and in this reluctance they will blatantly call these few pennies ( the salary ) as "Cost to Company". The workers are no more than 
-	     a burdensome "Cost To Company" even though it is their labor which brings income to the company and the wealth to its feudalist owner.
+	     second, a name in the oppressive manager's memory.
+           </p>
+
+           <p>
+             And the accountant, the manager and the feudal company owner will collectively extract every work from the workers in a manner similar to 
+	     squeezing the last drop of oil out of an oil seed and then reluctantly toss a few pennies towards the workers every month and in this reluctance 
+	     they will blatantly call these few pennies ( the salary ) as "Cost to Company".
+           </p>
+
+           <p>
+             The workers are no more than a burdensome "Cost To Company" even though it is their labor which brings income to the company and 
+	     the wealth to its feudalist owner.
            </p>	     
 
            <p>
@@ -2693,21 +2720,22 @@ modalText.innerHTML = `
            </p>
 
            <p>
-	     Example, in a neighborhood in a feudal society there may be ten clinics but if a person from the same neighborhood, desiring to consult 
-	     with one of these ten clinics, doesn't have the money to pay to the clinic, this situation will be the same as these ten clinics 
-	     being situated on the Moon and the suffering person not having the means to reach the Moon.
+	     Example, in a neighborhood in a feudal society there may be ten clinics but if a person from the same neighborhood, 
+	     desiring to consult with any one of these ten clinics, doesn't have the money to pay to the clinic, this situation will be the same as 
+	     these ten clinics being situated on the Moon and the suffering person not having the means to reach the Moon.
            </p>
 
            <p>
              A lover of statistics will rejoice on hearing that there are ten clinics in this neighborhood but the blatant inaccessibility of these clinics
-	     and the profit mindset of these clinics, means that statistics is a nonsense science.
+	     and the profit mindset of these clinics, means that statistics by itself is a useless science, unless and only unless the statistics comes with context.
            </p>
 
            <p>
-	     But in that other faraway progressive society who our nationalist middle classee wishes to cause genocide, the citizens there are not statistics but humans. 
+	     But in that other faraway progressive society who our nationalist middle classee wishes to genocide, the citizens there are not statistics but humans. 
 	     They don't have to struggle to take ungiving permissions of family elders just to love a person of the opposite gender or to invent,
-	     write, paint, observe the kosmos and live a simple life where material needs are obtained without social struggle. They won't be told by parents to
-	     either enslave themselves for 40 years to earn money to be called of worth or go die silently somewhere far.
+	     write, paint, observe the kosmos and live a simple life where material needs are easily obtained without daily and years-long social struggle. 
+	     They won't be told by parents to either enslave themselves for 40 years to earn money to be called of worth or 
+	     go die silently somewhere far.
            </p>
 
            <p>
@@ -2717,14 +2745,23 @@ modalText.innerHTML = `
 
            <p>
              But our unthinking, nationalist middle classee in his feudal society will call that faraway humanist society a "rogue nation" which must be changed 
-	     even by genocide so that "Democracy for the rich" can be brought there and Free Market can be brought there and the anti-worker anti-human teachings
-	     of B-schools can be brought there, LOL.
+	     even by genocide so that "Democracy" can be brought there... in reality this "Democracy" meaning the 99 percent ordinary masses will 
+	     become multi-generation slaves for the one percent rich and powerful through feudalist "industrialists", Free Market, company valuations, stock market,
+	     unicorn companies, priests, careers, illusionary career ladders, class system, life-long taxes even on water, the anti-worker anti-human teachings of
+	     B-schools, greedy charlatans, misogyny, male homosexuality, greedy people, superstitions, irrationalities, feudalist families, sportstar wastrels, 
+	     misguided youth, socio-economic suicides, where celebs blatantly promote four diamond necklaces to be worn by the same rich woman at 
+	     four different occasions but most of the citizens unable to afford such a single diamond necklace in four generations, 
+	     where a dog has rights but humans must daily compete for even water and live in chaos for the whole life and for generations.
            </p>
-	   
+
+           <p>
+             Is this the Democracy which our middle classee wants for that faraway "rogue nation" where most things are free of money and life is easy ??? LOL.
+           </p>
+
            <p>
              But the typical middle classee is not thoughtful, educated and awake to realize these idiocies. If he or she was, 
-	     they would have first realized their own multi-generational slavery of different kinds including being wage slaves, and then contributed to the liberated 
-	     evolution of their society.
+	     they would have first realized their own millenia-long or centuries-long multi-generational slavery of different kinds including being wage slaves, 
+	     and then contributed to the liberated evolution of their society.
            </p>
 
            <p>
@@ -2790,16 +2827,18 @@ modalText.innerHTML = `
            <p>
              Helena was aged 15-17 and Chandragupta was 40 and it is said that both liked each other at first sight even though theirs was a political marriage
 	     proposed by Helena's father. It is possible that Helena's son by Chandragupta was Bindusara whose son was Ashoka so Ashoka may have had 
-	     Greek and Irani genes in addition to non-Brahman South Asian genetics ( Brahmans are the "Aryans" from Iran whose came to India about 700 years 
-	     before Ashoka was born ) .
+	     Greek and Irani genes in addition to his mixed South Asian genetics.
            </p>
 
            <p>
              To bring back the concept of trans-border progressive social influences, in India of the late 1700s, in the era of the French Revolution, 
 	     the kingdom of Mysore in the region of Deccan India was administered by Tipu Sultan who was a progressive and an internationalist inspired by 
-	     the French Revolution and corresponded with the leader of revolutionary France, Napoleon Bonaparte. Tipu is said to have established a Jacobin Club in 
-	     his stronghold city of Srirangapatna, for the benefit of Indians to discuss social enlightenment and replicate the ideas of revolutionary France including 
-             in fighting against the then British colonial rule.
+	     the French Revolution and corresponded with the leader of revolutionary France, Napoleon Bonaparte.
+           </p>
+
+           <p>
+             Tipu is said to have established a Jacobin Club in his stronghold city of Srirangapatna, for the benefit of Indians to discuss social enlightenment and
+	     replicate the ideas of revolutionary France including in fighting against the then British colonial rule.
            </p>
 
            <p>
@@ -4251,7 +4290,7 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             Anyone who wants to kill a cat is being stupid and thus should stop. Any society which celebrates such killing including by fixing a cat's head to 
+             Anyone who wants to kill a cat is being stupid, thus should stop. Any society which celebrates such killing including by fixing a cat's head to 
 	     the most prominent wall of his house or the hunter holding the killed cat in a photo, such society is in need of enlightenment. But permissible is 
 	     removal of wolf, hyena and all other dogs and also snakes, crocodiles, sharks and orcas as these animals are dangerous pests.
            </p>
@@ -4342,7 +4381,7 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";>
              <span> (a). </span> To liberate ourself from any oppressive, irrational, socially disconnected and anti-human impositions by our family, tradition and
-	     culture, and thus by these liberations to know our reasonable rights and duties as a human.
+	     culture, thus by these liberations to know our reasonable rights and duties as a human.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -4373,7 +4412,7 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";>
              Following simple intellectual curiosity requires leisure and most societies on Earth presently don't offer easy leisure to most citizens. 
-	     Therefore, true education will require leisure and thus change in the techno-social aspects of these societies.
+	     Therefore, true education will require leisure, thus change in the techno-social aspects of these societies.
            </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -4441,7 +4480,7 @@ modalText.innerHTML = `
            <p>
 	     In their process of solving their fantasy equations which are disconnected from events in their own societies and in the rest of Earth and 
 	     certainly in the kosmos, these mathematician peepz provide their own fantasy inputs to their equations and of course that will solve the equations...
-	     after all, it is their imagined kosmik problem, their provided inputs and thus expected positive results.
+	     after all, it is their imagined kosmik problem, their provided inputs, thus expected positive results.
            </p>
 
            <p>
@@ -4741,7 +4780,7 @@ modalText.innerHTML = `
            <p>
 	     But why this hurry-burry and stress imposed on the students ? If a society can build a huge number of grand prayer houses, the same society can build 
 	     more number of educational institutes which take no tax from the aspiring learners, whether in form of money or high number of marks in 
-	     previous exams, and thus there is no artificial scarcity of "seats" in the college and no competition in education and no competition otherwise too.
+	     previous exams, thus there is no artificial scarcity of "seats" in the college and no competition in education and no competition otherwise too.
            </p>
 
            <p>
@@ -5323,8 +5362,8 @@ modalText.innerHTML = `
 	   </p>
 
 	   <p style="margin-left:1em; margin-bottom:10px";> 
-             There are old descriptions : "Wise cat" and "Dog-eat-dog society". It is clear then... do we want a human society to adore cats and thus have gentleness,
-	     intelligence, sensitiveness, empathy, beauty, loyalty and contribution to humanity or do we want a society to adore dogs and thus have chaos, noise, 
+             There are old descriptions : "Wise cat" and "Dog-eat-dog society". It is clear then... do we want a human society to adore cats, thus have gentleness,
+	     intelligence, sensitiveness, empathy, beauty, loyalty and contribution to humanity or do we want a society to adore dogs, thus have chaos, noise, 
 	     competition, apathy, cruelty, filth, violence, disgustingness and mindlessness ?
 	   </p>
 
@@ -5342,7 +5381,7 @@ modalText.innerHTML = `
 
            <p style="margin-left:1em; margin-bottom:10px";> 
 	     You will see that we present the concept underground habitations and underground cities rather than overground cities, 
-	     and thus we expressly reject the high-rise and skyscraper culture of now, and we reject the now fashionable idea of 3D Printed over-ground buildings.
+	     thus we expressly reject the high-rise and skyscraper culture of now, and we reject the now fashionable idea of 3D Printed over-ground buildings.
 	   </p>
 
            <p style="margin-left:1em; margin-bottom:10px";>
@@ -6009,9 +6048,9 @@ modalText.innerHTML = `
 	     </p>	     
 
 	     <p>
-	       ...or three devotees hurrying arrogantly to the prayer house on a single rashly-driven two-wheeler personal vehicle, where they want to be at 
-	       the socially-imposed prayer time in the prayer house with the prayer done in a large gathering... regardless that their rashly driven personal vehicle 
-	       may injure or kill some human on the road by getting hit by rashly driven two-wheeler filled with the devotees.
+	       ...or three devotees hurrying arrogantly and non-aware of the scenes around them, hurrying to the prayer house on a single rashly-driven two-wheeler
+	       personal vehicle, because they want to be at the socially-imposed prayer time in the prayer house with the prayer done in a large gathering... 
+	       regardless that their rashly driven personal vehicle may injure or kill some human on the road.
 	     </p>
 
 	     <p>
@@ -6096,8 +6135,15 @@ modalText.innerHTML = `
 	       Such misogynist societies are automatically feudal where in the extreme versions of such societies, the children are expected to fall at the feet of 
 	       their cruel, oppressive family elders every morning and these family elders may one hour later just decide to murder their child, 
 	       and perhaps that culture expects the being-murdered child to shout adoration for these zombie family elders one last time before 
-	       the elders finally kill him. LOL. And the control of money in the family will be with the family elders. Reasons again to call for abolishing of 
-	       the family system and abolishing of money system.
+	       the elders finally kill him. LOL.
+	     </p>
+
+	     <p>
+               And the control of money in such families will be with the family elders.
+	     </p>
+
+	     <p>
+	       Reasons again to call for abolishing of the family system and abolishing of money system.
 	     </p>
 
 	     <p>
@@ -6207,14 +6253,14 @@ modalText.innerHTML = `
 	     </p>
 
 	     <p>
-               When thousands of people in India were suffering from Corona virus and thus required oxygen cylinders, oxygen producing machines, 
+               When thousands of people in India were suffering from Corona virus, thus required oxygen cylinders, oxygen producing machines, 
 	       medicines like Remdesivir and other life-critical items, there were some casually cruel and apathetic people in India who saw opportunity to profit 
 	       from this great tragedy. These profiteers hoarded all those life-critical items, created artificial scarcity and sold them at very high prices 
 	       to those who needed the items desperately to live.
 	     </p>
 
 	     <p>
-	       Many people had to mortgage their only houses or sell their cows to get the money to pay the exhorbitant prices demanded by these profiteers 
+	       Many people had to mortgage their only houses or sell their cows or sheep to get the money to pay the exhorbitant prices demanded by these profiteers 
 	       to supply those life-critical items. Those who couldn't afford, died... needlessly.
 	     </p>
 
@@ -6321,10 +6367,10 @@ modalText.innerHTML = `
 	     </p>
 
 	     <p>
-	       And speaking of money, it doesn't matter if a citizen can pay by phone using a hi-tech app because his or her city has many
-	       "fintech" startups who have created some celebrated payment apps. A citizen will be able to pay only if they have money in their bank account 
-	       connected to that hi-tech phone app. If there is zero rupees in their bank account, will the billionaire owner of that phone 
-	       payment app donate a million to that citizen even if that citizen has been a loyal user of that phone payment app for one year ???
+	       And speaking of money, it doesn't matter if a citizen can pay by phone using a hi-tech app created by a celebrated "fintech" startup. 
+	       A citizen will be able to pay only if they have money in their bank account connected to that hi-tech fintech phone app. If there is zero rupees in 
+	       their bank account, will the billionaire owner of that phone payment app donate a million dollars to that citizen even if that citizen has been a loyal user of
+	       that phone payment app for one year ???
 	     </p>
 
 	     <p>
@@ -6454,7 +6500,7 @@ modalText.innerHTML = `
 	     </p>
 
 	     <p>
-	       Translation start.
+	       Translation start :
 	     </p>
 
 	     <p style="margin-left:1em; margin-bottom:10px";>
@@ -7106,10 +7152,10 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             And his signing of this document gives this typical corporate company advantages to extract exploitative labor for years from this new employee 
-	     and will tell him not to protest the injustice because he is given an AC office with the hanging sword that says that there are a thousand other candidates
-	     in that same city for this employee's job and if he protests he can be easily replaced in two days and additionally he will be put 
-	     on a "black-list" in the corporate world for being a "trouble maker".
+             The signing of this document gives this typical corporate company advantages to extract exploitative labor for years from this new employee. 
+	     And the company will tell him not to protest the injustice because he is given an AC office with the hanging sword that says that there are 
+	     a thousand other candidates in that same city for this employee's job and if he protests he can be easily replaced in two days and
+	     additionally he will be put on a "black list" in the corporate world for being a "trouble maker".
            </p>
 
            <p>
@@ -7119,7 +7165,7 @@ modalText.innerHTML = `
            </p>
 
            <p>
-	     Also continue to function in their own AC offices are this company's HR department and of course the CSR department - Corporate Social 
+	     Also continuing to function in their own AC offices are this company's HR department and of course the CSR department - Corporate Social 
 	     Responsibility department - which didn't show a single sadness for their own just suicided employee but instead is sending out some 
 	     power-suited, professional-talking female CSR department manager to receive an award for "Corporate manager of the year for sustainable 
 	     contribution to the UN Millennium Development Goals".
@@ -7141,9 +7187,9 @@ modalText.innerHTML = `
            </p>
 
            <p>
-             Our company has none of this exploitative labor and pompous corporate fakery and thus we will never have CSR department and HR department and 
-	     our attitude towards our workers, the society and humanity in general derives from thoughtfulness, reception to good ideas, gentleness, honesty,
-	     discussion, humanism, justice, liberty, equality, fraternity and real, natural behavior.
+             Our company, Kosmos Society, has none of this exploitative labor and pompous corporate fakery. Our company is inherent with true democracy, 
+	     thus we will never have CSR department and HR department and our attitude towards our workers, the society and humanity in general derives from 
+	     thoughtfulness, reception to good ideas, gentleness, honesty, discussion, humanism, justice, liberty, equality, fraternity and real, natural behavior.
            </p>
 
            <p>
@@ -7372,7 +7418,8 @@ modalText.innerHTML = `
 
            <p>
    	     <span> (u). </span> 
-	     Jamal Abdul Nasser of Bangalore for the idea about having a social fund within our company.
+	     Jamal Abdul Nasser of Bangalore for the idea about having a social fund within our company. This idea we have elaborated in the topic 
+	     "Our social fund" above in this chapter.
            </p>
 
            <p>
@@ -7387,7 +7434,7 @@ modalText.innerHTML = `
 
            <p>
    	     <span> (w). </span> 
-             Rayees Kunnool for the idea about scent-based computer data communication.
+             Rayees Kunnool for the idea about smell-based computer data communication.
            </p>
 
            <p>
@@ -7397,6 +7444,11 @@ modalText.innerHTML = `
 
            <p>
    	     <span> (y). </span> 
+             The cover art on our homepage was converted to sepia color tone using the website [ sepia.imageonline.co ].
+           </p>
+
+           <p>
+   	     <span> (z). </span> 
              In general we thank all the good thinkers of the past and present whose thoughts and works we use in our projects.
            </p>
          
@@ -7481,3 +7533,5 @@ if (event.target === modal) {
 modal.style.display = 'none';
 }
 }
+
+
